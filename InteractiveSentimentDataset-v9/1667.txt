@@ -1,8 +1,0 @@
-A : I sent my resume to people that I met at the networking event. 0
-B : Have you heard from any of them? 0
-A : I only heard from one person and he said they weren't hiring at this time. -1
-B : What did they say to you at the event? 0
-A : They all promised to review my resume and help me find a job. 0
-B : I don't know why they make promises they can't keep. -1
-
-0 -1

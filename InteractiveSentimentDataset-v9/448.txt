@@ -1,8 +1,0 @@
-A : How is the negotiation going? 0
-B : Not well. Bill is a tough negotiator. -1
-A : What's the problem? 0
-B : He doesn't want to compromise on anything. -1
-A : What are you going to do if you can't reach a deal? 0
-B : I'm going to walk away. He's not the only tough person in the room. 0
-
-0 -1

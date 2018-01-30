@@ -1,8 +1,0 @@
-A : Can you cover for me? 0
-B : Sure. Where are you going? 1
-A : I need to take a long lunch. 0
-B : Why? 0
-A : I'm going on a job interview. 0
-B : OK. 1
-
-0 1

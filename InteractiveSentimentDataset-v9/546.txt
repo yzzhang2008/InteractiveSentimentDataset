@@ -1,8 +1,0 @@
-A : What are you going to do on your business trip? 0
-B : I'm not sure. -1
-A : What's the schedule? 0
-B : I don't know. Our clients haven't sent me anything yet. -1
-A : You're having a good attitude about it. 1
-B : I know. I'm trying to be flexible. 0
-
-1 0

@@ -1,8 +1,0 @@
-A : Ha, Jessica, you're late. -1
-B : Yeah. Each time we switch to daylight savings time, I always forget to put the clock forward an hour. -1
-A : Well, then later this year when we switch back to normal time, don't forget to set the clock back one hour. 0
-B : I just can't win! Each time we switch back to normal time, I always forget to put the clock back an hour, so I always come to work an hour early. -1
-A : So, just remember. Spring forward, fall back. 0
-B : So, that'll make it even. 0
-
-0 -1

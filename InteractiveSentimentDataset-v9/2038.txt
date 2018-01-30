@@ -1,9 +1,0 @@
-A : Excuse me. Is this seat taken? 0
-B : (Put off the headphones.) I'm sorry. What did you just say? 0
-A : Oh. Will someone be using this seat? 0
-B : No. You can take it. 0
-A : Would you mind moving over one seat so my wife and I can sit together? 0
-B : No, not at all. 1
-A : You are nice. 1
-
-1 1

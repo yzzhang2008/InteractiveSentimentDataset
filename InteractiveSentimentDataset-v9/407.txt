@@ -1,8 +1,0 @@
-A : Todd is such a brown-noser! -1
-B : What happened? 0
-A : He follows Greg everywhere. -1
-B : He always does that. 0
-A : It's so annoying. He says bad things about Greg all the time. -1
-B : I know. But when he sees him, he acts like Greg is the greatest guy in the whole world. -1
-
--1 -1

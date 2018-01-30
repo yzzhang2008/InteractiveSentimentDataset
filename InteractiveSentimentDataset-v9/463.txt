@@ -1,8 +1,0 @@
-A : May I help you? 0
-B : I need to buy my wife an anniversary gift. 0
-A : When is your anniversary? 0
-B : It was yesterday! 0
-A : Oh dear. How about these diamond earrings? 0
-B : Perfect. I will take them. 1
-
-0 1

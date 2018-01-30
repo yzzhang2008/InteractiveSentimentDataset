@@ -1,8 +1,0 @@
-A : Did you see May today? 0
-B : Yes. But why does she have such a long face? -1
-A : I don't have the foggiest idea. -1
-B : I thought she'd be happy. 0
-A : Yeah, especially since she got a promotion recently. 0
-B : Maybe it's some kind of personal problem. 0
-
-0 0

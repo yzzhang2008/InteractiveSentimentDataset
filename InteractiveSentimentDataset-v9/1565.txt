@@ -1,8 +1,0 @@
-A : I'm meeting with an architect today. 0
-B : Why? Are you remodeling your house? 0
-A : No. We are going to remodel the office. 0
-B : That's a good idea. The layout is not very good. 1
-A : I know. Some areas are too small and some are just a waste of space. -1
-B : I agree. Can I get a bigger office? 1
-
--1 1

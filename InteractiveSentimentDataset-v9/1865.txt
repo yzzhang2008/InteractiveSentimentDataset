@@ -1,9 +1,0 @@
-A : Hi, Andy, I heard you just bought a car. 0
-B : Yeah. Unfortunately, it turned out to be a piece of junk. -1
-A : What do you mean? 0
-B : I bought the car for five thousand dollars, but it just doesn't run. -1
-A : Then why did you buy it? 0
-B : It worked perfectly when I bought it. 1
-A : Hm, I think you were ripped off. -1
-
--1 -1

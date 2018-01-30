@@ -1,8 +1,0 @@
-A : Sir, did I do anything wrong? 0
-B : Yes, sir. You ran through the stop sign. May I see your driver license, please? 0
-A : Oh, I'm sorry, I didn't see the stop sign at the corner. I didn't mean it. -1
-B : That doesn't justify your violation. May I see your license, please? -1
-A : Oh, sorry sir, I don't have it on me. Honestly, I forgot it back at the house. But I have the insurance policy with me. Here it is. -1
-B : Please wait here, sir. I'll come back in a moment. 0
-
--1 -1

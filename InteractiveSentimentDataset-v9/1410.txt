@@ -1,8 +1,0 @@
-A : What's going on? You don't look so hot! -1
-B : I have a stomachache. I think I got some bad food at lunch today. -1
-A :  Really? But we ate at the same place. How come my stomach is fine? 0
-B : You have an iron stomach! My stomach, on the other hand, isn't as strong! -1
-A : So what should we do now? 0
-B : I've got to find a restroom - and quick! I think I've got the royal runs. -1
-
-0 -1

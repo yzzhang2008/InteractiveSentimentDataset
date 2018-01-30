@@ -1,8 +1,0 @@
-A : What should I do when I find a job? 0
-B : There are a few considerations. Is this a part-time or full-time job? 0
-A : Does it make a difference? 0
-B : Basically, you really don't need to do much of anything. On the Continued Claim Form, you will note that you now have a new job and also note what you are earning. 0
-A : If I get work for a few weeks, will I be terminated from EDD? 0
-B : You will not miss up your job benefits by taking work. You can always come back and notify EDD that you are once again in need of assistance. 0
-
-0 0

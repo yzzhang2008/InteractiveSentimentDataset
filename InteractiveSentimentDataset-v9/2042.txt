@@ -1,8 +1,0 @@
-A : Good evening, sir. May I help you? 1
-B : Yes. What kind of rooms do you have? 0
-A : How large is your party? 0
-B : Three. Two adults and one child. 0
-A : Let's see. We have a room with two double beds. How many nights? 0
-B : Just one. We're only staying overnight. 0
-
-0 0

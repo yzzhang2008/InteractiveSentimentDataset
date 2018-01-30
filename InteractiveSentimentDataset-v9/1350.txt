@@ -1,8 +1,0 @@
-A : I don't know what to get Mike for our anniversary. 0
-B : What did you get him last year? 0
-A : A bike. 0
-B : What does he want this year? 0
-A : A car. 0
-B : Wow! He has expensive taste. 0
-
-0 0

@@ -1,7 +1,0 @@
-A : Did you call Ben last night? 0
-B : Yes. I tried to get a hold of him last night, but it was so difficult to get through. -1
-A : That's strange. Maybe he was on the Net. -1
-B : That's probably it! No wonder the line was busy all the time! Maybe he ought to get another line.  -1
-A : Or he should get call-waiting. 0
-
--1 -1

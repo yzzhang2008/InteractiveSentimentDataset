@@ -1,8 +1,0 @@
-A : Can you do me a favor? 0
-B : Sure. What is it? 1
-A : Can you keep an eye on my bag, please? Nature's calling. 1
-B : Sure. Will you be long? 1
-A : No. I just want to use the bathroom. 0
-B : Go ahead. It'll be safe with me. 1
-
-1 1

@@ -1,8 +1,0 @@
-A : Am I right in thinking that this dress is on sale? 0
-B : I'm sorry. You're one day too late for the sale. -1
-A : Couldn't you still sell it today at the sale price? -1
-B : I'm sorry. One day can make a big difference sometimes. -1
-A : No problem. Other stores are having sales. I'll check them out. 0
-B : Before you go, let me show you some other dresses that are on sale. 1
-
--1 1

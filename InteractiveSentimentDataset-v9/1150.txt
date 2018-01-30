@@ -1,8 +1,0 @@
-A : I have an appointment for an interview today. 0
-B : Great, have a seat. Would you like some tea or coffee? 1
-A : I'd love some. 1
-B : The coffee area is right over there. Please help yourself. 1
-A : Thank you. What a beautiful view from this office! 1
-B : Yes. Oh, here comes Mr. Gotcha now. I'll show you to his office. 0
-
-1 1

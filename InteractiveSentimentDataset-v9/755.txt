@@ -1,9 +1,0 @@
-A : Let's have some lunch; do you know of a great restaurant somewhere? 0
-B : I'm hungry, too. What types of food sound good? 0
-A : Maybe just a quick sandwich, salad, or something. 0
-B : I have a great idea of where you might like to go. 1
-A : Can we walk there? 0
-B : It's on the second floor. May I join you? 0
-A : Of course! Let's go. 1
-
-1 1

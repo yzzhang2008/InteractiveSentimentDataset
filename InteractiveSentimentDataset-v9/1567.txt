@@ -1,8 +1,0 @@
-A : Is anyone picking you up at the airport? 0
-B : No. I'm going to rent a car. 0
-A : The boss approved your rental car? 0
-B : Yes. Why? 0
-A : He didn't approve a rental car during my business trip. 0
-B : I found a great deal for a rental car. 1
-
-0 1

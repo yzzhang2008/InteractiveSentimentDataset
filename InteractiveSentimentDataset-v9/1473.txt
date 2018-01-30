@@ -1,8 +1,0 @@
-A : Veronica, when is your baby due? 0
-B : Next month. 0
-A : Are you going on maternity leave? 0
-B : Of course! 1
-A : How long will you be gone? 0
-B : Three months. 0
-
-0 0

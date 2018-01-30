@@ -1,8 +1,0 @@
-A : We have great company perks. 1
-B : What are company perks? 0
-A : They are extra things the company gives you besides your salary and basic benefits. 1
-B : What are your favorite perks? 0
-A : I like the paid vacation time and pension plan. 1
-B : We have a pension plan? That is rare these days. 0
-
-1 0

@@ -1,8 +1,0 @@
-A : Did you forget to check the gas? 0
-B : Oh, I'm low on gas. I've got to refill the tank. 0
-A : Well, there's a gas station across the street and it's not too expensive. About $1.19 per gallon for the mid-grade. 0
-B : Let's try that. (Larry parks the car by the gas pump.) Oh, that's great! The pump is out of order. -1
-A : Looks like we've been followed by bad luck all day long. -1
-B : Oh, come on. Let's try another pump. No big deal! -1
-
--1 -1

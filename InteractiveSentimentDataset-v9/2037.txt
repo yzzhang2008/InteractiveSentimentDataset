@@ -1,7 +1,0 @@
-A : Excuse me, can you do me a favor? 0
-B : Sure. What can I do for you? 1
-A : Can you save my place for me, please? Nature's calling. 0
-B : Sure. But hurry. The line is moving fast. 1
-A : Thanks. It won't be long. I'll be right back. 1
-
-1 1

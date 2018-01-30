@@ -1,8 +1,0 @@
-A : You didn't show up for dinner last night. Robert was a little upset. -1
-B : I know. I'm awfully sorry. -1
-A : Why didn't you let him know you weren't coming? 0
-B : I couldn't help it. My girlfriend had an accident and was taken to the hospital. -1
-A : Oh, that's terrible. Is she OK? -1
-B : She wasn't hurt badly, but she was shaken up. -1
-
--1 -1

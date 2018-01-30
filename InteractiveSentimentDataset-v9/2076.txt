@@ -1,8 +1,0 @@
-A : Hey Carl, do you want to join us for lunch? 0
-B : No thanks. I have too much work to do. -1
-A : Are you sure? Tuesday lunch specials are the best. 1
-B : No. I really can't go this time. -1
-A : Ok. Maybe next Tuesday. 1
-B : Sure. Can you close my door please? 0
-
-1 -1

@@ -1,8 +1,0 @@
-A : Ashley wants a cell phone. 0
-B : She doesn't need a phone yet. She's too young. -1
-A : She says all of her friends have one even a nine-year old named Sally. 0
-B : What do you think? 0
-A : I think it would be a good idea in case of an emergency. 1
-B : She's only 10. If she has an emergency, she would be with one of us. -1
-
-1 -1

@@ -1,9 +1,0 @@
-A : Would you like to have some ice-cream? I've got a variety of flavors for you to choose from. I've got strawberry, peach, chocolate, chocolate chip, chocolate brownie, coffee, vanilla, rocky road, butter pecan, and praline. 0
-B : Wow! What choices you have! I wish I could, but I just can't. I'm on a diet to lose weight. -1
-A : Come on, it's just a bite. It doesn't really hurt to have just a bite. 1
-B : I'd better not. Please don't tempt me. Please! -1
-A : Gee! You are really strong-willed. 1
-B : You're darn right. I'm not so easily coaxed into doing something that I think is wrong. 1
-A : Well, I'd better not tempt you. Otherwise, if I give you a piece of cake, you might ask for a glass of milk. 0
-
-1 0

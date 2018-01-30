@@ -1,8 +1,0 @@
-A : I think it's time to buy a new car. 0
-B : Let's get a sports car. 0
-A : I want another SUV. 0
-B : Why? All of the kids are out of the house now. We don't need a big car anymore. -1
-A : I feel safer in a SUV. 1
-B : But I've always wanted a sports car. 0
-
-1 -1

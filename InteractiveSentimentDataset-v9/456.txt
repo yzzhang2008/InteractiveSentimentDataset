@@ -1,8 +1,0 @@
-A : Did you see that? 0
-B : Yes. It was an amazing magic trick. 1
-A : It looked so real. 1
-B : It did, but it was just magic. 1
-A : Are you sure? 0
-B : Yes. 1
-
-1 1

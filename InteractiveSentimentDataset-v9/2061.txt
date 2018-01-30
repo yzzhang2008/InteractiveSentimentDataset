@@ -1,8 +1,0 @@
-A : Good morning, Dr. Smith office. How can I help you? 0
-B : My son has an extremely high fever, so I want to see Dr. Smith right away. Do you have time available for him today? -1
-A : Let me see….unfortunately the doctor's schedule is full today. It might be best if you take him to the walk-in clinic nearby. -1
-B : I’m new around here, so can you tell me where the nearest one is? 0
-A : There is an Apple Medical Clinic on Bank Street. The address is 555 Bank St. 0
-B : Thank you for your help. 1
-
-0 0

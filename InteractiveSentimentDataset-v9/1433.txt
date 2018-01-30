@@ -1,8 +1,0 @@
-A : There was an increase in the interest rates. 0
-B : What does that mean for the bank? 0
-A : People are not going to apply for loans right now. -1
-B : That's not good for us. We need customers. -1
-A : People will wait to see if the rates go down. 0
-B : I guess we will all have to wait too. 0
-
--1 -1

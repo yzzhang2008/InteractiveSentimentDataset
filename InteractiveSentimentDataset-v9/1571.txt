@@ -1,8 +1,0 @@
-A : I'm sorry but can we reschedule our meeting? -1
-B : Sure. Is something wrong? 0
-A : My husband is having surgery that day. -1
-B : I'm sorry to hear that. -1
-A : It's not serious, but I need to stay home with him. -1
-B : I understand. Let's reschedule when your husband is fully recovered. 0
-
--1 -1

@@ -1,8 +1,0 @@
-A : Do you follow the news? 0
-B : Not really. It's boring. -1
-A : How can you say it's boring? 0
-B : It's always the same stuff: violence and politics. -1
-A : I have to watch, read, or listen to the news every day. 0
-B : Then you can tell me what's going on since I don't watch, read or listen to the news. -1
-
-0 -1

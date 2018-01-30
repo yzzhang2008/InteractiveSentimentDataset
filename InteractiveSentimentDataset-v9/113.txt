@@ -1,8 +1,0 @@
-A : I want to apply for your store credit card. 1
-B : It only takes a few minutes. Just fill out this form, please. 1
-A : I'm done. Here's the form. 1
-B : Thank you. Now if you'll just show me a credit card. 1
-A : Here's my Discover card. 0
-B : Perfect. Thank you. 1
-
-1 1

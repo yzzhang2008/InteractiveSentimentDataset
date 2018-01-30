@@ -1,9 +1,0 @@
-A : I was on the phone for an hour. 0
-B : Who were you talking to for an hour? 0
-A : Sam, an old friend from college. 0
-B : When is the last time you talked to him? 0
-A : At college graduation! 0
-B : Wow! That was 30 years ago! 0
-A : We had a lot of catching up to do. 0
-
-0 0

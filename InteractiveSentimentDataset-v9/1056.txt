@@ -1,8 +1,0 @@
-A : I need to lose weight. 0
-B : I've been on a no-sugar diet. 0
-A : How is that going? 0
-B : I miss eating sweet desserts. 0
-A : Oh, no, I love sweets too much ! -1
-B : Maybe you should try a no-fat diet. 0
-
--1 0

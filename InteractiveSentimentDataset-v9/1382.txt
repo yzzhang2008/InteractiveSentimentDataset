@@ -1,8 +1,0 @@
-A : Did you hear about Molly and Dan? 0
-B : No, what's going on? 0
-A : They're getting a divorce. -1
-B : Really? They've been married for 30 years. 0
-A : Dan cheated on Molly. -1
-B : That is awful! -1
-
--1 -1

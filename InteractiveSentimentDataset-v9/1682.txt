@@ -1,7 +1,0 @@
-A : May I help you? 0
-B : Yes. Do you have these shoes in size seven? 0
-A : I'm not sure. If you can't find them on the rack, they may be out of stock. But let me look in the stockroom. -1
-B : Thanks. I'd like to try on a pair if you have them. 1
-A : I'll be right back. 1
-
-1 1

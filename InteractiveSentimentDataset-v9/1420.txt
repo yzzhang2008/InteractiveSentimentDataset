@@ -1,7 +1,0 @@
-A : B, your eyes look swollen. What happened? -1
-B : I broke up with Paul last night and I was all over the bed the whole night. -1
-A : Well, it's understandable, but Paul isn't the kind of guy that deserves your heartache. -1
-B : Well, I was restless because I was thinking how I was so stupid that I almost trusted the rest of my life to him.... -1
-A : Oh, B.... -1
-
--1 -1

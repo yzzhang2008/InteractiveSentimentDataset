@@ -1,7 +1,0 @@
-A : Good Morning, Carmel Creek elementary school, Kathy speaking. 0
-B : Good Morning, my name is Akiko Tanabe. My son, Yuji is a student at Carmel Creek. He is sick today and won't be coming to school. -1
-A : Who is his teacher? 0
-B : Mrs. Morris. 0
-A : O.K. I’ll let her know. 0
-
-0 0

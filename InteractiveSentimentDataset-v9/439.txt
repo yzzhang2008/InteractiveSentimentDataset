@@ -1,8 +1,0 @@
-A : May I speak with the store manager, please? 0
-B : I am the store manager. How can I help you? 0
-A : One of your sales clerks was very rude to me. -1
-B : I am very sorry to hear that. Could you please tell me which clerk? -1
-A : His name is Bob. He works in the mornings. 0
-B : I will talk to Bob as soon as possible. 0
-
--1 -1

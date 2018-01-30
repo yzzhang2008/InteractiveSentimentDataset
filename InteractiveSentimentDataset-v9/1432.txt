@@ -1,8 +1,0 @@
-A : Jim, why did you leave dog poop on my lawn? 0
-B : I did not leave dog poop on your lawn. 0
-A : I have proof you did it. 0
-B : What kind of proof? 0
-A : I secretly video recorded my yard. 0
-B : Oh my goodness. I am very sorry. -1
-
-0 -1

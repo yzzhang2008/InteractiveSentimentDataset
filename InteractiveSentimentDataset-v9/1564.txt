@@ -1,8 +1,0 @@
-A : I wish I had studied English more as a kid. -1
-B : What's wrong with your English now? 0
-A : My vocabulary isn't very good. -1
-B : But you know most of the words. 1
-A : I have to look a lot of words up in the dictionary when I read books. 0
-B : Maybe you're reading very difficult books. 0
-
--1 0

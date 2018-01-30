@@ -1,8 +1,0 @@
-A : Good morning. I have an interview scheduled this morning. 0
-B : The interviewer will be with you in a moment. Would you care for some water? 0
-A : Yes, that would be great. 1
-B : Just help yourself to whatever you would like from the table in the waiting area. 0
-A : Thank you. This is a very lovely office building! 1
-B : Yes. Why don't you come straight through the door and we'll walk down to Mr. Gotha's office together. 0
-
-1 0

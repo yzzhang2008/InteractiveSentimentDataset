@@ -1,8 +1,0 @@
-A : Hello, Mrs. McDonald. 0
-B : Hello, Mr. Tanabe 0
-A : Yuji mentioned to me that you have a Pizza and Hamburger lunch day every other week. He would like to participate, is there a form I need to complete. I assume there is a fee as well? 0
-B : I'm very sorry, Mr. Tanable. Unfortunately the lunch is organized by volunteer parents at the start of each semester. It's probably too late to add another child this time, but in January he will receive an order form for Pizza and Hamburger day for the winter semester. However, I will ask the lead volunteer if he can be added sooner. -1
-A : O.K. I understand. Thank you. 1
-B : You are very welcome, Mr. Tanabe. 1
-
-1 1

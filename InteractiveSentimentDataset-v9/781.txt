@@ -1,6 +1,0 @@
-A : B, there's a Mr. Miller on the phone who wants to talk to you. 0
-B : I'm busy at the moment. Can you ask him to hold? Tell him I'll talk with him in a few seconds. 0
-A : He's on Line 2. 0
-B : Thanks, A! 1
-
-0 1

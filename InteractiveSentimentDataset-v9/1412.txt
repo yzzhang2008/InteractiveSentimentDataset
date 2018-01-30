@@ -1,9 +1,0 @@
-A : I'm really concerned about Jason. His snoring is getting worse and worse. -1
-B : Maybe he needs to go see a doctor. I heard that sometimes a bad snore can cause heart failure because not enough oxygen gets to the brain. -1
-A : That's what I'm worried about. Sometimes it even seems like he stops breathing and I have to give him a push to make him start again. -1
-B : I remember one of my friends' father had the same problem. The doctor said it was sleep apnea. Her dad had to get a pacemaker put in so that his heart wouldn't stop in the middle of the night. -1
-A : You're kidding me! That serious? -1
-B : Yes, that serious! -1
-A : That's it! I'm making an appointment for Jason to see the doctor this afternoon. We can't let this go any longer. -1
-
--1 -1

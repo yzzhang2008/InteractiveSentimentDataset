@@ -1,6 +1,0 @@
-A : Hi Mary, this is John. 0
-B : Hi John, this is Mary. 0
-A : Hi Mary, how are you today? 1
-B : I'm fine, thanks. Goodbye. 1
-
-1 1

@@ -1,8 +1,0 @@
-A : I have a hunch Linda is seeing someone else. 0
-B : Do you have proof? 0
-A : No, it's just a hunch. -1
-B : Why do you think she's dating someone else? 0
-A : She never returns my calls anymore and she's always busy. -1
-B : Get proof. 0
-
--1 0

@@ -1,8 +1,0 @@
-A : Are you going to the cocktail party tonight? 0
-B : Yes. I invited one of our clients. 0
-A : Who? 0
-B : Andrew. 0
-A : Our new client? The good-looking one? 0
-B : Is he good-looking? 0
-
-0 0

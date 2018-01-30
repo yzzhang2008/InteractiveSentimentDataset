@@ -1,8 +1,0 @@
-A : Today is my mom's birthday. 0
-B : What are you going to get her? 0
-A : Flowers and a card. 0
-B : What about that new handbag she wants? 0
-A : It's too expensive. -1
-B : I can loan you some money. 0
-
--1 0

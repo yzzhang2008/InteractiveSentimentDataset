@@ -1,8 +1,0 @@
-A : Have you seen Tom? 0
-B : No. Did you check his office? 0
-A : Yes. He's not there. -1
-B : Try the employee lounge. He's probably sleeping somewhere. 0
-A : You're right. He never does any work. -1
-B : I know. He's such a slacker. -1
-
--1 -1

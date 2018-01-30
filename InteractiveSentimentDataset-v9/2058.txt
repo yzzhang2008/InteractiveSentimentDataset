@@ -1,6 +1,0 @@
-A : Good morning, Carmel Creek elementary school. 1
-B : Good morning, my name is Shigeru Tanabe. I’m Yuji’s father. He has a dentist appointment this morning. He will be late for school. Can you let Mrs. Morris know? -1
-A : O.K. No problem, Mr. Tanabe. 1
-B : Thank you. Bye. 1
-
-1 1

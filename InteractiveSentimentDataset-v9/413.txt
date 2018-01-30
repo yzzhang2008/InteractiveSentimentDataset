@@ -1,9 +1,0 @@
-A : Your business trips have earned you enough frequent flier miles for a free airline ticket. 1
-B : Really? That's great! 1
-A : Our company lets their employees use the free airline ticket for personal use. 0
-B : Wow! I didn't know that. -1
-A : You should probably use it during your next vacation. 0
-B : I think I will ask my wife where she wants to go. 0
-A : Good idea! 1
-
-1 1
