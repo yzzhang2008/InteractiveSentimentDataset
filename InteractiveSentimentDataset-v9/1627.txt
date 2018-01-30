@@ -1,0 +1,14 @@
+A : Your office called and left a message that several offers had come in on our home. 0
+B : Yes, we received three offers in one day for your home! 0
+A : Were the offers for a good price? 0
+B : One offer was for the full asking price, one slightly below, and one above. 0
+A : Well, I am going to accept the highest bid, of course! 1
+B : Actually there are a few things to consider other than who is offering the most money. 0
+A : What other factors do I need to consider? 0
+B : We need to consider the likelihood of the buyers actually being able to purchase the house. 0
+A : How do we check on the buyer's ability to purchase our home? 0
+B : We will check to see if these buyers are pre-qualified for the loan amount that they need. This information will help you make a good decision. 0
+A : When we get all of that information, then I will make my decision. 0
+B : When you make that decision, I will present it to the buyers. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : I think I may rent this apartment from you. 0
+B : That's great to hear. 1
+A : How much are you looking to rent it for? 0
+B : For each month you would have to pay $1050. 0
+A : That is too expensive. -1
+B : I don't think that is too much for rent. -1
+A : How does $850 a month sound to you? 0
+B : That's not enough. -1
+A : That's the best that I can do. 1
+B : $850 a month is not enough money. -1
+A : Would you please reconsider? -1
+B : That's my final offer. Take it or leave it. -1
+
+-1 -1

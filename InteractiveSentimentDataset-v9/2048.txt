@@ -1,0 +1,14 @@
+A : How may I help you? 0
+B : I want to buy two mackerel, please. 1
+A : Which ones would you prefer? 0
+B : The one on the left hand side, 2nd row and the other one in the middle, at the back, please. 0
+A : You mean this and that? 0
+B : Oh, not that one but the next one. 0
+A : O.K. This is it? 0
+B : Yes. Thank you. Can you remove the head and tail? 1
+A : Yes, would you like me to cut them into pieces as well? 0
+B : Can you cut the smaller one into half and the other one into 3 pieces, please? 0
+A : Yes, no problem…….Here you are. 1
+B : Thank you. Bye. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : I'm calling today about a bill that I never received. -1
+B : Can you tell me which credit card it was for? 0
+A : It was for my Master Card. 0
+B : You should've gotten that bill two weeks ago. -1
+A : I haven't got it in the mail yet. -1
+B : The computer is showing that all bills have been mailed. 0
+A : What am I supposed to do about my bill then? -1
+B : Maybe you should call your post office. 0
+A : But if it's their mistake, can I get an extension on my bill payment? -1
+B : Yes, but you will need to send us proof of their mistake. 0
+A : Thank you very much for your help. 1
+B : No problem. Enjoy the rest of your day. 1
+
+1 1

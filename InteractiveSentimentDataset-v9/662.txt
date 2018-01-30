@@ -1,0 +1,12 @@
+A : From the looks of this house from the outside, I don't really think that I want to go inside. -1
+B : From here, it does look like it could use a little work. Let's see what the interior looks like. 0
+A : I am not impressed by the interior of this house. -1
+B : Sometimes all a place needs is a little bit of cleaning and some fresh paint. 0
+A : With so few windows, how can you even see what the problems are? -1
+B : I think that we should check out the kitchen. It is listed as roomy and spacious. 1
+A : Where are you supposed to store things without any cabinet space? 0
+B : The picture in the listing shows a lovely master suite. I think that we should go look at it since we are here. 1
+A : Is there a dead animal somewhere in here? -1
+B : Well, I think that it is pretty safe to say that this is not the house for you. -1
+
+-1 0

@@ -1,0 +1,12 @@
+A : Could you help me figure out how to look for a job? 0
+B : We have lots of options, what type of job do you need? 0
+A : I want to work in an office. 0
+B : Do you want to work part-time or full-time? 0
+A : I want to work full-time. 0
+B : We have binders with local job listings or you can make use of the computers. OK? 0
+A : I am confused a bit but I am sure that I can figure it out. 0
+B : If you make an appointment with a job counselor, they can also provide you with a lot of information. Do you want to see a counselor? 0
+A : No. 0
+B : Well, you know that this job center is here for your use, so help yourself. Good luck! 1
+
+0 0

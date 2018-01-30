@@ -1,0 +1,14 @@
+B : What a nice day! 1
+A : I'm glad we decided to walk today. 1
+B : I agree. 1
+A : I can't believe how clear the sky is right now. 1
+B : I know, and look how pretty those roses are. 1
+A : You can tell it's springtime. 1
+B : The flowers are blooming so beautifully this year. 1
+A : I think that guy is selling ice cream. 0
+B : Should we get an ice cream cone? 0
+A : I would love some ice cream right now. 1
+B : I'll pay for it. 1
+A : Thank you. That's so nice. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : I'm looking for pots and pans. 0
+B : That section is right over there. 0
+A : Thank you so much. 1
+B : Perhaps you'd like to sign up for our store credit card. 1
+A : No, but thank you. I have plenty of credit cards. -1
+B : Our credit card saves you 10 percent instantly on all purchases. 1
+A : That does sound nice. 1
+B : Just fill out this form and you'll get your discount immediately. 1
+A : You know, I'll pass on it today. 0
+B : No problem. These forms are also at the front of the store on your way out. 1
+
+0 1

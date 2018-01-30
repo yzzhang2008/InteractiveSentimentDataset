@@ -1,0 +1,8 @@
+A : Was someone using my desk? 0
+B : I think Cathy was using it yesterday. 0
+A : I don't like people messing with my things. -1
+B : Did she leave a mess? -1
+A : My stapler was not in the right place. -1
+B : You must be a neat freak. -1
+
+-1 -1

@@ -1,0 +1,18 @@
+A : Good afternoon, Jim. This is Olivia. 0
+B : Oh, hi, Olivia. How can I help you? 0
+A : I'm going to be moving out. 0
+B : Oh, really? When are you leaving? -1
+A : I'll be leaving on the last day of June. 0
+B : Any particular reason? 0
+A : I got a new job. 0
+B : Congratulations! What is it? 1
+A : I'm going to be an ESL instructor at Pasadena City College. 0
+B : Great! By the way, what's ESL? 1
+A : ESL stands for English as a Second Language. 0
+B : Well, I'm glad it wasn't your neighbors causing you to move. 1
+A : Just because they play their TV loud enough for the whole complex? 0
+B : Yes, I know. I'm going to have another talk with them. 0
+A : Anyway, it's been nice knowing you for these past few years. 1
+B : You, too. Keep in touch, and good luck with your new job. 1
+
+1 1

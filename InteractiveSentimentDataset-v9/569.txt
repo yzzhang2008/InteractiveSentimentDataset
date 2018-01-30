@@ -1,0 +1,14 @@
+A : I'm broke, and I have to catch another bus. -1
+B : Why don't you have any money for another bus? 0
+A : I got hungry and bought some chips. 0
+B : That was smart. 1
+A : Do you have any change I can use for the bus? 0
+B : I don't have any. -1
+A : I don't know how I'm going to get home. -1
+B : Get a transfer from the bus driver. 0
+A : How much is a transfer? 0
+B : It doesn't cost anything. 1
+A : Thanks for your help. 1
+B : Don't mention it. 1
+
+1 1

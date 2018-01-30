@@ -1,0 +1,8 @@
+A : Let's go scuba diving. 0
+B : I'd rather stay at the pool. -1
+A : Why? 0
+B : I'm afraid of sharks. -1
+A : Then why did we come to the beach? 0
+B : To play in the sand. 0
+
+0 -1

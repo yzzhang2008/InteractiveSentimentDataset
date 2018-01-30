@@ -1,0 +1,12 @@
+A : Did you hear the news? 0
+B : What news? 0
+A : The company is changing the dress code. 0
+B : What's the new dress code? 0
+A : Every Friday is going to be casual day. 0
+B : What does that mean? 0
+A : We can come to work in casual clothes like jeans, but no inappropriate clothes. 0
+B : That's great! I hate having to wear a suit every day. 1
+A : This is only on Fridays though. 0
+B : That's good enough for me. 1
+
+0 1

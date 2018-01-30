@@ -1,0 +1,13 @@
+A : What can I do for you today? 0
+B : I am inquiring about my insurance. 0
+A : What do you need to know? 0
+B : I think my insurance was changed. 0
+A : What changes were made? 0
+B : I think there's a problem with my premium. -1
+A : What's wrong with it? 0
+B : It's higher than it was before. -1
+A : I believe that the premiums did go up. 0
+B : It would have been nice if I was notified of this. -1
+A : we'll notify you next time. 0
+
+-1 0

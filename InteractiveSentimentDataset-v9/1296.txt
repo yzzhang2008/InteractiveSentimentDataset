@@ -1,0 +1,14 @@
+A : I have a sweet tooth. 1
+B : What exactly do you want? 0
+A : I would love to get some dessert. 1
+B : What did you want to get? 0
+A : I'd love to get a pie. 1
+B : What kind do you want to get? 0
+A : I'm not sure. 0
+B : I can tell you what kind I like. 0
+A : What kind do you like? 0
+B : Apple pie is my favorite. 1
+A : I love apple pie too. 1
+B : See, I helped you out. 1
+
+1 1

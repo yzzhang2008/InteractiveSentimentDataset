@@ -1,0 +1,14 @@
+A : I like this hotel. 1
+B : What do you like about it? 0
+A : We get a free breakfast. 1
+B : Coffee and a roll? 0
+A : No, a real breakfast. 1
+B : Bacon and eggs? 0
+A : With toast, ham, sausage, fresh fruit, and juice. 1
+B : Wow! That is nice. Let's stay for two nights. 1
+A : And the rooms are clean, too. 1
+B : Do they allow pets? 0
+A : No pets, no smoking. 0
+B : I like that. Let's stay three nights. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : Do you know which bus will take me from PHS to Vons? 0
+B : Which Vons do you want to go to? 0
+A : It's on Fair Oaks and Orange Grove. 0
+B : You actually need to catch two buses. 0
+A : Which ones do I need to take? 0
+B : The first bus you need to get on is the 268. 0
+A : What do I do next? 0
+B : Once you get to Fair Oaks and Washington, get off. 0
+A : Then what should I do? 0
+B : You need to get on the 261. It goes all the way to Vons. 0
+A : Is that it? 0
+B : That's it. 0
+
+0 0

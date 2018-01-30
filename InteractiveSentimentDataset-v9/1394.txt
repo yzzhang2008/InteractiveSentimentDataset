@@ -1,0 +1,14 @@
+A : Hello. 0
+B : Hi Mom. This is Linda. 0
+A : Hi Linda. Why are you calling so early in the morning? Is something wrong? 0
+B : No, not at all. Actually, I have some good news. 1
+A : What is it? 0
+B : I'm having a baby! 1
+A : That's great news! When did you find out? 1
+B : Last night. It was too late to call you. I thought you might be sleeping. 0
+A : You can call me anytime, Linda. How does Dan feel? 1
+B : He's so happy. He went out this morning to buy the baby a gift? 1
+A : Already? That is funny! When is the baby due? 1
+B : In June. I am 3 months pregnant. 0
+
+1 1

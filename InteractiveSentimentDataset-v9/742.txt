@@ -1,0 +1,12 @@
+A : Excuse me, Professor. I am going to miss next week's class. 0
+B : Is this something that you could schedule for another time? 0
+A : No, I have to do this; it's important! -1
+B : Have you arranged for someone to take notes for you? 0
+A : I've made arrangements with a friend to help me. 0
+B : You know that I only allow one absence per semester, don't you? -1
+A : Yes, I know. 0
+B : Write down your name and the date on a piece of paper and give it to me. 0
+A : OK, I can do that. 1
+B : Well, have a good day off from class. 1
+
+1 1

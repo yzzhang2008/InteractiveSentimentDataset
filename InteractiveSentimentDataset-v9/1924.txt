@@ -1,0 +1,14 @@
+A : Where's the car? 0
+B : What do you mean? 0
+A : The car isn't here. 0
+B : Where did you park it? 0
+A : I parked it right here. 0
+B : Are you sure? 0
+A : Yes. I remember this big tree. 0
+B : Maybe it's the wrong tree. 0
+A : No, this is the tree. 0
+B : Did someone steal it? 0
+A : I sure hope not. -1
+B : Maybe they towed it away. 0
+
+-1 0

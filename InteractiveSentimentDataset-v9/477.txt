@@ -1,0 +1,8 @@
+A : Would you like to go out to dinner this Saturday? 0
+B : I already have plans. 0
+A : What about next Saturday? 0
+B : I have plans next Saturday too. 0
+A : You have a busy schedule. -1
+B : Yes, I do. 0
+
+-1 0

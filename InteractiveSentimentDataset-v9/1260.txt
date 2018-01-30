@@ -1,0 +1,8 @@
+A : I think the company is in trouble. -1
+B : What kind of trouble? 0
+A : Financial trouble. -1
+B : What makes you think that? 0
+A : I overheard Lou talking about bankruptcy laws. 0
+B : Oh, no! We can't lose our jobs. I just bought a home. -1
+
+-1 -1

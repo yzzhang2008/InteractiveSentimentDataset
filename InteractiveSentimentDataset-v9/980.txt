@@ -1,0 +1,14 @@
+A : I'm returning your phone call. 0
+B : I'm glad that you could get back to me so fast. 1
+A : No problem, but what were you calling about? 1
+B : I needed to talk to you about your son. 0
+A : Is he messing up in school? 0
+B : He was acting up in class one day last week. 0
+A : What was he doing? 0
+B : He wouldn't stop talking throughout the class. -1
+A : I don't know what's gotten into him. -1
+B : If you could, would you please talk to him? 0
+A : I will get right on that, and I am very sorry. -1
+B : I really appreciate your help. 1
+
+-1 1

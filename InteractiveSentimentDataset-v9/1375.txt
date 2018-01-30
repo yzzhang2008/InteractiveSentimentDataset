@@ -1,0 +1,8 @@
+A : I have a meeting with the boss today. 0
+B : What's the meeting about? 0
+A : I'm going to ask for a raise. 0
+B : We just got raises last month. 0
+A : I'm going to negotiate for a bigger raise. 0
+B : Good luck! 1
+
+0 1

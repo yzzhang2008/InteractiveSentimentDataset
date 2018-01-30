@@ -1,0 +1,14 @@
+A : It was nice talking to you. 1
+B : Why are you trying to rush me off the phone? 0
+A : I really have to go. 0
+B : Why? I still wanted to talk to you. 1
+A : I have things to do. 0
+B : Like what? 0
+A : Don't be nosey. 0
+B : I'm not. I just want to know. 0
+A : Well, it's really none of your business. -1
+B : That's harsh. -1
+A : I'm sorry, but I have to go. -1
+B : Fine. -1
+
+-1 -1

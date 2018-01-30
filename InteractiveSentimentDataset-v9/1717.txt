@@ -1,0 +1,10 @@
+A : What reason do you have for missing school? 0
+B : I was sick. -1
+A : How were you sick? 0
+B : I had a stomachache. -1
+A : Did it get any better? 0
+B : I'm still feeling under the weather. -1
+A : Would you like anything for your stomach? 0
+B : I took something earlier. 0
+
+0 -1

@@ -1,0 +1,14 @@
+A : Gravity is very important. 1
+B : What is gravity? 0
+A : It's the force that pulls everything down. 0
+B : I don't understand. -1
+A : If you pour water into a glass, the water goes down into the glass. 0
+B : Of course it does. 1
+A : Without gravity, the water would go up. 0
+B : You're joking. -1
+A : Without gravity, you would go up. 0
+B : What do you mean? 0
+A : You would float into the sky like a balloon. 0
+B : That would be fun! 1
+
+0 1

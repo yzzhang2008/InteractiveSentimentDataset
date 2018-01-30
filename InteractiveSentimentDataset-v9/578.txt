@@ -1,0 +1,14 @@
+A : I would like to get a bus pass. 0
+B : Do you know what kind of pass you want? 0
+A : Can you tell me my options? 0
+B : There are passes for a day, month, and week, and there are student passes. 0
+A : I would like the student pass. 0
+B : Let me see your student ID. 0
+A : Here you go. 0
+B : Thank you very much. 1
+A : How much will it be for the pass? 0
+B : The monthly sticker is $24, but the actual pass is free. 1
+A : That'll be fine. 1
+B : We appreciate your business. 1
+
+1 1

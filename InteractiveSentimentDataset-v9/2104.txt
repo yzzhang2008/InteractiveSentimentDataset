@@ -1,0 +1,12 @@
+A : Hey there, how are you doing? 0
+B : I am great. How are you? 1
+A : Well, I got laid off, and I'm looking for work. -1
+B : Yeah, me too! What are you thinking you would like to do? 0
+A : Right now, I'll take about anything that will pay the mortgage. 0
+B : Have you gone out on any interviews so far? 0
+A : I went out on one interview, but I haven't heard back from them. -1
+B : Did you see the posting for the electrician apprentice program? 0
+A : You know, I saw that and it looks pretty good! 1
+B : Let's go check it out again! 1
+
+1 1

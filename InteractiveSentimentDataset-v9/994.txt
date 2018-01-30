@@ -1,0 +1,14 @@
+A : Do you know how late it is? 0
+B : My fault. I didn't realize what time it was. -1
+A : I hope you don't think that excuse lets you off the hook. -1
+B : Not really. I'm telling the truth. -1
+A : Haven't I asked you to call if you're going to be home late? -1
+B : This is true, but it must've slipped my mind. -1
+A : Regardless, all you had to do was give a call. -1
+B : I know. I should've called. -1
+A : Come home late one more time, and you'll find your stuff outside. -1
+B : You want to throw me out over this? 0
+A : That's right, maybe then you'll respect my rules. -1
+B : That's fine, because if I leave, then your rules won't matter. -1
+
+-1 -1

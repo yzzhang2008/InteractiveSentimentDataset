@@ -1,0 +1,12 @@
+A : I didn't get any sleep last night. -1
+B : What happened? 0
+A : My neighbor was having a party until 4 AM. 0
+B : 4 AM? That's rude. -1
+A : He was playing loud music. -1
+B : Did you complain? 0
+A : I rang his doorbell, but he never answered the door. -1
+B : What are you going to do? 0
+A : I'm going to call the apartment manager if it happens again. 0
+B : Good idea! 1
+
+-1 0

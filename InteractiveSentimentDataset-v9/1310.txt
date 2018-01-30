@@ -1,0 +1,14 @@
+A : I am absolutely famished. -1
+B : Yeah. I am too. -1
+A : Where did you want to go for lunch? 0
+B : I was thinking we should just go to the cafeteria. 0
+A : I don't think I ever got food from the cafeteria. -1
+B : I actually like the food there. 1
+A : Does the cafeteria sell a lot of different food? 0
+B : They have anything you want. 1
+A : I was thinking about getting some Chinese food. 0
+B : I bought some chow mein at the cafeteria. It tasted great. 1
+A : Ok, I believe you! Let us go! 1
+B : I think you'll really like the food there. 1
+
+1 1

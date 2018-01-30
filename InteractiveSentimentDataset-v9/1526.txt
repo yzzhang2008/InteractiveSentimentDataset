@@ -1,0 +1,12 @@
+A : I need to move. 0
+B : Why? I thought you loved your apartment. 0
+A : My apartment elevator has been out of order for two weeks. 0
+B : That's a long time. You live on the top floor. 0
+A : It's been hard bringing groceries home. 0
+B : When is it going to be fixed? 0
+A : The manager doesn't know. 0
+B : He needs to do something about it. 0
+A : He doesn't care. He lives on the first floor. 0
+B : Tell him to walk up and down the stairs. He may repair it quicker. 0
+
+0 0

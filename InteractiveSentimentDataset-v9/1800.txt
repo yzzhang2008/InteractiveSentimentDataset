@@ -1,0 +1,14 @@
+A : Who is the greatest baseball player? 0
+B : There are so many great players. 1
+A : Yes, but who is the greatest? 0
+B : I would have to say Babe Ruth. 1
+A : Most people would say that. 0
+B : He changed the game. 1
+A : Yes, he made the home run popular. 1
+B : Everybody loved him, all over the nation. 1
+A : He helped make the Yankees the best team ever. 1
+B : And Ruth was a good person, too. 1
+A : He always visited hospitals to cheer up sick kids. 1
+B : There will never be another Babe. 1
+
+1 1

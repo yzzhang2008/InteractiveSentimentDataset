@@ -1,0 +1,12 @@
+A : We need a new sink. This one is leaking again. -1
+B : I'll call a plumber. 0
+A : Can we just buy a new sink? -1
+B : Why? 0
+A : This one is so old. -1
+B : It's in good condition. 1
+A : No, it is not. It is leaking again. -1
+B : We just need to fix the leak. 0
+A : We've fixed it three times already. -1
+B : You're right. We need a new sink. 0
+
+-1 0

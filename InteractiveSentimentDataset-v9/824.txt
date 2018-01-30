@@ -1,0 +1,12 @@
+A : This office layout is confusing. -1
+B : I agree. 1
+A : Our clients have a hard time finding the exit and our offices. -1
+B : I know. Bill got lost the other day looking for the restroom. -1
+A : Should we redesign it? 0
+B : That would be a good idea. 1
+A : I don't think we have the budget for it. -1
+B : That's too bad. -1
+A : But we should do something soon. 0
+B : I know. The layout looks like a maze. -1
+
+-1 -1

@@ -1,0 +1,12 @@
+A : I am here to sign my escrow papers. 0
+B : I will tell you ahead of time, that there is a lot to sign here, but I will help you every step of the way. 1
+A : Should I have brought anything with me? 0
+B : Basically, what I need from you now is your driver's license or some ID that shows your residency status. 0
+A : Where do I start? 0
+B : We will be going through these papers one by one. I will be explaining them all to you, and you can ask questions as we go. 0
+A : Can I make a phone call to a friend if I have a question? 0
+B : You may get assistance with any questions that you have. 1
+A : Will the house be mine when we finish these documents? 0
+B : This is the last thing you need to do, but it may take a while for the papers to be processed. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : Do I need to register here? 0
+B : You're in the right place. 0
+A : I would like to add some classes. 0
+B : What classes do you need? 0
+A : I need to take some GE classes. 0
+B : What classes have you finished so far? 0
+A : I just started here. 0
+B : You're going to need to take the placement test. 0
+A : I took it a month ago. 0
+B : Do you know what English and math classes you placed in? 0
+A : The test placed me in English 1A and Math 131. 0
+B : I'll add those classes to your schedule. 0
+
+0 0

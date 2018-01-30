@@ -1,0 +1,14 @@
+A : Today is Friday the thirteenth. 0
+B : That's a bad day. -1
+A : It's supposed to be unlucky. -1
+B : You're supposed to stay home all day. 0
+A : That's what I do. 0
+B : My friend stayed in a hotel on Friday the thirteenth. 0
+A : That was a mistake. -1
+B : He stayed on the thirteenth floor. 0
+A : What happened? 0
+B : Someone stole his laptop. -1
+A : He was asking for it. -1
+B : He learned his lesson. He's home today. 0
+
+-1 -1

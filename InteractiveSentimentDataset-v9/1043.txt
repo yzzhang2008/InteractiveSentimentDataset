@@ -1,0 +1,9 @@
+A : I don't like that man. -1
+B : Why not? 0
+A : He's a dirty old man. -1
+B : What do you mean? 0
+A : He's old enough to be my father, yet he asked me out. -1
+B : Well, you can't blame a man for asking. 0
+A : He should act his age. -1
+
+-1 0

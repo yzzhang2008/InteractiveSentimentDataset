@@ -1,0 +1,14 @@
+A : I need to find somewhere to park. 0
+B : Off campus or on campus? 0
+A : I need to find a space on campus. 0
+B : Why don't you park in the parking structure for students? 0
+A : Where is the parking structure at? 0
+B : It's on the west side of the campus. 0
+A : Do you know if the parking structure is full or not? 0
+B : It was empty last time I went up there. 0
+A : How long ago was that? 0
+B : I went up there early this morning. 0
+A : Do you think it'll be full now? 0
+B : It might be. You'll have to go see for yourself. 0
+
+0 0

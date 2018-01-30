@@ -1,0 +1,11 @@
+A : I need to make an emergency trip to our headquarters tonight. 0
+B : There are no direct flights tonight. There are only non-direct flights. 0
+A : How many layovers? 0
+B : There is one layover in San Francisco for an hour. 0
+A : That's fine. Can you book that flight please? 1
+B : Do you need a ride to the airport? 0
+A : No. I will park my car at the airport. 0
+B : Get it. 0
+A : Thanks. 1
+
+1 0

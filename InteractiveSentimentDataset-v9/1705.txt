@@ -1,0 +1,14 @@
+A : It's such a nice day. 1
+B : Yes, it is. 1
+A : It looks like it may rain soon. 0
+B : Yes, and I hope that it does. 0
+A : Why is that? 0
+B : I really love how rain clears the air. 1
+A : Me too. It always smells so fresh after it rains. 1
+B : Yes, but I love the night air after it rains. 1
+A : Really? Why is it? 0
+B : Because you can see the stars perfectly. 1
+A : I really hope it rains today. 1
+B : Yeah, me too. 1
+
+1 1

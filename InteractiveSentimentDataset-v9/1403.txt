@@ -1,0 +1,8 @@
+A : Where are you feeling the pain? 0
+B : I can't stand up! My stomach is killing me! -1
+A : Can you put your hand where it hurts the most? 0
+B : It hurts smack in the middle of my gut! -1
+A : Did this just come on suddenly? 0
+B : I felt OK until an hour or so ago, and then I just doubled over. -1
+
+0 -1

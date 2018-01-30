@@ -1,0 +1,8 @@
+A : Where can I find a cheap cashmere sweater? 0
+B : How about an outlet? 0
+A : Great idea! 1
+B : Outlets give good deals. 1
+A : Thank you so much. 1
+B : You're welcome. 1
+
+1 1

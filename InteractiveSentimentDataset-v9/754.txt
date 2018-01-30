@@ -1,0 +1,10 @@
+A : Man, I'm hungry. Do you know a good place to have lunch? 0
+B : Yes, I know a great place. What types of food do you like? 1
+A : Mexican, Japanese or Chinese would be great. 1
+B : Oh, I know a place where you might like to eat. 0
+A : Is it close by? 0
+B : It's down a block on the right; can I show you the way? 0
+A : OK, I'd love the company. 1
+B : This will work out well. I'm getting hungry just thinking about it. 1
+
+1 1

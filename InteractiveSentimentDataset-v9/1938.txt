@@ -1,0 +1,12 @@
+A : Could you help me with vacation plans? 0
+B : Do you know where you will be traveling? 0
+A : I am open to suggestions at this point. 1
+B : Are you wanting to travel to a tropical climate, or would you like to go somewhere with a cooler climate? 0
+A : I would like to travel to a cooler destination. 1
+B : I can give you some brochures that could give you some ideas. 1
+A : I will look at them right now. 1
+B : How much money is in your budget for this trip? 0
+A : I think that I can spend about two hundred dollars a day. 0
+B : Take your time choosing a destination and, when you've narrowed it down, I'll be happy to help you make a reservation. 1
+
+1 1

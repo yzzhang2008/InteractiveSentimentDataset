@@ -1,0 +1,9 @@
+A : How do you balance your work life and your personal life? 0
+B : I don't bring my work home. 0
+A : What do you mean? 0
+B : Don't do more than you can handle. 0
+A : What if you have a lot of work to do? 0
+B : Then I stay at the office and finish it. When I go home, I focus on home only. 0
+A : I wish I was like you. 0
+
+0 0

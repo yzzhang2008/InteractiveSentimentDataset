@@ -1,0 +1,16 @@
+A : Mom, can we have a picnic this afternoon? 0
+B : Sure, Cathy. Where should we have it? 0
+A : How about the lake? 0
+B : That's a great idea. 1
+A : What should we pack for lunch? 0
+B : I can make ham sandwiches and potato salad. 0
+A : Yummy. I love ham sandwiches and potato salad. 1
+B : Tell your sisters about the picnic. 0
+A : Ok. I think it is going to get hot later today. 0
+B : That's good. It will be a good day for a swim in the lake. 1
+A : I'll tell Cindy and Alison to wear their swimsuits. 0
+B : Don't forget to pack your life jackets too. 0
+A : Ok. Will Andy be joining us? 0
+B : Of course, your brother will be joining us. 1
+
+1 1

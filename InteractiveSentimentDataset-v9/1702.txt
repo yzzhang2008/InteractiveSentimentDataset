@@ -1,0 +1,14 @@
+A : How are you doing today? 0
+B : I'm doing great. What about you? 1
+A : I'm absolutely lovely, thank you. 1
+B : Everything's been good with you? 0
+A : I haven't been better. How about yourself? 1
+B : I started school recently. 0
+A : Where are you going to school? 0
+B : I'm going to PCC. 0
+A : How do you like it so far? 0
+B : I like it so far. My classes are pretty good right now. 1
+A : I wish you luck. 1
+B : Thanks a lot. 1
+
+1 1

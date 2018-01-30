@@ -1,0 +1,12 @@
+A : I guess that we won't be going rollerblading today with all this rain! -1
+B : Yes, rollerblading in six inches of water would not be fun. What would you like to do instead? -1
+A : I think that maybe we could check out the local mall, grab some lunch, and maybe see a movie. 0
+B : Yes, that sounds like a relaxing way to check out the local culture and still stay dry. 1
+A : What else could we do in bad weather? 0
+B : You know, we could take a double-decker bus tour of famous haunted houses and buildings. 0
+A : That would be fun, and the rain would only add to the atmosphere. 1
+B : There is an old English pub next door. Maybe when we finish with the haunted house, we can duck in there for some brew. 0
+A : What a great idea! 1
+B : If we are lucky, maybe they'll have some great food at the pub for supper. 1
+
+1 1

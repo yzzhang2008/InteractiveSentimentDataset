@@ -1,0 +1,14 @@
+A : May I help you? 0
+B : I'm not sure where to pick up my ballot. 0
+A : I can assist you. 1
+B : How are you going to help me? 0
+A : I actually work here. 0
+B : Fabulous. Thanks. 1
+A : Do you have ID? 0
+B : I have it right here. 0
+A : Here's your ballot card. 0
+B : Now what am I supposed to do? 0
+A : Just take it to a booth and begin voting. 0
+B : Sounds good. Thanks. 1
+
+0 1

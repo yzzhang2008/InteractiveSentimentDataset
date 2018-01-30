@@ -1,0 +1,14 @@
+A : Did you just move into town? 0
+B : I moved in almost a month ago. 0
+A : How many children do you have? 0
+B : I have one child. 0
+A : How old is your child? 0
+B : She's seven years old. 0
+A : So she's a second grader. 0
+B : That's correct. 1
+A : We have room for her. 0
+B : That's great news. 1
+A : Let's get started with all the paperwork. 0
+B : The sooner I get her enrolled the better. 1
+
+0 1

@@ -1,0 +1,12 @@
+A : Pardon me. May I ask you a question? 0
+B : Of course. How can I help you? 1
+A : I opened this DVD. Can I still return it? 0
+B : No problem. May I have your receipt? 1
+A : Here you go. 1
+B : Oh, it looks like you bought this more than 30 days ago. 0
+A : Can't you bend the rules just a little bit? -1
+B : I'm sorry. -1
+A : You just lost yourself another customer. -1
+B : Don't get mad at me, please. I don't make the rules. -1
+
+-1 -1

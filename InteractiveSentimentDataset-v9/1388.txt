@@ -1,0 +1,14 @@
+A : Hi Tim. Do you want to grill some streaks tonight? 0
+B : Hi Dan. Steaks sound delicious. 1
+A : They are on sale at the market. 0
+B : Should we invite some friends? 0
+A : Ok. Who? 1
+B : How about Sandy and Linda. 0
+A : Ok. But Linda is a vegetarian. 0
+B : What is a vegetarian? 0
+A : A vegetarian is a person who does not eat meat. 0
+B : Oh. Maybe we should invite someone else. 0
+A : How about Susie? 0
+B : Ok. Let's invite Sandy and Susie. 1
+
+0 1

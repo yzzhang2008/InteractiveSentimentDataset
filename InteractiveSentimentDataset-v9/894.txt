@@ -1,0 +1,14 @@
+A : My husband died. -1
+B : I'm sorry for you. -1
+A : Thank you. 0
+B : When did he die? 0
+A : A couple of months ago. 0
+B : You still miss him. 0
+A : Yes, but I talk to him almost every day. -1
+B : When you go to church? 0
+A : No, when I call him on his cell phone. 0
+B : What do you mean? -1
+A : I buried him with his cell phone. 0
+B : What will you do when the battery dies? 0
+
+-1 -1

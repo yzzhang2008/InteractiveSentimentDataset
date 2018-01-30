@@ -1,0 +1,14 @@
+A : Hi how are you? 0
+B : I am fine, thank you. 1
+A : What can I help you with today? 0
+B : I would like to buy two gift certificates. 0
+A : How much would you like to put on each card? 0
+B : One should be 100 dollars and the other one should be 50 dollars, please. 0
+A : O.K. No problem. Here you are. This is 100 dollars and this is card with 50 dollars on it. Would you like me to write down each amount on the envelopes? 0
+B : Yes, please. 1
+A : Here you are. Did you have any other purchases today? 1
+B : No, I just needed these cards. 0
+A : Okay, have a nice day! 1
+B : Thank you. 1
+
+1 1

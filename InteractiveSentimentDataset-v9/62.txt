@@ -1,0 +1,8 @@
+A : Do you know anywhere that sells cheap cashmere sweaters? 0
+B : Outlets have cheap cashmere sweaters. 0
+A : What a splendid idea! 1
+B : Outlets usually give you great deals. 1
+A : Thanks for helping me. 1
+B : You're welcome. 1
+
+1 1

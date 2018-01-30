@@ -1,0 +1,11 @@
+A : Are you ready for the English test tomorrow? 0
+B : No. I am going to fail it. -1
+A : Didn't you study and take notes? 0
+B : My notes will not help me. -1
+A : Why? 0
+B : The teacher speaks too fast. I couldn't write anything down. -1
+A : Why didn't you ask her to speak slowly? 0
+B : I was too embarrassed to tell her I didn't understand. -1
+A : I'll help you study. I have a lot of notes. 1
+
+1 -1

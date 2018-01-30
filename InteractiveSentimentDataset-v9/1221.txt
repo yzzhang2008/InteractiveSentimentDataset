@@ -1,0 +1,14 @@
+A : What's on TV? 0
+B : Nothing much. 0
+A : What about the baseball game? 0
+B : It got rained out. 0
+A : Rained out? 0
+B : Yes, rained out. 0
+A : How could that be? 0
+B : Well, you can't play baseball in a rainstorm. 0
+A : I thought they were playing under a dome. 0
+B : The dome doesn't close. 0
+A : Why doesn't it close? 0
+B : Who knows? They said they'll fix it before next season. 0
+
+0 0

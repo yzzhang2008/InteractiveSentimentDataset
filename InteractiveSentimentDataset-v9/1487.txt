@@ -1,0 +1,8 @@
+A : Today is my last day in this department. 0
+B : Where are you going? 0
+A : I'm transferring to a new department. 0
+B : Are you happy about that? 0
+A : Not really. I like being in Customer Service, but they need help in Accounting. -1
+B : Just try to do your best in your new position. 0
+
+-1 0

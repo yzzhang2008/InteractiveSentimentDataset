@@ -1,0 +1,8 @@
+A : What are you working on? 0
+B : I'm designing a logo. 0
+A : What is the logo for? 0
+B : We're launching a new brand of shoes. 0
+A : Who is your target audience? 0
+B : Children. 0
+
+0 0

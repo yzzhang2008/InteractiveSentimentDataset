@@ -1,0 +1,16 @@
+A : Hello, Nicole here. 0
+B : Nicole, this is Richard. I think you know why I'm calling. 0
+A : Oh, it's about the rent. 0
+B : Yes, this is the second month in a row. 0
+A : I thought there was a grace period. 0
+B : There is no grace period in the rental agreement. -1
+A : Oh, I guess I forgot. -1
+B : Well, when can I expect the rent? 0
+A : You'll get it by Monday. 0
+B : Don't forget the $50 late fee. -1
+A : Is that in the rental agreement? 0
+B : The late fee is circled in red ink! -1
+A : Oh, Well, I can't find my copy of the agreement. -1
+B : If you're late next month, I might give you an eviction notice. -1
+
+-1 -1

@@ -1,0 +1,10 @@
+A : Have you heard my good news? 0
+B : You haven't told me anything yet. 0
+A : I got a promotion at work earlier this week. 1
+B : Is that right? 0
+A : It's the truth. I am really happy. 1
+B : Congratulations on your promotion. 1
+A : Thank you very much. 1
+B : I am really excited for you. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : How are you doing? 0
+B : Great. Thanks for asking. 1
+A : What can I do for you today? 0
+B : I would like to deposit some money. 0
+A : Are you depositing cash or a check? 0
+B : I want to deposit cash. 0
+A : How much are you depositing? 0
+B : I would like to deposit $300. 0
+A : What account do you want your money in? 0
+B : I want to deposit it into my checking account. 0
+A : Do you need anything else? 0
+B : No. That's all. Thank you. 1
+
+0 1

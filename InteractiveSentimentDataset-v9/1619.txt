@@ -1,0 +1,11 @@
+A : I am so anxious to hear what the bid was on our house! 1
+B : Remember that we set the asking price at three hundred thousand dollars. The first offer is two hundred ninety thousand dollars. 0
+A : That's way better than I expected so early in the game! 1
+B : The offer is definitely a good one, but let's make sure we look at the whole picture. 1
+A : What are the other considerations? 0
+B : They want you to pay for the inspection, but they want to pick out the inspector. If the house is defective, they will want out of the deal. 0
+A : I don't have a problem with that. 1
+B : You could make them a counteroffer, but I know that you need a timely sale. 0
+A : Please notify the buyers that I have accepted their offer. 1
+
+1 0

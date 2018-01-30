@@ -1,0 +1,12 @@
+A : Joe, how are you doing? 0
+B : I am great! How about you, Mary? How are you? 1
+A : I am doing great! Thank you for asking, Joe. 1
+B : I was wondering if you want to go see a movie with me tonight? 0
+A : I need to stay home tonight and finish my term paper. 0
+B : OK. What about going to the movies on Friday night? 0
+A : What were you planning on seeing? 0
+B : I was thinking about seeing that one about the rapist serial killer. 0
+A : How about The Secret Life of Bees? 0
+B : That's a chick flick! -1
+
+0 -1

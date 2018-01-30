@@ -1,0 +1,12 @@
+A : I think that the company retreat should be in the mountains this year. 0
+B : What a great idea! 1
+A : January would be a good month for a mountain retreat. 1
+B : I like the mountain idea, but I am not so sure about the month of January. -1
+A : You know, now that I think about it, you might be right. 0
+B : April might be nice. It is far enough away to make the necessary arrangements. 1
+A : That is a good suggestion. 1
+B : We could ask everyone what would be the best time for them. 0
+A : Yes, that would let us know what would work best. 0
+B : I'll put the survey online this afternoon. 0
+
+0 0

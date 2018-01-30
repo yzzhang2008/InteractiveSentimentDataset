@@ -1,0 +1,19 @@
+A : Hi Carol. There's a new appliance store opening downtown today. Have you seen the flyer for the grand opening? 0
+B : Hi Joan. Yeah, I was thinking about checking it out. 0
+A : Do you want to go together? 0
+B : Sure. I don't need a new appliance, but I would love to update my washer and dryer one day. 1
+A : I just bought a new washer and dryer set. I love it! 1
+B : I'm jealous. My set is really old. It takes a long time to wash and dry. -1
+A : You should really look into upgrading your set. It can save you money? 0
+B : How can it save me money? 0
+A : The new washers use less water and the dryers uses less energy. 1
+B : Really? Maybe it's time for an upgrade. 0
+A : I can show you what I bought. 0
+B : That would great! Maybe it will be on sale. 1
+A : I wish I knew about the new store when I bought my set. I paid full price for mine. 0
+B : You didn't buy it on sale? 0
+A : No. 0
+B : I'm not jealous anymore. 0
+A : Let's go check out the new store. 0
+
+0 0

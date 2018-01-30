@@ -1,0 +1,14 @@
+A : What are you doing here today? 0
+B : I felt like doing some shopping. 1
+A : What are you going to buy? 0
+B : I need some new clothes. What about you? 0
+A : I'm trying to find some clothes myself. 1
+B : Have you found anything that you like? 0
+A : I got a new pair of pants. 0
+B : Those are cute. Where'd you get them. 1
+A : I bought them at JCPennies. 0
+B : I really like those. 1
+A : I'll show you where to get them at. 0
+B : That would be great. 1
+
+1 1

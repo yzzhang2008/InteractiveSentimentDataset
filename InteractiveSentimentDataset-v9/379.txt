@@ -1,0 +1,12 @@
+A : How long have been learning language there? 0
+B : About three months. 0
+A : How about your progress? 0
+B : I got much progress actually. I am brave enough to speak up. My grammar is improved a lot there. 1
+A : What method do you get? 0
+B : We apply mixed method. Besides learning face to face, we also learn in group. 0
+A : How do you see the benefit for each method? 0
+B : I concentrated more while I was studying face to face. But I enjoyed learning in group too. Because I got new perspective, and I was motivated by the group. 1
+A : Which one is better for you learning face to face or in group? 0
+B : Personally I like both of them, they make me complete in applying my knowledge. But if I have to choose, learning in group would be better especially language. Because by having more partner to practice, make me perfect. 1
+
+1 0

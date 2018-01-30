@@ -1,0 +1,12 @@
+A : Did you hear about the big earthquake? 0
+B : No. 0
+A : It's been all over the news and Internet. 0
+B : I don't follow the news. -1
+A : Then, how do you know what's going on? 0
+B : If it's important, I'll hear people talking about it. 0
+A : Don't you want to know as soon as something happens? 0
+B : The news is too scary. -1
+A : Why is it scary? 0
+B : They only talk about bad things like crime, accidents, and earthquakes. -1
+
+0 -1

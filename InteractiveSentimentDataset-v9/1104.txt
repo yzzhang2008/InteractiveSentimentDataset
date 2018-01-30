@@ -1,0 +1,14 @@
+A : Pasadena Traffic School. How can I help you? 0
+B : I would like to sign up for some classes. 0
+A : What classes did you want to sign up for? 0
+B : I need to take a driver's course. 0
+A : You'll have to make an appointment. 0
+B : What do I need to make an appointment for? 0
+A : You need an appointment so you can sign the papers. 0
+B : All right, can I make an appointment right now? 0
+A : When are you available? 0
+B : Can I make it for tomorrow at 9:00 a.m.? 0
+A : I can schedule you for that day and time. 0
+B : I'll be there tomorrow. 0
+
+0 0

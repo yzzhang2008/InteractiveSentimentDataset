@@ -1,0 +1,12 @@
+A : Mom, can I have a bowl of cereal for breakfast? 0
+B : Sure. 0
+A : We're out of milk. 0
+B : I just went to the market a few days ago. 0
+A : I don't see any in the refrigerator. 0
+B : Did we really drink it that fast? 0
+A : I guess so. 0
+B : I will pick some up later today. Have some eggs instead. 0
+A : I can't find the eggs either. 0
+B : I can't believe I have to go grocery shopping again. 0
+
+0 0

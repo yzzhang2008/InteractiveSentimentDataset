@@ -1,0 +1,9 @@
+A : I'm quitting. 0
+B : Why? 0
+A : I got a better job. 1
+B : Where? 0
+A : With our competitor. Don't tell anyone. It's a secret. 0
+B : Our boss is not going to be happy. 0
+A : Well, our boss didn't give me a raise when I asked for one. 0
+
+0 0

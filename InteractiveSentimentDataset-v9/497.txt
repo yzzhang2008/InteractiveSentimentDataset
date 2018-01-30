@@ -1,0 +1,14 @@
+A : How's it going? 0
+B : I'm fine. Thank you. 1
+A : May I help you? 1
+B : I have a question. 0
+A : Ask away. 0
+B : How can I order new checks? 0
+A : If you want, you can order some right now. 0
+B : I would like to do that right now. 1
+A : First, you need to fill out this application. 0
+B : What else do I have to do? 0
+A : Give it about a week, and you should get your checks in the mail. 0
+B : I appreciate your help. Here's my application. 1
+
+0 1

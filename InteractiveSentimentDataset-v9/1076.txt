@@ -1,0 +1,12 @@
+A : Do you want to practice your driving right now? 0
+B : No problem. We can do it right now. 0
+A : Are you buckled up? 0
+B : All right. Now what do I do? 0
+A : Start the car. 0
+B : Which way do you want me to go? 0
+A : Take a left. 0
+B : How far do you want me to go? 0
+A : I'll tell you when to stop. 0
+B : Just make sure to tell me beforehand. 0
+
+0 0

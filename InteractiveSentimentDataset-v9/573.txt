@@ -1,0 +1,12 @@
+A : I want to get on the bus already. 0
+B : It just isn't on time today. -1
+A : It was supposed to be here thirty minutes ago. -1
+B : I think it'll be here pretty soon. 1
+A : I need to get to work, so it better. 0
+B : I really do hate public transportation. -1
+A : I agree, it's just never on time. -1
+B : That's right. 1
+A : I also hate having to stand at a bus stop in all kinds of weather. -1
+B : Oh, that's the worst. -1
+
+-1 -1

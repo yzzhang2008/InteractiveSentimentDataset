@@ -1,0 +1,10 @@
+A : Can you give me a little more information about your apartment? 0
+B : All right, what do you need to know? 0
+A : What is the public transportation like near your apartment? 0
+B : I don't use buses, but I think there's a bus stop a few blocks away. 0
+A : Which route does the bus travel? 0
+B : I wish I could help you, but I know nothing about the bus system. 0
+A : I'll just check my phone book. It has lots of good information. 0
+B : I'm sorry I couldn't help you more. -1
+
+0 -1

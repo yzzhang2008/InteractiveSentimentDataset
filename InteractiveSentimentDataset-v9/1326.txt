@@ -1,0 +1,12 @@
+A : I need to find the cereal aisle. 0
+B : The cereal is over by the breakfast foods. 0
+A : Where is that at? 0
+B : It's by the oatmeal and breakfast bars. 0
+A : I think I can find that. 0
+B : Did you need help finding anything else? 0
+A : Actually, I do need to find the dishwashing detergent. 0
+B : That would be over by the paper towels and toilet paper. 0
+A : I thought it was over there. 0
+B : Yeah, you'll find it there. 0
+
+0 0

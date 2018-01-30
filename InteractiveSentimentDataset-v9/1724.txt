@@ -1,0 +1,8 @@
+A : I think that you look very cute today. 1
+B : Is that right? This is a brand new outfit. 0
+A : What store did you get it from? 0
+B : I went to Macy's and picked it out. 0
+A : I love your outfit right now. 1
+B : Well, I think you look nice today too. 1
+
+1 1

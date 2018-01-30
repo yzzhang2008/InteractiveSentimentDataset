@@ -1,0 +1,14 @@
+A : I have lots of friends. 0
+B : Really? How many do you have? 0
+A : maybe one hundred. 0
+B : That is a lot of friends. Do you have a best friend? 0
+A : Of course. I have lots of best friends. 0
+B : How many best friends do you have? 0
+A : I think about twenty-five. 0
+B : Hmm. I have only one best friend. -1
+A : I feel sorry for you. -1
+B : I have only a few friends. -1
+A : You must be lonely. I will share my friends with you. 1
+B : That's very nice of you. 1
+
+0 -1

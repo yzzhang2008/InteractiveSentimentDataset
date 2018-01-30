@@ -1,0 +1,12 @@
+A : Could you help me out with a ride to the airport this afternoon? 0
+B : I can give you a ride with no problem. What is your departure time? 1
+A : My flight departs at 4:00, so I need to leave my house at 1:00 to get to the airport by 2:00. 0
+B : Are you bringing a lot of bags with you? 0
+A : I am bringing my purse, a carry-on, and a large suitcase. 0
+B : Your stuff should all fit in my car just fine. Do you know which terminal you are going to? 1
+A : Since I am flying to Sydney on Singapore Air, I need to be dropped off on the second level of the International Terminal. 0
+B : Can I go inside the airport with you and maybe we can have a drink before you leave? 0
+A : They only allow ticketed passengers into the departure area, so you'll have to drop me off at the curb. 0
+B : I can take you wherever you need to go. Let me know if there are any changes to your travel plans. 1
+
+0 1

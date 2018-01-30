@@ -1,0 +1,9 @@
+A : Have you gotten a parking ticket before? 0
+B : No, I haven't. What about you? 0
+A : I got a ticket a couple of days ago. 0
+B : What did you do? 0
+A : I got it for parking in the red zone. 0
+B : Why would you park in the red zone? 0
+A : I had to run in and get something quickly. 0
+
+0 0

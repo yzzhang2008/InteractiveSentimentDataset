@@ -1,0 +1,22 @@
+A : I can't wait for summer! 1
+B : Why? 0
+A : I'm going to Hawaii with my cousins. 0
+B : That's great! I've never been to Hawaii. 1
+A : It's beautiful there! The beaches are sandy and the weather is nice. 1
+B : My family and I go to Germany every summer. My grandparents live there. They are too old to travel, so we have to go there every year. 0
+A : That must be fun too. 1
+B : It's a lot of fun. But I'd love to visit Hawaii someday. How long are you going to stay there? 1
+A : Two weeks. 0
+B : What are you going to do after you get back? 0
+A : I need to find a part-time job. 0
+B : You're going to work the rest of the summer? 0
+A : Yeah. I need to make some money for college. 0
+B : That's a good idea. I should do that too. 1
+A : How long are you going to be in Germany? 0
+B : Two months. 0
+A : Wow! That's a long time. That's almost the whole summer vacation. 1
+B : I know. My mom doesn't get to see her parents that often, so we stay for a while. 0
+A : I understand. Family is important. 1
+B : Yeah. But sometimes I wish I could do other fun things during the summer. 0
+
+1 1

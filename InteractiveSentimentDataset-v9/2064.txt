@@ -1,0 +1,10 @@
+A : Hello, Who is calling? 0
+B : Hello, my name is Conner. I’m calling from Speedy Glass (link is external). How are you? 0
+A : I’m fine. 1
+B : That’s good. I am calling to remind you that you have an appointment for your windshield replacement this afternoon. 0
+A : Yes. I think I'm all set. 1
+B : I’m 15 minutes away from your house. I wanted to confirm the address is 44 Wingate? 0
+A : Yes, that's right. 1
+B : O.K. I will be there in 15 minutes. 1
+
+1 1

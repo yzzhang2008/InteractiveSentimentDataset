@@ -1,0 +1,14 @@
+A : I'm looking for a pan I can use in my kitchen. 0
+B : What size pan were you thinking of? 0
+A : I've already got a small pan. I need a big one. 0
+B : Well, this one might work for you. 1
+A : No, that's way too heavy a pan for me. -1
+B : Here, lift this aluminum pan. It's the same size. 0
+A : Yes, it's very lightweight. But I don't want this aluminum handle. -1
+B : Here's a similar aluminum pan. But it has a heat-resistant handle. 0
+A : This feels very nice. It's perfect. I'll take it. 1
+B : I knew we'd find the right pan sooner or later. How would you like to pay? 1
+A : Cash. But first, I need a lid for this pan. 0
+B : Oh, no problem. Here's the lid that comes with the pan. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Wow, what a cool car! 1
+B : How about taking this car out for a drive to see if you like how it handles? 0
+A : I would enjoy seeing how it handles. 1
+B : While I'm getting the keys, you just need to take out your Driver's License and Proof of Insurance. 0
+A : I found my Driver's License and Proof of Insurance. 0
+B : Great! Sign this card, buckle your seatbelt, and we'll hit the road. 1
+A : I want to take the car up to freeway speed. 0
+B : Take a left at the next signal to enter the freeway. Just keep it under the speed limit! 1
+A : This car has a nice smooth ride, even on the freeway. 1
+B : You know, I've driven it myself, and I agree with you. 1
+
+1 1

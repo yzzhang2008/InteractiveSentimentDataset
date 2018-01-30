@@ -1,0 +1,14 @@
+A : TV news is so stupid. -1
+B : They shouldn't even call it news. -1
+A : Last night they told us about a cat in a sofa. 0
+B : Yesterday they told us about a dog in a pipe. 0
+A : Last week they told us about a bear in a back yard. 0
+B : Last month they told us about a mouse in a restaurant. 0
+A : The weatherman tells us the temperature in every town. 0
+B : The sports guy shows us players fighting. 0
+A : They always tell us what's next. 0
+B : They always make what's next sound exciting, but it never is. -1
+A : It's more like news for kids. -1
+B : They should have kid reporters. -1
+
+-1 -1

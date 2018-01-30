@@ -1,0 +1,14 @@
+A : You know how to drive, right? 0
+B : I'm pretty good. 1
+A : Do you think you can teach me? 0
+B : Did you get your learner's permit yet? 0
+A : I have it already. 0
+B : Do you have any experience driving a car? 0
+A : I've only done it once. 0
+B : Do you know all the controls in the car? 0
+A : Yes, I am aware of them. 0
+B : When do you want to start learning how to drive? 0
+A : Whenever you have time. 0
+B : We can do it tomorrow; just call me. 0
+
+0 0

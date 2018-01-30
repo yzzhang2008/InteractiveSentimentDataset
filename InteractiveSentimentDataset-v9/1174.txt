@@ -1,0 +1,12 @@
+A : I need help with the office party. 0
+B : Yes, of course. We could split it. What part would you like to do, the food or the entertainment? 0
+A : I have no idea what the entertainment should be. 0
+B : Let's make sure we are on the same page. Do we want a formal or informal gathering? 0
+A : Let's make it a formal affair. 0
+B : Yes, that would be best. Now, for food should we have Chinese or American food? 1
+A : American food would be the best choice. 1
+B : That would be great. What kind of music would you like, a band or recorded music? 1
+A : We should bring in a really good DJ. 1
+B : That works for me. Let's see what we can each do about planning our part and meet again on Friday. 1
+
+1 1

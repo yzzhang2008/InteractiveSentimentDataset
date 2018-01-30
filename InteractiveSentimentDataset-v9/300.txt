@@ -1,0 +1,14 @@
+A : How have you been? 0
+B : I'm fine. What's going on? 1
+A : I would like to talk to you about something. 0
+B : What about? 0
+A : I'm planning on moving out soon. 0
+B : When will you be doing this? 0
+A : I will be moving out a few weeks from now. 0
+B : Why is that? 0
+A : I have to leave the state for school. 0
+B : That's all right. 1
+A : I'm glad that you're okay with this. 1
+B : I'm absolutely cool with it. 1
+
+1 1

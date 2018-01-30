@@ -1,0 +1,18 @@
+A : Hey Jesse, should we grab a bite to eat before the concert? 0
+B : Yeah, I'm getting a little hungry. 0
+A : Let's get some fast food here. 0
+B : Burgers and fries? 0
+A : Yeah, that sounds good. 1
+B : Why is the drive-thru line so long? 0
+A : It's dinner time. Should we go inside? 0
+B : It might be busier inside? 0
+A : Looks like the line is really long inside too. 0
+B : Let's head to another place. 0
+A : Can we go to one closer to the concert arena? 0
+B : That's a good idea! 1
+A : There are many fast food places around there. 1
+B : Yeah, we should be able to find one that's not too crowded. 0
+A : Fast food is great. Fast and cheap. 1
+B : But not very healthy. -1
+
+1 0

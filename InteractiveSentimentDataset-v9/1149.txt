@@ -1,0 +1,8 @@
+A : I am here for my job interview. 0
+B : Fine, have a seat. May I get you some water or coffee? 0
+A : Sure, thank you. 1
+B : I'll get that for you right now. 0
+A : Thank you. What a nice office this is! 1
+B : Yes, could you come in now? I am going to take you back to meet your interviewer, Mr. Gotcha. 0
+
+1 0

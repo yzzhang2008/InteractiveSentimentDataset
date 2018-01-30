@@ -1,0 +1,14 @@
+A : My grandma's apartment smells funny. -1
+B : So does mine. 0
+A : I think it's an old people's smell. 0
+B : Really? 0
+A : Yes. I think when you get old, you begin to smell. -1
+B : Like fruit that is too ripe? 0
+A : Yes, just like fruit that is too ripe. -1
+B : But the smell is different. 0
+A : Yes, old people don't smell like fruit. -1
+B : No, they smell like a thrift shop. -1
+A : Yes, a thrift shop has that same smell. -1
+B : Yes, an old smell. -1
+
+-1 -1

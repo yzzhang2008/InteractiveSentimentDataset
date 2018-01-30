@@ -1,0 +1,14 @@
+A : Are you going somewhere? 0
+B : I'm on my way to work. 0
+A : Where do you work? 0
+B : I work at the polling place. 0
+A : You didn't tell me you were working there this year. 0
+B : I do this every year. 0
+A : How'd you get that job? 0
+B : I applied online. 0
+A : That's interesting. 1
+B : I enjoy working there every year. 1
+A : How much do they pay? 0
+B : They pay just enough. 1
+
+1 1

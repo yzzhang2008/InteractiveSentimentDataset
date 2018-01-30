@@ -1,0 +1,14 @@
+A : It's really pretty today. 1
+B : This is the best time to take a stroll through the park. 1
+A : I feel the same exact way. 1
+B : Look how nice the mountains look today. 1
+A : Aren't the budding roses beautiful? 0
+B : It's obviously spring. 1
+A : All the flowers are blooming. 1
+B : There's a man selling ice cream. 0
+A : Would you like one? 0
+B : Yes, I'd like one. 1
+A : I'll get it for you. 1
+B : You're so sweet. Thank you. 1
+
+1 1

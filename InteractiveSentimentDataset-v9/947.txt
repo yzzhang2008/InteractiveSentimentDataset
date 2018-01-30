@@ -1,0 +1,14 @@
+A : I need somebody to come over and fix my internet. -1
+B : What's wrong with it? 0
+A : For some reason it's just not connecting. -1
+B : How long have you been having this problem? 0
+A : It hasn't been working the past few days. -1
+B : Does the internet come up at all? 0
+A : It does, but it won't connect to anything. -1
+B : Well, the internet isn't down, so there must be something wrong with your connection. -1
+A : Could you send someone to fix it today? 0
+B : I'll send somebody over right away to fix it. 0
+A : When will they be here? 0
+B : They should be there in the next hour. 0
+
+-1 0

@@ -1,0 +1,14 @@
+A : Were you around when the robbery happened? 0
+B : Yes, I was. 0
+A : Could you explain what you saw? 0
+B : I was in the bank at the time of the robbery. 0
+A : What did you see? 0
+B : I saw a man come in with a gun. 0
+A : Did you see his face? 0
+B : No. He had a mask on. -1
+A : Did he come in with anyone else? 0
+B : He was by himself. 0
+A : Would you come down to the station for further questioning? 0
+B : That shouldn't be a problem. 1
+
+0 0

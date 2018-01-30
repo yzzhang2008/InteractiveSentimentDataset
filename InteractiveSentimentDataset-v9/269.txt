@@ -1,0 +1,12 @@
+A : I need to speak with the manager right away. 0
+B : The manager is not here right now. May I take a message? 0
+A : Our key doesn't seem to be working in our lock. -1
+B : How many times have you used this key in the lock? 0
+A : We have already used this key successfully before. 1
+B : Does the key fit in the lock? 0
+A : It is really hard to get it into the lock, but it does go in. -1
+B : Make sure you are on the top lock. Put the key in and try turning it to the right. 0
+A : I can't get it to work. -1
+B : Could you return to the manager's office? I have another key that I would like you to try. 1
+
+-1 1

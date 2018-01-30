@@ -1,0 +1,12 @@
+A : It's my wife's birthday. I need to buy some flowers for her. 1
+B : Most women love red roses for their birthday. 1
+A : How much will the roses be? 0
+B : You can get a dozen for only $20. 0
+A : Now, that's a price that I like. 1
+B : You're in luck today because the roses are on sale. 1
+A : I'll take the roses. 1
+B : Very good. Perhaps you'd like something else to go with the roses? 1
+A : No, the roses are good enough. 1
+B : Women love roses, so your wife will be very happy. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : How are you doing today? 0
+B : I'm doing fine. Thanks for asking. 1
+A : What can I help you with today? 0
+B : I would like you to help me find an apartment. 1
+A : I will be able to help you with that. 1
+B : Thank you. I would appreciate that. 1
+A : Do you have any idea what kind of apartment you want? 0
+B : I need a two-bedroom apartment. 0
+A : Is there anything else in particular that you wanted? 0
+B : No. As long as it's a two bedroom, nice, and affordable, I'll take it. 1
+A : I'll see what I can do for you. 1
+B : Thanks for everything. 1
+
+1 1

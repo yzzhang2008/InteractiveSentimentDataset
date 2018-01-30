@@ -1,0 +1,12 @@
+A : I am flying in next Sunday and was wondering if you might be able to pick me up at the airport. 0
+B : I can pick you up. What time does your flight arrive? 0
+A : My flight arrives at 3:00 in the afternoon. 0
+B : I think if I am at the curb at 3:30, that would allow you time to pick up your luggage. How does that sound? 0
+A : I think that would work out well, but what if the plane is late? 1
+B : I can call the airline, and they will tell me if the flight is delayed. 0
+A : I am going to carry my cell phone so I can call you. 0
+B : Yes, that would help us find each other at the airport. 1
+A : If you find that you have to make other plans, I can always book a Super Shuttle to pick me up. 0
+B : You don't have to take a Super Shuttle. I'll be there. 1
+
+1 1

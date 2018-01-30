@@ -1,0 +1,8 @@
+A : I'm interested in a store credit card. 1
+B : Okay. Here's the application form. 1
+A : I've filled everything out. 1
+B : Thank you. Now let me see a credit card, please. 1
+A : Certainly. Here's my VISA card. 1
+B : Very good. Thank you. 1
+
+1 1

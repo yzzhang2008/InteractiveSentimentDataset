@@ -1,0 +1,14 @@
+A : I am really thirsty. -1
+B : How about we go and get something to drink? 0
+A : Let's do that. 1
+B : Do you know what you want to get? 0
+A : A soda sounds good. 1
+B : Soda isn't the best thing to drink when you're thirsty. -1
+A : Why is that? 0
+B : Soda isn't good for you. -1
+A : What should I drink then? 0
+B : You should really drink water. 0
+A : That sounds good. 1
+B : It's a lot better than soda. 1
+
+1 1

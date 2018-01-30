@@ -1,0 +1,12 @@
+A : I need to have my computer fixed. 0
+B : What's the problem? 0
+A : I think it has a virus. -1
+B : Did you buy your computer from us? 0
+A : Yes, I bought it from your store. 0
+B : Did you get the warranty on your computer? 0
+A : Yes, I got the warranty. 0
+B : My computer is showing that the warranty you bought is expired. -1
+A : You can't be serious! -1
+B : You're going to have to pay to have your computer fixed. -1
+
+-1 -1

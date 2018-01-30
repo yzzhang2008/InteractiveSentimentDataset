@@ -1,0 +1,14 @@
+A : I heard that you're looking for an apartment. 0
+B : Yes. Who told you that? 0
+A : A friend of ours told me. 0
+B : Why are you asking? 0
+A : I was asking because I found an apartment. 0
+B : Why are you telling me this? 0
+A : I was wondering if you wanted to sublease with me. 0
+B : I sure would! 1
+A : Since we're subleasing, we can each pay half of the rent. 0
+B : How much is the rent each month? 0
+A : It's $1000 a month. 0
+B : That's wonderful. 1
+
+0 1

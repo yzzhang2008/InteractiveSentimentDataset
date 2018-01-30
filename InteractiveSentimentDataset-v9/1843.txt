@@ -1,0 +1,22 @@
+A : Hello? 0
+B : Hi Linda. This is Mom. 0
+A : Hi Mom. How are you doing? 0
+B : Oh, I'm fine. I'm just planning the menu for the Thanksgiving dinner. 1
+A : What can I help you with this year? 0
+B : Would you like to bring your delicious pumpkin pies again? Everyone loved them last year. 1
+A : Sure. Is there anything else? 0
+B : No, I think your sisters are bringing salads and other side dishes. 0
+A : Ok. Will our cousins be joining us? 0
+B : I don't think so. I think they have to go to visit their In-laws this year. -1
+A : Ok. How many pumpkin pies should I bring? 0
+B : Maybe three? That should be plenty. 0
+A : Ok. Are you roasting a big turkey this year? 0
+B : Yeah, probably around 20 pounds. 0
+A : Wow! That's big. 1
+B : I like having leftovers. I make turkey sandwiches and soups for your Dad. 1
+A : Mom. I have a confession. -1
+B : What is it? Is it serious? 0
+A : I don't make my pumpkin pies. I buy them at the market. -1
+B : Oh, I know. The price tags were on the bottom of the pans. 0
+
+1 0

@@ -1,0 +1,9 @@
+A : I think the owner is going to file for bankruptcy. -1
+B : How do you know? 0
+A : He's been talking to a bankruptcy lawyer. 0
+B : What should we do? 0
+A : We need to start looking for another job. 0
+B : Maybe he's just getting some advice. 0
+A : I'm not taking any chances. -1
+
+-1 0

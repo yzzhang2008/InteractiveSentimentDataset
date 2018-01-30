@@ -1,0 +1,12 @@
+A : We would like you to stop by again so we can show you some more problems that have come up with our apartment. -1
+B : I am kind of busy right now, but maybe later next week I could stop by. -1
+A : We sent you an e-mail the first week we moved in; it listed the problems we found. -1
+B : What problems did you find? 0
+A : The roof leaks when it rains, there is mold on the bedroom walls, and the dishwasher doesn't work. -1
+B : I don't really consider any of that to be my responsibility. You can fix those things yourself. -1
+A : Maintaining basic health and safety standards is your responsibility. -1
+B : I am maintaining the building. You are way too picky! -1
+A : Unfortunately, you won't be getting a rent check unless these problems are fixed by Friday. -1
+B : You wouldn't dare do that! -1
+
+-1 -1

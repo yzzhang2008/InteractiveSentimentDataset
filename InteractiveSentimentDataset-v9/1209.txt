@@ -1,0 +1,13 @@
+A : Whoa, look at all those ice cream choices! 1
+B : Yes, that is a lot of choices. What is your favorite? 0
+A : I love anything with chocolate the best. 1
+B : I like chocolate myself. 1
+A : Is there any kind of ice cream you don't like? 0
+B : I really don't like any ice cream with nuts in it. -1
+A : I haven't ever cared for that myself. 0
+B : Have you ever had garlic ice cream? 0
+A : That sounds absolutely disgusting! -1
+B : It was. Let's stick with the regular choices today, though. 0
+A : OK. 1
+
+0 0

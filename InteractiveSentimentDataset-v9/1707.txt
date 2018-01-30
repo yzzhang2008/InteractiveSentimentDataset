@@ -1,0 +1,14 @@
+A : Don't you think it's nice out? 0
+B : Yes, I think so too. 0
+A : I think that it's going to rain. 0
+B : I hope that it does rain. 0
+A : You like the rain? 0
+B : The sky looks so clean after it rains. I love it. 1
+A : I understand. Rain does make it smell cleaner. 1
+B : I love most how it is at night after it rains. 1
+A : How come? 0
+B : You can see the stars so much more clearly after it rains. 1
+A : I would love for it to rain today. 1
+B : I would too. 1
+
+1 1

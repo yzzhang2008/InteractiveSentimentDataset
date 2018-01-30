@@ -1,0 +1,8 @@
+A : I can't come to work today. -1
+B : What's wrong? 0
+A : I'm not feeling well. -1
+B : Ok. I'll let the boss know. 0
+A : Sorry. -1
+B : Don't be sorry. Just get a lot of rest. 0
+
+-1 0

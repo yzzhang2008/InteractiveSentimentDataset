@@ -1,0 +1,8 @@
+A : Did you hear about Gina Taylor? 0
+B : Yeah. I can't believe she's getting a divorce already. -1
+A : I know. She just got married last month. 0
+B : I thought they would get divorced after one year. -1
+A : Celebrities never stay married. -1
+B : This actually shouldn't be big news. -1
+
+-1 -1

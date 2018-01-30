@@ -1,0 +1,14 @@
+A : Let's go to the animal shelter. 0
+B : What do you want to do? 0
+A : I want to get a puppy for my son. 0
+B : That will make him so happy. 1
+A : I'll get him one of those little dogs. 0
+B : One that won't grow up too big. 0
+A : And eat too much. 0
+B : Do you know which one he would like? 0
+A : Oh, yes, I took him there yesterday. He showed me one that he really liked. 0
+B : I bet you had to drag him away. 0
+A : He wanted to take it home yesterday. 0
+B : I wonder what he'll name it. 0
+
+0 0

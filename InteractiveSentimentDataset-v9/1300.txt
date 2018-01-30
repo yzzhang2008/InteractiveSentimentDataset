@@ -1,0 +1,14 @@
+A : Could I get some beef? 0
+B : What kind of beef would you like to get? 0
+A : Ground beef would be fine. 1
+B : How many pounds would you like? 0
+A : Four pounds is enough. 0
+B : What kind of ground beef do you want? 0
+A : I'm going to need extra lean ground beef. 0
+B : I can get that for you. 1
+A : Thanks so much. 1
+B : You're welcome. 1
+A : Let me go wrap the ground beef up for you. 1
+B : Thanks for everything. 1
+
+1 1

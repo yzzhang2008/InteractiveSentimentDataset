@@ -1,0 +1,14 @@
+A : Do you know any good jokes? 0
+B : I can't remember jokes. 0
+A : Neither can I. 0
+B : They go in one ear and out the other. 0
+A : Who makes up all these jokes? 0
+B : Who knows? But there must be a hundred new ones every day. 0
+A : Yes, just in English alone. 0
+B : I wonder if every language has jokes. 0
+A : Of course! People everywhere like good jokes. 1
+B : What do you think people joke about the most? 0
+A : I think most jokes are about women. 0
+B : Oh, really? I think most jokes are about men. 0
+
+0 0

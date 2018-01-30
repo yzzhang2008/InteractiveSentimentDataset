@@ -1,0 +1,18 @@
+A : Yes, I'm John Smith. What can I do for you? 0
+B : Hi, John. This is Terry Evans here. Do you want some good news? 1
+A : Sure, let me have it. 1
+B : The apartment owner likes you. He approved your rental application. 1
+A : Wow, that's fantastic! I don't know what to say. 1
+B : Now you can't move in, of course, until you've paid some fees. -1
+A : Fees, I don't remember anything about fees. 0
+B : Fees, like the first and last month's rent, and the security deposit. 0
+A : Oh, yes, of course, those fees! 1
+B : You can send me a check for the total--$2,500 plus $1,000 equals a total of $3,500. 0
+A : All I need is your address, and the check will be in the mail pronto. 0
+B : My address is 3035 E. Foothill Blvd., Pasadena, CA 91107. 0
+A : Okay, got it. Now when will he let me move in? 0
+B : Move in when your rent starts, on the first. But get your keys from me first. 0
+A : Okay, give me your phone number, please. 1
+B : You can always reach me, or leave a message, at 626-555-3000. 0
+
+1 0

@@ -1,0 +1,14 @@
+A : Could you help me with a question that I have about the apartment? 0
+B : What can I help you with? 0
+A : I would like to know about the apartment. 0
+B : What exactly did you want to know? 0
+A : I was wondering about the floor plan. 0
+B : You could always take a look at the floor plan. 1
+A : I won't be able to come down to see it anytime soon. -1
+B : Well, if you're too busy, then why don't you just look at it online? 0
+A : That's actually possible? 0
+B : Yes. I'll just give you the website so you can see for yourself. 0
+A : I absolutely love how convenient that is. 1
+B : That's the exact reason why we thought of it. 1
+
+1 1

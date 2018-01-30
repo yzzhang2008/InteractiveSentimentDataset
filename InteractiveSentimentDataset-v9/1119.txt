@@ -1,0 +1,8 @@
+A : I don't like e-books. -1
+B : Why? I love them. 1
+A : I love the smell of paper and the feel of a paperback book. 1
+B : But e-books are so convenient. 1
+A : No, they're not. What if you run out of batteries? -1
+B : I still love it. 1
+
+-1 1

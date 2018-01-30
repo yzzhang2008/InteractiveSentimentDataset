@@ -1,0 +1,7 @@
+A : Oh, we seem to have a bad connection on this phone. -1
+B : Could you speak up, please? 0
+A : I'm talking as loud as I can. -1
+B : I'm going to hang up and call again. 0
+A : All right! -1
+
+-1 0

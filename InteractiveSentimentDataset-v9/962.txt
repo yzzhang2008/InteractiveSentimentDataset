@@ -1,0 +1,14 @@
+A : How are you doing today? 0
+B : Great. What can I help you with? 1
+A : I need to make an appointment for a haircut. 0
+B : Okay. What day would you like to come in? 0
+A : How's Saturday? 0
+B : Let me just check the books. 0
+A : Okay. 1
+B : Yes. We have openings only that morning. 0
+A : Can I make it for 10:30? 0
+B : That'll be fine. 1
+A : Sounds great, thank you. 1
+B : No problem. See you Saturday morning. 1
+
+1 1

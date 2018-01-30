@@ -1,0 +1,14 @@
+A : You got a letter in the mail. 0
+B : Give it to me. 0
+A : What is it? 0
+B : It's my acceptance letter from UCLA. 1
+A : What does it say? 0
+B : I've been accepted! 1
+A : Are you serious? 0
+B : I'm serious. 1
+A : Good for you! 1
+B : NYU was my first choice, but UCLA is just fine. 0
+A : I'm so proud of you. 1
+B : Thanks. I'm proud of myself, too. 1
+
+1 1

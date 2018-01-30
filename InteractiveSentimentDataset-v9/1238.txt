@@ -1,0 +1,8 @@
+A : B, your English is so good now. 1
+B : I've been going to ESL classes at night. 0
+A : I am very impressed. 1
+B : Thank you. I have a question to ask you. 1
+A : Please ask me. 0
+B : Would you like to go on a date? 0
+
+1 1

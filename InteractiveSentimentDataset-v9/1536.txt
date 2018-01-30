@@ -1,0 +1,8 @@
+A : Who are you talking to? 0
+B : My boyfriend. 0
+A : We're not allowed to make personal calls at work. 0
+B : I'll make it short. 0
+A : You've been on the phone for over an hour. 0
+B : Have you been listening to me? -1
+
+0 -1

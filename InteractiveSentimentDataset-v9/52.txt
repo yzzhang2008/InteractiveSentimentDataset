@@ -1,0 +1,14 @@
+A : Hi, Nicole. This is Jimmy in 309. 0
+B : Hello, Jimmy. Can I help you? 0
+A : I've got a little problem. -1
+B : Tell me your problem, and maybe I can help. 0
+A : I've looked everywhere, but I can't find my mailbox key. -1
+B : Well, that's pretty minor. I lost my car keys and house keys once. 0
+A : As if that wasn't bad enough, I also misplaced the duplicate. -1
+B : Well, if it's an emergency, come by here and I'll lend you a key. 0
+A : No, even if there's a bill in there, it can wait. 0
+B : If you don't mind waiting until Wednesday, I'll make two more keys for you. 0
+A : Oh, I can wait, believe me. 1
+B : Okay, see you Wednesday. They're not free, you know. It'll be $4. 0
+
+1 0

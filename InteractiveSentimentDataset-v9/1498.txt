@@ -1,0 +1,8 @@
+A : I went to a networking event yesterday. 0
+B : Did you meet a lot of people? 0
+A : Yes. There were recruiters from many companies. 0
+B : Were they helpful? 0
+A : Yes. They were generous with their time. They gave us all really good advice. 1
+B : That's great to hear. 1
+
+1 1

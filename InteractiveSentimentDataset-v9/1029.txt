@@ -1,0 +1,14 @@
+A : I'm in love with that girl. 1
+B : Have you told her? 0
+A : Of course not. 0
+B : Why not? 0
+A : She would laugh at me. -1
+B : How do you know? 0
+A : Because they always do. 0
+B : Maybe she's different. 0
+A : They're all the same. -1
+B : Just ask her out to dinner. 0
+A : And then what? 0
+B : And then she'll know that you like her. 0
+
+-1 0

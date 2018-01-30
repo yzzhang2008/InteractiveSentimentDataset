@@ -1,0 +1,12 @@
+A : I was wondering if you need any help on your new project. 0
+B : Sure! That would be great! Are you good at writing or would you rather do the computer work? 1
+A : I would like to help with the computer work. 0
+B : Great! We are going to be working in teams of three. Are you OK working with others? 1
+A : Yes, I like working like that. 1
+B : We will begin next Monday. Would you be available then? 0
+A : Yes, I can be there. 0
+B : Well, if you could send me your basic background information before next Monday, it would be useful. 0
+A : I will send the information to you. 0
+B : Well then, thanks for your help. Have a great day! 1
+
+0 1

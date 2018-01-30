@@ -1,0 +1,8 @@
+A : What kind of work do you do? 0
+B : I run my own business. 0
+A : What kind of business? 0
+B : I have a website that teaches English to non-native speakers. 0
+A : Wow! That's cool! How do you make money? 1
+B : Advertisements, downloads, and software purchases. 1
+
+1 1

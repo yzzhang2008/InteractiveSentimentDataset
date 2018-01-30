@@ -1,0 +1,11 @@
+A : Our company does not have very good perks. -1
+B : We have vacation time. 1
+A : My friend's company has paid vacation time plus bonuses, retirement plans, gym memberships, maternity leave, and much more. 1
+B : Wow! We don't get any of those. -1
+A : I know! -1
+B : Maybe we should try to get a job there. 0
+A : I've tried. I applied three times and had no luck. -1
+B : Why? 0
+A : There are thousands of applicants every month. -1
+
+-1 0

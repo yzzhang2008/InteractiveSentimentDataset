@@ -1,0 +1,8 @@
+A : Let's stretch our brand. 0
+B : What do you mean? 0
+A : Our clothes are popular, so let's make shoes too. 1
+B : Do you mean have a clothing and shoe line under the same brand name? 0
+A : Yes! I know a shoe designer who wants to work with us. 1
+B : Ok! Let's get started on it. 1
+
+1 1

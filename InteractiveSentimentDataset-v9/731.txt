@@ -1,0 +1,12 @@
+A : Excuse me, Professor. I have to talk to you about why my homework didn't get done. 0
+B : What happened that you didn't get it done? 0
+A : I had to watch a football game instead. 0
+B : Well, you had more than one day; couldn't you have fit it in on another day? -1
+A : Yes, I think so. 0
+B : Either way, I only allow one missed assignment per semester. When will you be turning the make-up in? 0
+A : I'll make it up next week. 0
+B : Fine, but it cannot happen again if you want an A in the class. -1
+A : OK, I can do that. 0
+B : Remember that you are in college now, not high school. -1
+
+0 -1

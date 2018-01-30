@@ -1,0 +1,14 @@
+A : Now I've decided to buy this car, how do I transfer the title to myself? 0
+B : Actually, your best bet is to contact the Automobile Club or to go to the DMV website. 0
+A : Basically, what will I need to do? 0
+B : Both buyer and seller need to transfer the ownership by filling out a Change of Ownership form and signing over the Certificate of Title, which will be either pink or rainbow. 0
+A : Will I have to pay any fees? 0
+B : All of the transfer fees are the responsibility of the buyer. 0
+A : How much will it cost to transfer the title? 0
+B : The DMV has a special formula that they use to calculate the fees. They will figure it out for you. 0
+A : Do I need a Smog Certificate? 0
+B : No, only if your car was manufactured before 1975. 0
+A : Where do I take my forms? 0
+B : You can take them to the DMV. You have ten days to complete the process. 0
+
+0 0

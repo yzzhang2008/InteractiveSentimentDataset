@@ -1,0 +1,12 @@
+A : I was wondering if I could collect unemployment benefits. 0
+B : Did you get laid off? 0
+A : I am still working for now, but I might get laid off. 0
+B : You may collect unemployment if you are working fewer hours or got laid off. 0
+A : Does everyone who gets laid off get to collect unemployment? 0
+B : No, some jobs are exempt from paying into unemployment. 0
+A : How can I find out if I can collect? 0
+B : Your employer can tell you if you have been paying into unemployment and now qualify to collect. 0
+A : How will I know how much I can collect on unemployment? 0
+B : It depends on how much you earned. When you file, they will determine the amount. 0
+
+0 0

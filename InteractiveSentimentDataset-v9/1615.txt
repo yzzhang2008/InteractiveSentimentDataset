@@ -1,0 +1,12 @@
+A : I keep hearing about curb appeal and want to know how to achieve it. 0
+B : The paint job on your home looks pretty good, but I would touch up the wooden trim a little where you have some peeling spots. 1
+A : I am not so sure that everyone will like the landscaping. 0
+B : Your lawn is a disaster! To get top dollar for your home, you should replace it. -1
+A : Is there anything I can do to add some interest to my front yard? 0
+B : You have beautiful plants in your yard, although some of them aren't in bloom right now. Just add a few colorful flowers in pots. 1
+A : Is the appearance of the backyard important? 0
+B : If you can borrow some really nice patio furniture to show off your lovely patio, that would be nice. 1
+A : Any final suggestions on how I can make the exterior of my house even more appealing? 0
+B : Having your trees and bushes trimmed could be a good investment. 1
+
+0 1

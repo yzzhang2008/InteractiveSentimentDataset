@@ -1,0 +1,8 @@
+A : Where's Bill? 0
+B : He's late. -1
+A : Again? He's late for work almost every day. -1
+B : I know. He says he has car troubles. -1
+A : Is it his brakes again? -1
+B : No. This time it's the transmission. -1
+
+-1 -1

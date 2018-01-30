@@ -1,0 +1,12 @@
+A : Would it be all right if I asked you a few questions about your in-flight instructions? 0
+B : I would love to help clarify any questions you might have. 1
+A : When you were talking about the nearest exit, what were you talking about? 0
+B : There's a card in this seat pocket that shows you where your nearest exit is. Your nearest exit is right here. 0
+A : What if I need an oxygen mask? 0
+B : The oxygen mask is above you and will drop down if you need it. 0
+A : Where are the life jackets? 0
+B : You will find your life jacket under your seat if you need it. Also, you have a seat cushion that can be used as a flotation device. 0
+A : If I want to be safe, what can I do? 0
+B : Keep your seatbelt fastened at all times. If you fall asleep, keep it fastened loosely around you in case we hit turbulence unexpectedly. 0
+
+0 0

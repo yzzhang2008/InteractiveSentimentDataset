@@ -1,0 +1,14 @@
+A : I wanted to ask you a few questions. 0
+B : What about? 0
+A : They are pertaining to the neighborhood that the apartment is in. 0
+B : Sure. What would you like to know? 1
+A : What can you tell me about the neighborhood? 0
+B : In all honesty, the neighborhood could be a little nicer. -1
+A : What do you mean by that? 0
+B : The neighborhood streets are a little dirty. -1
+A : Is there anything else wrong with the neighborhood? -1
+B : That's just about it. 0
+A : Hopefully the cleanliness problem will get better. 1
+B : I hope so, too. 1
+
+0 -1

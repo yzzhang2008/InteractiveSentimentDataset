@@ -1,0 +1,8 @@
+A : Have you read Romeo and Juliet by William Shakespeare? 0
+B : Yes. It's my favorite book. 1
+A : I've never read it. 0
+B : You should read it. I have the book. 1
+A : Could you lend it to me? 0
+B : Of course. Let me know what you think about it. 1
+
+0 1

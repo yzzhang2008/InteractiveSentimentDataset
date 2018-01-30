@@ -1,0 +1,9 @@
+A : You looked tired. Didn't you get enough sleep last night? -1
+B : No, I had a bunch of my friends over, and we partied until the wee hours. 0
+A : No wonder you look so bad! -1
+B : I guess I just can't take late nights like I used to. My head is spinning, and I have a migraine. -1
+A : I think you need to go home and take a rest. 0
+B : I wish I could, but I don't think I can keep my eyes open long enough to drive home. -1
+A : Don't worry! I'll give you a ride home. But next time, watch the partying, OK? 0
+
+0 -1

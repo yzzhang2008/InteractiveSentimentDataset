@@ -1,0 +1,12 @@
+A : I need help figuring out how to use this phone. 0
+B : Sure. First you pick up the receiver and hit one of the first 3 buttons. Do you hear a tone? 0
+A : Yes, I hear the tone. 0
+B : OK. Now you dial 9 on the keypad. Do you hear the tone change? 0
+A : Yes, it changed. 0
+B : Well, when you hear it change, that means you have an outside line. Where are you trying to call? 0
+A : I am trying to call home. 0
+B : OK. Well, to dial to the outside you just now dial the number. For a call inside the company just hit the extension number. Do you know the extensions? 0
+A : Yes, I have a list of extensions. 0
+B : Well, if you ever need help with an extension, you can dial O. 0
+
+0 0

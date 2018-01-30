@@ -1,0 +1,13 @@
+A : Do you know which bus I can take to PCC? 0
+B : Tell me where you need to get on at. 0
+A : I live on Las Flores and Fair Oaks. 0
+B : If you don't mind walking, I know a bus you can take. 0
+A : I'm okay with walking. 1
+B : Walk all the way down Fair Oaks, and catch the 267 on Altadena Drive. 0
+A : Do you know which direction it should be heading? 0
+B : You have to catch it going west. 0
+A : Which stop do I get off on? 0
+B : You need to get off on the corner of Del Mar and Hill. 0
+A : Thank you for telling me. 1
+
+1 0

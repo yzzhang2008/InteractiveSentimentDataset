@@ -1,0 +1,14 @@
+A : May I ask you a quick question? 0
+B : Of course. 0
+A : How would you like to go on a date with me this Friday? 0
+B : Seriously? 0
+A : Well, I figured that we could go see a movie and get some dinner. 0
+B : Cool, that sounds like it will be fun. 1
+A : We can always do something else if you'd rather. 0
+B : Not at all. I would love to go to dinner and a movie. 1
+A : That's great, so what time do you want me to come get you? 1
+B : Is 7:30 okay? 0
+A : Friday at 7:30 sounds perfect. 1
+B : Great. See you then. 1
+
+1 1

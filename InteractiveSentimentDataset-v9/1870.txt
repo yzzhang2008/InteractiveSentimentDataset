@@ -1,0 +1,7 @@
+A : What took you so long? 0
+B : There was an accident on the freeway, and traffic was bumper to bumper. -1
+A : Oh, yeah, I just learned from the news on the radio that there was a serious accident involving a truck. 0
+B : That's right. Traffic was brought to a standstill. -1
+A : Anyway, thank Heaven that you arrived safe and sound. But, we'd better get going. We're running a little bit late. 0
+
+0 -1

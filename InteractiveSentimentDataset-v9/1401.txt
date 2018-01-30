@@ -1,0 +1,12 @@
+A : What seems to be the problem? 0
+B : Oh, my God! It's my stomach. It's killing me! -1
+A : Where does it hurt the most? 0
+B : Right here! It hurts right here! -1
+A : How long has it felt like this? 0
+B : I felt OK when I woke up, and then, suddenly, I had this really sharp pain. -1
+A : Do you have a history of stomach pain? 0
+B : No, and I haven't done anything out of the ordinary. 0
+A : I think that we are going to have to get you to an emergency room right away. 0
+B : Thank you for helping me. 1
+
+0 -1

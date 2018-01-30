@@ -1,0 +1,12 @@
+A : I want to buy a plane ticket. 1
+B : I can help you make your reservation. What is your destination? 1
+A : My final destination is Sydney, Australia. 0
+B : What is your travel date? 0
+A : I am making a reservation for December 12th. 0
+B : Would you prefer to leave from Los Angeles International or Burbank Airport? 0
+A : I want to fly out of Burbank Airport. 1
+B : Would you rather fly in the morning or later in the day? 0
+A : I need an afternoon flight. 0
+B : I have you booked on a flight in the afternoon. Your tickets will arrive in the mail within 3 days. 0
+
+1 0

@@ -1,0 +1,14 @@
+A : Can you believe that Obama was actually elected? 0
+B : I can believe it, and I am very excited about it. 1
+A : I hope you voted for him. 1
+B : Of course I did. Didn't you? 1
+A : Of course! 1
+B : I have total faith in Obama as our President. 1
+A : You do? 1
+B : Yeah. I have faith that he will help America turn over a new leaf. 1
+A : Our country really could use some work. 1
+B : I believe that change has already begun. 1
+A : I couldn't agree more. 1
+B : I no longer need to worry about what will happen with this country. 1
+
+1 1

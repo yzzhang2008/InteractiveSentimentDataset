@@ -1,0 +1,14 @@
+A : You received a letter in the mail. 0
+B : Give it here. 0
+A : Who's the letter from? 0
+B : I think it's my acceptance letter from NYU. 0
+A : I want to know what it says. 0
+B : They didn't accept me. -1
+A : Are you serious? -1
+B : It's the truth. -1
+A : Are you okay? 0
+B : I really wanted to get into NYU. -1
+A : I am really sorry to hear that. -1
+B : It's okay. I'm still waiting to hear from UCLA anyway. -1
+
+-1 -1

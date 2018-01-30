@@ -1,0 +1,14 @@
+A : I need your help with something. 0
+B : What's wrong? 0
+A : I somehow locked myself out of my apartment. -1
+B : How did you lock yourself out? 0
+A : I'm really not sure. -1
+B : Where's your key? 0
+A : I locked it inside the house. -1
+B : I do have a spare key to your door. 0
+A : May I use it, please? 0
+B : Okay, but once you get in, bring my key right back. 1
+A : I will, and thank you so much. 1
+B : Make sure to keep your key with you next time. 0
+
+1 0

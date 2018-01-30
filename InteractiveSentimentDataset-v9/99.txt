@@ -1,0 +1,16 @@
+A : I'd appreciate it if you could help me pick out a gift for my daughter. 1
+B : Would she be interested in a laptop? 0
+A : That's exactly what I was thinking of. 1
+B : A Mac would be an excellent gift. 1
+A : I like Macs. How much for a Mac? 1
+B : You can take a 15-inch Pro home right now for only $2,100. 0
+A : A Mac it is. I'll take one home with me. 1
+B : She'll be very happy with this. And how do you plan to pay for it? 1
+A : I'll use my VISA, if that's okay. 1
+B : Now, if you'll just sign here, the Mac is all yours. 1
+A : Will she need anything besides what's in this box? 0
+B : Everything she needs is right here in the box. 1
+A : I appreciate your help. Maybe I'll be back for more computer stuff. 1
+B : Your daughter should get straight A's from now on. Good-bye. 1
+
+1 1

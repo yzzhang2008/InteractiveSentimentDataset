@@ -1,0 +1,14 @@
+A : Were you able to get a look at the suspect's face? 0
+B : Yes. I know exactly what he looks like. 1
+A : I must ask you to pick him out of a line-up. 0
+B : That won't be a problem. 1
+A : Look closely at the five men in this line-up. 0
+B : I am looking. 0
+A : Do you see the suspect? 0
+B : Yes. He's in the line-up. 0
+A : What number is the suspect? 0
+B : Number four. 0
+A : Thank you for all your help. 1
+B : It was no problem at all. 1
+
+1 1

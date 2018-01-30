@@ -1,0 +1,8 @@
+A : There was a bank robbery downtown. -1
+B : Did anyone get hurt? 0
+A : I don't know yet. -1
+B : Have they caught the robbers? 0
+A : No, the police are looking for them. -1
+B : We better lock our doors. -1
+
+-1 -1

@@ -1,0 +1,14 @@
+A : I need to find a new furniture set for my living room. 1
+B : Where are you going to find one? 0
+A : I have no idea. -1
+B : Do you want to know where I bought mine? 0
+A : Where did you get it from? 0
+B : I got it from IKEA. 1
+A : How much did it cost you? 0
+B : It cost me a couple thousand for the whole set. 0
+A : Is the furniture sturdy? 0
+B : The furniture is built extremely well. 1
+A : I don't mind paying a lot as long as the quality is good. 1
+B : Well, trust me. The quality is fantastic. 1
+
+1 1

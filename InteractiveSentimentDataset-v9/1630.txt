@@ -1,0 +1,12 @@
+A : I heard that the potential buyer is interested in me carrying part of a loan for him. 1
+B : Carrying part of a loan can be a good or a bad thing, depending on the circumstances. 0
+A : What would be an advantage of me carrying a note on the house? 0
+B : If you don't need the money right away, you can earn a fairly good interest rate. 1
+A : Why does my buyer want me to carry part of his loan? 0
+B : In this economy, buyers sometimes have trouble getting a loan even when they have good credit. 0
+A : What are the risks to me? 0
+B : The risk is that the market could drop drastically and the owner would walk away. 0
+A : How long will I need to commit to financing this loan? 0
+B : You need to make an agreement with the buyer as to how long you will carry this note. 0
+
+0 0

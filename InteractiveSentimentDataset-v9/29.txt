@@ -1,0 +1,24 @@
+A : Hello, Albert here. 0
+B : Hi, Albert. I'm Jack. Are you still thinking about renting a room? 0
+A : Yes, I need a room badly. 1
+B : Can I ask you a few questions? 0
+A : I'm an open book. 1
+B : I want to make sure that we get along okay. 0
+A : I'm with you. We both need to live in harmony. 1
+B : Do you like to drink and party? 0
+A : I hate noise, and I hate loud people. -1
+B : Excellent. Now, do you leave a trail of trash wherever you go? 1
+A : A place for everything, and everything in its place. 1
+B : Do you keep normal hours? 0
+A : I'm usually asleep before the 11 o'clock news. 0
+B : You don't have a cigarette habit, do you? 0
+A : Cigarette smoking is the dumbest habit in the world. -1
+B : I like your answers. Now, are there any questions you'd like to ask me? 1
+A : Yes, is the parking off street, or on street? 0
+B : You're not going to like this. It's street parking only. -1
+A : That figures, nothing is perfect. But, I'll take it. 1
+B : You know, I think we're going to hit it off. Call me when you're coming over. 1
+A : I can get all packed tonight and be there tomorrow. 1
+B : Just come on over anytime. I'll be here the whole day. 1
+
+1 1

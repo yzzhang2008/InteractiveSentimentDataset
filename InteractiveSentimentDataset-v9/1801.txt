@@ -1,0 +1,14 @@
+A : Did you hear what happened at the baseball game? 0
+B : No, please tell me. 0
+A : Someone punched out someone. 0
+B : That's not nice. -1
+A : It's worse than that. -1
+B : How so? 0
+A : Two guys got into an argument. -1
+B : I'll bet they were drinking. 0
+A : A third guy punched one of the two guys. 0
+B : I'll bet he was drinking, too. 0
+A : The victim hit his head on the concrete steps and died. -1
+B : That is terrible. Can't people just have fun at a baseball game? -1
+
+-1 -1

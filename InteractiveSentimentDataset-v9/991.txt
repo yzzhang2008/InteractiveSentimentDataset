@@ -1,0 +1,14 @@
+A : What does it cost to ride this bus? 0
+B : The fare is $1.25. 0
+A : Have you been driving buses a long time? 0
+B : I haven't been driving for long, only for a few months. 0
+A : Do you like to drive the bus? 0
+B : Not in the least bit. -1
+A : I would have never dreamed of ever becoming a bus driver. -1
+B : Me too. -1
+A : It was really fun chatting with you. 1
+B : It was really nice talking to you too. 1
+A : Have a good one. 1
+B : I'll have a good day once this day is over. 1
+
+1 1

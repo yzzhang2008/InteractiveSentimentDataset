@@ -1,0 +1,11 @@
+A : What do you do for fun? 0
+B : I'm fond of watching movie. What about you? 1
+A : So do I. But I only enjoy certain movies such as documentary, science and action movies. 1
+B : What movie do you like the most? 0
+A : Romantic films. Because they refresh my mind. What makes you interested in science, documentary , and action films. 1
+B : Sometimes people get ideas from the movie they watch. I like to imagine something. It makes me more creative. Ideas cost nothing to produce, but sometimes it produces millions. 1
+A : I agree with you. I can also get the moral guide to solve various issues in life through films. 1
+B : But we should be selective in choosing movie for children or young people. 0
+A : Absolutely. 1
+
+1 1

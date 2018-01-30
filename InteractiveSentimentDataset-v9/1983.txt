@@ -1,0 +1,12 @@
+A : I am flying out today and need to know where I should begin checking in. 0
+B : If you only have a carry-on and already have a ticket, you may proceed directly to the gate to check in. 0
+A : Do you know what gate my plane is leaving from? 0
+B : Check on the screens when you go through baggage inspection for your airline. 0
+A : I need to know what the restrictions are for carry-on luggage contents. 0
+B : Check out the list of banned carry-on materials on the signs inside the airport. 0
+A : I have a lot of time to kill before my flight departs and want my friend to keep me company. 0
+B : For security purposes, only ticketed passengers can go to the gate. 0
+A : Can my friends pick me up here when I return? 0
+B : The curbside area is a departure area only. Arrivals are downstairs. 0
+
+0 0

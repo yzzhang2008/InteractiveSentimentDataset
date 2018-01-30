@@ -1,0 +1,14 @@
+A : Hello, I was just responding to your ad. 0
+B : Which ad is that? 0
+A : The ad for a roommate. 0
+B : Great. Are you interested? 1
+A : I sure am. 1
+B : Can we meet today? 0
+A : Of course, just tell me when and where. 1
+B : Why don't you meet me at 5:30 at Starbucks? 1
+A : That'll be perfect. 1
+B : We'll discuss the living situation and payments at that time. 0
+A : That'll be fine. 1
+B : Okay, I'll see you then. 1
+
+1 1

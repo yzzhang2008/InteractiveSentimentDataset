@@ -1,0 +1,12 @@
+A : I need to see if I qualify for a home loan. 0
+B : I can help you. How much money do you make per year? 1
+A : I make around one hundred thousand dollars per year. 0
+B : How long have you been on your current job? 0
+A : I have only worked at this job for 6 months, but I have a longer job history elsewhere. 0
+B : Do you have any other outside income from rental property or a trust? 0
+A : No, I only receive my salary. 0
+B : Do you know your credit score? 0
+A : I think that it is around 600. 0
+B : By crunching the numbers and putting in your expenses, I estimate that you can afford a house of around five hundred thousand dollars. 0
+
+0 0

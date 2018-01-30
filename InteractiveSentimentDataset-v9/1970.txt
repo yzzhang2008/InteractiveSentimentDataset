@@ -1,0 +1,12 @@
+A : If you are free, I was wondering if you could give me a ride to the airport this afternoon. 0
+B : Sure, I'll give you a ride. What time do you need to get there? 1
+A : I need to leave my house at 2:00 so I can get to the airport two hours before my flight. 0
+B : How much luggage are you bringing? 0
+A : I have my carry-on, a purse, and a large suitcase. 0
+B : I won't have to drive our larger car then. Do you know where your terminal is? 0
+A : I need to be dropped off on the second level of the International Terminal since I am flying to Sydney on Singapore Air. 0
+B : Do you want me to go in with you at the airport to help you pass the time before you leave? 0
+A : I would like that. 1
+B : I'll drop you off wherever you need to be dropped off. See you later! 1
+
+1 1

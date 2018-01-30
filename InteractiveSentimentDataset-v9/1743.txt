@@ -1,0 +1,14 @@
+A : Have you heard what happened? 0
+B : Heard what? 0
+A : Debrah already had her baby. 0
+B : I didn't know that. 0
+A : I thought you knew. 0
+B : I honestly didn't know. -1
+A : The baby was 8 pounds 6 ounces. 0
+B : That's good to hear. 1
+A : Will you go and visit them? 0
+B : Of course I will. 1
+A : I just wanted to give you the good news. 1
+B : Thanks for letting me know. 1
+
+1 1

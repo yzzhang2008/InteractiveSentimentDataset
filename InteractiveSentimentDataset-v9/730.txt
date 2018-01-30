@@ -1,0 +1,12 @@
+A : Professor, do you have a few moments when I could meet with you? 0
+B : I schedule my appointments from two to four on Saturday; what works best for you? 0
+A : Three would be a good time. 1
+B : Great, do you need directions to my office? 1
+A : I'm not sure. -1
+B : Well, just make sure to go through the double doors, and I'll be on the right. 0
+A : OK, I'll find it. 1
+B : It's very easy to find. 1
+A : See you then. 0
+B : I will enjoy seeing you; have a good week! 1
+
+1 1

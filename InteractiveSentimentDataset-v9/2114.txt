@@ -1,0 +1,8 @@
+A : Should I tell EDD that I have found a job? 0
+B : Is this a temporary job or something more permanent? 0
+A : What difference does it make? 0
+B : When you get your next Continued Claim Form, you should just write down where you worked and note that you no longer need unemployment. 0
+A : If I take a short job and then get laid off, will I be starting over trying to get unemployment? 0
+B : Just because you work for a week doesn't mean that you will be losing your benefits. 0
+
+0 0

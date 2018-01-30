@@ -1,0 +1,12 @@
+A : Would you help me figure out what to do about the office party? 0
+B : I would be happy to help. What would you like me to help with, food or entertainment? 1
+A : I would like to help you with both. 0
+B : That will work out fine. To make sure everything goes together, do you think this party should be casual or dressy? 0
+A : A dressy party would be fun! 1
+B : That will work out fine. Do you think that Chinese or Continental food would be best? 1
+A : We should probably have both. 0
+B : Yes, that will work out fine. Should we hire a band or bring in a DJ? 1
+A : Maybe we could do both! 1
+B : Everything sounds great then! I'll meet you back here on Friday to discuss the details. 1
+
+1 1

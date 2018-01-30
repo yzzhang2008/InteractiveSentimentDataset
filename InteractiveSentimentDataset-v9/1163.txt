@@ -1,0 +1,11 @@
+A : This is Jason Brack calling, is Mr. Wallace in? 0
+B : Yes, how may I help you? 0
+A : I am calling you from the Xenon Company. 0
+B : Yes, I was hoping to hear from you! 1
+A : You had great interview and we are pleased to be able to offer you a position. 1
+B : Excellent. I will consider it an honor to join your organization. 1
+A : Would two weeks from now be a good start date for you? 0
+B : That would be great. I could give notice to my current job and start with you on that date. 1
+A : Glad that will work for both of us; I look forward to seeing you then. 1
+
+1 1

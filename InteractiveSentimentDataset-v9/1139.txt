@@ -1,0 +1,8 @@
+A : What happened just now, B? You werne't very kind when you were talking with Ted. What do you have against him? -1
+B : I just don't like him at all. -1
+A : Why? Is there something in particular? 0
+B : Well, he has such a mean streak in him! I went to his office to ask him for some help, and he simply turned up his nose at me! I was so angry that I wanted to slap him! He wasn't like that before he got the job. Now he's such a snob! -1
+A : You want my advice? Let it go. 0
+B : Of course, logically I know you're right, but somehow I just can't bring myself to forget it. Even the mention of his name starts me fuming. -1
+
+0 -1

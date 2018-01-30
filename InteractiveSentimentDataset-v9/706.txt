@@ -1,0 +1,16 @@
+A : B, are you going to join the Choir Club? 0
+B : No, A. I'm not. -1
+A : Why? You have such a beautiful voice. 1
+B : I'm too shy. -1
+A : You sing so well. You could probably get a solo. 1
+B : Thanks for the compliment. I'm scared to sing in front of an audience. -1
+A : You're wasting your talent. If I could sing like you, I would join the Choir. -1
+B : My mom said the same thing. 0
+A : You should think about it again. 0
+B : What if I get on stage and I freeze. -1
+A : Maybe this is great way to overcome your fear. 1
+B : I do love singing. 1
+A : Then you should join. You'll make a great addition to the club. 1
+B : Ok. Let me think about it. 1
+
+1 1

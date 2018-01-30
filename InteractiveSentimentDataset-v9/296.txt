@@ -1,0 +1,12 @@
+A : This apartment is great, but could I upgrade a few things? 1
+B : What are you unhappy with? -1
+A : I want to have a different color carpet. 1
+B : If you agree to pay more money, you could upgrade the carpet. 1
+A : Would it cost a lot more? 0
+B : It could be as little as 2 dollars or as much as 10 dollars more per square yard. 0
+A : I was also wondering if it would be possible to pick a different paint color. 0
+B : Bring me a paint sample to look at, and I will consider it. 0
+A : When can you finish with the new carpet and paint? 0
+B : Your new apartment can be recarpeted and repainted by next Tuesday. 0
+
+0 0

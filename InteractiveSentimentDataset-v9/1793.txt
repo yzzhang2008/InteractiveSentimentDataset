@@ -1,0 +1,14 @@
+A : Can we go to the baseball game? 0
+B : Of course. 0
+A : I love baseball. 1
+B : So do I. 1
+A : I love to eat the peanuts. 1
+B : I love to eat the hot dogs. 1
+A : I hope we'll see a home run. 0
+B : I hope we'll catch a foul ball. 0
+A : Bring a jacket. 0
+B : Yes. It gets a little cool at night. 0
+A : Bring a glove to catch a foul ball. 0
+B : No. I'll just use my cap to catch a foul ball. 0
+
+1 1

@@ -1,0 +1,14 @@
+A : May I help you? 0
+B : I needed to ask you a question. 0
+A : Ask away. 0
+B : How many hours of the behind-the-wheel course do I need to take? 0
+A : Why do you need to take the course? 0
+B : I want to get my license. 0
+A : You have to do six hours behind the wheel. 0
+B : How many days do I need to finish the course? 0
+A : You can't finish in less than three days. 0
+B : Is that all? 0
+A : There's nothing else to it. 0
+B : That sounds easy enough. 1
+
+0 1

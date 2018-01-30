@@ -1,0 +1,8 @@
+A : I can't believe you're on social media again. -1
+B : I'm reading the news. 0
+A : These people are your friends. They're not reporters. 0
+B : They post what's going on in the news. 0
+A : That's not real news. -1
+B : It's more fun than the news channels. Real news is boring. -1
+
+-1 -1

@@ -1,0 +1,18 @@
+A : Susie, I'm picking you up from school early today. 0
+B : Why Mom? 0
+A : You have a dentist appointment. 0
+B : I don't want to go. -1
+A : It's just a check-up. 0
+B : But it hurt last time. -1
+A : That is because you had a cavity. 0
+B : But I brush my teeth every day. -1
+A : I know, but you eat too much candy. -1
+B : I hope I don't have any cavities this time. -1
+A : Me too. 0
+B : What time are you picking me up? 0
+A : 2 o'clock. 0
+B : Ok. I'll tell my teacher. 1
+A : I will also call the school office. 0
+B : Ok. I'll see you later. 1
+
+0 -1

@@ -1,0 +1,14 @@
+A : Did you ever get a parking ticket? 0
+B : Only a few. 0
+A : What's a few? 0
+B : I've gotten six, I think. 0
+A : Did you pay your fines? 0
+B : Of course I have. 0
+A : How much are the parking tickets? 0
+B : I think they're $130. 0
+A : That's expensive. -1
+B : I just got a parking ticket. 0
+A : You should probably pay the fine soon. 0
+B : I'm going to pay it today. 0
+
+0 0

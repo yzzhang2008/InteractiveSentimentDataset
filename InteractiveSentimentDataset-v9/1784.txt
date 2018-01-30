@@ -1,0 +1,14 @@
+A : What do you think about going to the beach tonight? 0
+B : I'd love to. Which beach? 1
+A : It's up to you, but I was thinking Malibu beach. 0
+B : I really like Santa Monica beach. 1
+A : But the water there doesn't look too clean. -1
+B : I only go because of the pier. 0
+A : The pier is really nice at night. 1
+B : How is it at Malibu beach? 0
+A : I love Malibu beach, because it's so beautiful. 1
+B : So is Malibu where you really want to go? 0
+A : Are you cool with that? 0
+B : Yeah, we can go to Malibu. 0
+
+1 1

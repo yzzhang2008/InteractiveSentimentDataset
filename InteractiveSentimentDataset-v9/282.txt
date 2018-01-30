@@ -1,0 +1,14 @@
+A : What do you think of the apartment? 0
+B : I like it, but there is one problem. -1
+A : What problem is that? 0
+B : The faucet in the kitchen is leaking. -1
+A : I don't understand what the big deal is. 0
+B : That leak is a problem for my water bill. -1
+A : What you would like me to do about it? 0
+B : The leak must be fixed. 0
+A : I won't be able to fix it at the moment. -1
+B : I will not rent the apartment with that leaking faucet. -1
+A : If that's the case, then I will fix the faucet. -1
+B : Thanks for understanding. 1
+
+-1 1

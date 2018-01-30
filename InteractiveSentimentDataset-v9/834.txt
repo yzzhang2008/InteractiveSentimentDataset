@@ -1,0 +1,12 @@
+A : Are you okay? 0
+B : No. -1
+A : What's wrong? 0
+B : I got robbed! -1
+A : By who? 0
+B : Some guy on the street just mugged me. -1
+A : Are you hurt? -1
+B : No, he just stole all of my things. -1
+A : That's crazy. -1
+B : I need to go to the police station. -1
+
+-1 -1

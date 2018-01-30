@@ -1,0 +1,12 @@
+A : Can you help us design a new logo? 0
+B : Sure. What kind of logo? 0
+A : We're launching a new brand of clothing. 0
+B : What kind of clothing are you launching? 0
+A : We are making children's clothes. 0
+B : Ok. What kind of logo are you interested in? 0
+A : We want the logo to be unique, but cute. 1
+B : I can do that. Are the clothes for girls or boys? 1
+A : Both. 0
+B : Ok. I will create a design and email it to you soon. 1
+
+1 1

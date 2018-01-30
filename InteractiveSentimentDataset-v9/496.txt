@@ -1,0 +1,14 @@
+A : How are you? 1
+B : I'm fantastic. 1
+A : What can I help you with? 1
+B : Could you answer a question for me? 0
+A : What would you like to know? 0
+B : I need to order checks. How do I do that? 0
+A : You can do that right now, if you want to. 1
+B : Let me do that now. 1
+A : I'm just going to need you to fill out this application. 0
+B : What do I do next? 0
+A : You will receive your checks in the mail in about a week. 0
+B : I've finished my application. Thank you so much. 1
+
+0 1

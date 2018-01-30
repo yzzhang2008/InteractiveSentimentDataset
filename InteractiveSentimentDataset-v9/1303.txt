@@ -1,0 +1,12 @@
+A : What do you plan on making as a side dish for dinner? 0
+B : I was planning on making some kind of vegetable. 0
+A : Do you know what kind? 0
+B : What kind of vegetable do you want? 0
+A : I wouldn't mind eating some corn. 0
+B : How do you want it? 0
+A : What do you mean? 0
+B : I can boil it, grill it, or microwave it. 0
+A : You should throw some corn on the grill. 0
+B : OK. 0
+
+0 0

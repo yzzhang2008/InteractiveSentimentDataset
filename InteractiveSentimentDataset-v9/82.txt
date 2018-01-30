@@ -1,0 +1,12 @@
+A : Can I return this radio, please? 0
+B : Sure. Do you have your receipt? 0
+A : I misplaced it somewhere. -1
+B : Unfortunately, I cannot give you a refund without it. -1
+A : But I bought it right here just yesterday. 0
+B : I'm sorry, but there are no exceptions. -1
+A : Someone must be able to help me. -1
+B : Someone in customer service might be able to help you. 1
+A : Yes, if anyone can help me, it's customer service. 1
+B : Just take the escalator upstairs. 1
+
+1 1

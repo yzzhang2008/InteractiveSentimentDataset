@@ -1,0 +1,18 @@
+A : Hey Joe. What are you doing today? 0
+B : Oh, hey Sam. I'm going furniture shopping with my wife. 0
+A : Are you looking for anything special? 0
+B : Yeah. We need a new sofa. Our old one is ripping. 0
+A : We just bought a new sofa. 0
+B : Did you get a good deal? 0
+A : Yeah, it was on sale. You should go check it out. 0
+B : Where did you go? 0
+A : We went to the new store across the street. 0
+B : I saw a flyer for that in the mail. I think that's where my wife wants to go. 0
+A : If you bring the flyer, you get 10% off this weekend. 0
+B : That's good to know! Thanks for telling me. 1
+A : Do you know what kind of sofa you want? 0
+B : Yeah. We want a dark brown leather sofa. 0
+A : That's exactly what we bought. 1
+B : Your wife and my wife must have the same taste in furniture. 1
+
+1 1

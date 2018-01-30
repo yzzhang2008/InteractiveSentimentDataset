@@ -1,0 +1,8 @@
+A : Would you like to try this? 0
+B : What is it? 0
+A : Raw oysters. 0
+B : No, thank you. 0
+A : They're delicious. 1
+B : I don't like anything that is raw. -1
+
+1 0

@@ -1,0 +1,11 @@
+A : Are you done with your part of the presentation? 0
+B : No, not yet. 0
+A : Tomorrow is the deadline. 0
+B : I've been busy. I'll finish it tonight. -1
+A : Your co-workers always have to do your work. -1
+B : I'm sorry. I just work slowly. -1
+A : You just don't care. You never help the team. -1
+B : What do you want me to do? 0
+A : Do you share of the work! -1
+
+-1 -1

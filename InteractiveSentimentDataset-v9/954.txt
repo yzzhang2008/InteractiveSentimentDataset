@@ -1,0 +1,14 @@
+A : I don't like our flag. -1
+B : What's the matter with it? 0
+A : It's too much like other flags. -1
+B : Yes, a lot of flags have stripes. 0
+A : A flag should be pretty. 0
+B : What should our flag look like? 0
+A : It should have a pretty woman on it. -1
+B : That's ridiculous! -1
+A : You don't like pretty women? -1
+B : Of course I do. But not on our flag! -1
+A : Every nation should have a pretty woman on their flag. 0
+B : You can't go to war carrying a flag with a woman on it! -1
+
+-1 -1

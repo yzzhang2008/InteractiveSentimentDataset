@@ -1,0 +1,14 @@
+A : What are we going to eat for dinner? 0
+B : Whatever meal that you plan on making. 0
+A : I thought you were making dinner tonight. 0
+B : I do all the cooking. 0
+A : Your food tastes so much better than mine. 1
+B : Save it. If you want something to eat, then make it yourself. -1
+A : You really want me to cook tonight? 0
+B : I had a long day today. I really am not in the mood to make anything. -1
+A : No problem. 1
+B : Thanks. I'm going to go take a nap. 1
+A : Would you like me to come get you when the food is done? 0
+B : Thank you. 1
+
+1 1

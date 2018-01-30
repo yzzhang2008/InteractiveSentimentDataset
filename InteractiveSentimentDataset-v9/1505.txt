@@ -1,0 +1,12 @@
+A : I need to introduce you to my new roommate. 0
+B : What is her name? 0
+A : Maria. She's from Spain. 0
+B : What is she doing here? 0
+A : She's a foreign exchange student. 0
+B : That's cool! 1
+A : She's really nice. She has taught me some Spanish words. 1
+B : I'm taking Spanish right now. 0
+A : You should try speaking Spanish to her. 1
+B : I'll try. Hopefully, she won't laugh at me. 1
+
+1 1

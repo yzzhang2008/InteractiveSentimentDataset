@@ -1,0 +1,10 @@
+A : I can't seem to find the cereal aisle. 0
+B : You'll find the cereal by the breakfast foods. 0
+A : What breakfast foods? 0
+B : They're over by the oatmeal and the breakfast bars. 0
+A : I think I know what you're talking about. 0
+B : Can I help you with anything else? 0
+A : Could you tell me where the dishwashing detergent is? 0
+B : You'll find that by the paper towels. 0
+
+0 0

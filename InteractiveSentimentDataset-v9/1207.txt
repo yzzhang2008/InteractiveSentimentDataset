@@ -1,0 +1,12 @@
+A : I am not certain, but I think I might ask to be considered for the new job. 0
+B : Why are you considering trying for it? 0
+A : I think that I might like it, but I am still thinking about it. 0
+B : What is it about this job that appeals to you? 0
+A : I think that I would enjoy the position but there isn't a lot of creativity involved. 0
+B : Yes, you could be right. There is a lot to consider. 0
+A : I am also wondering about the pay. 0
+B : Would a slight decrease in pay be worth it for a new opportunity for growth? 0
+A : I am thinking that might be the case. 0
+B : I think you should give it a shot. What do you have to lose? You can always change your mind. 0
+
+0 0

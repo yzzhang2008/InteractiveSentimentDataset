@@ -1,0 +1,16 @@
+A : Hey James, I'm thinking about asking the boss for a promotion. 0
+B : Lisa, you definitely deserve a promotion. You are too qualified for this job. 1
+A : Really? You think so? 0
+B : You have a lot of experience and you're very good with people. You should be a manager. 1
+A : That's the position I was going to ask for, but I was worried. -1
+B : What are you worried about? 0
+A : I don't have a college degree. You have to have a college degree for that position. -1
+B : But you have lots of experience. You have more experience than some of the current managers. 1
+A : I know, but degrees are important too. 0
+B : I know they are. Did you ever think about going back to school and getting your degree? 0
+A : I have, but I am so busy these days. I don't have time to work and study. -1
+B : I understand. 1
+A : I'm not married yet, but I take care of my elderly parents. -1
+B : That's a lot of work too. 0
+
+-1 1

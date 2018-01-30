@@ -1,0 +1,14 @@
+A : Are you new in town? 0
+B : Yes, I did just move in. 0
+A : How do you like it here so far? 0
+B : I think it's great. 1
+A : Where did you move from? 0
+B : I was living in El Salvador. 0
+A : Why did you decide to move? 0
+B : I figured I could have a better life here. 1
+A : Is life hard there? 0
+B : There aren't many opportunities for people. -1
+A : Was it hard for you to move? 0
+B : It was hard, but I know my life will be better here. 1
+
+0 1

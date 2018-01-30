@@ -1,0 +1,14 @@
+A : I have an issue. -1
+B : What is it? 0
+A : I had scheduled a delivery for today. 0
+B : So, what is the problem? 0
+A : The delivery was four hours late. -1
+B : I'm so sorry for them being late. -1
+A : I was late for work, because I had to wait up for them. -1
+B : I do apologize. -1
+A : I would like to be refunded my money for the delivery. -1
+B : You will be refunded for the delivery. It'll be no problem. 1
+A : I shouldn't have to pay for such horrible service. -1
+B : I'll refund you your money right away. -1
+
+-1 -1

@@ -1,0 +1,12 @@
+A : I appreciate you dropping by to look at my home. 1
+B : It is useful for us to take a walk through your home together, so that we make sure that we are on the same page. 0
+A : How do you show my home to potential buyers? 0
+B : We will have an Open House or two on a weekend and we also will show your home with private appointments during the week. 0
+A : Are you the only real estate office that will be showing my house? 0
+B : We are placing your house as a Multiple Listing. That way, people who don't work for my particular office can show your home to their clients. 0
+A : How will I know when to expect prospective buyers? 0
+B : That will be set in your contract. Usually, you will be given four hours notice. 0
+A : Can I stay home during an Open House day? 0
+B : The seller is never at home during an Open House. I personally will handle the showing of your home. 0
+
+1 0

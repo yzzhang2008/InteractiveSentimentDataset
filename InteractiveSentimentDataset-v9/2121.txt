@@ -1,0 +1,10 @@
+A : I'm so glad the weekend's finally here. 1
+B : Me too. Imagine. It's a long weekend. We've got three days in a row. 1
+A : So, where're you going? 0
+B : I don't have any plans yet. I'll just play it by ear. How about you? 0
+A : We're going to go hiking and camping in the mountains. 1
+B : That sounds exciting! 1
+A : Wanna join us? 0
+B : Hm, let me think about it. I'll let you know later. 0
+
+1 1

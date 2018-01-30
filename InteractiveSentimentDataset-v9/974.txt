@@ -1,0 +1,14 @@
+A : Have you been coming to this Laundromat long? 0
+B : I have been washing clothes here since a few years ago. 0
+A : Why is that? 0
+B : It doesn't cost me as much to wash here. 1
+A : I've just started doing my clothes here. 0
+B : Why are you washing your clothes here now? 0
+A : My washing machine broke down. -1
+B : You should just pay someone to fix it. 0
+A : It's too expensive to get it fixed. -1
+B : So you're just going to wash here? 0
+A : Yes, I think that's what I'm going to have to do. 0
+B : It costs less to wash here. 1
+
+-1 1

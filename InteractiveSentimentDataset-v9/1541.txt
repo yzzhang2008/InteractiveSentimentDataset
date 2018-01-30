@@ -1,0 +1,8 @@
+A : Do you have some time this afternoon? 0
+B : Yes. Why? 0
+A : Can you pick our client up from the airport? 0
+B : Sure. What time? 0
+A : I need to check the email for the flight schedule. 0
+B : Ok. Just let me know his airline and arrival time. 0
+
+0 0

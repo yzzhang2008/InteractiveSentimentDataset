@@ -1,0 +1,12 @@
+A : It's great to be home! 1
+B : Did you have a nice trip? 0
+A : It had its surprises, but when all was said and done, it was a good trip. 1
+B : What was your favorite part? 1
+A : I loved our full moon beach party. 1
+B : What were the people like? Were they friendly? 0
+A : The people were basically quite friendly. 1
+B : Did you bring me anything? 0
+A : I brought you a lovely souvenir that I will be giving you for your birthday next week. 1
+B : I can't wait until I get to be the one to go on vacation. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Is booking airline tickets online a good way to go? 0
+B : I have had really good luck booking airline tickets online. 1
+A : How do you book airline tickets online? 0
+B : Usually you can find the best price by using a website like Travelocity or Expedia. 0
+A : What are they going to ask me to book a flight? 0
+B : They will ask you when you will be traveling and what your destination will be. 0
+A : Is there anything special I can do to get the lowest price? 0
+B : You get a better rate if you aren't too particular about what time you travel. 0
+A : Do you have to fly with a particular airline? 0
+B : The travel sites deal with many different airlines. It is always up to you to choose who you will fly with. 0
+
+0 0

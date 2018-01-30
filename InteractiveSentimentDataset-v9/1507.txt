@@ -1,0 +1,19 @@
+A : I can't believe tomorrow is the first day of the New Year! 1
+B : I know! 2015 went by so fast. 1
+A : It did. Have you made a New Year's resolution yet? 0
+B : What is that? 0
+A : A goal you want to set or achieve in the New Year. Haven't you ever made a New Year's resolution? 0
+B : No. Do you make one every year? 0
+A : Yes! 1
+B : Do you achieve your goal every year? 0
+A : No, I hardly ever achieve them. 0
+B : What were they? 0
+A : One year was losing weight. Another year, I was going to quit smoking. There are too many to list. 0
+B : If you can't achieve them, why do you make one every year? 0
+A : I should at least try to achieve one goal. 0
+B : Was there ever a successful resolution? 0
+A : Let me think about it. I don't think so. 0
+B : Then your resolution for the New Year should be not to make any more resolutions. 0
+A : Great idea! 1
+
+1 0

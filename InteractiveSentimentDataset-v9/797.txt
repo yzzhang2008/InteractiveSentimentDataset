@@ -1,0 +1,14 @@
+A : I'm new to the neighborhood. 0
+B : Have you been able to find everything okay? 0
+A : Actually, could you help me with that? 0
+B : What can I help you with? 0
+A : I'm trying to find a nice restaurant to eat at. 1
+B : What kind of food do you want? 0
+A : I wouldn't mind some good Chinese food. 1
+B : There's a great Chinese restaurant right down the street. 1
+A : Could you tell me how to get there? 0
+B : It's a few blocks down. You'll find it on the right-hand side. 0
+A : Would you like to come eat lunch with me? 0
+B : I would love to. Thanks. 1
+
+1 1

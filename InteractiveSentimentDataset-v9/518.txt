@@ -1,0 +1,14 @@
+A : How's it going? 1
+B : Great. Thank you. 1
+A : What can I help you with? 1
+B : I need to cancel a check. 0
+A : What's wrong with the check? 0
+B : I accidentally wrote the check for too much. -1
+A : How much did you write the check for? 0
+B : The check was written for $150. 0
+A : How much were you supposed to write it for? 0
+B : I needed to write it for $100. 0
+A : I can cancel it for you right now. 1
+B : Thank you so much. 1
+
+1 1

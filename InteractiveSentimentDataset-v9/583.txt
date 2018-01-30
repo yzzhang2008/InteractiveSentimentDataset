@@ -1,0 +1,14 @@
+A : So, where is this bus supposed to take us? 0
+B : It should take us back up to Altadena. 0
+A : Don't you know for sure? -1
+B : I'm not really sure if it does or not. -1
+A : Are you sure we got on the right bus? 0
+B : I've never taken this bus, but I think it's the right one. 1
+A : This place doesn't look like Altadena. -1
+B : That's true, and we have been on this bus for a while. -1
+A : Read one of the street signs or something. 0
+B : Yikes! Temple City. -1
+A : That's the last time I'm trusting you with the transportation. -1
+B : My bad, but at least we know the right bus to take us back. -1
+
+-1 -1

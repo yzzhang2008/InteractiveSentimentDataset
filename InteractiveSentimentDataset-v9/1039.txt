@@ -1,0 +1,10 @@
+A : Hi Kara, it's Mike here. 0
+B : Hi Mike, how are you doing? 0
+A : I'm doing well, and you? 1
+B : Everything is going great. 1
+A : Kara, would you be interested in going to dinner again this Friday? 0
+B : Mike, I had a good time too, but I am getting ready to move back to the east coast, so I think I shouldn't get too involved right now. -1
+A : Well, we could just go out as friends. 0
+B : Right now, I think I need to really focus on matters at home, but thanks for a nice evening. 1
+
+0 1

@@ -1,0 +1,12 @@
+A : Something is wrong with my computer. -1
+B : What is wrong with it? 0
+A : It will not turn on. -1
+B : I will take a look at it. 0
+A : How much is the repair cost? 0
+B : It depends on what needs to be repaired. 0
+A : Is there a charge to see what repairs are needed? 0
+B : No. There is no charge to find out what is wrong. We only charge for repairs. 0
+A : Ok. How long will it take? 0
+B : Please come back in two hours. 0
+
+-1 0

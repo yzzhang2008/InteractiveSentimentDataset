@@ -1,0 +1,8 @@
+A : I'm looking for a shop that sells inexpensive cashmere sweaters. 0
+B : Have you tried an outlet? 0
+A : Why didn't I think of that? 0
+B : Many of my friends shop at outlets. 0
+A : Thanks. That is a good suggestion. 1
+B : I'm only too happy to help. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Professor, I am going to need to leave class early today. 0
+B : What is the problem? 0
+A : I need to go to the airport to pick up a relative. 0
+B : Are you planning on having someone take notes for you? 0
+A : Yes, I've got that part covered. 0
+B : When, exactly do you need to leave? 0
+A : I don't need to leave until the very end of class. 0
+B : Fine, but next time try and not have to miss class again. 0
+A : Thanks, Professor. See you later! 1
+B : See you later! Drive carefully. 1
+
+1 1

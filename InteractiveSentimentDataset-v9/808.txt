@@ -1,0 +1,14 @@
+A : Where am I taking you? 0
+B : I need to go to PCC. 0
+A : That's no problem. 1
+B : How long is it going to take you? 0
+A : With traffic it'll take 25 minutes. 0
+B : Do you think you can get there quicker? 0
+A : I can't get there any faster. -1
+B : How much will the fare be? 0
+A : It will be more, because there's traffic. -1
+B : That's crazy. -1
+A : If you give me $30, I'll take you there. 1
+B : How kind of you. Thank you so much. 1
+
+1 1

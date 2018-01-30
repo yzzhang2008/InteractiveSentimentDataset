@@ -1,0 +1,13 @@
+A : Are you ready for the business trip? 0
+B : Yeah. I'm a little nervous. -1
+A : Is this your first business trip? 0
+B : No. I just don't know any of these people. Do you have any advice for me? 0
+A : Just socialize. Get to know them. Go out for drinks one night. 0
+B : Actually, two of our clients are taking me out for drinks the first night. 0
+A : That's good. Don't stress about it so much. 1
+B : I want to make a good first impression. 1
+A : Then don't get drunk. 0
+B : What if I get nervous and drink too much. -1
+A : Then you'll have more things to worry about. 0
+
+0 -1

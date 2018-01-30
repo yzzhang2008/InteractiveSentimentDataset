@@ -1,0 +1,14 @@
+A : I really want a burrito! Can you get me one? 1
+B : I haven't got any money to purchase a burrito for you and me. -1
+A : Would you please buy me one since I haven't eaten today? 0
+B : I only have a few dollars. -1
+A : I could eat a horse right now, I'm so hungry. -1
+B : I want to eat too. Ask someone else to feed you. -1
+A : Since I get my check this Friday, I can give you your money back then. 0
+B : So then, this Friday you'll be able to eat. 0
+A : You're mean to say that. -1
+B : You should just go home and make yourself a sandwich or something. 0
+A : My house is too far, and I'm really hungry. -1
+B : It sounds as if you're going to continue starving. -1
+
+-1 -1

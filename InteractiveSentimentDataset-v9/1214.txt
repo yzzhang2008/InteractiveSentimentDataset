@@ -1,0 +1,12 @@
+A : I am a little nervous about my presentation on Friday. -1
+B : If you would like me to, I could help you with that. 1
+A : Wouldn't that take you away from your project? 0
+B : I have plenty of time to do this. I promise you it won't be a problem for me. 1
+A : Is there a good time for you to help me? 0
+B : If we work on this tomorrow night, you could easily be ready for Friday. 0
+A : How about meeting in my office? 0
+B : That would work out well. Bring any concerns that you might have. 1
+A : Sounds like you'll be able to help me a lot. 1
+B : Don't worry. Everything will go well. I promise! 1
+
+1 1

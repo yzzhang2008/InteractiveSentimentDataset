@@ -1,0 +1,10 @@
+A : So, how is your new roommate? 0
+B : She really turns me off. -1
+A : What happened? 0
+B : She's always making loud noises at midnight and when I remind her, she always makes rude remarks. -1
+A : Why don't you have a heart to heart chat with her? 0
+B : I tried, but it didn't work. -1
+A : But how many times did you try? 0
+B : At least three times. I guess I'm going to complain to the manager. I hope she can be evicted. -1
+
+0 -1

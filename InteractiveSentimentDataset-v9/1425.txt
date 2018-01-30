@@ -1,0 +1,10 @@
+A : What happened to your eye? 0
+B : Nothing really. I went to kiss my daughter on her tummy last night, and she reached up to stop me. When she did that, her fingernails scraped my eye. 0
+A : That sounds painful! -1
+B : It wasn't too bad at first, but the next morning it really hurt. -1
+A : What did the doctor say? 0
+B : He said that it should be OK, but there might be a little scarring over my field of vision, so my eyesight may be blurry. -1
+A : I'm sorry to hear that. -1
+B : Who knew that a poke in the eye would cause so much damage? -1
+
+-1 -1

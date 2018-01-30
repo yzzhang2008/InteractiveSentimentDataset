@@ -1,0 +1,12 @@
+A : Did you hear our competitor stole the restaurant's secret recipe book? 0
+B : When? 0
+A : Last night. 0
+B : How? 0
+A : One of their employees broke into the kitchen and stole it from the safe. -1
+B : The owner must be very angry. -1
+A : No, she's not. -1
+B : Why not? 0
+A : She put a fake recipe book in the safe. No one knows where the real one is. -1
+B : She is a clever woman and a great cook! 1
+
+-1 1

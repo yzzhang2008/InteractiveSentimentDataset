@@ -1,0 +1,12 @@
+A : These books should have been turned in last week. 0
+B : You have come to the correct place. Hand me your books. 0
+A : Here they are. 0
+B : Whoa, these are pretty late! You owe five dollars total to clear your fine. -1
+A : I don't have the money right now. -1
+B : We only require that all fines must be paid off by the end of the semester. So you will be okay to go. 1
+A : What would happen if I didn't pay it? -1
+B : It's really important to always clear your fines, so you'll get a report card and transcripts on time. 0
+A : Yeah, but I don't know how they can do that. -1
+B : Always remember that the night drop is here, and we really appreciate you returning your books for all to use. 1
+
+-1 1

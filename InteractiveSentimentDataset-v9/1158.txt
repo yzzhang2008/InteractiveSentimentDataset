@@ -1,0 +1,14 @@
+A : May I ask you how much this position pays per year? 0
+B : This job pays sixty-five thousand dollars per year. 0
+A : What kind of benefits does this job have? 0
+B : This job provides full medical, dental, and disability. 0
+A : What type of vacation time do we get? 0
+B : You get 3 weeks paid vacation that you may use as you wish. 0
+A : Do we have a 401K? 0
+B : Yes. 0
+A : What type of professional development do you offer? 0
+B : We provide up-to-date training on state of the art equipment. 0
+A : Where do I sign up for my benefits package? 0
+B : Down the hall. I'll show you when the interview is over. 0
+
+0 0

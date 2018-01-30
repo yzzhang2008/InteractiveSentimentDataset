@@ -1,0 +1,12 @@
+A : Do you believe that coffee prevents cancer? 0
+B : I want to believe it. I love coffee. 1
+A : But your coffee is not very healthy. -1
+B : Why do you say that? 0
+A : You put lots of cream and sugar in your coffee. 0
+B : It tastes better that way. 1
+A : You should drink it black like me. 0
+B : It's too bitter. -1
+A : I don't think your coffee will prevent cancer. -1
+B : I'm still going to believe it. 1
+
+-1 1

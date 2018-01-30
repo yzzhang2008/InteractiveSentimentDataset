@@ -1,0 +1,12 @@
+A : If I want to buy this car, what will it cost me? 0
+B : Let me get my contract out, and we'll figure that out for you right now. 0
+A : Can't you just tell me what it costs? -1
+B : You know, I am prepared to offer you a great deal today on that car. With tax, license, registration, and dealer prep, the total will be fifteen thousand dollars. 0
+A : Fine, I'll come back later with my father, who is a lawyer, and we can talk then. -1
+B : I am sure that we can work something out. What price were you thinking would be a good deal for you? 0
+A : Thirteen thousand would be more like it. 0
+B : Fourteen thousand for this car is a good price. For that I am practically giving it away. -1
+A : Normally that would be a good price, but that car has been in an accident. -1
+B : Yes, I see your point. Thirteen thousand seven hundred and fifty is my final offer. 0
+
+-1 0

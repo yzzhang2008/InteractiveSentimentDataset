@@ -1,0 +1,8 @@
+A : Pacific Bell. May I help you? 0
+B : Yes, I'd like to set up a telephone service, please. 0
+A : Do you presently have service? 0
+B : No, this is new. 1
+A : All right! I'll connect you with our customer service department. Please hold. 1
+B : Thanks! 1
+
+1 1

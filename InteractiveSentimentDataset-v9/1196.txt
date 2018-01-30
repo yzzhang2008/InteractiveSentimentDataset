@@ -1,0 +1,12 @@
+A : I really needed the supplies today and you are telling me you don't have them now? -1
+B : The supplier said that it will be a few more days until they can ship the order. 0
+A : Fine, what day will the whole order be here? 0
+B : If we are lucky, they may get here tomorrow. 0
+A : Is there anywhere else we can get these supplies? 0
+B : Let's order the missing items from someone else just to be sure. 0
+A : I appreciate that suggestion. 1
+B : I will track your order on the internet and e-mail you the moment it arrives. 0
+A : I look forward to hearing from you. 1
+B : Please let me know if there is anything else I can do for you in the meantime. 0
+
+1 0

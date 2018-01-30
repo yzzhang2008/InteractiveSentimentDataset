@@ -1,0 +1,14 @@
+A : I need help using the washer and dryer. -1
+B : Tell me what the problem is. 0
+A : I can't figure out how to turn them on. -1
+B : Do you have some quarters? 0
+A : I didn't know I needed change. -1
+B : The washer costs 50 cents and the dryer costs a dollar. 0
+A : Where do I put the change? 0
+B : You just put it in the machine. 0
+A : Is that everything that I have to do? 0
+B : That's all there is. 1
+A : I appreciate you helping me with this. 1
+B : If you need anything else, just let me know. I am glad to help you. 1
+
+1 1

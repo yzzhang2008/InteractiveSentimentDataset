@@ -1,0 +1,10 @@
+A : Excuse me, Professor, I have a problem and need to leave class early. -1
+B : Why do you have to leave early? 0
+A : I am not feeling well. -1
+B : Could you make it up by attending my other section this week? 0
+A : Yes, it's all taken care of. 0
+B : Are you leaving right away or can you stay for a few more minutes? 0
+A : I can stay a few more minutes. 0
+B : OK, but please make sure that you get all of your make-up work completed. 0
+
+-1 0

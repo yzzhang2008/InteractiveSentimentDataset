@@ -1,0 +1,19 @@
+A : Hey Bill, are you hungry? 0
+B : Oh, hi Kathy. Yeah. Let's have lunch. 0
+A : What do you want to eat? 0
+B : How about pizza? 1
+A : We always have pizza. Let's try something different. 0
+B : Ok. Do you have any suggestions? 0
+A : How about sushi? 0
+B : I don't like raw fish. -1
+A : All sushi isn't raw. 0
+B : I know. I just don't feel like having sushi today. -1
+A : Ok. Then what should we eat? 0
+B : Maybe we should just order take-out. You get sushi and I'll get pizza. 0
+A : That's a good idea. But I think I want Chinese food instead. 1
+B : Chinese food sounds yummy. 1
+A : Hey, we agree on something. Let's go out to a Chinese restaurant. 1
+B : I'd rather eat at home. 0
+A : We never agree on anything. -1
+
+0 0

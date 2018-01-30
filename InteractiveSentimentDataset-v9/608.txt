@@ -1,0 +1,14 @@
+A : You get your bus pass? 0
+B : I'm not going to buy one. -1
+A : You're not? -1
+B : I think it's a waste of money. -1
+A : It actually costs less if you have a bus pass. 1
+B : How is that? 0
+A : You can use it however many times you need to. 0
+B : Is that right? 0
+A : Yup, and you can keep the money in your pocket. 1
+B : That sounds nice. 1
+A : You should go get yours. 1
+B : Yeah, I think I will. 1
+
+1 1

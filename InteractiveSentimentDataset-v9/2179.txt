@@ -1,0 +1,12 @@
+A : Could you do me a big favor? 0
+B : What is it? 0
+A : My dog sitter is sick. Could you watch my dog for a few days? -1
+B : How long will you be gone? 0
+A : For three days. 0
+B : How many times a day should I walk him? 0
+A : Twice a day, please. 0
+B : He's going to give me a lot of exercise. 1
+A : Thank you so much! 1
+B : No problem. He's a great dog! 1
+
+1 1

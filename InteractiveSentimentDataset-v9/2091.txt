@@ -1,0 +1,12 @@
+A : Will I get notification that I qualify for unemployment? 0
+B : The Employment Development Office will send you a Notice of Unemployment Insurance Award letter. 0
+A : What is contained in that letter? 0
+B : In addition to telling you how much you will receive, the beginning and ending dates of your claim will be included. 0
+A : Will the Award Letter tell me what I need to fill out next? 0
+B : You will receive a Continued Claim Form and every two weeks, you must turn it in. 0
+A : When I fill out the Continued Claim Form, what will I need to tell them? 0
+B : You must show where and when you tried to look for work. If you earned any money, you need to tell them about it. 0
+A : What other information does the form ask for? 0
+B : You have to tell them if you were too sick to work on any of the days that you should have been looking for work. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : I am looking for a pan. 0
+B : No problem. What size would you like? 1
+A : A big one would be nice. 1
+B : How about this one? It's our biggest -- 16 in diameter. 0
+A : I like that one, but it's too heavy. -1
+B : Okay, try this one. It's made of aluminum. 1
+A : This is much better. But it has an aluminum handle. 0
+B : Here you go. Same pan, but with a state-of-the-art, heat-resistant plastic handle. 1
+A : That's perfect. I'll take it. 1
+B : Great. Will that be cash or charge? 1
+A : Wait a minute. What about a lid for the pan? 0
+B : I'm sorry. I forgot to show you the lid. It comes with the pan. 0
+
+1 -1

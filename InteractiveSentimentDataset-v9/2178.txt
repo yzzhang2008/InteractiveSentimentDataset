@@ -1,0 +1,8 @@
+A : Can you keep an eye on my seat? 0
+B : Yeah. Where are you going? 0
+A : I'm going to get a glass of beer. 0
+B : Can you get me one too? 1
+A : Sure. Do you want a draught or a bottle? 0
+B : Bottle. Here's $10. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : I would like to purchase some health insurance. 0
+B : Have you ever purchased health insurance before? 0
+A : I have health insurance now, but I want to look into other choices. 0
+B : Do you know if you are interested in an HMO or a PPO? 0
+A : Could you explain the difference to me? 0
+B : To clarify it for you, with a PPO you pay more but you get to choose your own doctor. 0
+A : When I pay for a service, is the payment the same for a PPO or HMO? 0
+B : The payments are quite a bit higher for the PPO, but you can go anywhere you like. 0
+A : How much will an HMO cost me per month? 0
+B : Go to our website and fill in the questionnaire. Once we have all of your information, we can give you a quote. 0
+
+0 0

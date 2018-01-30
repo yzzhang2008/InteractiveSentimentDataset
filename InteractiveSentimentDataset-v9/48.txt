@@ -1,0 +1,12 @@
+A : Hi, this is Betty. 0
+B : Hi, Betty. It's Larry. I need to know how many smoke detectors are in your apartment. 0
+A : There was one when I moved in. Then I added one. 0
+B : Do both detectors have fresh batteries? 0
+A : I always keep them fresh. I don't want to burn to death. 0
+B : That's good. I have to come by there and check out all of the detectors. 1
+A : Not a problem. When will you be here? 1
+B : I'll be letting myself into all the apartments on Thursday at noon. 0
+A : If it's raining, make sure you wipe your feet before you come inside, okay? 0
+B : Not to worry. I'll be in and out of your place in a flash. 1
+
+0 1

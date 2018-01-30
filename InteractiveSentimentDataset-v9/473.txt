@@ -1,0 +1,16 @@
+A : Dad, can we get a dog? 0
+B : Daniel, are we talking about this again? 0
+A : You promised we could get one when I got older. 0
+B : Having a dog is a big responsibility. 1
+A : I know. I promise to help take care of it. 1
+B : You have to walk him, feed him, bathe him, clean his messes, and play with him. 0
+A : I promise to do all of those things. 1
+B : I need to talk to your mom first. 0
+A : But mom doesn't want a dog. She doesn't like them. -1
+B : It's because she is afraid of them. -1
+A : Why is she afraid of dogs? -1
+B : She was bitten by a dog when she was a child. -1
+A : Oh, I see. But if we get a puppy, we can train it not to bite. 0
+B : That's true. 1
+
+1 0

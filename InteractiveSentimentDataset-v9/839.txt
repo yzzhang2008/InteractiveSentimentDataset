@@ -1,0 +1,14 @@
+A : Did you hear about the robbery? 0
+B : Did I hear about it? I saw it happen. 0
+A : Are you serious? -1
+B : I was there. 0
+A : What happened? 0
+B : A man came into the bank with a gun. 0
+A : That's insane. -1
+B : I was so scared when I saw the gun. -1
+A : Then what happened? 0
+B : He took the money and tried to get away. -1
+A : Did the cops show up in time? 0
+B : He didn't even make it out the door. -1
+
+-1 -1

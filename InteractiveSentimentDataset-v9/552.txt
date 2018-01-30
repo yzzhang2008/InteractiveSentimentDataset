@@ -1,0 +1,20 @@
+A : Hi Anne. What are you doing? 0
+B : Hi Carol. I'm planning a birthday party for Tim. 0
+A : How is that going? 0
+B : Not well. I can't think of anything to do. -1
+A : How many kids do you want to invite? 0
+B : He wants to invite all of the boys in his classroom. That's 12 boys. 0
+A : No girls? -1
+B : He doesn't want to invite any girls. -1
+A : How about an outdoor party? 0
+B : We did that last year and it rained. -1
+A : Oh. That's not fun. -1
+B : I was thinking about taking the kids to a pizza place. 0
+A : Kids like pizza. How about taking them to a movie theater, too? 1
+B : That's too expensive. -1
+A : Yeah. How about renting a movie and watching it at home after the pizza place? 0
+B : I love that idea! Then they can play in our backyard if it doesn't rain. 1
+A : That sounds like a great party. 1
+B : Thanks for your help. 1
+
+1 1

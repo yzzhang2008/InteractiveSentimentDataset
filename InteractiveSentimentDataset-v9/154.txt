@@ -1,0 +1,16 @@
+A : I'm looking for some good deals on produce. 0
+B : You might want to try the mangoes. 0
+A : Can you describe a mango to me? 0
+B : It's a fruit a little smaller than a grapefruit. It has a big seed in it. 0
+A : Do I eat the seed? 0
+B : Maybe some animals eat the seed, but humans don't. You'd have to soak it for 10 years. -1
+A : What's the price of these mangoes? 0
+B : Today you get a 50-percent discount. They're only $1 each. 1
+A : Tell me what they taste like. 0
+B : Their flesh is soft and juicy. It has a citrus taste. It's sweet. 1
+A : Do I need to buy them ripe, or will they ripen at home? 0
+B : Just press into it gently with your thumb. If it feels soft, it's ready to eat. 1
+A : Where do mangoes come from? 0
+B : These are from Guatemala, but we're going to start getting mangoes from India. 0
+
+0 0

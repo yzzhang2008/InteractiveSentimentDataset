@@ -1,0 +1,18 @@
+A : I need to get some information for your loan appraisal. 0
+B : Yes please. Should I fill out the form? 0
+A : Yes you should, but I should ask you some questions first. How much loan do you require? 0
+B : I need USD 5,000. 0
+A : What do you do for a living? 0
+B : I run my own bussiness by renting house and cars also. 0
+A : How much is your income per month approximately? 0
+B : Around USD 500 to USD 600. 0
+A : What was your gross income last year? 0
+B : It was USD 7,100. 0
+A : Do you have any credit cards? 0
+B : Yes I do, I have 2 cards. 0
+A : How much debt do you have on your credit cards? 0
+B : Totally about USD 6,000. 0
+A : Do you have any outstanding loans? 0
+B : Yes, It's around 5,000. 0
+
+0 0

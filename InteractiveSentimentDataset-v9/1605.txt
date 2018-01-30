@@ -1,0 +1,14 @@
+A : My wife said to have a lawyer look at the contract. 0
+B : That's always a good idea. 1
+A : Do you know how much a lawyer runs? 0
+B : I've heard that they're about $400 an hour. 0
+A : Who can afford that? -1
+B : A few years ago, $100 an hour was outrageous. 0
+A : Can you help me find a cheaper lawyer? 0
+B : I'm afraid I can't help you with that. -1
+A : The lawyer will start at $400, but where will it end? -1
+B : Also, a good lawyer might not have time to see you immediately. 0
+A : My wife's going to kill me, but just show me where to sign. -1
+B : Now you're talking. The red stickers indicate where to sign and date. 1
+
+-1 1

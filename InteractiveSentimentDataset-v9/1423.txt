@@ -1,0 +1,6 @@
+A : I think I'm running a temperature. My head is spinning, my mouth feels like cotton, and I have a scratchy throat. -1
+B : Let me see. Hmm, you'd better stay at home today. And don't work on the computer! Staying up late with that thing has obviously played havoc with your health. -1
+A : I can't help it. I guess I'm addicted to the Internet. -1
+B : If you want to keep yourself in good shape, you'd better quit surfing the Net deep into the night. I don't want you kicking the bucket! -1
+
+-1 -1

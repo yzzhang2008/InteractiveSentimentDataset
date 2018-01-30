@@ -1,0 +1,10 @@
+A : I'm returning this radio. 0
+B : No problem. You do have your receipt, don't you? 1
+A : Here you are. 0
+B : What seems to be the problem? 0
+A : It doesn't have a headphone jack. -1
+B : If you'd like, I can show you a different one. 0
+A : No, thanks. A refund will be just fine. -1
+B : No problem. This'll only take a minute. 1
+
+-1 1

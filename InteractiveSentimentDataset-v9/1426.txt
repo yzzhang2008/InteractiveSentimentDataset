@@ -1,0 +1,8 @@
+A : How are the kids? 0
+B : They're doing well. 1
+A : How old are they now? 0
+B : Mike is 18. He's in college. Janet is 16. She's in high school. 0
+A : Wow! They're growing up. 1
+B : I know. They're growing up too fast. 1
+
+1 1

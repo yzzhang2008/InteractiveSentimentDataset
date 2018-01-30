@@ -1,0 +1,14 @@
+A : I had the worst date the other night. -1
+B : What happened? 0
+A : First of all, he was half an hour late. -1
+B : That's not a good start. -1
+A : Then he didn't bother to apologize. -1
+B : That's rude. -1
+A : Then he drove too fast to the restaurant. -1
+B : That's dangerous. -1
+A : I thought about getting out and taking a taxi home. -1
+B : What happened at the restaurant? 0
+A : We had a $40 meal, and he left a $1 tip! -1
+B : I guess you can't go back to that restaurant. -1
+
+-1 -1

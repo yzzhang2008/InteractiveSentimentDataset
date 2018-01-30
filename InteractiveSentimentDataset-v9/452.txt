@@ -1,0 +1,15 @@
+A : Our company is going through an acquisition. 0
+B : What is that? 0
+A : When a company buys another company. 0
+B : Why is this happening? 0
+A : We can't compete with the bigger company. -1
+B : Wow! When is the acquisition happening? 0
+A : At the end of this year. 0
+B : That's soon. 0
+A : I know. 0
+B : Are you worried? 0
+A : Yes! That's how my brother lost his job. -1
+B : That sucks. -1
+A : I better start looking for a new job. -1
+
+-1 -1

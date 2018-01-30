@@ -1,0 +1,12 @@
+A : I am interested in selling my home and would like to know what is involved. 1
+B : You have come to the right place. When were you interested in selling your home? 1
+A : I just received a job transfer and need to relocate right away. 0
+B : How long have you been in your current home? 0
+A : I have lived in my home for about 10 years. 0
+B : As I am sure that you are aware, the market has fallen in the past year. People are more likely to make money if they have owned their home for a while. 0
+A : Will I be able to recover the money I paid for my home? 0
+B : It is hard to say, but whatever house you buy will also be costing you a lot less. 0
+A : What is the next step in selling my home? 0
+B : I would like to meet with you tomorrow to look at your property, and then you and I can figure out a contract. 1
+
+-1 1

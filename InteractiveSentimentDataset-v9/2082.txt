@@ -1,0 +1,8 @@
+A : I love this restaurant. 1
+B : Me too. It is so underrated. 1
+A : I agree. Not too many people know about it. 0
+B : People do not know how great the food is here. 1
+A : Don't tell anyone. This place will get crowded. I hate crowded places. 0
+B : Me too. 0
+
+1 1

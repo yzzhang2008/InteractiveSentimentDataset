@@ -1,0 +1,12 @@
+A : Are there any special unemployment forms I need to fill out? 0
+B : You need to get a special application form. 0
+A : Do you know where I can find the application form? 0
+B : You can go to the Employment Development Office and pick it up. 0
+A : What records will I have to show to apply for unemployment benefits? 0
+B : They will need a record showing who you worked for and when you worked for them. 0
+A : Is there anything else I will need to provide? 0
+B : Be prepared to show a written notice of your termination as proof. 0
+A : Do I need to do anything else after I turn in the application? 0
+B : You will receive a notice for a phone interview, which will continue the process. 0
+
+0 0

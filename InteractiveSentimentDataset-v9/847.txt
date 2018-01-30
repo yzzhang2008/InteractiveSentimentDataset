@@ -1,0 +1,14 @@
+A : I don't understand why I'm being arrested. -1
+B : You have a warrant. 0
+A : A warrant for what? 0
+B : Apparently, you have a bench warrant. 0
+A : What does that mean? 0
+B : You missed a court appearance. -1
+A : I wasn't aware that I had to go to court. -1
+B : I don't know what to tell you. -1
+A : I don't find this fair. -1
+B : Life isn't fair. -1
+A : Don't I have any rights? -1
+B : You have the right to remain silent. -1
+
+-1 -1

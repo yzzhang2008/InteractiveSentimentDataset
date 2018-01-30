@@ -1,0 +1,12 @@
+A : After I am accepted for unemployment benefits, what will happen next? 0
+B : You will receive a Notice of Unemployment Insurance Award letter. 0
+A : What will that tell me? 0
+B : The Award Letter will tell you how much you will receive weekly. 0
+A : Are there any other forms that I need to fill out? 0
+B : You will need to fill out a Continued Claim Form every two weeks. 0
+A : What information will I need to provide on that form? 0
+B : They will need to know where you worked and how much money you made. 0
+A : Are there any other questions on the form? 0
+B : Basically, they want to know that you were available for work and not sick. 0
+
+0 0

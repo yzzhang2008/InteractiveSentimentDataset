@@ -1,0 +1,12 @@
+A : Wow! I can't believe people like to shop here. -1
+B : What's wrong with this place? 0
+A : The merchandise is so ugly and everything is very overpriced. -1
+B : I think this stuff looks cool. 1
+A : I wouldn't buy anything here. This place is extremely overrated. -1
+B : This place was advertised in a magazine. 0
+A : What kind of magazine? 0
+B : An expensive furniture magazine. 0
+A : The magazine editor has bad taste. -1
+B : Maybe you have bad taste. -1
+
+-1 -1

@@ -1,0 +1,14 @@
+A : You're watching too much TV. -1
+B : What do you mean? 0
+A : I mean you're wasting your life. -1
+B : I'm having fun. 1
+A : You're sitting there with your mouth open. -1
+B : Who cares? -1
+A : I care. Do something! -1
+B : Okay. I did something. 1
+A : What did you do? 0
+B : I turned up the volume. 0
+A : That's not what I meant by do something. -1
+B : Will you do something? Leave me alone. -1
+
+-1 -1

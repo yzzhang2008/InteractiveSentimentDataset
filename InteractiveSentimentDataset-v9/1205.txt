@@ -1,0 +1,12 @@
+A : The Mountains would be a great place for the company retreat. 1
+B : That's a wonderful choice. 1
+A : I have chosen January as the month for this retreat. 0
+B : January is a little too close to the Christmas holidays. 0
+A : Yes, maybe another choice might be better. 0
+B : I think that April would work. Spring is a lovely time to be in the mountains. 1
+A : Thank you for thinking of that. 1
+B : Maybe if we asked around we could see what people would prefer. 0
+A : That is a good idea. 1
+B : I'll take care of taking the survey and get back to you with the answers. 0
+
+1 0

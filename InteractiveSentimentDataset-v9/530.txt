@@ -1,0 +1,14 @@
+A : How's it going? 0
+B : I'm great. Thanks. 1
+A : What do you need? 0
+B : I need to know if I have any fees to pay. 0
+A : Actually, you do owe some fees. 0
+B : How much do I owe? 0
+A : Your fees total $235.13. 0
+B : That's crazy! -1
+A : You need to pay these fees soon. 0
+B : Can I do that right now? 0
+A : Will you be paying with cash or check? 0
+B : I think I'll be paying with cash. 0
+
+0 0

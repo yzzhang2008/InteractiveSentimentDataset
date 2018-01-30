@@ -1,0 +1,14 @@
+A : How are you doing? 0
+B : I'm fine, thank you. 1
+A : Did you need our help with a move? 0
+B : Yes, I do need your help with a move. 1
+A : What can we move for you? 0
+B : I need all my furniture moved. 0
+A : Will we be picking the furniture up from an apartment or a house? 0
+B : You'll be taking it from my old apartment. 0
+A : Are we moving the furniture to a house or an apartment? 0
+B : To my new house. 0
+A : We can do the move for you, but first I'm going to need some more information. 1
+B : Thanks a lot. I'll give you all the information you need. 1
+
+1 1

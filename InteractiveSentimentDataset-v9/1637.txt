@@ -1,0 +1,10 @@
+A : Do you think that the moving van has arrived? 0
+B : It's coming down the street even as we speak. 0
+A : Could I ask you to make one last check to make sure that everything got into the boxes? 0
+B : Relax. Do you need me to put the suitcases in the car? 0
+A : Yes, let's do that right now. 0
+B : It was such a good idea to pack a suitcase to have some things with us while we are waiting for the moving van to arrive on the other end. 1
+A : Maybe we could pack the frozen food into the ice chest? 0
+B : Let's wait until the van is almost completely loaded to take care of that. 0
+
+0 0

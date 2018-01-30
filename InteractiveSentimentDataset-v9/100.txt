@@ -1,0 +1,14 @@
+A : Can you help me pick out a gift for my niece? 0
+B : Most normal little girls go wild over Barbie dolls. 1
+A : That sounds good. Let me see one. 1
+B : Here's the latest model -- Digital Barbie. 0
+A : She's nice. How much is she? 1
+B : Why, she's only $29.95. 0
+A : That's reasonable. I'll take it. 1
+B : Excellent. Would you like anything else? 1
+A : No, thank you. 0
+B : The total will be $32.42. Will that be cash? 0
+A : Cash will be fine. 1
+B : Here's your change. Thank you for shopping with us. 1
+
+1 1

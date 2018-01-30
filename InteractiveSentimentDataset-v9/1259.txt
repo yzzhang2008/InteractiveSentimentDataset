@@ -1,0 +1,9 @@
+A : B, do you have a lot of clients today? 0
+B : No, I'm pretty open all day. 0
+A : Could you fill in for me today? 0
+B : Sure. Is something wrong? 0
+A : I'm not feeling that well. -1
+B : You should go home. 0
+A : Your first haircut client is Carol at 10 AM. 0
+
+-1 0

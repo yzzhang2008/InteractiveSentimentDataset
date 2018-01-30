@@ -1,0 +1,13 @@
+A : Do you know anything about Dr. Miller's classes? 0
+B : Yes. Are you in his class? 0
+A : I'm thinking of taking his class next semester. 0
+B : He really knew his stuff, but he graded hard. Would that be OK? -1
+A : Yes, I really need someone who is really good. 1
+B : I didn't find it overwhelming to earn a good grade if you work at it. Can you do that? -1
+A : Maybe, but I'm not sure. -1
+B : Man, this guy was so funny when he was teaching. I like that, don't you? 1
+A : No, that stuff isn't important to me. -1
+B : Did you know that he is a fairly new teacher and very current in his field? 1
+A : I don't care about any of that. -1
+
+-1 1

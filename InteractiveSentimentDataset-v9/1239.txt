@@ -1,0 +1,18 @@
+A : What are you doing, Charlie? 0
+B : My class has to write an essay about where we want to go on our field trip. 0
+A : That sounds like an interesting topic. 1
+B : My class can't decide where we want to go, so our teacher is going to make it a contest. 0
+A : I like that idea. What are the choices? 1
+B : Half of my class wants to go to the museum. The other half wants to go to the zoo. 0
+A : Where do you want to go? 0
+B : I want to go to the zoo because I want to see a lion. 1
+A : Didn't you go to the zoo last year? 0
+B : Yes, but it was so much fun. 1
+A : You may want to try something new this year. The museum is a great place too. You can learn a lot there. 1
+B : I know. But I want to see animals. 1
+A : Ok. It's your choice. The museum is having a display of old airplanes. 0
+B : Airplanes? I really like airplanes too. 1
+A : You have a tough decision. 0
+B : Now I can't decide. I need to really think about it. 0
+
+0 1

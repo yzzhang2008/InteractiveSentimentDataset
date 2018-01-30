@@ -1,0 +1,14 @@
+A : What's this stain? 0
+B : I don't know. 0
+A : It looks like blood. 0
+B : I think my nose was bleeding. -1
+A : You should wet your shirt immediately. 0
+B : Why? 0
+A : Because that gets the blood out of the shirt. 0
+B : What's a little blood? 0
+A : Your white shirt is ruined. -1
+B : So, I'll just buy another one. 0
+A : You can wear this one around the house. 0
+B : Next time I'll soak it immediately. 0
+
+0 0

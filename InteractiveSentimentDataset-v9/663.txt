@@ -1,0 +1,12 @@
+A : I would like to make an offer on this house, but I don't know much about the process. -1
+B : As your realtor, I am here to take care of this process. How much were you planning on offering? 0
+A : I really like the house and will pay the full asking price of three hundred and fifty thousand dollars. 1
+B : We want to leave ourselves some bargaining room. Let's offer three hundred and twenty thousand dollars. 0
+A : That sounds good, but I don't want this house to get away from me. 1
+B : The market is fairly down right now, so the offer is a realistic one. 0
+A : When will we know if they accept the offer? 0
+B : The owners usually respond to an offer within a few days. 0
+A : Should I be contacting my bank in the meantime? 0
+B : You are already pre-qualified for your loan, so you are in good shape. 1
+
+1 1

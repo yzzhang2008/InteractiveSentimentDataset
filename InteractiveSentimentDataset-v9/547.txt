@@ -1,0 +1,20 @@
+A : Hello? 0
+B : Hi Margaret. This is Pamela. 0
+A : Hi Pamela. Where have you been? You haven't been in school for a week. -1
+B : I've been really sick. I had the flu. -1
+A : Are you feeling better now? 0
+B : Yeah. I feel much better. I am going back to school on Monday. 1
+A : That's good! We all missed you. 1
+B : Thanks. Did I miss a lot of school work? 0
+A : Yeah. We had homework every night and we have a test next Friday. 0
+B : Oh no. That makes me worry. -1
+A : Talk to the teacher. She will understand. 0
+B : I hope so. She is a very strict. -1
+A : Would you like to borrow my notes from class? I can make copies of them and bring them to you. 0
+B : That would be great! I can study them this weekend. 1
+A : That's a good idea. But don't try to finish everything over the weekend. 1
+B : I know. I might get sick again! -1
+A : I'll see you around 4 pm. 0
+B : Ok. Thank you! 0
+
+1 0

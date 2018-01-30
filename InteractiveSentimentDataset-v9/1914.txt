@@ -1,0 +1,8 @@
+A : The customer wants to speak with the manager. 0
+B : What is the problem? 0
+A : His order was not delivered and he is very angry. -1
+B : Did you try to calm him down? 0
+A : Yes. He doesn't want to talk to me anymore. -1
+B : Ok. Transfer the customer to me. 0
+
+-1 0

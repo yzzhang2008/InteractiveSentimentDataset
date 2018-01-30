@@ -1,0 +1,14 @@
+A : You're free to go. 1
+B : That's great. 1
+A : What are your plans now that you're getting out? 0
+B : I want to go back to school. 0
+A : What is your major going to be? 0
+B : I haven't decided yet. -1
+A : I hope I don't ever see you back in here. -1
+B : I'm never coming back. -1
+A : This really isn't the place for you. -1
+B : I realize that. 0
+A : Good luck out there. 1
+B : Thanks. Things are going to be different now. 1
+
+1 1

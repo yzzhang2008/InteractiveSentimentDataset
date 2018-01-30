@@ -1,0 +1,14 @@
+A : I recently moved into town. 0
+B : When did you move in? 0
+A : I've been here for only a week. 0
+B : What have you been doing this past week? 0
+A : I haven't done much of anything. -1
+B : Why is that? 0
+A : I don't know what there is to do. -1
+B : You can do plenty of things. 0
+A : Tell me what there is to do. 0
+B : You can go shopping, go to the beach, or even see a movie. 0
+A : I didn't know what to do. -1
+B : There's a lot to do if you just look. 0
+
+-1 0

@@ -1,0 +1,14 @@
+A : What are you here for today? 0
+B : I need to fight this ticket that I got. 0
+A : Is the arresting officer here? 0
+B : Yes, he is, Your Honor. 0
+A : Plead your case. 0
+B : The officer says that I ran a red light, but I didn't. 1
+A : Why would the officer lie? 0
+B : I'm not sure, but the signal had a camera on it. 1
+A : Did the camera take a picture of your license plate? 0
+B : No, my picture wasn't taken. 0
+A : There was no picture taken, so I'll let you go. 0
+B : Thank you very much, Your Honor. 1
+
+0 1

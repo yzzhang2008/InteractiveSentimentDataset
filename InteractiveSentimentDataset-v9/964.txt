@@ -1,0 +1,14 @@
+A : How are you? 1
+B : I'm fine. How can I help you? 1
+A : I need to get a haircut, so can I schedule an appointment? 0
+B : What day would you like to make the appointment? 0
+A : I was thinking Saturday. 0
+B : All right. Let me check to see if we have any openings that day. 0
+A : That's fine. 1
+B : You can only make an appointment for Saturday morning. 1
+A : Is 10:30 okay? 0
+B : I'll pencil you in for that time. 1
+A : Thank you very much. 1
+B : You're welcome. We'll see you on Saturday. 1
+
+1 1

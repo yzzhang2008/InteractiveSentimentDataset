@@ -1,0 +1,18 @@
+A : What does she look like? 0
+B : Well, she was pretty tall, about 5 feet 10 inches and kind of scary looking! -1
+A : What do you mean, scary? 0
+B : Well, she had a crazy sounding laugh and wild hair. Do you know what I mean? -1
+A : Yes, I know what you mean. 0
+B : And her piercing eyes! She looked like an alien who just came down from outer space. Do you believe that people from outer space live amongst us? -1
+A : No, that's impossible! -1
+B : Unless they beam us up for a ride, we will never know for sure. Have you ever thought that you saw a flying saucer? 0
+A : Are you crazy? -1
+B : Hah, I guess we never know what can happen. Do you like Star Wars movies? 0
+A : Yes, I have seen all of the Star Wars movies. 0
+B : I loved Star Wars movies. My favorite character was Yoda. What about you? 1
+A : I liked Darth Vader. 1
+B : Yeah, that character was pretty cool. If you had to describe that character, what would you say about them? 1
+A : They were very beautiful. 1
+B : Yeah, I know what you mean! 1
+
+1 1

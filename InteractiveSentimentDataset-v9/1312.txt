@@ -1,0 +1,10 @@
+A : What can I get for you today? 0
+B : Could I get a hamburger, please? 0
+A : Would you like cheese on that? 0
+B : No, thank you. 0
+A : Would you like a drink? 0
+B : Let me have a soda. 0
+A : What kind of soda would you like? 0
+B : a Sprite. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : A few of us are going out for drinks tonight. Do you want to join us? 0
+B : Sure. What time? 0
+A : We're leaving at 5 PM. 0
+B : Ok. I need to call my wife and tell her I will be home late. 0
+A : I should do that too. 0
+B : Are you celebrating something? 0
+A : Yes! We finally finished a big project. 1
+B : That's great news! 1
+A : Let me know if you can join us later. 0
+B : Ok. I will text you after I speak with my wife. 1
+
+1 1

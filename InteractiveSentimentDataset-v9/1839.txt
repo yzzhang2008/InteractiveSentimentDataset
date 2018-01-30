@@ -1,0 +1,12 @@
+A : Is that the CEO of the company? 0
+B : Yes. He's talking to the vice-president of the company. 0
+A : I'm going to go introduce myself. 0
+B : Are you crazy? They won't know you. -1
+A : That's why I'm going to introduce myself. 0
+B : Good luck. 1
+A : I want to be a manager one day. This is one way to move up the ladder. 1
+B : Ok. Let me know how the conversation goes. 1
+A : Why don't you come with me? 0
+B : No, thanks. I'm too nervous. -1
+
+1 -1

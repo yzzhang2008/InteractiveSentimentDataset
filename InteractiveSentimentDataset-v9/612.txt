@@ -1,0 +1,8 @@
+A : I don't want to go on the business trip tomorrow. -1
+B : Why? 0
+A : I'm going with the boss. 0
+B : Really? That would make me uncomfortable too. -1
+A : What should I do? 0
+B : You don't have a choice. Just be yourself. -1
+
+-1 -1

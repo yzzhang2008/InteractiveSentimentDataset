@@ -1,0 +1,14 @@
+A : You're driving too fast. -1
+B : I'm in a hurry. -1
+A : Don't ever be in a hurry. -1
+B : It's not my fault. You didn't wake me up. -1
+A : That's not my fault. You didn't tell me to wake you up. -1
+B : Well, I meant to. 0
+A : Don't ever be in a hurry when you're driving. -1
+B : Why not? 0
+A : Because you'll have an accident. Most accidents are because people are in a hurry. -1
+B : How do you know that? 0
+A : I read a lot. 0
+B : I thought drunks caused most accidents. 0
+
+-1 0

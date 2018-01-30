@@ -1,0 +1,12 @@
+A : Can I ask you some questions about the in-flight instructions? 0
+B : I would be happy to help you clarify anything you need help with. 1
+A : Could you help me find out where my nearest exit is? 0
+B : There is a card in your seat pocket that shows you where your nearest exit is. Yours is two rows in front of you. 0
+A : Where is my oxygen mask that you were talking about? 0
+B : Your oxygen mask is above you, next to the reading light. It will drop down when you need it. 0
+A : I am concerned about landing in the water. -1
+B : The life jackets are under your seat. You can also use your seat cushion as a flotation device. 0
+A : What is the most important thing we can do to stay safe? 0
+B : The most important thing you can do is keep your seatbelt fastened when the captain asks you to. 0
+
+0 0

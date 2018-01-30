@@ -1,0 +1,14 @@
+A : What's your email address? 0
+B : It's bluedog123. 0
+A : Bluedog123. Are you sure that's all? 0
+B : Yes. 0
+A : No. That's incomplete. -1
+B : What do you mean? 0
+A : What's your mailing address? 0
+B : 456 Cherry Drive, Pasadena, CA 91170. 0
+A : That's correct. 0
+B : So what's the problem? 0
+A : Bluedog123 is just the street. You have to give me the city, state, and ZIP code. 0
+B : Oh, I get it. My email address is bluedog123@yahoo.com. 0
+
+0 0

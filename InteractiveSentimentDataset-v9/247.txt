@@ -1,0 +1,12 @@
+A : I have a question about extra people living with me in my apartment. 0
+B : You may have one roommate, but they need to have an approved application on file with us. 0
+A : What about overnight guests? 0
+B : An occasional overnight guest is not a problem. 1
+A : How many days could I have an extra guest? 0
+B : We usually consider any guest who stays over a week to be a possible problem. -1
+A : Will I have to pay extra for roommates or visitors? 0
+B : If you are given permission for extended visitors, you may be charged extra. 0
+A : Can my guests use the pool and laundry room? 0
+B : Your guests may use the pool and laundry facilities, but you must be with them at all times. 0
+
+0 0

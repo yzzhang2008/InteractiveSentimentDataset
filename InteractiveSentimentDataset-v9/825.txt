@@ -1,0 +1,12 @@
+A : We need to turn off the air conditioner. 0
+B : Why? It's 90 degrees right now. 0
+A : Our electric bill just came. It's so high. -1
+B : How much higher is it than usual? 0
+A : It is double the normal amount! -1
+B : Wow! That is high. Can we afford that? -1
+A : No. We need to turn off the A/C right away. -1
+B : But, it's been so hot these days. -1
+A : I know. Let's turn it on when the temperature is higher than 90 degrees. 0
+B : I don't think I will be able to handle that. -1
+
+-1 -1

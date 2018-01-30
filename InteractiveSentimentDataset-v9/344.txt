@@ -1,0 +1,14 @@
+A : I need you to fix my computer. 0
+B : What problems are you having with it? 0
+A : There is a virus on my computer. -1
+B : Did you get your computer from our store? 0
+A : I purchased my computer from your store. 0
+B : Did you buy the warranty for your computer? -1
+A : I did purchase the warranty. 1
+B : Your warranty apparently expired two months ago. -1
+A : Is that right? -1
+B : It's going to cost you for us to fix your computer. -1
+A : How much? -1
+B : To fix your computer, it's going to cost you about $120. 0
+
+-1 0

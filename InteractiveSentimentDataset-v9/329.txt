@@ -1,0 +1,14 @@
+A : I'm having a problem. -1
+B : What can I help you with? 1
+A : I was supposed to have my mattress delivered today. -1
+B : Was there a problem with the delivery? 0
+A : The delivery people were four hours late. -1
+B : I do apologize. 1
+A : Since I had to wait for them, I was late for work. -1
+B : I am really sorry about that. 1
+A : I need my money back. -1
+B : I can do that for you. That won't be a problem. 1
+A : I know it shouldn't be a problem. -1
+B : I'm getting your money right now. 1
+
+-1 1

@@ -1,0 +1,14 @@
+A : You're spending a very long time on my hair. -1
+B : I'm almost done. 0
+A : I needed you to be finished an hour ago. -1
+B : I'm all done now. 0
+A : Are you sure you're finished? 0
+B : I don't understand. -1
+A : You did a horrible job on my hair. -1
+B : What's wrong with it? 0
+A : I don't like anything about it. -1
+B : I apologize. -1
+A : That's fine, but I'm not paying for it. -1
+B : Excuse me? Let's try to work this out, okay? -1
+
+-1 -1

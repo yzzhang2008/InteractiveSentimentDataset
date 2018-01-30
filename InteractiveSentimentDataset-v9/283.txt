@@ -1,0 +1,12 @@
+A : I would like to make an appointment to discuss the problems I keep having with my apartment. 0
+B : Are you having problems? This is the first I've heard of it. -1
+A : We gave you a list of problems last week. -1
+B : What kind of problems are you talking about? 0
+A : The garbage disposal doesn't work, we have rats, and the toilet is backed up. -1
+B : Maybe I could get back to you in a few weeks. I am leaving on vacation this afternoon. 0
+A : These things are your responsibility, and you need to fix them immediately. -1
+B : Don't tell me what to do! I'll get to it when I get around to it! -1
+A : If these problems are not addressed immediately, I will be contacting the health department this Friday. -1
+B : I'll be right over! -1
+
+-1 -1

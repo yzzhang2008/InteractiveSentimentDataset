@@ -1,0 +1,12 @@
+A : I was wondering how you are going to calculate our final grades. 0
+B : Grades are based on many things: homework, attendance, quizzes, mid-term, and final. 0
+A : What counts the most? 0
+B : Actually I look at all of it and let's not forget class participation. -1
+A : Do you grade on a curve or use percentages? 0
+B : Homework, attendance, and quizzes are sixty percent; the mid-term and final are worth twenty percent each. 0
+A : What if we miss something? 0
+B : I will allow one unexcused absence; after that you need to contact me ahead of time. 0
+A : Will you tell us if we are failing during the year? 0
+B : You will be able to track your progress during the year. 0
+
+0 0

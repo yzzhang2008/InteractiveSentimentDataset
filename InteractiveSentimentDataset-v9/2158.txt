@@ -1,0 +1,14 @@
+A : Nice to meet you. 1
+B : It's very nice meeting you, too. 1
+A : I'm excited to speak to a candidate. 1
+B : What would you like to ask me? 0
+A : What is your stand on gay marriage? 0
+B : I feel that people can love who they want. 0
+A : So, would you make gay marriage legal? 0
+B : Of course! 1
+A : I'm sure plenty of people won't like that. 0
+B : I can't help that. -1
+A : I like that. 1
+B : I hope so. 1
+
+1 1

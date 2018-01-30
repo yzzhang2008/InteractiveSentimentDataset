@@ -1,0 +1,14 @@
+A : How are you today? 0
+B : Great, thanks. 1
+A : Can I help you? 0
+B : I would actually like to view the apartment for rent today. 1
+A : I'm sorry, but you won't be able to view it today. -1
+B : Why not? 0
+A : You have to make an appointment first. -1
+B : Oh, okay. Can I do that right now? 1
+A : Is this Friday okay? 0
+B : Is 6 o'clock Friday evening okay? 0
+A : Yes, I will schedule you for that time. 1
+B : Thank you very much. See you then. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Is there anything special I should do to get ready for our Open House this weekend? 0
+B : Just make sure that your house is perfectly clean and that everything is put away. 0
+A : My husband wants to watch the game, and we were wondering if he could stay in his den during Open House. 0
+B : Everyone in the household must leave the premises before potential buyers arrive. 0
+A : Can the cat stay on the bed during Open House? 0
+B : No pets are allowed at the Open House! -1
+A : Where can I hide my expensive jewelry? 0
+B : If you have a safe, put your jewelry in there. Otherwise, please take your valuables with you. 0
+A : Will you let us know when everyone has left? 0
+B : Usually the Open Houses last until four o'clock. If this one ends earlier, I will call you on your cell phone. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : Remember to put air in your tires. 0
+B : How often do I have to do that? 0
+A : Once every two months. 0
+B : That's a lot. 0
+A : What do you mean? 0
+B : That's six times a year! 0
+A : Yes, and it takes about five minutes each time. 0
+B : I'll try. 0
+A : Check your tires or you'll get a flat. 0
+B : Oh. That's not good. -1
+A : No, it isn't. A flat costs you time and money. 0
+B : And I don't have either. -1
+
+0 -1

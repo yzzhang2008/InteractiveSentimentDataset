@@ -1,0 +1,12 @@
+A : I don't know the departure procedures at this airport and was wondering if you could help me. 0
+B : If you need to pick up your ticket, you need to go to the ticket counter right inside the door. They will check your bags for you. 0
+A : I don't know where my plane is departing from. 0
+B : There are agents for your airline at the counter in the corner. 0
+A : Where can I find out what I can carry on in my bag? 0
+B : There should be a list of restrictions printed on your ticket. 0
+A : Can I take my friend along with me to say goodbye? 0
+B : Only ticketed passengers can go past the security checkpoint. 0
+A : Is this the area for departures and arrivals or only departures? 0
+B : This is the drop-off area for departures. Arrivals are on the lower level. 0
+
+0 0

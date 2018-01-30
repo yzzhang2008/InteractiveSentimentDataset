@@ -1,0 +1,14 @@
+A : I'm glad you could make it. 1
+B : It's my job. What can I help you with? 1
+A : I think a pipe burst in my apartment. -1
+B : In what room is this pipe? 0
+A : You'll find the pipe in my bathroom. 0
+B : When did the pipe start leaking? 0
+A : It's been leaking for a couple of days now. -1
+B : I will need to tear down that wall to fix that pipe. 0
+A : I understand. 1
+B : You're fine with that? 1
+A : I just want the problem taken care of. 1
+B : Okay. I will begin working on it now, if you'd like. 1
+
+1 1

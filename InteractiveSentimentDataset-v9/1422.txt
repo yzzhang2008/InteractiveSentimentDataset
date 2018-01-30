@@ -1,0 +1,7 @@
+A : You look run down, B. -1
+B : Yeah. I've been feeling under the weather recently. I caught a bad cold last week, and I still haven't gotten over it. -1
+A : Well, you wanna take sick leave? All you need now is a good, long rest! 1
+B : I guess so! Even though I seem to be over the worst of it, I don't want to give the bug to anyone in the office. -1
+A : Good idea! 1
+
+1 -1

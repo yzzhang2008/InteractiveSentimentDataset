@@ -1,0 +1,24 @@
+A : Hello. You've reached Albert. 0
+B : I'm Jack. Are you still interested in renting a room? 0
+A : Yes, very much so. 1
+B : Would it be all right if I asked you some questions? 0
+A : Fire away. 1
+B : I just want to make sure that we are compatible. 0
+A : That's a good idea. We need to get along. 1
+B : Do you like to party? 0
+A : I don't party, and I don't like people who do. -1
+B : Great! Now, are you a neat person, or do you leave trash all over? 1
+A : One of my mottoes is to clean as you go. 1
+B : Do you sleep in or rise early? 0
+A : I go to bed early, and I get up early. 1
+B : And last, are you a smoker? 1
+A : I can't stand cigarette smoke. -1
+B : Excellent. Now, do you have any questions for me? 1
+A : Only one. Where can I park my car? 0
+B : I hate to tell you, but it's street parking. -1
+A : I don't like it, but I need an apartment now, so I'll take it. 0
+B : Great! Give me a call, and I'll help you move your stuff in. 1
+A : Will tomorrow be okay with you? 1
+B : That sounds good. I'll see you tomorrow. 1
+
+1 1

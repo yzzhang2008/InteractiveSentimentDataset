@@ -1,0 +1,22 @@
+A : Hello? 0
+B : Hi Diane. This is Helen. 0
+A : Hi Helen. What's up? 0
+B : I want to throw Mom a surprise birthday party. 0
+A : That's wonderful idea. How can I help? 1
+B : Do you know who we should invite? 0
+A : Her friends and co-workers? 0
+B : Do you have their phone numbers or e-mail addresses? 0
+A : No, I don't. Why don't we ask Dad? He should have them. 0
+B : Do you think Dad can keep a secret? 0
+A : Yeah. Remember he surprised her with a trip to France a couple of years ago? 1
+B : Oh yeah. Mom was so surprised. 1
+A : What kind of food should we serve? 0
+B : Let's serve Mom's favorite food, pasta. I can cook. 1
+A : Ok. I can take care of the party decorations. 1
+B : Perfect. Should we get together to discuss all of the plans? 1
+A : Sure. Do you want to meet right now? 0
+B : No. I have some things to do. Can I meet you at 5 pm? 0
+A : Ok. That sounds good. 1
+B : Why don't you come to my house? I can make us dinner. 1
+
+1 1

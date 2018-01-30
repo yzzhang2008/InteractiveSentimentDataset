@@ -1,0 +1,8 @@
+A : Can you help me understand this report? 0
+B : Sure. What is the problem? 0
+A : I don't know what these numbers mean. 0
+B : It's explained in the report. 0
+A : The explanations are not very clear. -1
+B : I'll try to explain it better for you. 0
+
+-1 0

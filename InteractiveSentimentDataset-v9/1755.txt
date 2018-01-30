@@ -1,0 +1,12 @@
+A : What's going on? 0
+B : Not much. 0
+A : This Friday, I'm throwing a party. 0
+B : Oh really? I didn't know that. 0
+A : Are you serious? 0
+B : I haven't heard anything about it. 0
+A : Can you make it? 0
+B : What time does it start? 0
+A : The party starts at 8. 0
+B : Maybe next time. 0
+
+0 0

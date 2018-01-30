@@ -1,0 +1,12 @@
+A : This is really a fascinating city! 1
+B : Yes, this city is thousands of years old and has quite a history! 1
+A : I really love this temple we are visiting. 1
+B : As you enter the temple, please remove your shoes as the others are doing. 0
+A : It is so quiet here. 0
+B : Yes, they are showing respect to their gods. People come here to pray and meditate. 1
+A : I noticed that the women all have some sort of head covering. 0
+B : It is a tradition that women cover their heads while in the temple. 0
+A : I noticed that all of the people were eating with their hands at dinner last night. 0
+B : Yes, that is another custom that people practice here. 0
+
+1 1

@@ -1,0 +1,13 @@
+A : Hi B . I'm A , your new client. 0
+B : Nice to meet you, A . 1
+A : Nice to meet you too, B . 1
+B : Have you taken a tour of the office yet? 0
+A : No, not yet. -1
+B : Would you like me to show you around? 0
+A : That would be great! 1
+B : Let's start with my office. It's at the end of the hallway. 0
+A : You have a view of the mountains. 1
+B : Yes, it's a relaxing view in a stressful industry. 1
+A : I understand the stress part. 0
+
+1 1

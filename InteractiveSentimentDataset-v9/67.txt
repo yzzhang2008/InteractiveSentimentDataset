@@ -1,0 +1,10 @@
+A : May I ask you a question? 0
+B : Yes. How can I assist you? 0
+A : I want to buy a sweater. 0
+B : What size? 0
+A : I think a medium should fit me. 0
+B : How about this one? 0
+A : The color's nice. Do you have a dressing room? 1
+B : There's a fitting room right over there. 0
+
+1 0

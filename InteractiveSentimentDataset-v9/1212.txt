@@ -1,0 +1,12 @@
+A : I need help preparing for my presentation on Friday. 0
+B : I could help you with that. 0
+A : Are you sure you have the time? 0
+B : I promise you that I have the time to do this. If I didn't, I wouldn't offer to help. 0
+A : What would be the best time for you to help me? 0
+B : Tomorrow night would work for me. 0
+A : Should we just meet here? 0
+B : OK, and I'll bring some information that helped me with my presentation. 0
+A : I'll see you then. 0
+B : See you tomorrow night. 0
+
+0 0

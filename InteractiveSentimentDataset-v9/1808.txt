@@ -1,0 +1,8 @@
+A : I don't know what I'm going to do. 0
+B : What's wrong? 0
+A : The stock market crashed. -1
+B : Did you have investments? 0
+A : Yes. I lost all my money. -1
+B : I'm too scared to invest my money. -1
+
+-1 -1

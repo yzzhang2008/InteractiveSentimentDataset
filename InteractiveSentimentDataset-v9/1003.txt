@@ -1,0 +1,14 @@
+A : What's for dinner tonight? 0
+B : It's whatever you're planning on cooking. 0
+A : You're not going to cook? 0
+B : No, I always cook. 0
+A : Yes, and I love your cooking. 1
+B : Don't give me that. If you're hungry, then cook dinner. -1
+A : You're being serious? 0
+B : Look, I'm really tired tonight. I don't feel like cooking dinner. -1
+A : I'll make dinner tonight. 0
+B : Thank you. I'm going to bed. 1
+A : Do you want me to wake you up when dinner is ready? 0
+B : Yes, please. 0
+
+0 -1

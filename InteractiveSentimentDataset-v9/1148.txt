@@ -1,0 +1,10 @@
+A : What should I do to prepare for a job interview? 0
+B : An understanding of the basic workings of a company and the services or goods it provides is essential. Do you have that? 0
+A : Sort of, but I could know more, I guess. 0
+B : With that understanding, you can figure out what your company is looking for in terms of basic attitude. Right? 0
+A : I think that they are a very formal company. 0
+B : What you wear is important. So keep in mind what is suitable for the company and type of work you will be doing. Need help? 0
+A : I need a lot of help in this area. -1
+B : Do not worry, I will help you. 1
+
+-1 1

@@ -1,0 +1,7 @@
+A : I'm really happy that you could come. 1
+B : Yeah. It's been years since we did this together. 0
+A : I know. It has been a long time. 0
+B : Well, anyway, a drink to our friendship! 1
+A : Cheers! 1
+
+1 1

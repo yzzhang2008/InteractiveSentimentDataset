@@ -1,0 +1,14 @@
+A : I would love to buy this TV. 1
+B : Fantastic! 1
+A : What's the price for it? 0
+B : This television is on sale for $2500. 0
+A : Seriously? -1
+B : That's the price. 0
+A : That's way too much money. -1
+B : That is actually very inexpensive for this television. 1
+A : Could you lower the price some? 0
+B : How much are you talking? 0
+A : $2000 is as high as I'll go. -1
+B : I'm very sorry, but $2500 is the final price. -1
+
+-1 -1

@@ -1,0 +1,14 @@
+A : Let's go to the beach. 1
+B : That's a great idea. 1
+A : We haven't been in a while. -1
+B : We haven't been in a month. -1
+A : The last time we went, you almost drowned. -1
+B : No, I didn't. -1
+A : Then why did the lifeguard dive into the water? 0
+B : I think he wanted to cool off. 0
+A : He swam right up to you. 1
+B : And then he turned right around. 1
+A : Maybe you're right. 1
+B : Maybe we should get going. 1
+
+1 1

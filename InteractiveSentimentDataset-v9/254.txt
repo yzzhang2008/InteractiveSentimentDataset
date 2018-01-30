@@ -1,0 +1,12 @@
+A : I am really losing patience with my noisy neighbors! -1
+B : They are noisy, all right. What do you think is making that sound? -1
+A : I think they are hammering some new flooring down in their living room. 0
+B : Do they usually make a lot of noise? -1
+A : I can hear music through the walls all the time. -1
+B : Do you ever tell your neighbors about the noise problem? 0
+A : No, I don't know them very well. -1
+B : Are there any other sounds that you can hear? 0
+A : I hear them talking loudly a lot, and their television is really loud. -1
+B : I would talk to the manager if the noise continues. -1
+
+-1 -1

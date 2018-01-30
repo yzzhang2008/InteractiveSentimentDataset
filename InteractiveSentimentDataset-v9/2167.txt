@@ -1,0 +1,14 @@
+A : Did you vote? 0
+B : Of course! 1
+A : Who was your vote for President? 0
+B : My vote was for Barack Obama. 0
+A : I didn't expect him to win. -1
+B : I had no doubt in my mind that he would win. 1
+A : What made you think that? 0
+B : Nobody could compete with him. 1
+A : I thought his race would have kept him from winning. 0
+B : Times are changing. 1
+A : That's true. 1
+B : I support our new President 100%. 1
+
+1 1

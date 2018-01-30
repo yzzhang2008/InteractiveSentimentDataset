@@ -1,0 +1,14 @@
+A : Have you ever shopped at Whole Foods market? 0
+B : Nope. How's the food there? 0
+A : It's very good, and it's fresh too. 1
+B : I do my shopping at Vons. 0
+A : I shopped there before too, but the food is better at Whole Foods. 1
+B : What's wrong with Vons? 0
+A : Their range of organic foods is very limited. -1
+B : Whole Foods has a lot of organic foods? 0
+A : Yes, the food there is very healthy. 1
+B : I've never been, but I may start shopping there. 1
+A : The food there is a great step up from Vons. 1
+B : Thanks for letting me know. 1
+
+1 1

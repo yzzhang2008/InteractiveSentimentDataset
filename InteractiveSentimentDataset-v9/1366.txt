@@ -1,0 +1,8 @@
+A : B, why are you standing in the rain? 0
+B : I'm waiting for the bus. 0
+A : Do you need a ride? 0
+B : That would be great! I think I missed the bus. 1
+A : Get in the car. You're all wet. 1
+B : Thanks, A. I'll buy you a cup of coffee. 1
+
+1 1

@@ -1,0 +1,13 @@
+A : Excuse me, waiter! 0
+B : Yes Sir, how may I help you? 0
+A : I think there is something about my order. My fish has a good seasoning, but it's a little dry. I don't really enjoy it. Can you give me another one? -1
+B : Oh I'm so sorry about that. I think I should let the cook know about this meal. Would you please just wait for a moment? -1
+A : Okay. 1
+B : Excuse me Sir, Here is your fish. How about this one? 0
+A : Well, this is just exactly what I want. Can you also give me roast crab with mushroom…. and some chips, please? 1
+B : Surely. Would you have more drinks, Sir? 0
+A : No thanks, that's enough. Do I have to pay the first fish? 1
+B : I don't think so Sir, I do apologize. That was our mistake. -1
+A : That's fair. Thank you. 1
+
+1 -1

@@ -1,0 +1,12 @@
+A : Excuse me, Professor, is there a time when I could meet with you? 0
+B : I could meet with you tomorrow anywhere from two until four; what time works out best? 0
+A : I would like to come in at three o'clock. 0
+B : Can you find my office? 0
+A : Yes, I can. 0
+B : Just follow the walkway to the outside and climb the stairs to the third floor. 0
+A : I got it. 0
+B : If you do get lost, just ask someone in the building to point the way. 0
+A : Thank you, I'll be there. 1
+B : If you need to cancel your appointment, please give me a call! 0
+
+1 0

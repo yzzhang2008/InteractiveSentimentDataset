@@ -1,0 +1,10 @@
+A : Did you go to school today? 0
+B : Yeah, I went to school today. Were you there? 0
+A : No, I didn't go, I've been sick. -1
+B : That sucks. Did you want the assignments from English class? -1
+A : That would be nice, thank you. 1
+B : No problem, you're welcome. 1
+A : I will be glad to do the same for you when you're sick. 1
+B : Well, thank you. I hope to see you at school tomorrow. 1
+
+1 1

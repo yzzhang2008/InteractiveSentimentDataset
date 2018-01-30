@@ -1,0 +1,14 @@
+A : It is very nice meeting you. 1
+B : I'm happy to meet you also. 1
+A : When did you get moved in? 0
+B : Just this past weekend. 0
+A : I didn't even know the house got sold. -1
+B : I absolutely love this house, so I had to buy it. 1
+A : I understand, because the house is extraordinary. 1
+B : How many years have you been living in your house? 0
+A : I've been living here for over 20 years. 1
+B : Twenty years? That is a very long time. 0
+A : I hope that we remain neighbors for a while longer. 1
+B : I could never move out of this house. 1
+
+1 1

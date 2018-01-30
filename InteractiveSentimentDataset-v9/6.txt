@@ -1,0 +1,12 @@
+A : Can you pass me the hammer? 0
+B : The hammer is beside you, in the tool box. 0
+A : I’m still holding the ladder you know! -1
+B : Alright, what else should I pass you? 0
+A : That’s it. Can you ask Mr. Jack what we should do after this? 0
+B : Mr. Jack isn’t at the site project right now. He’s having lunch now. But he said that we can lay the bricks. 0
+A : Have you mixed the cement ? Look ! We still have a lot of cement slurry overthere! -1
+B : Alright then. Ouch…! I’m starve! Let’s get our lunch first! -1
+A : We better get this thing done. We just need a couple of minutes, don’t we? 1
+B : okay,….we’ll get this work done. 1
+
+1 1

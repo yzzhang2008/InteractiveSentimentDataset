@@ -1,0 +1,14 @@
+A : Did you do the laundry? 0
+B : Yes, I did. 0
+A : What did you wash? 0
+B : I washed the sheets and towels. 0
+A : What about the pillowcases? 0
+B : Yes, I took them off the pillows and washed them. 0
+A : Did you dry everything in the dryer? 0
+B : Yes, I dried everything in the dryer. 0
+A : Then what did you do? 0
+B : I folded all the towels. 0
+A : Did you put the sheets on the beds? 0
+B : Yes, and I put the pillowcases on the pillows. 0
+
+0 0

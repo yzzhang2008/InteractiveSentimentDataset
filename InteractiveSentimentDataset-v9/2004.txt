@@ -1,0 +1,12 @@
+A : I am having some big problems on this tour. -1
+B : What seems to be the problem? We are here to help you. 1
+A : This tour company seems very disorganized. No one seems to have a clear picture as to where we are going and when we are going to get there. -1
+B : I will see what I can do about that. How about the accommodations on the tour? 0
+A : So far, we have been staying in really out-of-the-way accommodations. -1
+B : Is anything wrong with your room? 0
+A : The television in our room was broken, and they didn't send anyone to fix it. -1
+B : I will complain to the hotel manager about that. How about the hotel restaurant? -1
+A : The food in the restaurant was terrible, and a few people from our group got sick. -1
+B : I am so sorry that you had such a bad experience. We would like to offer you a free city tour and lunch to make it up to you. -1
+
+-1 -1

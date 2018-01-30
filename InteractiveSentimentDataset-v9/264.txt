@@ -1,0 +1,12 @@
+A : I was wondering if I could speak to someone about some concerns of mine with the pool area. -1
+B : I can answer any questions that you might have. What are your concerns? 1
+A : I enjoy living next to the pool, but it gets really loud out there at night. -1
+B : The pool is supposed to be closed after 10:00. Are you saying that people are partying later than that? -1
+A : There have been parties out there that haven't ended until two in the morning! -1
+B : Did you call the front desk? 0
+A : Yes, I tried, but no one picked up. -1
+B : You can have my personal line to call if this happens again. Do not hesitate to call. 1
+A : Thank you for taking care of this for me. 1
+B : Thank you for bringing it to my attention. We will send reminder memos to help people remember what the rules are. 1
+
+-1 1

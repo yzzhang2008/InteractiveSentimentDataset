@@ -1,0 +1,8 @@
+A : Is this dress on sale? 0
+B : It was on sale yesterday. 0
+A : Still, couldn't you sell it to me today at the sale price? 0
+B : I'm sorry, but I'd lose my job if I sold it to you at yesterday's sale price. -1
+A : I had my heart set on buying this dress. 1
+B : Well, feel free to browse. We have other items on sale today. 1
+
+0 1

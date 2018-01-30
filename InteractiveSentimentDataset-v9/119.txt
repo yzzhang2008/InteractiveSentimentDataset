@@ -1,0 +1,8 @@
+A : Am I mistaken, or is this dress on sale? -1
+B : I'm very sorry. The sale ended yesterday. -1
+A : I really like this dress, but I want to pay the sale price. 1
+B : If you like, I can put you on our mailing list for the next sale. 1
+A : That's okay. Some days you win, some days you lose. 1
+B : Let me ask my manager when he thinks this dress will be on sale again. 0
+
+1 0

@@ -1,0 +1,14 @@
+A : I hate to go outside. -1
+B : Me too. -1
+A : Why do you hate to go outside? 0
+B : I meet too many jerks. -1
+A : I agree. 0
+B : This city is full of jerks. -1
+A : Rude people are everywhere. -1
+B : But what can you do? 0
+A : You can yell at them. -1
+B : And they will yell back at you. -1
+A : Yelling doesn't do any good. -1
+B : No. The best thing to do is just stay home. 0
+
+-1 -1

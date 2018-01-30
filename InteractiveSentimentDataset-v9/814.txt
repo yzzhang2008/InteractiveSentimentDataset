@@ -1,0 +1,14 @@
+A : We're here! 1
+B : I want to go play! 1
+A : What do you want to do first? 0
+B : I want to go down the slide. 0
+A : Don't run, and be careful. 1
+B : I will. This is so much fun. 1
+A : Did you enjoy the slide? 0
+B : Yes. It was great. I went so fast. 1
+A : What else do you want to play on? 0
+B : Swinging would be fun. 1
+A : Do you want me to push you? 0
+B : I can do it by myself. Watch me. 1
+
+1 1

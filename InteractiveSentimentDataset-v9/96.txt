@@ -1,0 +1,16 @@
+A : I'm looking for a gift for my daughter. 0
+B : How about a laptop? 0
+A : Yes, she needs something to help her at school. 1
+B : How about a Mac? 0
+A : That sounds good. How much is one? 1
+B : Our newest 15-inch Pro is only $2,100. 0
+A : Only $2,100? Okay, let me have one. 1
+B : That's great. Will that be cash, check, or credit card? 1
+A : Let me dig my VISA out of my purse. 0
+B : If you'll just sign here, please. 0
+A : Do I need to buy anything else? 0
+B : All she has to do is open the box and follow the instructions. 1
+A : Thank you so much. 1
+B : Thank you. If you have any problems, just call. 1
+
+1 1

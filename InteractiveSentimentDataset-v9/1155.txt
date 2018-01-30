@@ -1,0 +1,12 @@
+A : Good morning. Thank you for the interview. 1
+B : No problem. Now, do you prefer working with others or flying solo? 0
+A : Actually, I enjoy both. 1
+B : So, what is most important to you in a job? Do you need job security or professional growth and a chance to advance? 0
+A : I need job security. 0
+B : Would you be able to relocate? 0
+A : I am open to relocating. 1
+B : What are your annual salary requirements? 0
+A : I need at least 75,000 per year. 0
+B : I'll keep that in mind. Thank you for coming in today. We'll be in touch. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : I was thinking about cooking dinner tonight. 0
+B : What do you want to make? 0
+A : I'm not exactly sure. 0
+B : I wouldn't mind a beef bowl. 0
+A : How do I make that? 0
+B : All it has is rice and teriyaki beef. 0
+A : That sounds easy, but how do I make it? 1
+B : First, you need to make some white rice. 0
+A : Then what do I do? 0
+B : Then you need to shred some beef and marinate it with teriyaki sauce. 0
+A : Is there anything else I need to do? 0
+B : Then you cook it up and eat it. 0
+
+0 0

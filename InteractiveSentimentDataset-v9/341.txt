@@ -1,0 +1,14 @@
+A : I need to try these clothes on. 0
+B : What are you going to try on? 0
+A : I just found some jeans and a top. 0
+B : Try it on. 1
+A : How do I look in this? 0
+B : That shirt looks great. 1
+A : How do these jeans look? 0
+B : They don't look nice on you. -1
+A : I don't like them either. -1
+B : I just like that shirt. 1
+A : I'm just going to buy the shirt. 1
+B : Good. 1
+
+1 1

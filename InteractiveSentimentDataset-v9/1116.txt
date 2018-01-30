@@ -1,0 +1,10 @@
+A : What do you need? 0
+B : I have a question about my insurance. 0
+A : What are you wondering about? 0
+B : Were there any changes to my insurance? 0
+A : What do you think was changed? 0
+B : My premium is different. 0
+A : What's the problem? 0
+B : I think that my premium went up. 0
+
+0 0

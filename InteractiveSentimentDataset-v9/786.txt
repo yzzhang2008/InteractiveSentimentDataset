@@ -1,0 +1,14 @@
+A : Are you new around here? 0
+B : I just moved here. 0
+A : Nice to meet you. 1
+B : I'm happy to meet you too. 1
+A : When did you move here? 0
+B : I've been here a month now. 0
+A : How do you like it? 0
+B : I love it here. 1
+A : It's gorgeous here, don't you think? 1
+B : It's wonderful. 1
+A : I would like to welcome you to the neighborhood. 1
+B : That's very sweet of you. 1
+
+1 1

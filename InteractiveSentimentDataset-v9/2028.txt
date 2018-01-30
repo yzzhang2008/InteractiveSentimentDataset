@@ -1,0 +1,12 @@
+A : Is this where I catch the Super Shuttle? 0
+B : Yes, this is where you catch the Super Shuttle. Where are you headed? 0
+A : I am headed home to Pasadena. 0
+B : You can tell where each van is headed by the name on the front of the van. I am the driver for Glendale, but your van should be along in a minute. 0
+A : Do you know how much it costs to get to Pasadena? 0
+B : I believe the cost of that trip is sixty dollars. 0
+A : Do you know if the shuttle goes directly to Pasadena, or does it make a lot of stops? 0
+B : Before you pay the driver, you need to ask him. He needs to be upfront with you about the number of stops he will be making. 0
+A : Do I need to have exact change? 0
+B : You don't need exact change, but it is useful to have smaller bills. 0
+
+0 0

@@ -1,0 +1,11 @@
+A : Let's sell the house. 0
+B : Why? I love this house. 1
+A : It's too much work to take care of. -1
+B : We raised four kids in this house. 0
+A : They're all grown up now. 0
+B : There would be no memories in a new house. -1
+A : We would make new memories. 1
+B : I really don't want to move, Carl. -1
+A : Ok. I understand. You talked me out of it. 0
+
+0 -1

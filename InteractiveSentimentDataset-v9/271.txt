@@ -1,0 +1,14 @@
+A : I have a problem. -1
+B : What's the problem? 0
+A : A pipe burst in my ceiling. -1
+B : Why do you think that? 0
+A : There is water dripping from my ceiling. -1
+B : Is it causing a flood in your apartment? 0
+A : No, but my carpet is getting wet. -1
+B : How long has this water been dripping? 0
+A : It only started leaking today. -1
+B : I'll have someone come down to fix it right away. 1
+A : That's great. 1
+B : I apologize for the inconvenience. -1
+
+1 -1

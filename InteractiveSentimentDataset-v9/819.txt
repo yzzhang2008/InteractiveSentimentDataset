@@ -1,0 +1,11 @@
+A : Did you go to the cocktail party last night? 0
+B : Yes. I didn't see you there. -1
+A : I was sick. -1
+B : That's too bad. Something crazy happened there. -1
+A : I heard about our new client. 0
+B : Yeah. He got really drunk. -1
+A : Did our boss see him? 0
+B : Yes. She was not happy to see that. -1
+A : He must be really embarrassed this morning. -1
+
+-1 -1

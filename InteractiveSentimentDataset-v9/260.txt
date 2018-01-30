@@ -1,0 +1,12 @@
+A : Could I speak with the property manager about a problem I had last night? 0
+B : I am the property manager. What was the problem that you experienced? 0
+A : Have you noticed that the lighting in the garage area is almost nonexistent? -1
+B : Has this been a problem for you in the past? 0
+A : I just moved here recently, so I really don't know how long it has been like this. -1
+B : Maybe some of the bulbs were burned out. -1
+A : All I know it that it feels very unsafe out there at night. -1
+B : Do you really think it is that unsafe to have a few dark patches here and there? 0
+A : It is unsafe because a rapist could hide in there and attack women. -1
+B : I will have the night manager look into it. Thank you for telling me about it. 1
+
+-1 1

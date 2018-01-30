@@ -1,0 +1,14 @@
+A : It sure is windy out there! -1
+B : It definitely is not the perfect day to fly, is it? -1
+A : I am scared of flying to begin with, but bad weather makes it a little worse. -1
+B : Anyone who actually enjoys flying in bad weather is out of their mind. 0
+A : Will the whole flight be this bad? -1
+B : I think that it will probably let up once we get out of here. Let's cross our fingers! 0
+A : What if we hit a flock of birds? 0
+B : Plane crashes are very rare. We'll be fine. 1
+A : Do you think that the pilot will ever turn off the Fasten Your Seatbelt sign? 0
+B : The pilot needs to make sure that there is no more turbulence before he lets us get up. 0
+A : Do you think that we are going to die? -1
+B : Can I buy you an alcoholic beverage? -1
+
+-1 -1

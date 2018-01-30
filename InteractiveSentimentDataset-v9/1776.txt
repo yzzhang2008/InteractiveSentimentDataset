@@ -1,0 +1,12 @@
+A : Mary, what a surprise! 1
+B : I am so glad you are home! Josh and I thought that we'd take a chance and stop by for a visit. 1
+A : Your timing is perfect! 1
+B : It's been a long time since we've stopped by. 0
+A : Mary, Josh, would either of you like something to drink? 0
+B : Thanks, but we really are fine. 1
+A : Would you like a little snack? 0
+B : No, thanks. We are still full from lunch. 0
+A : Is your family doing well? 0
+B : Things are going well for everyone. My brother finally got the job he had been trying for. 1
+
+1 1

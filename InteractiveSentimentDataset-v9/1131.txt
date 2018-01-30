@@ -1,0 +1,9 @@
+A : Let's eat out, shall we? 0
+B : I'm broke. I've gone through my paycheck for the week already. -1
+A : Don't worry about it. It's my treat. 1
+B : You're sure? You're so generous! 1
+A : And nice, too. 1
+B : So, where are you taking me? 0
+A : A's Kitchen. 0
+
+1 1

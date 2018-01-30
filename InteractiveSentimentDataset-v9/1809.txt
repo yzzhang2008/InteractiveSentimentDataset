@@ -1,0 +1,17 @@
+A : Mommy, I don't feel very well. -1
+B : What's wrong, Susie? Didn't you have a good time at the birthday party? -1
+A : Yeah. It was a lot of fun. But now my tummy hurts. -1
+B : Did you eat too much food at the party? 0
+A : I think so. 0
+B : What did you eat? 0
+A : Pizza, cake, ice cream, and potato chips. 0
+B : That is a lot of food. 0
+A : I also had soda, cookies, and popcorn. 0
+B : Susie, that's why your stomach hurts. You ate too much. Why did you eat so much? -1
+A : Everything looked delicious. 1
+B : Susie, I think you should go lie down for a while? 0
+A : Ok, mommy. 0
+B : Susie, where are you going? 0
+A : I need to go to the bathroom first. 0
+
+-1 0

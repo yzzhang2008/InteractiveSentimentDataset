@@ -1,0 +1,14 @@
+A : Excuse me, could you help me figure out how to use this new parking meter? 0
+B : Sure. Have you ever used a regular meter? 0
+A : Yes, I understood the old one. 0
+B : Well, on this one you can use coins or a debit or credit card; which one would you like to use? 0
+A : Debit or credit card. 0
+B : OK. Now, do you see what the rate is on the sticker? 0
+A : Yes. 1
+B : OK, now that we know what it will cost, put the money or card into the machine. 0
+A : Yes, I can do that. 1
+B : now, this machine asks you the number of your spot, so put that in also. 0
+A : Yes, I'm ready. 1
+B : All you have to do now is take your receipt and put it on your dashboard. 0
+
+1 0

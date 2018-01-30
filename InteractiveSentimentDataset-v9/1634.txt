@@ -1,0 +1,12 @@
+A : I think that I am going to hire a lawyer to help me transfer the deed of my house. 0
+B : Don't worry. The escrow company will be helping us with transferring the deed. 1
+A : How do they begin the process of transferring the deed? 0
+B : A title search is necessary to make sure that there are no liens against your property. 0
+A : What will happen if they find a lien against my property? 0
+B : All liens against the property must be cleared before the sale of your house can continue. 0
+A : How can I shorten my escrow? 0
+B : Make sure that you accurately complete all paperwork in a timely fashion. This will help shorten the length of your escrow. 0
+A : How many days will it take to close the escrow? 0
+B : Thirty to ninety days is about how long it takes to complete an escrow. 0
+
+0 0

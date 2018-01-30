@@ -1,0 +1,14 @@
+A : Have you met the new girl? 0
+B : No. Have you? 0
+A : She's one of the prettiest girls at the school. 1
+B : What does she look like? 0
+A : Well, she's quite short. 0
+B : How tall would you say that she is? 0
+A : I would say she's only five feet. 0
+B : What about her facial features? 0
+A : She has light brown eyes, absolutely beautiful. 1
+B : I think I know who you're talking about. 0
+A : Have you seen her? 0
+B : I think that I have. 0
+
+1 0

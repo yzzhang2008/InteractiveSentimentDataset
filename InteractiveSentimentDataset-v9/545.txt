@@ -1,0 +1,22 @@
+A : Hi Sarah. What are you doing outside so late at night? 0
+B : Oh hi Janice. I couldn't sleep. What are you doing here? -1
+A : I come out here once in a while to look at the stars. Aren't they beautiful? -1
+B : Yes, they are. I never really paid attention to them. -1
+A : You're lucky tonight. The sky is clear, so the stars are very bright. 1
+B : We have a telescope, but we never use it. -1
+A : That's awesome. I wish we had one. 1
+B : You can borrow ours. 0
+A : That would be great! I've always been interested in astronomy. 1
+B : What's that? 0
+A : Astronomy is the study of stars, planets, and other objects in outer space. 0
+B : That would be really interesting to study. 1
+A : Yeah. I took a college class in astronomy once. It was fascinating. 1
+B : Look at the moon! It's a full moon. 1
+A : Yeah, didn't you see it earlier tonight? -1
+B : No. I didn't notice it earlier. What a beautiful sight. 1
+A : It's supposed to be clear tomorrow night too. Do you want to meet out here again? 0
+B : Sure. How about 11 pm? 0
+A : I'll be here. 1
+B : I'll bring my telescope. 0
+
+1 1

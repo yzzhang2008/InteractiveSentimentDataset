@@ -1,0 +1,14 @@
+A : I need to use the ATM. 0
+B : What's stopping you? 0
+A : I'm not sure how. -1
+B : I don't understand. -1
+A : I've never used one before. -1
+B : I can help you figure it out. 1
+A : What do I have to do? 0
+B : Slide your card into the machine. 0
+A : Then what? 0
+B : You need to type your PIN in. 0
+A : What do I have to do next? 0
+B : Click on whichever option you want, and you're done. 0
+
+-1 0

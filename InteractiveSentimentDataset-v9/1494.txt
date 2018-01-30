@@ -1,0 +1,7 @@
+A : How much is the delivery charge? 0
+B : clerk: 5% of the total order amount. 0
+A : That's expensive. We're buying a large amount of office supplies. Can you give us a discount on the delivery fee? 0
+B : clerk: Let me talk to my manager. 0
+A : If we are happy with the service, we will continue buying all of our supplies from your company. 0
+
+0 0

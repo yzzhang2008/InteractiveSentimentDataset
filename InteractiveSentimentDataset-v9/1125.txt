@@ -1,0 +1,10 @@
+A : Are you ready to order now? 0
+B : Yes. I'll have some salad, roast beef, and mashed potatoes. 0
+A : How do you want the beef? Rare, medium, or well-done? 0
+B : Well-done. And easy on the salt, please. 0
+A : Sure. Anything to drink? 0
+B : Do you have coffee or tea? I'd like decaf. 0
+A : Yes, we have both. Which one would you like, coffee or tea? 0
+B : Iced tea, please. And easy on the ice. 0
+
+0 0

@@ -1,0 +1,9 @@
+A : You look so angry. What happened? -1
+B : Nothing. I'd rather not talk about it. Just don't ask. -1
+A : Come on. I think you need to let off some steam. Besides, you shouldn't keep your feelings pent up. They'll eat you alive. So, talk to me. -1
+B : All right. This morning I took my car to the garage to have them check the air-conditioner. They only gave it a once-over, refilled it with some Freon, and charged me 300 bucks! -1
+A : No wonder you're livid. I'd be mad, too if someone ripped me off like that. -1
+B : Yeah. AND they were rude. They said I didn't know anything about cars, which I don't, but they didn't have to be so blunt! -1
+A : Sounds like you got a raw deal! Maybe you should file a complaint with the Consumer Protection Agency. -1
+
+-1 -1

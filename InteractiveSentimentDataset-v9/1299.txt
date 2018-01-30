@@ -1,0 +1,9 @@
+A : I would like to buy some beef. 0
+B : What kind do you want? 0
+A : I need to get ground beef. 0
+B : How many pounds would you like me to get you? 0
+A : I need about four pounds. 0
+B : Exactly what type of ground beef do you want? 0
+A : Extra lean. 0
+
+0 0

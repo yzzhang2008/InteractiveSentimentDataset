@@ -1,0 +1,14 @@
+A : The total for all these items comes to $36.78. 0
+B : Take my VISA. 0
+A : There is something wrong with your card. -1
+B : What's going on? 0
+A : Your card was declined. -1
+B : That can't be right! -1
+A : Would you like me to try another card? 0
+B : I don't have another one. -1
+A : What about cash? 0
+B : I didn't bring cash with me today. -1
+A : I'm sorry, but you can't take the items until you can buy them. -1
+B : I'll come back for them tomorrow. 0
+
+-1 -1

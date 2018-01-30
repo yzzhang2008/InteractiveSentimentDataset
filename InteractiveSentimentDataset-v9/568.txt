@@ -1,0 +1,14 @@
+A : I need to get on another bus, but I have no more money. -1
+B : Where'd the rest of your money for the bus go? 0
+A : I spent it on a bag of chips. 0
+B : Well, that was an intelligent thing to do. 1
+A : You don't have any spare change? -1
+B : No, I don't. -1
+A : How am I going to get home? 0
+B : You should just ask the bus driver for a transfer. 0
+A : How much does that cost? 0
+B : It's free; just go ask for one. 1
+A : Thanks for letting me know. 1
+B : No problem, just go ask. 1
+
+1 1

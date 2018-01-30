@@ -1,0 +1,14 @@
+A : Can you help me with something, sir? 0
+B : What do you need? 0
+A : Well, I was planning on transferring soon. 0
+B : Where are you going to transfer? 0
+A : I want to transfer either to NYU or UCLA. 0
+B : I'm glad to hear that, but what can I do for you? 1
+A : I was wondering if you could write a couple of reference letters for me. 0
+B : Is that all? 0
+A : That's all I need from you. 1
+B : I can do that for you. 1
+A : You're a lifesaver. 1
+B : They'll be ready tomorrow. 1
+
+1 1

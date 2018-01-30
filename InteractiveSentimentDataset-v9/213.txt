@@ -1,0 +1,14 @@
+A : I want to rent this apartment. 1
+B : I'm glad to hear that. 1
+A : How much are you asking? 0
+B : You will have to pay $1050 every month. 0
+A : I can't afford that. -1
+B : What can you afford? 0
+A : I was thinking $800 a month. 0
+B : I'll need you to pay more than that. -1
+A : How much more? 0
+B : How does $900 every month sound to you? 0
+A : I can live with that. 1
+B : We have a deal then. 1
+
+1 1

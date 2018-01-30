@@ -1,0 +1,14 @@
+A : Can I borrow $5? 0
+B : Sure. Why do you need it? 1
+A : I want to buy lunch. 0
+B : Where's your money? 0
+A : It's not in my wallet. -1
+B : Your wallet is empty? 0
+A : I don't have even one dollar in it. -1
+B : Being broke is no fun. -1
+A : Even if it's only for a short while. -1
+B : It's always good to have friends. 1
+A : Friends will lend you money when you're broke. 1
+B : As long as you pay them back. 1
+
+1 1

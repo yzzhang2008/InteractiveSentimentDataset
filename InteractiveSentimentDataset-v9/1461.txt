@@ -1,0 +1,20 @@
+A : Hi Helen. What's wrong? 0
+B : I couldn't sleep until 3 o'clock in the morning. -1
+A : Why? What happened? 0
+B : Our neighbors' children threw a big party last night. The music was so loud. -1
+A : Wow! Where were their parents? 0
+B : They are on vacation. They left the kids home. 0
+A : How old are the kids? 0
+B : They're teenagers. They're old enough to be home alone. 0
+A : Did you complain to them? 0
+B : Yes! I went over there three times. I told them that their music was too loud and we were trying to sleep. -1
+A : What did they do? 0
+B : Nothing. They wouldn't turn the music down. -1
+A : That is so rude! Why didn't you call the police? -1
+B : I finally did. The police found some of the teens drinking alcohol. -1
+A : I bet that ended the party. 0
+B : Yeah. Now my neighbors are heading back home from their vacation. 0
+A : Do they know what happened? 0
+B : Yes. They are not happy. Those kids are in big trouble. -1
+
+0 -1

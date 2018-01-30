@@ -1,0 +1,9 @@
+A : Excuse me, sir, you can't park here. -1
+B : I'm just waiting for my friends. It won't be long. 0
+A : Sir, the curb here is not for parking! -1
+B : But I didn't see the sign, Ma'am. -1
+A : There's a sign at the corner of the street. When you turned in here, you should've seen it. -1
+B : I didn't see it. -1
+A : I'm sorry, sir. I have to give you a ticket. You can appeal to the court within 14 days. You will avoid paying the fine if you can prove that you are not at fault. -1
+
+-1 -1

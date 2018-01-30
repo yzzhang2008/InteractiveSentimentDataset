@@ -1,0 +1,8 @@
+A : I'm sick and tired of fixing the dishwasher. -1
+B : Maybe it's time to buy a new one. 0
+A : Can we afford to buy a new one? 0
+B : It costs more money to fix every month. 0
+A : You're right. 0
+B : Let's go shopping for a new dishwasher today. 0
+
+0 0

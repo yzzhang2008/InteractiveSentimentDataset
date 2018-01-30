@@ -1,0 +1,12 @@
+A : We have enjoyed working with you. 1
+B : Thank you. It's been a lot of fun. 1
+A : We would like you to join our team. 1
+B : Are you offering me a job? 0
+A : Yes. We would like you to join our company. 1
+B : Wow! This would be a great business opportunity for me. 1
+A : My secretary will email you the job description and our salary offer. 0
+B : When do you need an answer? 0
+A : We would like an answer by the end of the week. 1
+B : Ok. I will think about it carefully. 1
+
+1 1

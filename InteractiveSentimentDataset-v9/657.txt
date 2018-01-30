@@ -1,0 +1,13 @@
+A : I really like the way this house looks. 1
+B : Yes, it has great curb appeal. 1
+A : The landscaping is wonderful! 1
+B : Yes, it is nice, but wait until you see the interior. 1
+A : I see what you mean! 1
+B : The carpeting and paint are all new, as well as the window treatments. 1
+A : I love the sage green carpeting with the sunset-colored walls. 1
+B : Come and see the kitchen. 0
+A : Look at that beautiful countertop material and the double sink! 1
+B : Let's go check out the bedroom and bathroom. 0
+A : I really like the Jacuzzi bathtub in the bathroom. 1
+
+1 1

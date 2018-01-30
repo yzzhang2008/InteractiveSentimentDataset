@@ -1,0 +1,8 @@
+A : Why does everyone look nervous? 0
+B : The stock market crashed. -1
+A : What does that mean? 0
+B : Our company lost a lot of money. -1
+A : What does that mean for us? 0
+B : I don't know if the company can survive this big loss. -1
+
+0 -1

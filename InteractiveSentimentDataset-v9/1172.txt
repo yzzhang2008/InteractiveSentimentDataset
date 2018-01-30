@@ -1,0 +1,13 @@
+A : Could I help you on your new project? 0
+B : I have a need for help with writing and also a need for help with the computer work. Which would you prefer? 0
+A : I want to help with both. 1
+B : That would be wonderful. Sometimes we will be working together and sometimes independently. Would that be OK? 1
+A : Most of the time that is what I prefer. 1
+B : We start on Monday. Can you be there? 0
+A : I am not sure yet. 0
+B : I need your background information before the meeting. 0
+A : I will do that. 1
+B : I'll enjoy working with you. Have a great day! 1
+A : Thanks! You too! 1
+
+1 1

@@ -1,0 +1,10 @@
+A : Could you tell me where the cereal is? 0
+B : If you go to the breakfast aisle, you'll find the cereal there. 0
+A : What aisle is that? 0
+B : You'll find it by the oatmeal and breakfast bars. 0
+A : I know where that is at. 0
+B : Is there anything else you need help finding? 0
+A : Could you point me toward the dishwashing detergent? 0
+B : That's over by the paper towels and toilet paper. 0
+
+0 0

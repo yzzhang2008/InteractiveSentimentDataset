@@ -1,0 +1,8 @@
+A : Look at this catalog, B . I think I want to get this red blouse. 1
+B : Don't you have one like this in blue? -1
+A : Yeah, but I don't have a red one. -1
+B : Do you need every color in the rainbow? -1
+A : (Looking at her husband dumbly.) Yes! 1
+B : (The husband shakes his head.) Tsk...tsk...women! -1
+
+1 -1

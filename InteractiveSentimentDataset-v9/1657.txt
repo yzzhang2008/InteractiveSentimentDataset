@@ -1,0 +1,14 @@
+A : This is a huge library. 0
+B : Yes, it has lots of rooms and lots of space. 0
+A : And lots of books. 0
+B : And lots of thieves. 0
+A : What do you mean? 0
+B : I mean, keep your belongings close to you. 0
+A : The only thing in my backpack is used books. 0
+B : But thieves don't know that. -1
+A : They might think that I've got an iPod or laptop in there. 0
+B : Now you're thinking. 0
+A : You'd think a library would be safe from thieves. -1
+B : Not even a church is safe from thieves. -1
+
+-1 -1

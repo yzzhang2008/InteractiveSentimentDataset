@@ -1,0 +1,12 @@
+A : Does every floor have a laundry room? 0
+B : Each hallway has a laundry room located near the stairway. 0
+A : Are they open for use around the clock? 0
+B : The laundry room near the recreation center is open twenty-four hours a day. The rest have posted hours. 0
+A : Do I need to bring coins with me? 0
+B : The washers and dryers require correct change, but there is a change machine in the laundry room. 0
+A : Are there any detergent dispensers in the laundry room? 0
+B : Yes, but they are expensive. -1
+A : Are there any specific rules about doing laundry? 0
+B : Yes, you are only supposed to tie up three machines at a time for your own use, so that the other machines are available for other tenants. 0
+
+0 0

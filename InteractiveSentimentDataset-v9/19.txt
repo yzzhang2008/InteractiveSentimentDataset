@@ -1,0 +1,22 @@
+A : Hello, I'm John Smith in unit 23. Am I speaking to the apartment manager? 0
+B : This is he. How may I help you? 0
+A : My window that faces the empty lot is broken. -1
+B : I'm sorry to hear that. Why is it broken? -1
+A : I can't tell you exactly how it happened. -1
+B : Well, tell me what you think might have happened. 0
+A : I've got a pretty good idea that it's the kids who live here. 0
+B : Why do you think that? 0
+A : Next to the broken glass in my living room was a baseball. 0
+B : Well, you don't need Sherlock Holmes to figure this one out, do you? 1
+A : Just before I went shopping, I saw them in the lot. 1
+B : Can you give me a name or two, or a description? 0
+A : I have absolutely no idea. -1
+B : I'll call a repairman for you, but it'll probably take one or two days. 0
+A : That's okay. 1
+B : But let me see the damage first. I'm coming over. -1
+A : The glass is all cleaned up, so come on over. But do I pay for this? 0
+B : No. I will pay your friend, or I will reimburse you if you pay him. -1
+A : That's good news. I was worried you were going to make me pay for this. 1
+B : You're not at fault. But the kid who did it is. -1
+
+1 -1

@@ -1,0 +1,14 @@
+A : Do you believe in God? 1
+B : Of course. 1
+A : Do you pray to God? 0
+B : Occasionally. 0
+A : When's that? 0
+B : When I need something. 0
+A : Like what? 0
+B : Well, if I have a big test at school. 0
+A : Does God answer your prayers? 0
+B : Yes, I've passed all my tests. 1
+A : Do you ever pray for money? 0
+B : Not yet. I won't need to do that until I graduate from high school. 0
+
+0 0

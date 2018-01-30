@@ -1,0 +1,20 @@
+A : Hi, Tom. This is Hannah calling. 0
+B : Hi, Hannah. What's up? 0
+A : I think my garbage disposal kicked the bucket. -1
+B : Is it dying, or is it dead? -1
+A : Turning on the switch is the same as not turning on the switch. 0
+B : Did it make strange sounds before it croaked? 0
+A : Last week I noticed that it sounded strange. -1
+B : You haven't been putting mango or avocado seeds in there, have you? 0
+A : I use the disposal rarely. When I do use it, I put only soft food into it. 0
+B : I think a disposal freezes up when it's not used frequently. 0
+A : You mean it's sort of like use it or lose it? 0
+B : Try loosening it up by using the disposal key. 1
+A : Disposal key? I have a house key and a car key, but no disposal key. -1
+B : Well, I've got an extra key. I'll bring it over. 0
+A : Okay, Come on over, and show me how to fix this thing. 1
+B : Sometimes the key works, sometimes it doesn't. I still might have to call a plumber. -1
+A : Well, there's no big hurry, as far as I am concerned. 0
+B : If we don't fix it sometime, your apartment might start to attract bugs or rodents. -1
+
+0 -1

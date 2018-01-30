@@ -1,0 +1,14 @@
+A : Where are you planning on transferring to? 0
+B : I can't seem to make a decision. -1
+A : Where do you want to go? 0
+B : I honestly have no idea. -1
+A : You haven't thought about it? 0
+B : I like it here at PCC. 1
+A : Why don't you just continue going to PCC? 1
+B : I like that idea. 1
+A : It's a great school. 1
+B : I completely agree. 1
+A : So, have you made your decision yet? 0
+B : I'm staying right where I'm at. 1
+
+1 1

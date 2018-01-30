@@ -1,0 +1,12 @@
+A : Could you help me out and pick me up at the airport next Sunday? 0
+B : It would be no problem to pick you up. When is your flight arriving? 1
+A : I am coming in around 3:00 in the afternoon. 0
+B : I think that by the time we factor in half an hour to clear Customs, that maybe I should meet you at the curb at 3:30. 0
+A : I will meet you at the curb, but how will you know if the plane is delayed? 0
+B : Don't worry. I can track your flight on my iPhone browser. 1
+A : I want to be able to call you on my cell phone in a pinch. 1
+B : I'll make sure to keep my cell phone with me and turned on. 1
+A : If it doesn't work out, just let me know and I can take a Super Shuttle. 0
+B : You won't need to take a Super Shuttle. Just stay in touch and look for me! 1
+
+1 1

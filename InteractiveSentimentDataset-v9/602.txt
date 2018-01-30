@@ -1,0 +1,12 @@
+A : Is there a bus that'll go all the way to Vons from PHS? 0
+B : Where is this Vons located? 0
+A : The Vons on Fair Oaks and Orange Grove. 0
+B : You're going to need to take two buses to get to that Vons. 0
+A : Which buses will I have to take? 0
+B : First, you need to get on the 268 going west. 0
+A : Then what do I do? 0
+B : You need to get off on Fair Oaks and Washington. 0
+A : What's next? 0
+B : Get on the 261, and it'll take you the rest of the way to Vons. 0
+
+0 0

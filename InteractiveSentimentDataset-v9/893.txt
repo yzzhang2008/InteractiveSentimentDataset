@@ -1,0 +1,15 @@
+A : My parents go to church every Sunday. 0
+B : They trust in God. 0
+A : They hope they will go to heaven. 0
+B : They probably will. 0
+A : But no one knows for sure. -1
+B : That's for sure. 0
+A : No one knows what happens after we die. 0
+B : If we are good, we will be happy in heaven with God. 1
+A : That's what many people believe. 0
+B : If we are bad, we will be unhappy forever in hell. -1
+A : I don't want to go to hell at all. -1
+B : Let's go to church with your parents on Sunday. 0
+A : I agree with you. 1
+
+0 0

@@ -1,0 +1,12 @@
+A : Where is the luggage claim area? 0
+B : You can get to Baggage Claim by going down the escalator and following the signs. 0
+A : Don't I have to clear Customs before I go get my bags? 0
+B : After you have picked up your bags, you will be directed to Customs. 0
+A : Do I need to have this Declarations form filled out before I get there? 0
+B : Do not get in the Customs and Immigration line until you have your passport out with your completed Declarations form. 0
+A : My brother won't be staying in the U.S. but is continuing on to Mexico. 0
+B : Passengers continuing on should check in with the attendant on the left who will direct them to where they can connect with their next flight. 0
+A : Is there a restroom we can use in this area? 0
+B : Of course, right over there on your left. 0
+
+0 0

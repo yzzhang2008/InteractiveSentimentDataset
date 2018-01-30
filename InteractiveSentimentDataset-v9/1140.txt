@@ -1,0 +1,7 @@
+A : Hey, you look concerned. What's on your mind? -1
+B : The final exam. I'm not fully prepared yet. -1
+A : Well, don't worry too much. You still have three days. 0
+B : Yeah, but three days will fly past in a wink. -1
+A : Well, you still have time to cram things into your brain anyway. 0
+
+0 -1

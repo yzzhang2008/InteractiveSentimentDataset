@@ -1,0 +1,14 @@
+A : Have you heard about Jessica's party on Saturday? 0
+B : I've heard about it, but I'm still waiting for my invitation. 0
+A : Really? I got mine from her this morning. 0
+B : I'm guessing that she's going to give me my invite today or tomorrow. 0
+A : You're probably right, do you intend on going to the party? 0
+B : I want to. I heard it's going to be really fun. 1
+A : I know, it does sound pretty awesome. 1
+B : Well, when does the party start? 0
+A : It's supposed to start at about eight. 0
+B : How many invitations has she given out? 0
+A : I really don't know, but I don't think she gave out that many yet. 0
+B : I really want to go, so I hope that she gives me my invite soon. 1
+
+1 1

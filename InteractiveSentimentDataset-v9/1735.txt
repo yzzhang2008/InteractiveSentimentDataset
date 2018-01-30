@@ -1,0 +1,14 @@
+A : I was meaning to ask you if you saw the basketball game on Friday. 0
+B : I wanted to go, but I couldn't. -1
+A : It was a great game. 1
+B : It's too bad that I couldn't make it. Who won? -1
+A : Our team played hard and won. 1
+B : I really wish I went to the game. 0
+A : It was the best game ever. 1
+B : So tell me the final score. 0
+A : The other team lost by three points, 101-98. 0
+B : It must've been a close game. 1
+A : It really was. You should've gone. 1
+B : Hopefully, I'll make it to the next one. 1
+
+1 1

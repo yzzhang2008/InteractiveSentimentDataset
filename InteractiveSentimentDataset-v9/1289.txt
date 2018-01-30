@@ -1,0 +1,14 @@
+A : What are you going to eat with your sandwich? 0
+B : I think I'm going to eat a piece of fruit. 0
+A : What kind do you like? 0
+B : I really like apples and grapes. 1
+A : What kind of apples do you like to eat? 0
+B : I love green apples. 1
+A : I don't like green apples. -1
+B : Really? Why not? -1
+A : Green apples are too sour for me. -1
+B : So, you like red apples better? 0
+A : Yes, I love red apples. 1
+B : I think green apples are a lot better. 1
+
+0 1

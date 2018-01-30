@@ -1,0 +1,14 @@
+A : How do we do timesheets here? 0
+B : They are actually fairly straightforward. Do you know where the blanks are kept? 0
+A : Yes, I already have one. 0
+B : OK, well after you take one out of that second drawer, you put your name on the top. Do you see? 0
+A : I am kind of confused. -1
+B : Next you fill in all of your hours for each day and total them. Do you know how to show time on a 24-hour clock? 0
+A : I'm not quite sure. 0
+B : Midnight is zero and when you put the minutes in, make sure that you show them with a dot followed by the minutes. Do you understand? 0
+A : No, I have no idea what you are talking about. -1
+B : It's easy, just write in the hours, total it, sign it, and put it in the box. 0
+A : Thanks for your help. 1
+B : Try it and if you can't do it, one of us can always help you later. 0
+
+1 0

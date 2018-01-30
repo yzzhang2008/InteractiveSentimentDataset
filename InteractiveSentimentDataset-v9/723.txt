@@ -1,0 +1,14 @@
+A : How do I buy my textbooks? 0
+B : Do you have your book list for your class? 0
+A : Yes, I have my list. 0
+B : Fine. Once you have it, you can go to the bookstore. Do you know where that is? 0
+A : Yes, I know where the bookstore is. 0
+B : OK, so once you pass the gym, it's the first door on your left. Do you know you can also sell your used textbooks there? 0
+A : No, I didn't know I could do that. -1
+B : You just take them with you and trade them with the used textbook man just outside the door. Do you think you will be doing that today? 0
+A : Yes, I am going today. 1
+B : Well, if you decide to go, I could meet you over there at 1:00 today or tomorrow to help you. Would that work for you? 0
+A : Yes, thank you. That would be great. 1
+B : Well, then, I'll talk to you later. 0
+
+1 0

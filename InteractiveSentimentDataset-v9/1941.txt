@@ -1,0 +1,12 @@
+A : Could you help me make a plane reservation? 0
+B : I would be happy to help you. Where do you plan on going? 1
+A : I am going to go to Hawaii. 0
+B : For that destination, you may leave from Los Angeles or Burbank Airport. Which would you prefer? 0
+A : I think that I would rather leave from Los Angeles Airport. 0
+B : Would you prefer a morning or afternoon departure? 0
+A : I need to leave in the morning. 0
+B : Fine. On your return flight, do you have a preference as to morning or afternoon? 0
+A : I would prefer to return in the afternoon. 0
+B : I have booked you on your flight. Here are your tickets. 0
+
+0 0

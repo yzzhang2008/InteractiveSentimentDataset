@@ -1,0 +1,12 @@
+A : I've enjoyed conversing with you. 1
+B : Is there a reason why you're trying to get off the phone so fast? 0
+A : I've got to go. 0
+B : I wasn't done talking to you. 0
+A : I have to do some things, and besides, it's not polite to be nosey. -1
+B : I'm not being nosey. I'm just asking. -1
+A : I really don't think it's any of your business. -1
+B : That's not nice. -1
+A : I apologize, but I'm getting off the phone now. -1
+B : Okay. 0
+
+-1 -1

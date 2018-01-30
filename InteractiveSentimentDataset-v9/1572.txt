@@ -1,0 +1,12 @@
+A : Can we reschedule the presentation? 0
+B : Again? Why? 0
+A : We aren't ready. -1
+B : We already rescheduled once. This will be the second time. 0
+A : I know, but we're just not ready. -1
+B : You've had two months to prepare for this. -1
+A : I understand that, but we need more time. 0
+B : The clients have been very patient. 0
+A : Please ask them for one more week. -1
+B : You only have one week! -1
+
+-1 -1

@@ -1,0 +1,12 @@
+A : I haven't received my credit card bill yet. -1
+B : Which credit card are you speaking of? 0
+A : My Master Card. 0
+B : We sent that bill out a couple of weeks ago. 0
+A : I never got it. -1
+B : Your bill was mailed already. 0
+A : What am I going to do since I haven't received the bill? 0
+B : If you haven't gotten it yet, then you should probably take that up with your post office. 0
+A : Can I get an extension on my bill if it does happen to be the post office's fault? 0
+B : If that's the case, you will need to provide proof of their mistake. 0
+
+-1 0

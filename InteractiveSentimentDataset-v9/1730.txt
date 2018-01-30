@@ -1,0 +1,10 @@
+A : What type of music do you like to listen to? 0
+B : I like listening to different kinds of music. 1
+A : Like what, for instance? 0
+B : I enjoy Rock. 1
+A : Why is that? 0
+B : I like the different instruments that they use. 1
+A : That's a good reason to like something. 1
+B : Yeah, I think so too. 1
+
+1 1

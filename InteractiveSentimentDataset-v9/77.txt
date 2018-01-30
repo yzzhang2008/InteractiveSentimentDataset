@@ -1,0 +1,10 @@
+A : I need to return this radio. 0
+B : That won't be a problem, as long as you have your receipt. 1
+A : Here you go. 0
+B : What's the problem? 0
+A : It doesn't pick up my favorite station. -1
+B : I can exchange it for you. 0
+A : Thanks, but I just want a refund. -1
+B : A refund it will be. Do you have the original box? 0
+
+-1 0

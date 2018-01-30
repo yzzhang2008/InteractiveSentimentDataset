@@ -1,0 +1,14 @@
+A : Do you like dating? 0
+B : It's really a lot of fun. 1
+A : What makes it so much fun? 0
+B : It makes it easier to get to know somebody. 1
+A : Are dates always fun to you? 0
+B : Sometimes I may not like the person I'm having a date with. -1
+A : Why is that? 0
+B : The other person isn't always my type. 0
+A : Why would you bother going out with them then? 0
+B : I didn't know that they weren't my type until after I got to know them better. -1
+A : It seems to me that you're wasting your time. -1
+B : You are absolutely correct, sometimes it is a waste. -1
+
+0 -1

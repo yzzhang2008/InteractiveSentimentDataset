@@ -1,0 +1,9 @@
+A : What's going on between you and Gary? Did you guys have a fight or something? 0
+B : I can't stand him any more! He has such a short fuse that even a little piece of friendly advice sets him off. -1
+A : So what did you tell him? 0
+B : I told him that if he could be more patient and try not to lose his temper so easily, he would be more popular. -1
+A : No wonder he threw a fit. His popularity is really a sore spot. -1
+B : Well, I guess I'll just keep my mouth shut. That'll teach me to give advice! -1
+A : Not unless you want to die! -1
+
+-1 -1

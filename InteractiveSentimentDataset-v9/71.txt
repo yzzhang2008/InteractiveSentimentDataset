@@ -1,0 +1,10 @@
+A : Does it look too big? 0
+B : It looks like it was made just for you. 1
+A : Yes, I like it. I'm going to get it. 1
+B : How would you like to pay for it? 0
+A : Here's my credit card. 0
+B : Now, if you'll just sign here. 0
+A : Yes. Here you are. 1
+B : So long. Have a nice weekend. 1
+
+1 1

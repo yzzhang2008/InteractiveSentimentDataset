@@ -1,0 +1,14 @@
+A : I hate flying. -1
+B : So do I. -1
+A : A long time ago, flying used to be okay. 1
+B : Now it's like riding a bus. -1
+A : You're jammed in with people all around you. -1
+B : Half of them are coughing, and the other half are sneezing. -1
+A : You don't have any elbow room or knee room. -1
+B : People are always getting up to use the bathroom. -1
+A : Kids are crying or climbing over you. -1
+B : It's a flying zoo! -1
+A : I wish I could afford first class seats. -1
+B : Doesn't everybody? -1
+
+-1 -1

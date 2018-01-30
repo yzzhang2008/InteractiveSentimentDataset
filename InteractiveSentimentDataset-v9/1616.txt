@@ -1,0 +1,12 @@
+A : What should I do to get ready for the Open House? 0
+B : Your house needs to be as clean and uncluttered as possible. 0
+A : Can we stay in the house while it is being shown? 0
+B : No one is to be in the house during the Open House except for the realtor and the potential buyers who are looking at the house. 0
+A : Can we leave our dog in the backyard during the Open House? 0
+B : Absolutely no pets are to remain in the house during Open House. Take them with you or board them, please. 0
+A : I have a lot of expensive jewelry and am afraid to leave it in the house. -1
+B : We will do our best to watch over your things, but expensive jewelry and guns need to go with you. 0
+A : How will we know when to come home? 0
+B : The Open House will last from eleven o'clock until four o'clock. 0
+
+0 0

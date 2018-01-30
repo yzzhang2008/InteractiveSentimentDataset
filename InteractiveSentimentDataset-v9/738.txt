@@ -1,0 +1,12 @@
+A : What do you base our grades on? 0
+B : All of your coursework is important, including everything from attendance and homework to all of your test results for the semester. 0
+A : Does the final count the most? 0
+B : All of it is important; please just do your best at all times. 0
+A : How do you total our scores? 0
+B : The final and mid-term are twenty percent each; homework, attendance, and quizzes are the rest. 0
+A : What if we are out sick? -1
+B : Make sure you contact me as I only allow one unexcused absence. 0
+A : How can we know if we are doing OK during the year? 0
+B : Your grade will not be a surprise; you will know what you need to work on. 0
+
+0 0

@@ -1,0 +1,10 @@
+A : Hello, I was hoping you could give me more info about your apartment. 0
+B : I can try to help you. What would you like to know? 0
+A : Is there access to public transportation near the apartment? 0
+B : I'm pretty sure there's a bus stop within walking distance. 1
+A : Do you know anything about the buses that stop there? 0
+B : I don't know, but I'm pretty sure you can find out that stuff online. 0
+A : I think the local library has bus info. 1
+B : Good luck. The bus info shouldn't be too hard to find. 1
+
+1 1

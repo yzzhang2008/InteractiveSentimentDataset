@@ -1,0 +1,10 @@
+A : I heard you're going out with John? 0
+B : Yes. To be frank, I really love him to death. 1
+A : You're so lucky! 1
+B : Why do you say that? 0
+A : Why? Are you kidding me? A guy like him is hard to find. Few boys are so caring, so patient, and, did I mention, he's a hottie? 1
+B : You really think so? 0
+A : Totally! I'm saying it from the bottom of my heart! And it's obvious that he's head over heels in love with you, too. 1
+B : I sure hope so! 1
+
+1 1

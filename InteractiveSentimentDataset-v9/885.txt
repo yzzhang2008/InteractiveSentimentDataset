@@ -1,0 +1,14 @@
+A : I was inquiring about a bill that I never got. -1
+B : Which credit card was the bill for? 0
+A : The bill was for my Master Card. 0
+B : That bill should have been mailed about two weeks ago. 0
+A : It never came in the mail. -1
+B : My computer shows that it has already been mailed. 0
+A : I have not gotten my bill, so what should I do about that? -1
+B : You should try contacting your post office. 0
+A : If it is the post office's fault, may I have an extension on my bill? -1
+B : You'll have to prove it was their error; then you can get an extension. 1
+A : Thank you for all your help. 1
+B : You are very welcome. Have a good day. 1
+
+1 1

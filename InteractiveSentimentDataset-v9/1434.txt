@@ -1,0 +1,19 @@
+A : Why are you so dressed up, Jane? 0
+B : Oh, hi Sally. I have a job interview today. 0
+A : That's great. Where? 1
+B : At the bank. I'm applying for a teller position. 0
+A : But why do you look so nervous? 0
+B : Because I don't have much work experience, but I'm a hard worker and good with numbers. 1
+A : Tell them that. 1
+B : I'm going to. I just hope I don't mess up. 0
+A : Don't worry so much. You're smart and you get along well with everyone. 1
+B : Thanks. I'm just afraid that I won't be able to answer their questions. -1
+A : Just answer them the best you can. Be confident. 1
+B : Ok. I just need to relax. 1
+A : What time is your interview? 0
+B : In an hour. I better leave soon. I don't want to be late. 0
+A : Yeah, don't be late. That would be a bad first impression. 0
+B : You're right. Thanks for your advice and encouragement. I feel much better. 1
+A : Good. Now go! 1
+
+1 1

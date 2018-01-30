@@ -1,0 +1,12 @@
+A : Have the owners answered back with a counter-offer for my offer to purchase the house? 0
+B : In response to your offer, the sellers have decided to counter-offer three hundred and thirty-five thousand dollars. 0
+A : That sounds pretty good to me, but I am not sure what to do. -1
+B : You can accept this offer or decline it and come up with another offer. 0
+A : If I make another offer and they refuse, then what? 0
+B : Personally, I would consider making one more offer, but it is up to you to decide what to do. 0
+A : Let's try going with three hundred and thirty thousand dollars for a counter-offer. 0
+B : I will contact the sellers with your current offer. 0
+A : Do you think that this will move along fairly quickly? 0
+B : Usually the response to the second offer moves along a bit more quickly than the first one. 0
+
+0 0

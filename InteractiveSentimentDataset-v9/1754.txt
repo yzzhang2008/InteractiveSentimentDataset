@@ -1,0 +1,14 @@
+A : What's going on with you? 0
+B : Fine. What's going on with you? 0
+A : I'm having a party this Friday. 0
+B : I had no idea. 0
+A : Is that right? 0
+B : I didn't hear anything about it. 0
+A : Can you go? 0
+B : What time? 0
+A : It starts at 8 o'clock. 0
+B : I'll go. 1
+A : I hope that I'll see you there. 1
+B : No doubt. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : I would love to rent out your apartment. 1
+B : That's great. 1
+A : How much is the rent? 0
+B : The rent each month is $1050. 0
+A : That's a lot of money. -1
+B : Did you have a better price in mind? 0
+A : What about $800? 0
+B : That's way too low. -1
+A : I can't pay much more than that. -1
+B : How about $900 a month? 0
+A : That would be fine. 1
+B : Great. It was a pleasure doing business with you. 1
+
+1 1

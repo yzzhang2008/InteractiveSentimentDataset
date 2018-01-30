@@ -1,0 +1,12 @@
+A : How nice it is to be home again with all of my family! 1
+B : Did your journey turn out as well as you had hoped it would? 0
+A : All trips have good and bad points, but this one had mostly good ones. 1
+B : Did you have something you enjoyed the most? 0
+A : My favorite thing was the amazing food. 1
+B : Were the people receptive to having visitors? 0
+A : You could tell that some people did not have a favorable view of Americans. -1
+B : Did you get me a souvenir? 1
+A : Of course I brought you something! 1
+B : Next time I am going to be the one to go away, and you can stay home and feed the dog! 1
+
+1 1

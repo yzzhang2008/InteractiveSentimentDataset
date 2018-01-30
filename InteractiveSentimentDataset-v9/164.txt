@@ -1,0 +1,8 @@
+A : I'm looking for old music boxes, but I can't find any. -1
+B : If you go to a flea market, you can find all kinds of things. 1
+A : I don't want a music box that's full of fleas! -1
+B : Ha! A flea market is a popular outdoor place for selling used things. There are no fleas. 1
+A : That sounds like a good idea. Where is the nearest one? 1
+B : Actually, there's a huge flea market at the stadium on the second Sunday of each month. 1
+
+1 1

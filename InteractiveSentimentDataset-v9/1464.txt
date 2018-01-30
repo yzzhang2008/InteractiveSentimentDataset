@@ -1,0 +1,8 @@
+A : I would like to make an appointment to see Dr. Smith. 0
+B : What do you need to see the doctor for? 0
+A : I just need an annual checkup. 0
+B : Ok. The doctor's next available appointment is next Monday at 10 AM. 0
+A : That's perfect. Do I need to bring anything with me? 1
+B : Please bring your insurance card and photo ID. 0
+
+1 0

@@ -1,0 +1,14 @@
+A : Is it true that you're looking for an apartment? 0
+B : I am. How'd you know? 0
+A : I heard it from one of our friends. 0
+B : Well then, why do you ask if I'm looking for an apartment? 0
+A : I was thinking about leasing this apartment. 0
+B : What does this have to do with me? 0
+A : Would you like to sublease the apartment with me? 0
+B : I would love to! 1
+A : This way, we'll each have to pay only half the rent. 1
+B : How much is the rent? 0
+A : For each of us, it's $500 every month. 0
+B : Sounds good to me. 1
+
+0 1

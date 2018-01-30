@@ -1,0 +1,14 @@
+A : It's nice to meet you. 1
+B : I'm glad we're meeting today. Thank you. 1
+A : You're welcome. 1
+B : I would like to talk to you about your daughter. 0
+A : Is there a problem? 0
+B : No, your daughter is great. 1
+A : That's great news. 1
+B : Your daughter is a wonderful student. 1
+A : She isn't messing up in class? 0
+B : Of course not. Your daughter is smart and very well behaved. 1
+A : I'm so glad to hear that she's doing well. 1
+B : It is my pleasure to have her in my class. 1
+
+1 1

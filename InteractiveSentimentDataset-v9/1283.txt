@@ -1,0 +1,14 @@
+A : What are we going to eat for dinner? 0
+B : Are you going to cook anything? 0
+A : I didn't plan on cooking tonight. -1
+B : If you're hungry, then cook something. 0
+A : I don't know what to make. -1
+B : Tell me what you want to eat. 0
+A : I've been craving chicken and potatoes. 1
+B : I'd like that. 1
+A : Are you going to cook it tonight? 0
+B : I'm really not going to cook tonight. -1
+A : I guess I'll cook. 1
+B : Why don't you start cooking then? 0
+
+1 0

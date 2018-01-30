@@ -1,0 +1,12 @@
+A : I would like to buy some business cards. 0
+B : Excellent. How many would you like? 1
+A : Two thousand would be fine. 1
+B : You need to fill out this form, please. 0
+A : All I want is the same thing on this card. 1
+B : That will be no problem, sir. 1
+A : I'm finished. Here's your form and my old card. 1
+B : Very good, sir. Your order will be ready in one week. 1
+A : Do you think you could finish it in three days? 0
+B : No problem, sir. But it will cost you extra. 1
+
+1 1

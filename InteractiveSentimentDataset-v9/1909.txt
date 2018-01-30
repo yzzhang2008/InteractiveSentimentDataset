@@ -1,0 +1,14 @@
+A : Are you new here? 0
+B : Yes, I am. 0
+A : Is this your first year in college? 0
+B : I actually transferred here from another school. 0
+A : Which school? 0
+B : I transferred from PCC. 0
+A : How do you like it here compared to PCC? 0
+B : I love it here. 1
+A : Do you like it better here or at PCC? 0
+B : Don't get me wrong. I like it here, but PCC is better. 1
+A : So, why did you leave PCC? 0
+B : Because I got my AA, and I'm now working towards my Bachelor's Degree. 1
+
+0 1

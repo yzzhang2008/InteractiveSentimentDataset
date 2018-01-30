@@ -1,0 +1,9 @@
+A : How is everything going with you? 0
+B : Great. You? 1
+A : Pretty good. 1
+B : Good for you. 1
+A : When did you start going to PCC? 0
+B : This is my second year. How about you? 0
+A : I only got here this year. 0
+
+1 1

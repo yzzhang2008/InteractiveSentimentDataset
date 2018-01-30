@@ -1,0 +1,12 @@
+A : Sorry for being late to work. -1
+B : Where have you been? 0
+A : My car broke down. -1
+B : That's too bad. Please try to fix it so that it doesn't happen again. -1
+A : Yes, I'll work on it. 0
+B : Thank you, have a seat. We are working on the new project 0
+A : Great! Fill me in. 1
+B : Let's take a look at the Campbell Project. 0
+A : I don't understand the projected revenues. -1
+B : Let's take another look at it for those of you who don't understand. 0
+
+-1 0

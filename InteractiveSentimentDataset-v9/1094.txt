@@ -1,0 +1,14 @@
+A : What's up, officer? 0
+B : Are you aware that you ran through that stop sign? 0
+A : There was a stop sign? 0
+B : How could you not notice it? -1
+A : If there really was a stop sign, I couldn't see it because of the overgrown bushes. -1
+B : You're right. The bushes are covering the sign. 0
+A : If I saw the stop sign, I would've stopped for it. -1
+B : Now that I think about it, I can see how you missed it. 0
+A : Am I getting a ticket for this? 0
+B : I'll let you off with a warning. 0
+A : Thank you, I really do appreciate that. 1
+B : Don't worry about it. I need to have something done about those bushes. 1
+
+1 1

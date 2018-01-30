@@ -1,0 +1,8 @@
+A : What are you doing? 0
+B : I'm waiting to go on a conference call. 0
+A : Who is going to be on the call? 0
+B : My boss and the vice president. 0
+A : Wow! Are you nervous? 0
+B : Yes! This is my first time talking with the vice president. 0
+
+0 -1

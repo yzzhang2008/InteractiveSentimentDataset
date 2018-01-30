@@ -1,0 +1,14 @@
+A : Who are the beautiful flowers from? 0
+B : They're from my boyfriend. 0
+A : That's so sweet! Those are long-stemmed roses. 1
+B : I know. They're beautiful. 1
+A : How many are there? 0
+B : I counted 30. 0
+A : Wow! That must've been expensive. 1
+B : I need to find a vase. I don't want them to die. 1
+A : Is there one in the kitchen? 0
+B : I found one. But it's too small. -1
+A : Yeah, that bouquet is huge. You're a lucky woman. I wish my boyfriend would send me flowers. 1
+B : Oh. Thanks. 1
+
+1 1

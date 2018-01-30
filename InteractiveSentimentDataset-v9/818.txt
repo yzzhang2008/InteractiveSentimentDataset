@@ -1,0 +1,8 @@
+A : Do we have a company dress code? 0
+B : Yes. On Mondays through Thursdays, we have to wear business attire. 0
+A : What about Fridays? 0
+B : On Fridays, we can dress casually. 0
+A : What does casual dress mean? 0
+B : You can wear jeans and t-shirts, but not shorts. 0
+
+0 0

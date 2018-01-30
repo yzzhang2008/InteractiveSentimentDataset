@@ -1,0 +1,13 @@
+A : Hey, can you give me a ride to the airport? 0
+B : When? 0
+A : Tomorrow morning. 0
+B : I'm sorry, but my car is in the shop. -1
+A : How long has it been in the shop? 0
+B : A couple of days. 0
+A : That's interesting. 1
+B : What's interesting? 0
+A : I saw you washing your car this morning. 0
+B : You did? I'm sorry I lied. I just hate morning traffic. -1
+A : You always try to get out of helping me. -1
+
+-1 -1

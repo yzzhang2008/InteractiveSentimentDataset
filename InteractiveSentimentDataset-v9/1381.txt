@@ -1,0 +1,8 @@
+A : Our client has invited us to play at his private golf course. 0
+B : That should be fun. 1
+A : Can you join us this Saturday? 0
+B : No. I'm busy this weekend. -1
+A : I heard that our client does not like to lose. I am a little worried. -1
+B : Then maybe I should join you. I'm terrible at golf. 0
+
+-1 0

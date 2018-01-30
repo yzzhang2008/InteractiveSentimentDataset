@@ -1,0 +1,12 @@
+A : Can you help me with returning my late books? 0
+B : This is the right spot to pay your fee. Put your books down right here. 0
+A : OK, here they are. 0
+B : I can see that you owe 25 cents a day. That will be one dollar and fifty cents total. 0
+A : OK, here's the money. 0
+B : We are interested in getting our books back; so as long as all the fines are paid off by the end of the semester, you will be fine. Does that make sense? 0
+A : I'm not sure. -1
+B : Your registration and transcripts can be held up if there is an outstanding fine. 0
+A : Now I understand. 0
+B : Well, you can always keep your late fees down by using the night drop if we are closed. 0
+
+0 0

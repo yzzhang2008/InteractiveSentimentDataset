@@ -1,0 +1,12 @@
+A : My potential buyer has asked me to carry part of his loan. 0
+B : The decision to carry part of a loan might be advantageous to you or problematic. 0
+A : Why would I ever want to carry a note on a house? 0
+B : It is a type of investment that can offer a fairly steady return over a set period of time. 0
+A : Why is my buyer requesting that I carry part of his loan? 0
+B : Oftentimes buyers are well able to afford the home but unable to qualify for a loan. 0
+A : Are there any risks in carrying a second mortgage? 0
+B : You are basically betting on the fact that the home is not going to drastically fall in price. This could leave you with a house that is not worth much. 0
+A : Will I be financing this loan for a set period of time? 0
+B : That is entirely up to you and the buyer. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : Do we have a company dress code? 0
+B : No. The president of the company doesn't care how you dress. 0
+A : Really? You can wear jeans and t-shirts or shorts? 0
+B : Yeah. He only cares about the quality of your work. 0
+A : That's great! We had to wear suits to work every day at my old job. 1
+B : Even on Fridays? 0
+A : Yeah. Our president was very conservative. -1
+B : Was that uncomfortable? 0
+A : Yes! Wearing pantyhose every day is very uncomfortable. -1
+B : I know! -1
+
+-1 0

@@ -1,0 +1,14 @@
+A : We need a new mattress. 0
+B : What's the matter with this one? 0
+A : It's not comfortable. -1
+B : It seems fine to me. 1
+A : I toss and turn all night. -1
+B : You should stop drinking coffee. -1
+A : Look at these marks on my arms. 0
+B : What are they? 0
+A : They are bites. -1
+B : Did the cat bite you? -1
+A : No. The bedbugs in that mattress bit me. -1
+B : Okay. Let's get a new mattress. 1
+
+-1 1

@@ -1,0 +1,11 @@
+A : Are you going to the hospitality event? 0
+B : Yes. I have a few clients attending. 0
+A : Great! This year we're doing a raffle and gift bags. 1
+B : Raffle and gift bags? Isn't that a little childish? 0
+A : The raffle prize is a sports car and the gift bags are filled with jewelry. 0
+B : Are you serious? Can our company afford this? 0
+A : The CEO wants to keep our clients happy. 1
+B : That's definitely going to keep them happy. 1
+A : It'll probably attract more clients to our company too. 1
+
+1 1

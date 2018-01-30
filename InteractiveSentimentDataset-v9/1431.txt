@@ -1,0 +1,8 @@
+A : Did you see what Gloria is wearing today? 0
+B : Yeah. It's not appropriate for work. 0
+A : I know. She looks like she's trying to get attention. 0
+B : Whose attention? 0
+A : Her boss's attention. 0
+B : He's married! 0
+
+0 0

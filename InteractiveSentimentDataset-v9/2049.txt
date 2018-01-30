@@ -1,0 +1,11 @@
+A : Hi, I am looking for ground pork but I can’t find it with the fresh meat. Do you have it in the back? 0
+B : I'll take a look, one moment, please. Unfortunately we don’t have any right now. -1
+A : Then can you grind this pork for me? 0
+B : Yes, I can. But I have to grind the whole piece. Do you want that much? 0
+A : Yes. That’s fine. 1
+B : It will take me a few minutes to set up the grinder and package it. Would you like to pick up your other items and come back? 0
+A : Thank you, that’s a good idea. I’ll come back shortly. 1
+B : Here is your order. Thank you for waiting. 1
+A : I don’t mind the wait. I got the meat I wanted. Thank you. 1
+
+1 1

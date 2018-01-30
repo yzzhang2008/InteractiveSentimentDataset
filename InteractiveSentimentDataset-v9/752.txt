@@ -1,0 +1,12 @@
+A : Can you tell me what the date and time of our field trip is? 0
+B : We are leaving on our science field trip at 8:00 a.m. next Monday. Do you have something to write that down on? 0
+A : Yes, I can write that on my calendar. 0
+B : That will be on the second of December. Be there an hour early to get your bags on the bus. Do you understand? 0
+A : Yes, I understand. 0
+B : The bus will bring you back 6 days later on December 8th. Is someone coming to get you? 0
+A : No, I don't have a ride yet. -1
+B : We will be leaving the campground at 5:00 in the evening and arrive at our campus at 8:00 p.m. Any more questions? 0
+A : How much will the trip cost? 0
+B : I put all of that information in the packet. I'll give you another copy if you need one. See you on Monday! 0
+
+0 0

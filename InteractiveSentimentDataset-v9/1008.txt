@@ -1,0 +1,8 @@
+A : Could you wash some of my dark clothes with yours? 0
+B : Is there any special care I should take with your clothes? 0
+A : The only thing is that they have to be washed on the gentle cycle. 0
+B : No big deal. I'll do it for you. 1
+A : Thanks a lot. 1
+B : You're welcome. 1
+
+1 1

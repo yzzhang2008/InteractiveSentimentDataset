@@ -1,0 +1,8 @@
+A : Where is your favorite vacation spot? 0
+B : I like going to my parents' lake house. 1
+A : Is it far from here? 0
+B : You have to drive a couple of hours from here. 0
+A : That's a great distance. It's not too far or too near. 1
+B : Yes, I agree. It's very relaxing there. 1
+
+1 1

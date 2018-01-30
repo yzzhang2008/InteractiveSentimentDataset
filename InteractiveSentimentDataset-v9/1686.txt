@@ -1,0 +1,10 @@
+A : Is there anything else you would like to buy? 0
+B : No, thank you. I guess that's it. By the way, in case there's a flaw in this CD player, can I return it? -1
+A : Yes. But you must return it within 30 days. 1
+B : Is there a charge for that? I know other stores have a restocking fee. 0
+A : There will be no charge at all. However, you must show us the receipt. (The cashier is handing the receipt over to B for him to sign.) Could you sign it here, please? 1
+B : Thank you. 1
+A : All right. Keep your receipt. If something comes up, you can show it to us and we'll give you a refund. 1
+B : Thanks. I'll put it in a safe place. 1
+
+1 1

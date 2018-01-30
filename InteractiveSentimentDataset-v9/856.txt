@@ -1,0 +1,13 @@
+A : What is your case against the police? 0
+B : They arrested me for nothing. -1
+A : What do you mean? 0
+B : They weren't supposed to arrest me. -1
+A : Didn't they let you go? 0
+B : They didn't let me go until the next morning. -1
+A : So they kept you at the station? 0
+B : They sure did. -1
+A : Did they tell you why they arrested you? 0
+B : I matched the description of a robbery suspect. -1
+A : I understand. 0
+
+0 -1

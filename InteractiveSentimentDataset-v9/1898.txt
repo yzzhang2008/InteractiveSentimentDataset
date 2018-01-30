@@ -1,0 +1,14 @@
+A : There's a letter here for you. 0
+B : Let me see it. 0
+A : What's the letter about? 0
+B : It's a letter from NYU. 0
+A : Tell me what it says! 0
+B : I didn't get in. -1
+A : You're lying. -1
+B : I'm not lying. -1
+A : Are you upset? 0
+B : I had high hopes for NYU. -1
+A : I'm sorry you didn't get accepted. -1
+B : Hopefully, I'll get accepted to UCLA. -1
+
+-1 -1

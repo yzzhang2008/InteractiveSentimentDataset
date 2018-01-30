@@ -1,0 +1,10 @@
+A : What do you think? 0
+B : It looks great. 1
+A : I would like to purchase it. 1
+B : Will this be cash or charge? 0
+A : Here, take my credit card. 0
+B : Just sign here, please. 0
+A : Sure. Here you go. 1
+B : Here's your receipt. Have a nice day. 1
+
+1 1

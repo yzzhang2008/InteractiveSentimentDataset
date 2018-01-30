@@ -1,0 +1,8 @@
+A : Is that a rowing machine? 0
+B : Yeah. I don't know why I bought it. 0
+A : Are you trying to work out? 0
+B : That was the plan. 0
+A : How's it going? 0
+B : I wasted my money. -1
+
+0 -1

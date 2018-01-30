@@ -1,0 +1,13 @@
+A : Can I help you? 0
+B : I'm having trouble finding something. -1
+A : What is it that you're looking for? 0
+B : I need to find a church. 0
+A : What kind of church are you looking for? 0
+B : I want to find a Catholic church. 0
+A : I believe that there's one on Lake Avenue. 0
+B : Are you sure? 0
+A : It's a huge white church. 0
+B : Where at on Lake? 0
+A : On the corner of Lake and Woodbury. 0
+
+0 0

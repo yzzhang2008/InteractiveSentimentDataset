@@ -1,0 +1,12 @@
+A : I'm going on a business trip with my boss. 0
+B : How do you feel about that? 0
+A : Uncomfortable. I've never traveled with my boss before. -1
+B : Did you get separate hotel rooms? 0
+A : Yes! They are next to each other. -1
+B : Then what is the problem? 0
+A : We have to sit on the plane together and eat meals together. -1
+B : Your boss is really nice. You shouldn't worry. 1
+A : I know. I'm just afraid I'm going to make a bad impression. -1
+B : You're worrying too much. Just be yourself. 0
+
+-1 0

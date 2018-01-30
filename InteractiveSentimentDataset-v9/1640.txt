@@ -1,0 +1,8 @@
+A : I would like to make a haircut appointment. 1
+B : Our next available appointment is today at 3 PM. 0
+A : I do not get off work until 5 PM. -1
+B : How about tomorrow at 5:30 PM? 0
+A : That's perfect. 1
+B : Great! I will send you a reminder tomorrow morning. 1
+
+1 1

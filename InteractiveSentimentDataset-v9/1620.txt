@@ -1,0 +1,12 @@
+A : What did the buyers offer us on our house? 0
+B : With the original asking price at three hundred thousand dollars, the buyers are willing to pay two hundred ninety thousand dollars. 0
+A : I am really pleased with that offer. 1
+B : I agree that the offer is in the ballpark. We need to consider everything before you accept. 0
+A : Besides the selling price, what else is there to consider? 0
+B : They want you to pay to have the cracks in the back wall fixed and a couple of the roof tiles replaced. 0
+A : All of that is acceptable to me. 1
+B : A counteroffer by you is always a possibility, but their price is very close to your asking price. You could risk losing the sale. 0
+A : I wish to officially accept their offer. 1
+B : This is a win-win situation for both you and the buyer. I am sure that you will both be happy with your decision. 1
+
+1 1

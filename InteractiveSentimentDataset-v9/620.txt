@@ -1,0 +1,12 @@
+A : I am interested in buying auto insurance. 1
+B : Sure, I can help you. Did you bring all of your registration papers? 1
+A : Yes, I brought everything with me. 1
+B : Is your car with you? 0
+A : Yes, it is out in the parking lot. 0
+B : Wonderful. Let's go out and check to see what shape it is in. 1
+A : OK, can you help me figure out what I should insure my car for? 0
+B : I will look it up on the Blue Book list and we will factor in its condition. 0
+A : What else do I need to consider? 0
+B : Yes, you need to figure in liability for damage to the other car as well as injury issues as well. 0
+
+1 1

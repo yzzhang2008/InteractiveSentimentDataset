@@ -1,0 +1,12 @@
+A : I need to change my desk location. 0
+B : What's wrong? 0
+A : David has an annoying habit of singing while he's working. -1
+B : That's weird. 0
+A : I know. It's so distracting too. -1
+B : Have you talked to him? 0
+A : Yes, but he keeps doing it. -1
+B : That's rude. -1
+A : I don't think David hears himself. He always has earphones on. -1
+B : I think there's an empty desk on the other side of the office. 0
+
+-1 -1

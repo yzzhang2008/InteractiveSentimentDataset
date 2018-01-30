@@ -1,0 +1,8 @@
+A : Are you working overtime again? 0
+B : Yeah. I have a lot to do. -1
+A : Does it bother you? 0
+B : Not really. I don't have a family, so I don't feel bad about working late. 0
+A : What about your social life? 0
+B : I don't have time for a social life. I'm too busy working. -1
+
+0 -1

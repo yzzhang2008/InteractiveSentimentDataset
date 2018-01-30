@@ -1,0 +1,12 @@
+A : I need to pay the fine on my ticket. 0
+B : Do you have the ticket with you? 0
+A : Yes, I have my ticket with me. 0
+B : Let me see your ID. 0
+A : I forgot to bring that with me. 0
+B : You need it to pay your fine. 0
+A : Why can't I just give you the money for the fine? -1
+B : Because, I need to see a photo ID in order to verify who you are. 0
+A : I think I understand. 0
+B : All right, come back and bring your ID. 0
+
+0 0

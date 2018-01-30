@@ -1,0 +1,14 @@
+A : Do you think that you can help me? 0
+B : What can I do for you? 0
+A : I'm going to be transferring schools soon. 0
+B : That's great! Where do you want to transfer to? 1
+A : I'm going to apply to NYU and UCLA. 0
+B : That's wonderful, but what do you need from me? 1
+A : I need you to write a couple of letters of reference for me. 0
+B : That's it? 0
+A : Yes, that's it. 1
+B : That shouldn't be a problem. 1
+A : Thank you so much. 1
+B : I'll have them ready for you tomorrow. 1
+
+1 1

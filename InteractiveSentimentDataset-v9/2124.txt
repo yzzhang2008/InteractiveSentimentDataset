@@ -1,0 +1,7 @@
+A : Did you say you're going to take a vacation next week? 0
+B : Yes. I'm going to San Francisco for a couple of days. 0
+A : I really envy you. I wish I could get away for a while. -1
+B : Can't you take a vacation this summer? 0
+A : Not until the end of August. -1
+
+-1 0

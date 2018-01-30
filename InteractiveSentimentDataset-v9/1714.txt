@@ -1,0 +1,14 @@
+A : There's a new girl in school, have you seen her yet? 0
+B : I haven't seen her yet. 0
+A : I think that she is very pretty. 1
+B : Tell me how she looks. 0
+A : She's kind of short. 0
+B : What height is she? 0
+A : She's probably about five feet. 0
+B : That's nice, but tell me what she looks like. 1
+A : The first thing I noticed was her beautiful brown eyes. 1
+B : I think I might've bumped into her before. 0
+A : Are you telling me that you've seen her before? 0
+B : I believe so. 0
+
+1 0

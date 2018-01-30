@@ -1,0 +1,14 @@
+A : So how did I do on my driving test? 0
+B : Do you want the truth? 0
+A : Of course, I do. 0
+B : Well, you really didn't do all that well. -1
+A : How bad did I do? -1
+B : To be completely honest, you failed your test. -1
+A : How? 0
+B : There were a number of reasons. 0
+A : What were they? 0
+B : Basically, you just can't drive. -1
+A : Can I have another try? 0
+B : You can take it in a couple weeks. 0
+
+-1 -1

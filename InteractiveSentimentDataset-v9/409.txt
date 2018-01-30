@@ -1,0 +1,12 @@
+A : What is Jessica doing? 0
+B : She's organizing her office. 0
+A : Again? She is always organizing her office. 0
+B : Everything has to be in the right place. 0
+A : I know. One time she got mad at me because I accidentally moved her plant. -1
+B : That's funny. 1
+A : That's not funny. She got very mad at me. -1
+B : Then don't move her things. -1
+A : I will never touch anything in her office again. -1
+B : She's just a neat freak. -1
+
+-1 -1

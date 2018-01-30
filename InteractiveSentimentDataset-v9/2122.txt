@@ -1,0 +1,7 @@
+A : When are you gonna take your vacation? 0
+B : I was planning to take it at the end of this month. My husband and I haven't had a chance to have a vacation over the past three years. So we are planning to travel to Europe this time. Why! Has something come up? 1
+A : Well, would it be too inconvenient for you to wait until next month? 0
+B : Hm....not really. I guess I can put it off until next month, but I've got to talk about it with my husband. 1
+A : Thank you very much. I really appreciate your being so flexible. 1
+
+1 1

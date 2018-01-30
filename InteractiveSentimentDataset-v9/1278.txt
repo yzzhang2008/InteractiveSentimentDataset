@@ -1,0 +1,14 @@
+A : What's for lunch? 0
+B : I don't know. What do you want to eat? -1
+A : I was thinking of pizza. 0
+B : That's what I ate yesterday. 0
+A : What do you want to eat? 0
+B : I wouldn't mind a burger. 0
+A : I ate a burger just the other day. 0
+B : We're going to have to compromise. -1
+A : You could always get a burger, and I can get a pizza. 0
+B : Sounds good to me. 1
+A : Where can we go to get both? 0
+B : We can get both at the cafeteria. 0
+
+0 0

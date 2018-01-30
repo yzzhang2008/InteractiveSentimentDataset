@@ -1,0 +1,6 @@
+A : Have you ever been shopping at Whole Foods? 0
+B : No, I haven't. Is the food good there? 0
+A : They have the freshest foods there. 1
+B : I'll take your word for it. 1
+
+1 1

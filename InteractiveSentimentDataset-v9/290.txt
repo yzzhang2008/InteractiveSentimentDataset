@@ -1,0 +1,14 @@
+A : Thank you for coming so quickly. 1
+B : No problem. What's wrong? 1
+A : A pipe in my apartment is leaking. -1
+B : Where is the pipe? 0
+A : The pipe is in my bathroom. 0
+B : Can you tell me how long the pipe has been leaking? 0
+A : The pipe has been leaking for a couple days. -1
+B : You do realize that I will need to rip down your wall to get to the pipe, right? -1
+A : Yes, I'm aware of that. 1
+B : Is that all right? 0
+A : I just need the problem fixed. 1
+B : I'll get started on it now. 1
+
+1 1

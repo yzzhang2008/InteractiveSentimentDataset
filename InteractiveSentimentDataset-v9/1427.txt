@@ -1,0 +1,12 @@
+A : Our company has lost a lot of money. 0
+B : What happened? 0
+A : We are going through the largest recall in the company's history. 0
+B : What is the recall? 0
+A : Airbags. They can explode without warning. -1
+B : That is extremely dangerous. -1
+A : I know. We have already been sued multiple times. -1
+B : I don't think the company can survive. -1
+A : I know. We have a very bad reputation now. -1
+B : I think you should look for another job. 0
+
+-1 -1

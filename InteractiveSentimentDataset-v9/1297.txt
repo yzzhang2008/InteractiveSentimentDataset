@@ -1,0 +1,14 @@
+A : I have a taste for something sweet. 1
+B : What are you thinking? 0
+A : I want some kind of dessert. 1
+B : Well, what kind of dessert do you want? 0
+A : I was thinking about ordering some kind of pie. 0
+B : Do you know what kind you want? 0
+A : I honestly don't know. 0
+B : Did you want to know my favorite kind of pie? 0
+A : What's your favorite kind? 0
+B : My absolutely favorite kind of pie is apple. 1
+A : That sounds really good to me right now. 1
+B : I'm happy to help. 1
+
+1 1

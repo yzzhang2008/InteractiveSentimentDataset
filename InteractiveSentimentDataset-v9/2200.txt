@@ -1,0 +1,8 @@
+A : I'm so busy these days. -1
+B : Do you have another deadline? 0
+A : Yes. I've been working every weekend. -1
+B : How does your family feel about it? 0
+A : They are not happy about it. -1
+B : Working full-time while raising kids is hard work. 0
+
+-1 0

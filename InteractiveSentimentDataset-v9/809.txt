@@ -1,0 +1,14 @@
+A : It's such a beautiful day. 1
+B : It's a perfect day to take a walk in the park. 1
+A : I think so too. 1
+B : The sky is so clear, and you can see the mountains perfectly. 1
+A : Check out those red roses. 1
+B : You can tell that it's the spring. 1
+A : That's because everything's in bloom right now. 1
+B : Look! That man's selling ice cream. 1
+A : Do you want to go get one? 0
+B : That sounds so good. 1
+A : It'll be my treat. 1
+B : That's very nice of you. 1
+
+1 1

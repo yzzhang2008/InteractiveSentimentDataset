@@ -1,0 +1,8 @@
+A : Oh, my goodness, the traffic is crawling. -1
+B : I think there's an accident ahead. -1
+A : We're now running late. -1
+B : I know. Why don't we take a different route? 0
+A : Let me take a look at the map. Yes, there's an exit three quarters of a mile ahead. We'll exit Market Street, head west, and then get on the Pennsylvania Freeway. 0
+B : OK, let's do that even though we may have to take a longer way. 0
+
+0 0

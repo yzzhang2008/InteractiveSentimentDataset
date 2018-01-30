@@ -1,0 +1,12 @@
+A : A lot of young people gave me their business cards at the event yesterday. 0
+B : Did you meet any with good potential? 0
+A : It's hard to say. I told all of them to send me their resumes. 0
+B : Do you think they will? 0
+A : I've already received more than half. 0
+B : You should really take time to read through them. 0
+A : I know. I remember when I was young and looking for jobs. 0
+B : Networking is hard and it can be intimidating. 0
+A : I fully understand what they're going through. 0
+B : Be generous with your time. You may find a gem or two. 0
+
+0 0

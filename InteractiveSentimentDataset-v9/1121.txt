@@ -1,0 +1,8 @@
+A : Is that all you are eating? 0
+B : Yeah. I'm trying to lose weight. 0
+A : You need to exercise too. 0
+B : I know. I've been running two miles every day. 0
+A : That's great. 1
+B : Thanks. Losing weight is hard. 1
+
+1 1

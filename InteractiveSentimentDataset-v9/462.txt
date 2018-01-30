@@ -1,0 +1,12 @@
+A : Can I help you? 0
+B : I want to speak with the manager. 0
+A : Is there a problem? 0
+B : Yes! These shoes do not fit. -1
+A : Do you have the receipt? 0
+B : Yes. I want a refund. 0
+A : This was a sale item. We do not give refunds on sale items. -1
+B : I didn't know that. -1
+A : I'm sorry, but that is our store policy. -1
+B : I am calling my lawyer! -1
+
+-1 -1

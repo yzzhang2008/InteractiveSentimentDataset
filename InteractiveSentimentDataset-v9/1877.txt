@@ -1,0 +1,14 @@
+A : What are your plans? 0
+B : What plans are you talking about? 0
+A : Your plans as far as college. 0
+B : I want to transfer. 0
+A : You want to transfer? 0
+B : That's what I plan to do. 0
+A : Where do you want to transfer to? 0
+B : I want to go to school out of state. 0
+A : Which state? 0
+B : Maybe New York. 0
+A : That would be a big move. 0
+B : I'm still thinking about it. 0
+
+0 0

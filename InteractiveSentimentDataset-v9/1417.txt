@@ -1,0 +1,10 @@
+A : How did Anneke like her first time at the beach? 0
+B : She had a great time. She really enjoyed making sand castles. 1
+A : When did you come home? 0
+B : I guess we got home about 3:00. We spent a good 6 hours there. 1
+A : That's a long time! Did Anneke get burned? 0
+B : No, unlike myself, I slathered her in sunscreen. She didn't even turn down. 1
+A : But you look like you got burned to a crisp. -1
+B : You got that right! Next time, I guess I ought to remember to put sunscreen on, too! -1
+
+0 0

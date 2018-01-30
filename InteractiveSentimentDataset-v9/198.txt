@@ -1,0 +1,14 @@
+A : Hi, how are you? 0
+B : I'm great, thank you. 1
+A : How can I help you? 0
+B : I would really like to find an apartment for rent. 1
+A : That shouldn't be a problem. 1
+B : That would be great. 1
+A : Tell me what kind of apartment that you are looking for. 0
+B : I really need a two bedroom. 0
+A : Anything else? 0
+B : That's all I really need. 1
+A : I will try to find something for you, and then I'll give you a call in a couple of days. 1
+B : That would be fabulous. 1
+
+1 1

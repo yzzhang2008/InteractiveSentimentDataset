@@ -1,0 +1,14 @@
+A : I was wondering about the apartment. 0
+B : I'd be happy to help. 1
+A : Could you give me details about the apartment? 0
+B : What is it that you would like to know? 0
+A : Actually, it's the floor plan that I am inquiring about. 0
+B : If you would like to, you can see it for yourself. 0
+A : I am very busy and don't know when I can view the apartment. -1
+B : If you would like, you can view it online. 0
+A : I can do that? 0
+B : If you would like the website, I can give it to you. 1
+A : That would be more convenient than having to go all the way down there. 1
+B : Convenience is the reason that we made the website. 1
+
+1 1

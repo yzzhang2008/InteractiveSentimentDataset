@@ -1,0 +1,14 @@
+A : Did you just move here? 0
+B : Yes, I just moved here. 0
+A : Do you like it here so far? 0
+B : I love it here. 1
+A : Where did you come from? 0
+B : I came from El Salvador. 0
+A : Why'd you move? 0
+B : I want to make a life for myself. 1
+A : Is that hard to do there? 0
+B : It's harder to make a good life there. -1
+A : So, was it easy for you to leave? 0
+B : It wasn't easy, but things will work out better for me here. 1
+
+0 1

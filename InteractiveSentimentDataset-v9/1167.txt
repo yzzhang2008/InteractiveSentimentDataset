@@ -1,0 +1,13 @@
+A : Excuse me. I was wondering how to order office supplies. 0
+B : We have a requisition form on the company web site. What type of supplies do you need? 0
+A : I need paper, ink cartridges, and paper clips. 0
+B : How quickly will you need your supplies? 0
+A : I need all of my supplies right away. 0
+B : We also will have to check your department budget. Do you know how much money you have for office supplies? 0
+A : I will check to see what my budget is. 0
+B : Would you like these supplies delivered or would you like to pick them up? 0
+A : Please deliver them to my office. 0
+B : Fine, well just send the form to us and we will let you know as soon as your supplies come in. Have a good day! 1
+A : Thank you! 1
+
+1 1

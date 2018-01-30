@@ -1,0 +1,14 @@
+A : Thanks for coming to see me today. 1
+B : It's no problem. I was really missing you anyway. 1
+A : I missed you too. 1
+B : Why haven't you tried to come see me then? 0
+A : I've been really busy. -1
+B : Doing what? 0
+A : Working. 0
+B : I would've come to see you sooner, but I've been busy too. -1
+A : What have you been doing? 0
+B : I've been working too. 0
+A : Well regardless, I'm very happy that you came to see me. 1
+B : I am too. 1
+
+1 1

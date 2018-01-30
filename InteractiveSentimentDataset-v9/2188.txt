@@ -1,0 +1,22 @@
+A : Hello, Anne. 0
+B : Hi Sue. 0
+A : Can you explain something to me? 0
+B : Sure. What is it? 0
+A : What is Halloween? 0
+B : Oh. It's a holiday that we celebrate once a year. 0
+A : Is it the same date every year? 0
+B : Yes. It's on October 31. 0
+A : What do people do on that day? 0
+B : People dress up in costumes and go to other people's homes to collect candy. 0
+A : Even strangers' homes? 0
+B : Yes. They knock on the doors and say 'Trick or Treat.' Then the home owner gives out candy. 0
+A : Do adults do it, too? 0
+B : Not many adults. It's usually just children. 0
+A : Isn't that unsafe? 0
+B : It can be. But parents go with them. 0
+A : I see. My son wants to do it this year. I didn't know what it was. 0
+B : You don't do this in your native country? 0
+A : No. I guess it's a new tradition we have to learn. 0
+B : It's a lot of fun. Your son will enjoy it. 1
+
+0 1

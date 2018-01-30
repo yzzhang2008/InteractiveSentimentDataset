@@ -1,0 +1,14 @@
+A : I would like to take a trip to the beach this weekend. 1
+B : A trip to the beach would be fun. How is the weather going to be? 0
+A : The forecast says that it will be warm on the weekend. 0
+B : So do you think it'll be perfect weather for the beach? 0
+A : It sounds like it will be. 1
+B : I really hope it doesn't get cold. 0
+A : That would ruin things, I want to go so badly. 1
+B : The weather in California is unpredictable, so you never know. -1
+A : That is true. The weather is constantly changing. 0
+B : It would be nice if the weather would never change. 0
+A : That would be great, then we could plan things sooner. 1
+B : True. Predictable weather would make life easier. 1
+
+1 1

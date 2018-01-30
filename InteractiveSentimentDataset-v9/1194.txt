@@ -1,0 +1,12 @@
+A : So tell me again, why couldn't you get the supplies I ordered? 0
+B : Well I ordered them when you asked, but the supplier said they might need to back order them. 0
+A : When do you think they will finally arrive? 0
+B : I think maybe by Tuesday. 0
+A : If they don't arrive by then, what are our options? 0
+B : I could try another supplier down the street. 0
+A : That would work for me. 0
+B : OK, I will stay on it and let you know how it's going. 0
+A : Thank you for taking care of the problem. 1
+B : Thank you for your business. We appreciate you as a client. 1
+
+1 1

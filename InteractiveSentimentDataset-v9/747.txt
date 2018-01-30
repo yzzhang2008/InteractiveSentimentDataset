@@ -1,0 +1,10 @@
+B : I am sorry, but I can't stay until the end of class. -1
+A : Where do you need to be that is more important than school? 0
+B : I have an appointment. 0
+A : Do you have a plan to make up your missed work? 0
+B : No, but I'll make sure someone helps me out this week with my missed work. 0
+A : Are you going to go right away? 0
+B : I am leaving right now. 0
+A : All right, but please remember that it is your responsibility to catch up. 0
+
+0 0

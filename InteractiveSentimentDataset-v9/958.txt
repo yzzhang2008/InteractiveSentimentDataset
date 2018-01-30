@@ -1,0 +1,14 @@
+A : I have a question about my cable. 0
+B : What do you need? 0
+A : I haven't been able to watch my cable for the past week. -1
+B : Right now the cable isn't working. -1
+A : Could you tell me when it will be back on? 0
+B : The cable should be running again in a couple of days. 0
+A : In the meantime, do I still have to pay for the cable? 0
+B : We'll just give you a credit for the inconvenience. 1
+A : Does that mean I won't have to pay for it? 0
+B : It'll be free until it comes back on. 1
+A : Thanks, I appreciate your help. 1
+B : Thank you for all your patience. 1
+
+1 1

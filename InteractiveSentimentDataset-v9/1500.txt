@@ -1,0 +1,8 @@
+A : Have you met the company's new CEO? 0
+B : No. Have you? 0
+A : Yes. She's very nice. 1
+B : Really? I heard she was very mean. -1
+A : She asked us a lot of questions about employee happiness and concerns. 0
+B : I heard if she doesn't like what you say, she will fire you. -1
+
+1 -1

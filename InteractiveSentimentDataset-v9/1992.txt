@@ -1,0 +1,12 @@
+A : I was wondering if I could order something to drink. 0
+B : Yes, we have alcoholic beverages as well as coffee, tea, or soda. 0
+A : How much do drinks cost? 0
+B : Our alcoholic beverages are five dollars each. All others are complimentary. 0
+A : When will our meals be served? 0
+B : We will serve a snack with the beverages. Dinner will be served a few hours into our flight. 0
+A : What are our dinner choices? 0
+B : You will have a choice of chicken, fish, or beef. I will be bringing a menu by shortly. 0
+A : I am a vegetarian and need a vegetarian meal. 0
+B : Vegetarian meals need to be requested at least two days before your flight. I might be able to find you extra servings of vegetables, however. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : What do you think about the apartment so far? 0
+B : It is beautiful. 1
+A : You don't have any problems with how it looks? 1
+B : Actually, there is a problem. -1
+A : Like what? 0
+B : There are some stains that were left in the carpet. 0
+A : Those stains will be cleaned out of the carpet before you move in. 1
+B : Oh, is that right? 1
+A : Yes. Now what other problems do you have? 0
+B : That was the only problem that I saw. 1
+A : I'm glad that everything else is to your liking. 1
+B : I honestly love it. 1
+
+1 1

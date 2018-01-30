@@ -1,0 +1,12 @@
+A : Well, it was nice talking to you. 1
+B : It was nice talking to you too. 1
+A : We should really hang out again. 0
+B : That would be fun. 1
+A : Where do you want to go? 0
+B : I think we should go out to eat. 0
+A : That sounds good. 1
+B : All right, so I'll see you then. 1
+A : I'll call you later. 1
+B : Okay, I'll talk to you later then. 1
+
+1 1

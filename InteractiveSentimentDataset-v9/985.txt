@@ -1,0 +1,10 @@
+A : How are you? 0
+B : It's nice to meet you. Thanks for coming. 1
+A : It's my pleasure. 1
+B : I wanted to meet with you to discuss your daughter. 0
+A : Is she acting up in class? 0
+B : Not at all. She's a joy to have in my class. 1
+A : Is she really? 0
+B : She is absolutely wonderful. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : Would you like to ask any questions? 0
+B : I need to know about the fees. 0
+A : What kind of fees? 0
+B : I'm asking about overdraft fees. 0
+A : You have to pay a small fee every time you overdraft. 0
+B : What's the fee? 0
+A : The fee is $25 every time you overdraft. 0
+B : How is that a small fee? 0
+A : That fee should keep you from overdrafting. 0
+B : I'll say. 0
+A : Do you have any more questions? 0
+B : I don't need to know anything else. 0
+
+0 0

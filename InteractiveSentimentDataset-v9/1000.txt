@@ -1,0 +1,10 @@
+A : Did you feed the puppies today? 0
+B : Yes, I have. 0
+A : That's good! Just make sure to bathe them later. 1
+B : No problem. I can do that for you. 1
+A : Thank you! You know they have to go to the vet on Saturday? 1
+B : I know. What time do they go? 0
+A : Their appointment is at eleven o'clock in the morning. 0
+B : Okay, I won't forget. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : There goes Todd again. 0
+B : What is he doing? 0
+A : Brown-nosing the boss. -1
+B : What do you mean? 0
+A : He treats the boss like a king and does everything he says. -1
+B : Oh, I see. Yeah, I've seen him do that. -1
+A : It's ridiculous. -1
+B : I thought Todd didn't like the boss. -1
+A : He doesn't like him. He just wants a promotion. -1
+B : What a brown-noser! -1
+
+-1 -1

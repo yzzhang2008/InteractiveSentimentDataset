@@ -1,0 +1,14 @@
+A : There is something wrong with my credit card. -1
+B : What's the problem? 0
+A : There is a charge on here that I never made. -1
+B : What charge was made? 0
+A : It was a charge for a $350 purse that I never bought. -1
+B : You didn't make this purchase? -1
+A : I think I would remember if I made a purchase that large. -1
+B : Sorry. When was this purse purchased? -1
+A : It was purchased on the 12th of November at 3:15 pm, but I was at work. -1
+B : We'll do an investigation and get to the bottom of this. 0
+A : In the meantime, do I have to pay for this charge? 0
+B : No. We'll take care of everything. 1
+
+-1 1

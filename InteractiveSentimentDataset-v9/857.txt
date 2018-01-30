@@ -1,0 +1,14 @@
+A : What case do you have against the police? 0
+B : I want to take them to court for arresting me. -1
+A : I don't understand. -1
+B : There was no reason for them to arrest me. -1
+A : They let you go, didn't they? 0
+B : They released me the next morning. -1
+A : They detained you at the station? 0
+B : That's exactly what they did. -1
+A : Why did they arrest you? 0
+B : They said I matched the description of a robber. -1
+A : I get it now. 0
+B : I'm definitely taking them to court. -1
+
+0 -1

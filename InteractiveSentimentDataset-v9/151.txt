@@ -1,0 +1,16 @@
+A : Can you direct me to some fresh produce that's on sale? 0
+B : Well, we've got some great mangoes on sale. 1
+A : Mangoes? What are mangoes? 0
+B : Well, it's a fruit with a big seed in it. 0
+A : Can you eat the seed? 0
+B : No. Peel the skin with a sharp knife, and throw out the seed. 0
+A : How much are they? 0
+B : Well, they're on sale today for only $1 each. 0
+A : Can you describe their taste? 0
+B : They usually taste sweet, but they remind me of an orange. 1
+A : How can I tell if they're ripe? 0
+B : You can buy them either ripe or unripe. Unripe ones are hard. 0
+A : Where do they grow mangoes? 0
+B : The ones that are on sale are from Central America. 0
+
+0 0

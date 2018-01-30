@@ -1,0 +1,14 @@
+A : I can't believe how hot it is. -1
+B : It's not even noon yet. -1
+A : That means it will get hotter. -1
+B : I am dying from the heat. -1
+A : Turn on the air conditioner. 0
+B : It doesn't work. -1
+A : What happened? 0
+B : I don't know. 0
+A : Did you call the repairman? 0
+B : Of course. 0
+A : When is he coming? 0
+B : He's busy. He said next week. -1
+
+-1 -1

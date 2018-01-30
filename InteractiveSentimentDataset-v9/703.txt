@@ -1,0 +1,12 @@
+A : I think we should change the vacation policy. 0
+B : Why? 0
+A : Other companies have paid vacation. We do not. -1
+B : We are a small company. We can't afford paid vacations. -1
+A : Paid vacations would make employees work better. 1
+B : How? 0
+A : Give employees good benefits and they will work harder. 1
+B : You have a point, but we cannot afford it. -1
+A : This company is never going to grow if we don't take care of our employees. -1
+B : I agree, but I don't make the rules. -1
+
+-1 -1

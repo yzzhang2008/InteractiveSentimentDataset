@@ -1,0 +1,10 @@
+A : I would like to exchange this dress. 0
+B : You can exchange this dress with anything of the same value. 1
+A : Is there anything on sale today? 0
+B : I'm sorry. There are no sales today. -1
+A : Are dresses going to be on sale? 0
+B : Everything's going to be on sale next weekend. 1
+A : That's great. I'll wait. See you next weekend. 1
+B : Okay. I'll see you then. 1
+
+1 1

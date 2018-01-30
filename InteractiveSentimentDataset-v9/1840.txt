@@ -1,0 +1,25 @@
+A : Can we share this cab? 0
+B : Where are you going? 0
+A : To 5th Avenue and Main Street. 0
+B : That's where I'm going too. 1
+A : Great! It's so hard to catch a cab at this time. 1
+B : I know! Are you going to work? 0
+A : No, I'm meeting some friends at a restaurant. 0
+B : Is it the new Thai place? 0
+A : Yes. Have you been there? 1
+B : Yeah. 0
+A : How is it? 0
+B : It's pretty good. 1
+A : Oh good. It's my first time trying Thai food. 1
+B : Really? Everything is freshly made. 1
+A : That's good to hear. I'm a little picky about food. 1
+B : I hope you like it. 1
+A : Thanks. Where are you going? 1
+B : Work. 0
+A : Where do you work? 0
+B : I'm a chef at the new Thai restaurant. 1
+A : That's awesome! 1
+B : Let the chef know what you think later. If you liked it, you may get a free dessert. 1
+A : You're funny! 1
+
+1 1

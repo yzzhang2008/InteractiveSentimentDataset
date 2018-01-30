@@ -1,0 +1,8 @@
+A : This is the Front Desk. How can I help you? 0
+B : This is Janet Lee from room 112. 0
+A : Hello, Ms. Lee. How can I help you? 0
+B : I paid for a room with an attached office, but this hotel room has no office. -1
+A : I'm sorry about that. I will change your room right away. -1
+B : Great! I'm on a business trip, so an office is important to me. 1
+
+-1 1

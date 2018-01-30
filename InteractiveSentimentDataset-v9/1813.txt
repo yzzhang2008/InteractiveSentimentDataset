@@ -1,0 +1,18 @@
+A : Sally, I'm going to the supermarket this afternoon. Do you need anything? 0
+B : Yes Mom. Can you buy some snacks for school? 0
+A : Sure. What kind of snacks? 0
+B : I like pretzels and potato chips. 1
+A : Ok. I will pick up some fruits too. 1
+B : I don't like fruits. -1
+A : Fruits are healthy for you. 1
+B : Can I go to the market with you? 0
+A : Are you done with your homework? 0
+B : No. I have to study for a math test tomorrow. -1
+A : Then you should stay home and study. 0
+B : I need to take break. I've been studying all day. -1
+A : Ok. We will only be gone for about an hour. 0
+B : Can we get ice cream on the way home? 0
+A : I thought you needed to study. 0
+B : I've studied enough. I'm ready for my math test. 1
+
+0 1

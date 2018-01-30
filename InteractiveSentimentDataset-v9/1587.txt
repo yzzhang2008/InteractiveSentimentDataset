@@ -1,0 +1,14 @@
+A : Hi, B, we're having a party tonight, wanna come join us? You can bring your girlfriend. 1
+B : Well...I'm breaking up with Cathy. -1
+A : What happened? Did you have a fight? -1
+B : No. She's really a very nice girl.... 1
+A : Yeah, she is. She's pretty, caring, and easy-going. And she's a great cook! She's a gem! 1
+B : Well, you're right. But sometimes she's too caring... well...no...she's just possessive...and...uh... I kind of want a break...you know...for some room for myself. -1
+A : Oh?! Did you talk with her about it? 0
+B : I've tried, but...it didn't work. -1
+A : Oh. So, when are you going to tell her? 0
+B : Maybe tonight. I don't know. I don't know how to tell her. -1
+A : I know she's head over heels in love with you. She'll be badly hurt! -1
+B : I know.... -1
+
+-1 -1

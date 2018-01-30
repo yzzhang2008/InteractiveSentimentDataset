@@ -1,0 +1,12 @@
+A : They told me inside that I should catch the Super Shuttle here. 0
+B : You are in the right place to catch the Super Shuttle. What is your destination? 0
+A : I am trying to get to my home in Pasadena. 0
+B : Look at the sign on the front of the van to tell where each van is headed. My van is going to Glendale, but yours will be along in minute. 0
+A : How much does a trip to Pasadena cost? 0
+B : If I remember correctly, that trip costs sixty dollars. 0
+A : I am hoping that this shuttle goes straight to my city without making a bunch of stops. 0
+B : Always ask the driver how many stops he plans to make before you pay him. 0
+A : If I have large bills, should I break them while I am waiting? 0
+B : It is better if you have cash close to the amount of the fare. There is an ATM machine right over there. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : Their wedding was absolutely beautiful. 1
+B : It really was. I want a wedding like that. 1
+A : How much do you think they spent on their wedding? 0
+B : I think it might've cost them a nice chunk of change. 0
+A : Do you want a big wedding like that? 0
+B : Not really. I'd rather have a small wedding. 0
+A : I wouldn't want a small wedding. 0
+B : Why not? 0
+A : I want my wedding to be big and memorable. 1
+B : It can be small and memorable too. 1
+A : Well, to each his own. 0
+B : You are absolutely right. 1
+
+1 1

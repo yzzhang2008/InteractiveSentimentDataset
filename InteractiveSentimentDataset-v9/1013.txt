@@ -1,0 +1,14 @@
+A : Get up, it's time for you to get ready. 0
+B : Let me just get five more minutes of sleep. 0
+A : I would, but you need to start getting ready for school. 0
+B : I understand, but all I want is five more minutes of sleep. 0
+A : If I let you go back to sleep, I know that you won't get up in five minutes. 0
+B : Trust me. I'm going to wake up. 0
+A : You have a lot to get done this morning. 0
+B : I already know, and I'll take care of all that when I wake up. 0
+A : I want you to be on time for school today. 0
+B : I'll make it to school on time. Don't worry. 1
+A : I'll let you sleep for a little while longer. 0
+B : I really appreciate that. 1
+
+0 1

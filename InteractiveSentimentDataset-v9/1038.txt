@@ -1,0 +1,14 @@
+A : I have a date tomorrow night. 0
+B : Really? Who with? 0
+A : A girl I met at the market. 0
+B : You met a girl at the supermarket? 0
+A : She was standing behind me in a really slow line at the checkout counter. 0
+B : What did you say to her? 0
+A : I had two pineapples in my cart, and she asked where I had found them. 0
+B : She asked you about your pineapples? 0
+A : I told her I had gotten the last two on the shelf, but I offered her one of mine. 0
+B : That was nice of you. 1
+A : She asked me how she could return the favor, so I asked her out. 0
+B : Sometimes a slow line can be a good thing. 1
+
+1 1

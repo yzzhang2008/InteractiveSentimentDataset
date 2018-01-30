@@ -1,0 +1,14 @@
+A : I can't believe Obama is our President! 1
+B : I am proud to know that he is our President. 1
+A : You voted for him, right? 1
+B : Did you vote for him, because I know that I did. 1
+A : I did, too. 1
+B : I have nothing but faith in Obama. 1
+A : Really? 0
+B : I'm sure he will help better America. 1
+A : We do need some change in this country. 1
+B : Our country is already changing as it is. 1
+A : You're absolutely right. 1
+B : I trust that he will take good care of our country. 1
+
+1 1

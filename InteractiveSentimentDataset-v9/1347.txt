@@ -1,0 +1,8 @@
+A : Can I borrow some money, B? 0
+B : Again? You already borrowed money from me last week. -1
+A : I'm sorry. I just need to pay some bills. -1
+B : That's what you said last time. -1
+A : I promise to pay you back soon. -1
+B : Ok. You need to find a job. 0
+
+-1 -1

@@ -1,0 +1,14 @@
+A : I need help with my timesheet. 0
+B : OK, no problem. Have you found the blank ones? 0
+A : Yes, I have seen them. 0
+B : Yes, well put your name on it after you have downloaded it off the company website. OK? 0
+A : Yes, I understand what to do. 0
+B : You fill in the hours and total them for the week. Have you ever used a 24 hour clock? 0
+A : What? Huh? 0
+B : So after you noted the hours, starting at zero which is midnight, you just write down the minutes as a dot followed by minutes. Get it? 0
+A : Huh? What? 0
+B : Just make sure you show your total, sign it, and turn it in. 0
+A : I thought you said this was easy. 0
+B : You are a quick learner. I don't think you'll have any trouble with this. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : So where are the laundry rooms located? 0
+B : There is a laundry room located at the end of each hallway. 0
+A : Can I use them at any time? 0
+B : All laundry rooms are locked at eleven at night and re-open at seven in the morning. 0
+A : Do they use change? 0
+B : You should bring quarters for the washer and dryer. 0
+A : Can you buy detergent in the laundry room? 0
+B : Yes, there are detergent dispensers in the laundry room. 0
+A : Are there rules in the laundry room? 0
+B : Yes, if you leave your laundry in the machine unattended, people can just take it out and put it on a table so they may use the machine. 0
+
+0 0

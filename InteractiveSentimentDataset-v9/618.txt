@@ -1,0 +1,12 @@
+A : When you insured your car, what kind did you buy? 0
+B : I decided to buy from GEICO. 0
+A : What influenced your choice of companies? 0
+B : I looked at the customer satisfaction rating of the company. 0
+A : How did you figure out what services to buy? 0
+B : Every individual has different considerations. Your agent can help you understand what you need to think about. 1
+A : What did you place an emphasis on when you bought your insurance? 0
+B : I carry a lot of liability insurance because I own a house and need to protect it from a lawsuit. 0
+A : Did you ever get into an accident and need your insurance? 0
+B : I was in an accident and was happy that I had good insurance to cover it. 1
+
+0 1

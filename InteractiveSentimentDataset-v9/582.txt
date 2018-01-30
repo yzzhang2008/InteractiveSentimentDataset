@@ -1,0 +1,14 @@
+A : When do we get off the bus? 0
+B : I think we have a while longer. 0
+A : I feel like we've been on this bus forever. -1
+B : That's true. 1
+A : Are you sure we weren't supposed to get off already? -1
+B : I don't know. -1
+A : I thought you knew where we get off at. -1
+B : I wasn't really paying attention. I think we missed our stop. -1
+A : Seriously? -1
+B : Yeah, we definitely missed our stop. -1
+A : That's the last time I get on a bus with you. -1
+B : My bad. -1
+
+-1 -1

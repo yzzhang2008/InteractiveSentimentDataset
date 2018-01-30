@@ -1,0 +1,14 @@
+A : Will you be voting? 0
+B : I can't wait to vote. 1
+A : Who are you voting for? 0
+B : The person I'm voting for is the best. 1
+A : What do you like about him? 0
+B : He is very intelligent. 1
+A : You think so? 0
+B : That's right. Plus, I agree with his policies. 1
+A : I'm glad to hear that you are so excited. 1
+B : I'm voting for the next President. 1
+A : I'm sure he will be. 1
+B : I'm going to make sure and vote. 1
+
+1 1

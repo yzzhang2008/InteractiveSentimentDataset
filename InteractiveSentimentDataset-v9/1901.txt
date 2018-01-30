@@ -1,0 +1,14 @@
+A : Do you know where you want to transfer to? 0
+B : I don't have the slightest clue. -1
+A : What school would you like to go to? 0
+B : I'm not sure. 0
+A : You honestly have no idea? 0
+B : PCC is perfectly fine for me. 1
+A : You might as well stay here. 1
+B : That's not a bad idea. 0
+A : PCC is a wonderful institution. 1
+B : You have a point. 1
+A : So, what are you going to do? 0
+B : I'm just going to keep going to PCC. 1
+
+1 1

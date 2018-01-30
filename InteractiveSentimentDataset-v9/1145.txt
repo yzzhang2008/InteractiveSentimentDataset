@@ -1,0 +1,12 @@
+A : What is the best way to find a job here? 0
+B : There are different ways of conducting a job search. Do you know what you want to do? 0
+A : I don't know. 0
+B : Can you work part-time or full-time? 0
+A : It doesn't matter right now, either one would be OK. 0
+B : The binders have current local jobs listings and the computer jobs lists are good too. Understand? 0
+A : OK, I'll go check it out. 0
+B : Schedule an appointment with a counselor and you can get more information. Would that work for you? 0
+A : I do not think so. -1
+B : Everything that you need for a successful job search is here. Happy job searching! 1
+
+-1 0

@@ -1,0 +1,14 @@
+A : What can I get for you? 0
+B : Hello, may I have a double cheeseburger? 0
+A : With everything on it? 0
+B : That sounds great. 1
+A : Did you want fries with your order? 0
+B : May I get a large order of curly fries? 0
+A : Did you want something to drink? 0
+B : Get me a medium Pepsi. 0
+A : Would you like anything else? 0
+B : No, thank you. That's it. 0
+A : No problem, that'll be $5.48. 0
+B : Thanks a lot. Keep the change. 1
+
+1 1

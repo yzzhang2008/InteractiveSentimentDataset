@@ -1,0 +1,12 @@
+A : There is something weird going on at work. -1
+B : What do you mean? 0
+A : The managers have been having secret meetings every day. 0
+B : What do you think is going on? 0
+A : My hunch is that they are going to close the business. -1
+B : Why? 0
+A : Business has been very bad lately. -1
+B : Maybe they're going to lay people off instead. -1
+A : I overheard the owner talking about moving to another state. 0
+B : Your hunch may be right. 1
+
+-1 0

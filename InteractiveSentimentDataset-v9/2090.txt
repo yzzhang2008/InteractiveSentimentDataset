@@ -1,0 +1,12 @@
+A : Will they send me a form telling me that I have been granted unemployment? 0
+B : A Notice of Unemployment Insurance Award letter will be sent to you. 0
+A : What information will be in that letter? 0
+B : The Award Letter will inform you as to how much you will receive. 0
+A : What other forms will I need to turn in? 0
+B : Every two weeks you will receive a Continued Claim Form that you must turn in. 0
+A : What will they be asking me on that form? 0
+B : You must show that you were available and that you looked for work. 0
+A : What else will they ask me? 0
+B : One of the questions they ask you is if you were well enough to work. 0
+
+0 0

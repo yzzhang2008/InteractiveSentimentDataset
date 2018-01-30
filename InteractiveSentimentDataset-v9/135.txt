@@ -1,0 +1,14 @@
+A : I want to find an old music box. 0
+B : We have a great selection. What decade are you looking for? 1
+A : Do you have anything made in the 1920s? 0
+B : We have six. 0
+A : Do any of them have dancing figures? 0
+B : Actually, two of them have dancing figures. 0
+A : That's fantastic. I think I like this one. 1
+B : A good choice. I prefer that one myself. 1
+A : Is there any warranty with this? 0
+B : Oh, no, I'm afraid not. These things are just too old to guarantee anything. -1
+A : I understand. 1
+B : Even if they break down, they're still works of art. 1
+
+1 1

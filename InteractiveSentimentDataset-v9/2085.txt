@@ -1,0 +1,12 @@
+A : How do I know if I qualify for unemployment benefits? 0
+B : Are you working fewer hours than you used to work? 0
+A : I got laid off. -1
+B : You usually qualify if you got laid off or are working a lot fewer hours. 0
+A : Do all jobs provide unemployment? 0
+B : Most jobs provide unemployment, but some don't. 0
+A : Do you think that my job pays unemployment? 0
+B : You can call your unemployment office, and they can check for you. 0
+A : Will I be able to collect a lot of money on unemployment? 0
+B : There is a formula to determine the amount based on how much you earned. They will let you know when you file your claim. 0
+
+0 0

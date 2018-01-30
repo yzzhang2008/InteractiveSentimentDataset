@@ -1,0 +1,14 @@
+A : How may I help you? 1
+B : I would like to return an item. 0
+A : What are you returning? 0
+B : I want to return this cellphone. -1
+A : Is there a problem? 0
+B : It's broken. -1
+A : What exactly is wrong with it? -1
+B : The phone turns off by itself. -1
+A : That's fine, but do you have your receipt with you? 1
+B : Yes, here it is. 1
+A : I'll refund your money right now. 1
+B : Thank you so much. 1
+
+1 1

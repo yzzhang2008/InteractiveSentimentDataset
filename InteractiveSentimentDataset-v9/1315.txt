@@ -1,0 +1,14 @@
+A : Did you get anything for lunch? 0
+B : I ate a sandwich with some chips and soda. 0
+A : Did you go somewhere and get your food? 0
+B : I bought my food from the cafeteria today. 0
+A : Tell me, what kind of sandwich did you decide to get? 0
+B : They gave me a bologna sandwich, but I asked for ham. 0
+A : How'd it taste? 0
+B : I didn't want that sandwich, but it was quite tasty. 1
+A : I got a sandwich at the cafeteria before. 0
+B : Is that so? 0
+A : Yes, and I believe they messed up on my order also. 0
+B : That may be so, but I bet your sandwich was delicious. 1
+
+0 1

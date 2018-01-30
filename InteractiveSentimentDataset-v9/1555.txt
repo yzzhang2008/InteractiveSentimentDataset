@@ -1,0 +1,12 @@
+A : The typhoon is heading our way. 0
+B : Let's check to see we have everything we need. 0
+A : I'll check the flashlights and batteries. 0
+B : I'll make sure we have enough food and water. 0
+A : I'm glad we have a basement. 1
+B : Me too. Let's head downstairs soon. 1
+A : Bring extra blankets and a first aid kit too. 1
+B : Good idea! 1
+A : Don't forget the dogs! 0
+B : They're already down there. 1
+
+1 1

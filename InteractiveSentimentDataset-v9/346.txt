@@ -1,0 +1,14 @@
+A : I really need to go shopping. 0
+B : What do you need to buy? 0
+A : I need to look for a new bedroom set. 1
+B : Where are you going to go look for one? 0
+A : I have absolutely no idea. -1
+B : You don't know where you want to look for one? 0
+A : I'm not sure where they sell nice bedroom sets. 1
+B : Do you want to know where I got mine from? 0
+A : Yes, because I love yours. 1
+B : I purchased mine from IKEA. 0
+A : Is IKEA affordable? 0
+B : Not at all, but you get what you pay for. 1
+
+0 1

@@ -1,0 +1,14 @@
+A : Do you like the apartment? 0
+B : I absolutely love the apartment. 1
+A : Everything is okay? 1
+B : I do have one problem with the apartment. -1
+A : What's the problem? 0
+B : I don't like all those stains in the carpet. -1
+A : We will have the carpet cleaned before you move into the apartment. 1
+B : I did not know that. 1
+A : I assure you that we will, and if there are any more problems, feel free to tell me. 1
+B : That was the only thing that I saw wrong with the apartment. 1
+A : I'm glad to know that you think the apartment is so nice. 1
+B : It's absolutely incredible. I'll take it. 1
+
+1 1

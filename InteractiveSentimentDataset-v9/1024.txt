@@ -1,0 +1,14 @@
+A : You have pretty eyes. 1
+B : Thank you. So do you. 1
+A : I wish my eyes were blue. 1
+B : What's the matter with green eyes? 0
+A : Nothing, except my favorite color is blue. 0
+B : Maybe in your next life you'll have blue eyes. 0
+A : But what if I'm a fish in my next life? 0
+B : I think some fish have blue eyes. 0
+A : I hope I don't come back as a fish. 0
+B : I hope I come back as a cat. 0
+A : Cats have beautiful eyes. 1
+B : I would love to have blue cat-eyes. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : We need to save money. 0
+B : Why do we need to save money? 0
+A : Because we need to buy a house. 0
+B : But a house is so expensive. -1
+A : That's why we need to save money. 0
+B : How much do we need to save? 0
+A : We need to save enough for a down payment. 0
+B : How much is that? 0
+A : That's about $30,000. 0
+B : Thirty thousand dollars! That will take forever. -1
+A : Not if we save every penny. 1
+B : Okay. Here's seven pennies. 1
+
+1 1

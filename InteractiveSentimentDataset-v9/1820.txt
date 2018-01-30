@@ -1,0 +1,12 @@
+A : I'm going to be late this morning. -1
+B : Is there something wrong? 0
+A : My dog is sick. -1
+B : I'm sorry to hear that. -1
+A : I have to take him to the vet. 0
+B : I'll let our team know. 0
+A : Thanks. 1
+B : If it's serious, take the whole day off. 0
+A : Thank you for understanding. 1
+B : I have two dogs. They're the best. 1
+
+1 1

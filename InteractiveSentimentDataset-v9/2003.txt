@@ -1,0 +1,12 @@
+A : I need help figuring out what to see and visit in this city. 0
+B : We are definitely the place to come to when booking tours. What is the length of your stay here? 0
+A : I am on a layover and will only have today and tomorrow morning to sightsee. 0
+B : How familiar are you with our city? 0
+A : Actually I was born here but haven't been here in twenty years. -1
+B : Do you have any ideas of what you would like to see? Perhaps you would enjoy our world-renowned museums or a visit to our magnificent zoological gardens. 0
+A : I was interested in checking out local architecture. 1
+B : I think that you would enjoy a number of our tours. 1
+A : Is there any way that I can take a quick tour of the city, so that I can get some idea as to what I might like to see? 0
+B : A general city tour is an excellent tour to start with. 1
+
+1 1

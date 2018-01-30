@@ -1,0 +1,12 @@
+A : I am not sure what the asking price for my house should be. 0
+B : We have to take in a number of factors in setting an asking price. 0
+A : What do we need to consider in establishing an acceptable price for a home? 0
+B : The comparisons to other similar homes in your area give us a good indication of what your home is worth. 0
+A : Is the price that we get by looking at comparisons necessarily the asking price that I have to use for my home? -1
+B : You don't have to use that particular asking price, but the buyer is going to have trouble getting a loan if the house is priced too high. 0
+A : Should I just shoot for the moon and, if I have to lower the price, do it later? 0
+B : You should be realistic in your pricing. Otherwise, many potential buyers just walk away. 0
+A : Can we lower the asking price later if we need to? 0
+B : We can always re-evaluate the asking price in a few weeks, if we aren't getting any offers. 0
+
+0 0

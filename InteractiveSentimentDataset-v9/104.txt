@@ -1,0 +1,14 @@
+A : Can you help me find a nice gift for my young niece? 1
+B : Barbie dolls are quite popular, you know. 1
+A : You're right. Girls love Barbie. Show me a Barbie doll. 1
+B : Take a look at the newest Barbie -- Digital Barbie. 1
+A : She's beautiful. What's the price for Digital Barbie? 1
+B : Our regular price for Digital Barbie is $29.95 plus tax. 0
+A : Only $29.95? I'll buy it, of course. 1
+B : Another one sold. Do you see anything else you would like? 0
+A : Thank you, but no. This will do it for now. 0
+B : Tax brings your total to $32.42. How would you like to pay? 0
+A : Cash, please. 0
+B : Here's your change. Thank you. 1
+
+1 1

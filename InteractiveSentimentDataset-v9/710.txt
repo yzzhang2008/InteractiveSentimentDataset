@@ -1,0 +1,20 @@
+A : Hey Ted. Do you have any boxes you're not using? 0
+B : I think so. I have to check my garage. 0
+A : Great. Thanks. 1
+B : Are you moving? 0
+A : No. I need to clean out my attic today. It's getting full up there. 0
+B : That's a big chore. 0
+A : I know. I don't even remember what's in there anymore. -1
+B : Well, if you don't know what's in there, you probably don't need it. -1
+A : That's what my wife said. 0
+B : I had to clean out my attic last month and my wife said the same thing to me. 0
+A : They must be talking to each other. 0
+B : What are you going to do with all the stuff? 0
+A : I think I'm going to have a garage sale next weekend. What did you do with all of your stuff? 0
+B : I threw half of it away and donated the other half. 0
+A : That's a good idea. Maybe I'll donate the things I don't need. 1
+B : What about the garage sale? 0
+A : That's just going to be another chore to do. I'd rather go golfing. 0
+B : Good thinking! 1
+
+1 1

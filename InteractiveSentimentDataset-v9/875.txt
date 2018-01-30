@@ -1,0 +1,14 @@
+A : What's for dinner? 0
+B : I'm not sure. -1
+A : How about a pizza? 0
+B : You had pizza for lunch. 0
+A : But I love pizza. 1
+B : Everybody loves pizza. 1
+A : So why can't I have pizza for dinner? -1
+B : Because you need variety. 0
+A : What's variety? 0
+B : Different things, not the same thing all the time. 0
+A : You mean, like a pepperoni pizza instead of a cheese pizza? 0
+B : No, I mean a salad instead of a pizza. -1
+
+0 -1

@@ -1,0 +1,14 @@
+A : Can you pick up some things from the store for me? 0
+B : Of course, what do you need? 1
+A : I need a few things, I'll give you the list. 0
+B : Is there something else you need that you can think of? 0
+A : Everything I need is on the list. 0
+B : Do you want me to make any other stops while I'm out? 0
+A : Since you asked, would you pick up my medicine from the pharmacy? 0
+B : Is it ready to be picked up? 0
+A : I believe so. 1
+B : No problem. I'll do that for you. 1
+A : I really appreciate you doing this for me. 1
+B : It's no problem at all. 1
+
+1 1

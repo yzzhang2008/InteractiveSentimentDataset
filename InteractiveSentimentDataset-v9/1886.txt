@@ -1,0 +1,14 @@
+A : What are you doing? 0
+B : I'm just filling out applications. 0
+A : Applications for what? 0
+B : I'm filling out college applications. 0
+A : But you're already in college. 0
+B : I am going to transfer. 0
+A : What school are you going to transfer to? 0
+B : I still need to fill out the applications. 0
+A : What schools are you applying to? 0
+B : I'm applying to NYU and UCLA. 0
+A : I wish you luck! 1
+B : Thank you. I hope I get accepted. 1
+
+1 1

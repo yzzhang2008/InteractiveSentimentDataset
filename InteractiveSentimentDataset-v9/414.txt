@@ -1,0 +1,8 @@
+A : Should we go to the beach or the mountains this year? 0
+B : I like the mountains so we can ski. 1
+A : I like the beach so we can swim. 1
+B : We can go to the beach during the summer and the mountains during the winter. 0
+A : That's a great idea. Two family vacations in one year. 1
+B : The kids will love that. 1
+
+1 1

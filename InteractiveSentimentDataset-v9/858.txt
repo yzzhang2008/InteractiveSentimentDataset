@@ -1,0 +1,14 @@
+A : What can I help you with? 0
+B : I need to hire you. 0
+A : What do you need me for? 0
+B : I need you for my court date. 0
+A : What kind of case do you have? 0
+B : I'm being charged with a felony. -1
+A : I can help you with that. 1
+B : What is your price? 0
+A : I charge $150 an hour. 0
+B : I can't afford that. -1
+A : That's my rate. 0
+B : That's expensive, but I need you. -1
+
+0 -1

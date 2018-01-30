@@ -1,0 +1,14 @@
+A : Can I help you find something? 0
+B : I would like to buy a new fridge. 1
+A : Is there one in particular that you like? 0
+B : I was looking at this Kenmore refrigerator. 0
+A : Ah yes, that is a great refrigerator. 1
+B : What's so great about it? 0
+A : It's both affordable and it comes with all the appliances. 1
+B : What appliances? 0
+A : It comes with an ice maker, water dispenser, and there is a lot of room inside. 1
+B : May I see the inside for myself? 0
+A : Be my guest. 1
+B : Wow! You're right! This refrigerator is great. I'll take it. 1
+
+1 1

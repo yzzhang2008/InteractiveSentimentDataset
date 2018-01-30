@@ -1,0 +1,10 @@
+A : Could you give me a little more information about the apartment? 0
+B : Sure, if I can. What do you want to know? 0
+A : Is there a bus or train system near the apartment? 0
+B : I'm pretty sure there's a bus stop only a few blocks away. 1
+A : Do you know which buses stop there? 0
+B : I'm sure there's an 800 number or a website that could help you. 1
+A : I don't have a computer. I'll just look in my phone book. 1
+B : Bus line information should be pretty easy to find. 1
+
+1 1

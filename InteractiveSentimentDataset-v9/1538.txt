@@ -1,0 +1,9 @@
+A : Could you watch my cat while I'm gone? 0
+B : Sure. How long will you be gone? 0
+A : Just a couple of days. 0
+B : Ok. What do I need? 0
+A : I'll bring you cat food, bowls, and toys tomorrow morning. 0
+B : OK. Have a great trip. 1
+A : Thank you so much! 1
+
+1 1

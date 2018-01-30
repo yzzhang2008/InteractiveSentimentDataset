@@ -1,0 +1,14 @@
+A : Golf is a silly game. -1
+B : It certainly is. -1
+A : You hit a white ball. 0
+B : And then you chase it. 0
+A : And then you hit it again. 0
+B : Finally, you put the ball into a hole in the ground. 0
+A : You do this 18 times, because there are 18 holes. 0
+B : What's the point? 0
+A : How can it be fun? -1
+B : They pay money to play this silly game! -1
+A : I think golfers have a mental problem. -1
+B : I think they are nuts. -1
+
+-1 -1

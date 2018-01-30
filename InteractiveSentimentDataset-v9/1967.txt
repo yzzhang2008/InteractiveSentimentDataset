@@ -1,0 +1,12 @@
+A : How can I find out what I can carry in my luggage on an airline flight? 0
+B : You have to think about Customs regulations and airline regulations. 0
+A : What is the best place to get information about the Customs regulations for a country? 0
+B : It is easier to go online, but if you can't do that, you can write the Customs Office for the country you are interested in. 1
+A : What is the most important thing I should keep in mind as far as Customs is concerned? 0
+B : Always be honest in declaring everything you are carrying. Otherwise, you can be fined for not declaring everything. 0
+A : How do you find out what you can carry in your luggage for a particular airline? 0
+B : You can always call the airline you are flying, and they can give you specific information. 0
+A : Can I at least bring my own bottled water with me? 0
+B : You can't bring your own water. You must buy it at the airport. 0
+
+0 0

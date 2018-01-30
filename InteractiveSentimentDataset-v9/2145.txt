@@ -1,0 +1,14 @@
+A : We're asking for donations today. 0
+B : What are you collecting donations for? 0
+A : We're trying to raise money for the campaigns. 0
+B : How much are you planning on raising? 0
+A : As much as possible. 0
+B : What kind of fundraisers are you doing? 0
+A : We are going door to door. 0
+B : You should try actual fundraisers, too. 0
+A : What else can we do? 0
+B : Try having a car wash or selling candy. 0
+A : I didn't think of that. 0
+B : I know. It'll also help you make more money. 0
+
+0 0

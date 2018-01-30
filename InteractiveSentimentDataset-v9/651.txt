@@ -1,0 +1,12 @@
+A : I would like to discuss purchasing a home with you. 0
+B : What location are you looking for? 0
+A : I would like to live in Pasadena or Arcadia. 1
+B : Have you thought about what your needs are in terms of size? 0
+A : We would like a smaller cozy cottage with 2 bedrooms and 1 bathroom. 0
+B : Is living in a particular school district important to you? 0
+A : No, we don't really care because they are all pretty good around here. 1
+B : Are you interested in purchasing on the lake, or would you like a home with a view? 0
+A : We really want to live in a lakeside home with a dock for our boat. 1
+B : Now that I have an idea of what you want, I can begin my search. 0
+
+1 0

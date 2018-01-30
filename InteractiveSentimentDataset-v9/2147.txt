@@ -1,0 +1,14 @@
+A : Would you like to make a donation? 0
+B : Donations for what? 0
+A : It's for the campaigns. 0
+B : How much money are you trying to raise? 0
+A : It doesn't matter how much. 0
+B : What are you doing to raise money? 0
+A : We go door to door asking for donations. 0
+B : You should try other fundraisers. 0
+A : Like what? 0
+B : You can always wash cars and sell candy. 0
+A : That's a great idea. 1
+B : That'll help you make more money. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : How are you? 1
+B : I'm doing well. 1
+A : How may I help you? 1
+B : Could you cancel a check for me? 0
+A : What's the problem? 0
+B : I wrote the check out for way too much. -1
+A : How much? 0
+B : I wrote the check out for $150. 0
+A : What were you supposed to write it out for? 0
+B : I was supposed to write the check out for $100. 0
+A : I'll just cancel it for you right now. 1
+B : That's great. You're a lifesaver. 1
+
+1 1

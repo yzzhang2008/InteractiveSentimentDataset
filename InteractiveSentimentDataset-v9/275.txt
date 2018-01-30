@@ -1,0 +1,12 @@
+A : Good morning. I need to speak with the property manager, please. 0
+B : Good morning. You are speaking to the property manager. 0
+A : While it was raining last night, water started leaking in from the ceiling. -1
+B : Was it leaking in the bedroom? 0
+A : It was in the living room. -1
+B : Can you tell me which floor you are on? 0
+A : We are on the bottom floor. 0
+B : I would like to look at the leak. Will you be home this morning? 1
+A : Yes, someone will be here to let you in. 0
+B : Just in case you have to leave, we will just use the master key. 0
+
+-1 0

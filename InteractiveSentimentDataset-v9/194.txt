@@ -1,0 +1,14 @@
+A : Hello, I'm calling about the apartment. 0
+B : What would you like to know? 0
+A : I just wanted to find out some details about the apartment. 0
+B : Like what, exactly? 0
+A : Could you tell me about the floor plan? 0
+B : You can actually see the whole apartment for yourself. 0
+A : I don't have the time to go see the apartment. -1
+B : Actually, you can view this apartment online. 0
+A : I did not know that I could do that. 1
+B : I can give you the website to view that apartment on. 1
+A : That is really convenient. 1
+B : That's the reason we made the website. 0
+
+1 1

@@ -1,0 +1,14 @@
+A : My parents are divorced. -1
+B : So are mine. 0
+A : Why did your parents get divorced? 0
+B : My father found a new girlfriend. -1
+A : That's too bad. -1
+B : My mother was hurt and angry. -1
+A : What did she do? 0
+B : She told him to drop his girlfriend. 0
+A : What did your father do? 0
+B : He moved out of our house. -1
+A : I guess he really liked his new girlfriend. 0
+B : Yes, but she left him a year later. -1
+
+-1 -1

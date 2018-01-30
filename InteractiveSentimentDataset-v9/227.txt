@@ -1,0 +1,14 @@
+A : Am I speaking with someone from the water company? 0
+B : Yes. Can I assist you with something? 1
+A : I certainly hope so. 1
+B : What's the problem? 0
+A : I will be moving into a new house in a few days. 0
+B : What exactly do you need my help with? 0
+A : I'll need you to turn the water on in my house. 0
+B : What day are you moving in? 0
+A : I'm moving in this Saturday. 0
+B : We can help you with that. 1
+A : Do I need to give you any information? 0
+B : You need to give me your full name, social, and the address of your new house. 0
+
+0 0

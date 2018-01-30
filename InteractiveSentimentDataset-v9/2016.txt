@@ -1,0 +1,12 @@
+A : I am really not feeling very well. -1
+B : Do you think you need to go to a doctor? 0
+A : I think that we should maybe check into how to find a doctor in this country. 0
+B : I don't know where to begin looking for a doctor here. 0
+A : I think that we should call the front desk to see if they can help us. 0
+B : I have an American Express card. I heard that their travel services are quite good. 1
+A : That sounds like a great idea! 1
+B : Do you have travel insurance? 0
+A : Yes, I bought travel health insurance. 0
+B : I am going to call down to the office right now and see what they can do for us. 1
+
+1 1

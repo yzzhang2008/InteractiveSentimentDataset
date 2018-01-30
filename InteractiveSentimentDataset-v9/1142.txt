@@ -1,0 +1,12 @@
+A : I'm so busy. -1
+B : Are you done with the report? 0
+A : No. I've been in meetings all day. -1
+B : That's why I haven't seen you. 0
+A : Yeah. I have another meeting at 4 PM. 0
+B : Why do you have so many meetings? 0
+A : The managers are discussing annual employee reviews and raises. 0
+B : Is it that time of the year? 0
+A : Yeah. The end of the year is always the busiest. -1
+B : You're right. It's almost 4 PM. You'd better go. 0
+
+-1 0

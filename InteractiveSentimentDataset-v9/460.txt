@@ -1,0 +1,12 @@
+A : What's on the news? 0
+B : Someone just broke out of prison. -1
+A : Where? 0
+B : A few miles from here. 0
+A : Don't open the door for anyone. -1
+B : I know. I'm glad we have a big dog. 1
+A : If he starts barking, I'm grabbing my gun. -1
+B : Be careful with that thing. -1
+A : I'm always careful and prepared. 1
+B : I hope the police catch him soon. -1
+
+-1 -1

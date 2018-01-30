@@ -1,0 +1,12 @@
+A : Can you tell me where the pots and pans are? 0
+B : Pots and pans are right over there. 0
+A : Oh, thank you. 1
+B : Could I interest you in our store credit card? 0
+A : No, thanks. I already have credit cards. -1
+B : But our credit card saves you 10 percent. 1
+A : That's a nice discount. 1
+B : Here. Let me give you an application form. 1
+A : Thank you, but I'm just browsing today. 0
+B : Okay. Enjoy your browsing. 1
+
+0 1

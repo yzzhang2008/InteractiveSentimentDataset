@@ -1,0 +1,14 @@
+A : We're trying to get donations. 0
+B : What are you getting donations for? 0
+A : We're getting donations for the campaigns. 0
+B : How much money are you looking to make? 0
+A : As much as we can. 0
+B : Are you doing different fundraisers? 0
+A : We're just going door to door. 0
+B : You should do something else. 0
+A : Do you have any suggestions? 0
+B : Try a car wash and selling candy. 0
+A : That is a good idea. 1
+B : You'll make more money that way. 0
+
+1 0

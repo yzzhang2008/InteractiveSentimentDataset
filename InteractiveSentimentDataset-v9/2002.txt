@@ -1,0 +1,12 @@
+A : I need help knowing how to book some tours. 0
+B : We will be able to book your tours here. How long will you be here? 0
+A : I am only staying for three days. 0
+B : Is this your first stay in our city? 0
+A : I have been here before on a business trip but didn't really have a chance to see much. -1
+B : Have you thought of what types of things you would like to see? Would you maybe like to visit some outdoor venues or nighttime hotspots? 0
+A : I love being outdoors and would love to spend some time at the beach. 1
+B : We have a tour that can take you where you can see all of that. 1
+A : Do you have a tour where I can get a quick overview of the city? 1
+B : We do have tours like that, and I think that that is a good place to start. 1
+
+1 1

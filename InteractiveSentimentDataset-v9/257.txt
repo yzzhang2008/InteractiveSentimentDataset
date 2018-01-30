@@ -1,0 +1,14 @@
+A : May I talk to you? 0
+B : What's up? 0
+A : Did you have a party Friday? 0
+B : I did have a few people over. 1
+A : It was way too loud. -1
+B : I didn't realize I was making a lot of noise. -1
+A : I couldn't sleep with how loud it was. -1
+B : I'm sorry for being so loud. -1
+A : Could you try not to be so loud the next time? -1
+B : I'll make sure to do that for you. 1
+A : Thanks, I would appreciate it. 1
+B : Let me apologize again for the noise. -1
+
+-1 -1

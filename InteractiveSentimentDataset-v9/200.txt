@@ -1,0 +1,12 @@
+A : Good morning, is this the Renter's Hotline? 0
+B : Yes, what can I help you with? 0
+A : I have a question about discrimination in housing. 0
+B : What type of discrimination? 0
+A : I think that he doesn't want to rent to me because of my race. -1
+B : What made you think that your race was a problem? -1
+A : He seemed OK talking to me on the phone, but seemed to change his mind when he saw me in person. -1
+B : What else made you feel he was discriminating against you? -1
+A : Well, he had a 25 unit apartment building and everyone I saw there was his same race. 0
+B : Racial discrimination is very hard to prove, but if you would like to come down, we can go over a checklist that can help you build a case. -1
+
+-1 -1

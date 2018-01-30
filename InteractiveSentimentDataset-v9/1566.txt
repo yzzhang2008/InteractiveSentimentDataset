@@ -1,0 +1,12 @@
+A : I need to place another order of office supplies. 0
+B : clerk: I can help you with that. 1
+A : I notice we are paying a lot for delivery charges each month. 0
+B : clerk: We can give you a discount depending on how much you order per month. 0
+A : We've been a good customer for over five years. 1
+B : clerk: Yes, I see your order history. 0
+A : Can you waive the delivery fee for all future orders? 0
+B : clerk: I don't know if I can do that. I will talk to my manager and get back to you. 0
+A : We would love to continue doing business with you, but your delivery fees are too expensive. 0
+B : clerk: I understand. I will call you back as soon as possible. 0
+
+0 0

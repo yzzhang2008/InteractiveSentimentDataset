@@ -1,0 +1,14 @@
+A : I think you're very pretty. 1
+B : Thank you. 1
+A : Would you have dinner with me? 0
+B : I would like to. 1
+A : Can I pick you up Friday night? 0
+B : What time? 0
+A : Eight o'clock. 0
+B : That sounds great. 1
+A : We'll go to a French restaurant. 0
+B : I've never been to a French restaurant. 0
+A : I think you'll love the food. 1
+B : I'm not going to eat any snails! 0
+
+1 1

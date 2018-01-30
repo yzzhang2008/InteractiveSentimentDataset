@@ -1,0 +1,13 @@
+A : May I speak to the apartment building manager, please? 0
+B : I'm the manager. How can I help you? 0
+A : I was hoping that the apartment on Main Street was still available. 1
+B : Why, yes, it is. Would you like to get a look inside the apartment? 1
+A : Yes, it would be nice to see the apartment. 1
+B : How about today at 6 o'clock? 0
+A : Yes, I can be there at 6. 1
+B : Sounds good. I'll see you at 6. Do you want directions? 1
+A : I'm okay, thank you. I already checked out the address on MapQuest. 1
+B : Is there anything that I need to bring with me? 1
+A : No. I won't need to see anything except your driver's license. 1
+
+1 1

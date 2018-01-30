@@ -1,0 +1,18 @@
+A : Can you describe her for me? 0
+B : She was large, hairy, and scary! -1
+A : What are you talking about? 0
+B : When she laughed, it sent chills up my spine. Have you ever met someone like that? -1
+A : Yes, one time I met someone like that. 0
+B : She had eyes like laser beams. Sometimes I wonder if aliens from UFOs live here with us. Do you think that's possible? -1
+A : Sure, I think it could happen. 0
+B : I guess it's impossible to say for sure unless you go for a ride in one. Do you think that would be an interesting experience? 0
+A : No, I never want to be near a UFO! -1
+B : Well, you will probably never see one. Have you seen any Star Wars movies? 0
+A : No, I haven't seen any Star Wars movies. 0
+B : Star Wars was the best. I really like Darth Vader. Do you have a favorite character? 1
+A : I like Luke Skywalker. 0
+B : Oh yeah, I forgot about that character! What words do you think would best describe that character? 0
+A : He looked like a black vacuum cleaner. 0
+B : I totally agree! 1
+
+0 1

@@ -1,0 +1,14 @@
+A : Which classes have you completed? 0
+B : I have been taking classes for my General Education. 0
+A : Those are the only classes? 0
+B : That's all I need to take right now. 0
+A : Why don't you take any other classes? 0
+B : I'm just working on transferring right now. 0
+A : What classes are you done with? 0
+B : I'm done with all my math and English classes. 0
+A : How many more classes do you need to finish for your GE? 0
+B : I have three more. 0
+A : That's great! 1
+B : I just need three more classes, and I can transfer. 0
+
+1 0

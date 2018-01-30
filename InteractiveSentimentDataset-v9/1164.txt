@@ -1,0 +1,12 @@
+A : This is Ray. May I speak with Lee? 0
+B : Yes, this is Lee speaking. 0
+A : Lee. How are you today? 0
+B : Oh, things are going great. What's up? 1
+A : I was wondering if you could meet me tomorrow for lunch? 0
+B : Sure! Where did you have in mind? 0
+A : I was thinking of Joe's in the village. 0
+B : I love that place. Sure, let's go there. 1
+A : Fine then, I'll meet you around twelve. 0
+B : I'll see you there. Look forward to it. 1
+
+0 1

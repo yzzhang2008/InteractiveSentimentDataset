@@ -1,0 +1,14 @@
+A : Did you have a date Friday night? 0
+B : Yes, in fact, I did. 0
+A : Who did you go out with? 0
+B : A man I met in a coffee shop. 0
+A : Where did you go? 0
+B : We went to a nice restaurant. 1
+A : Anywhere else? 0
+B : Then we went to a jazz club. 0
+A : That sounds like a nice date. 1
+B : Yes, it was pleasant. 1
+A : But you won't date him again? -1
+B : No. He was nice, but there was no chemistry. -1
+
+0 1

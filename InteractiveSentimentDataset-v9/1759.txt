@@ -1,0 +1,14 @@
+A : What's up? 0
+B : Nothing much, what's going on? 0
+A : I'm having a party this Friday. 0
+B : Oh, really? That's nice. 1
+A : I wanted to see if you wanted to come. 0
+B : This Friday? Sorry, I already have plans. -1
+A : Doing what? 0
+B : I'm going to dinner with my family. 0
+A : I really wanted you to come, but I understand. 0
+B : Yeah, maybe next time. 0
+A : I'll hold you to that. 0
+B : Sounds like a plan. 0
+
+0 0

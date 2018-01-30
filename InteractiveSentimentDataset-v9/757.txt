@@ -1,0 +1,14 @@
+A : I've never seen a machine like this before and need some help. -1
+B : Sure, no problem. What are you trying to get? 1
+A : I want to buy a drink. 0
+B : OK. This machine needs you to use that change machine first to get correct change. 0
+A : I've got the correct change already. 0
+B : First you put your money in the dollar slot or the coin slot. The dollars have to be smooth. 0
+A : OK, what next? 0
+B : Just know that sometimes the money doesn't go in perfectly the first time and you have to try again. 0
+A : OK, next? 0
+B : Choose what you want and push the button. Sometimes it takes a couple of tries. 0
+A : I agree with you. 0
+B : Hope that works for you! 1
+
+0 1

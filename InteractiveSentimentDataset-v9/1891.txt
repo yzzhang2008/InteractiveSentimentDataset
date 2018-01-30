@@ -1,0 +1,14 @@
+A : Is this the registration desk? 0
+B : Yes, this is the place. 0
+A : I need to get some classes. 0
+B : What classes would you like? 0
+A : I need to finish my GE classes so that I can transfer. 0
+B : Have you finished any of your GE classes yet? 0
+A : This is going to be my first semester. 0
+B : Have you taken the placement test yet? 0
+A : I believe I already took the placement test last month. 0
+B : What math and English classes did you get placed in? 0
+A : I was placed in English 1A and Math 131. 0
+B : I'll make sure you have those classes this semester. 0
+
+0 0

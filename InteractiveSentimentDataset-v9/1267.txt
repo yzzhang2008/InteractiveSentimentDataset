@@ -1,0 +1,18 @@
+A : Hey Sam. You're home? Where's your car? 0
+B : Oh hey John. It's in the auto shop. 0
+A : Again? What's wrong with it this time? 0
+B : I'm not sure. It's making a lot of strange noises. -1
+A : That's weird. It's not even an old car. -1
+B : I know. I've only had it for three years. My mechanic doesn't know what the problem is. -1
+A : He doesn't know? What is he doing then? 0
+B : Trying all different things. I'm getting tired of waiting for him to fix it. -1
+A : You should take it to another mechanic. 0
+B : I should, but I already paid him. He just keeps saying he will fix it. -1
+A : He doesn't sound very trustworthy. -1
+B : I know. I should've gone somewhere else. But he was so cheap. He was the cheapest I could find. 1
+A : Maybe too cheap isn't always better. -1
+B : I'm learning that now. -1
+A : You should demand a refund. 0
+B : I wish I could, but it's a little complicated. -1
+
+-1 -1

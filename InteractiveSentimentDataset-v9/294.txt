@@ -1,0 +1,12 @@
+A : Thank God you are here, officer. 1
+B : I came as soon as I could. What a mess! -1
+A : When I left for school today, everything was fine. Then I came home to find my apartment had been broken into. -1
+B : Was the door locked when you came home? 0
+A : I don't think they came in through the door; maybe they entered through the window. -1
+B : Does anyone else live here? 0
+A : I live here alone. -1
+B : Have you noticed any strangers or parked cars around here recently? 0
+A : I really haven't been home very much lately. -1
+B : Let's figure out what is missing and see if there are any fingerprints left behind. 0
+
+-1 0

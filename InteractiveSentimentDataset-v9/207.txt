@@ -1,0 +1,14 @@
+A : I would like to talk to you, if you have time. 1
+B : What's going on? 0
+A : I want to discuss some things about my lease. 0
+B : What aren't you too sure about? 0
+A : Can you tell me when my lease is up? 0
+B : Your lease is for three years. 0
+A : If I ever decide to leave before the three years, will there be a problem? 0
+B : If you do, I will keep your deductible. 0
+A : Why is that? 0
+B : If you break the contract, then you will not receive your deductible. -1
+A : Oh, I see. 1
+B : All right. I'm glad I could clarify things for you. 1
+
+0 0

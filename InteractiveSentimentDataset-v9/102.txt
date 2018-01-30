@@ -1,0 +1,14 @@
+A : Do you have anything for a little girl? 0
+B : Well, we have some new Barbie dolls. 0
+A : That's a great idea. Show me the Barbie dolls. 1
+B : Here's one -- the new, beautiful Digital Barbie. This doll is hot! 1
+A : How lovely! How much is she? 1
+B : It's only $29.95. 0
+A : No problem. Let me have one. 1
+B : That's great. Anything else? 1
+A : No, thank you. That's all I need at the moment. 1
+B : The grand total is $32.42. How would you like to pay? 0
+A : I'll give you cash. 0
+B : Thank you so much for shopping here. Here's your change and receipt. 1
+
+1 1

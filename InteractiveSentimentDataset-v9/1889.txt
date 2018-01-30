@@ -1,0 +1,14 @@
+A : Is this where I go to register for classes? 0
+B : This is it. 0
+A : I need to add a few classes. 0
+B : What classes would you like to add? 0
+A : I need to take some classes that will help me transfer. 0
+B : Have you finished any classes so far? 0
+A : This is my first semester. 0
+B : Did you already take the placement test? 0
+A : I took it last month. 0
+B : What English and math classes were you placed in? 0
+A : I got placed in Math 131 and English 1A. 0
+B : Okay. I'll register you for both of those classes. 0
+
+0 0

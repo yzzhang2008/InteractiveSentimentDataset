@@ -1,0 +1,12 @@
+A : Do you remember our 10th birthday? 0
+B : Yes! We got a puppy that year. 0
+A : I miss that puppy. 0
+B : Me too. He had a great name. 1
+A : Actually, I don't remember his name. 0
+B : How could you forget his name? His name was Buster. -1
+A : Oh yeah. It was a sad day when Buster died. -1
+B : I never wanted another dog after that. -1
+A : How old was Buster when he died? 0
+B : You don't remember anything! He was 14 years old. -1
+
+-1 -1

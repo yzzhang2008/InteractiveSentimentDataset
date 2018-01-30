@@ -1,0 +1,12 @@
+A : Have you heard about the robbery? 0
+B : I saw the whole thing happen. 0
+A : For real? 0
+B : I was in the bank during the robbery. -1
+A : What went down? 0
+B : Some dude came into the bank with a gun. 0
+A : Are you serious? 0
+B : When he pulled out the gun, I got so scared. -1
+A : Tell me what else happened. 0
+B : He got the money and tried to leave. 0
+
+0 -1

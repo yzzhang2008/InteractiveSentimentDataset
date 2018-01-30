@@ -1,0 +1,14 @@
+A : I hate to fly. -1
+B : Because of all the security? 0
+A : No, because it hurts my ears. -1
+B : What do you mean? 0
+A : Every time we land or take off, my ears hurt so much. -1
+B : That's just the altitude change, I think. 0
+A : Whatever it is, it hurts. -1
+B : Can't you take medicine or something for it? 0
+A : I've tried everything, but nothing works. -1
+B : Have you tried earplugs? 0
+A : They don't work, either. -1
+B : Well, be glad you're not a pilot. 0
+
+-1 0

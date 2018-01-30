@@ -1,0 +1,8 @@
+A : Do you want to go to Lisa's party? 0
+B : No, not really. -1
+A : Let's tell her we're sick. 0
+B : Both of us are sick? -1
+A : Yeah. We're roommates. She'll believe it. 0
+B : I feel bad about lying, but I really don't want to go to her party. -1
+
+0 -1

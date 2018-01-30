@@ -1,0 +1,14 @@
+A : I'd like to purchase a pan. 0
+B : Is there any particular size that you want? 0
+A : I cook a lot of big meals. 1
+B : What do you think of this one? It's a 16 pan. 0
+A : That's the right size, but it's so heavy. -1
+B : Well, look at our aluminum pan. It's much lighter. 1
+A : Yes, this is very light, but the handle is also aluminum. -1
+B : No problem. Look at this one. Same pan, but with a lightweight wooden handle. 1
+A : Great. This is exactly what I was looking for. I'll buy it. 1
+B : I think you'll love this pan. Do you want to pay with cash? 1
+A : Yes. Oh, wait a second, please. What about a lid? 0
+B : I'm sorry. I forgot to show it to you. Here it is. It comes with the pan. 0
+
+1 0

@@ -1,0 +1,14 @@
+A : Can you help me find a pan? 0
+B : Are you looking for a small, medium, or large pan? 0
+A : I want a big pan. 1
+B : Does this one look big enough? 0
+A : It's the right size, but it weighs too much. -1
+B : Well, what do you think of the aluminum pan? 0
+A : It's light enough, but the handle will get too hot after cooking. -1
+B : Here's the same pan, but it has a space-age, heat-resistant plastic handle. 1
+A : My family's going to love this one. I'll take it. 1
+B : I'm so happy that you found what you wanted. Do you want to use a credit card? 1
+A : Sure. Wait, wait. Does a lid come with this pan? 0
+B : Oh, I'm sorry. Here's the lid. Yes, it comes with the pan. 1
+
+0 1

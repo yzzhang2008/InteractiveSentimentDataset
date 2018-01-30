@@ -1,0 +1,14 @@
+A : What would you like to order? 0
+B : I would like to have a hamburger. 1
+A : Did you want it with cheese? 0
+B : I don't want cheese on it. -1
+A : Did you want anything to drink today? 0
+B : I think I'm going to get a soda today. 0
+A : What kind of soda can I get you? 0
+B : A Sprite sounds good. 1
+A : What else would you like? 0
+B : Let me get a bag of chips too. 1
+A : Anything else? 0
+B : That's all. Thank you. 1
+
+0 1

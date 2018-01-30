@@ -1,0 +1,14 @@
+A : Will you visit your grandpa this weekend? 1
+B : Yes I will. Will you go along with me? 1
+A : Maybe. I will see my schedule first. I'm interested to go to your village. I seldom go to village. 0
+B : Ok. I'll be glad if you go with me. I can show you the beautiful scenery, the clean river, and some cattle animals at the ricefield. The air is still fresh, and you'll enjoy them. 1
+A : Really? It's great! What does your grandpa do? 1
+B : My grandpa was a soldier before, but he is retired. He does farming like the other people in the village. Planting rice and farming are their livelihood. 0
+A : What about your grandma? 0
+B : She passed away a few years ago. 0
+A : Is your grandpa alone there? 0
+B : Yes he is. That's why I often visit him. 0
+A : Why don't you stay there? 0
+B : I plan to stay there after I graduate from university. 0
+
+1 1

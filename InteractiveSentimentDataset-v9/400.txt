@@ -1,0 +1,13 @@
+A : My uncle was hospitalized yesterday. -1
+B : What seems to be his problems? 0
+A : He got lungs cancer. The doctor said that it was probably caused by his bad habit of smoking. -1
+B : I'm sorry to hear that. So how long has he been smoking? -1
+A : I'm not really sure, but it might be about 8 years up to now. -1
+B : Oh that's too bad. He should stop smoking or his disease will get worse. -1
+A : Yes I do agree with you. Smoking just makes matter worse. Hopefully he can stop smoking. 1
+B : Shall we visit him now? 0
+A : Yes, if you don't mind. 0
+B : Well, no problem. Let's go buying some fruits and drinks first. 1
+A : Ok, there is a supermarket around here. 1
+
+1 1

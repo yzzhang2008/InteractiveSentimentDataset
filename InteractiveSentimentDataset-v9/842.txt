@@ -1,0 +1,14 @@
+A : Did you see who the suspect was? 0
+B : I got a perfect look at the suspect. 1
+A : Would you be able to pick him out of a line-up? 0
+B : That'll be easy. 1
+A : Please take a careful look at these five men. 0
+B : Okay. 1
+A : Is the suspect in this line-up? 0
+B : I see him. 0
+A : Which number is he? 0
+B : The suspect is number four. 0
+A : Your cooperation is very much appreciated. 1
+B : I'm happy to be of assistance. 1
+
+1 1

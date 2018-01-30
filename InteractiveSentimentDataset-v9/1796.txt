@@ -1,0 +1,14 @@
+A : Baseball is fun. 1
+B : I like to hit the ball. 1
+A : I like to run around the bases. 1
+B : I like to slide into the bases. 1
+A : Yeah. It's a lot of fun to slide. 1
+B : I want to be a baseball player when I grow up. 1
+A : Me too. I want to play for the Yankees. 1
+B : Not me. I want to play for the Dodgers. 1
+A : We have to practice every day. 0
+B : I don't like practice. -1
+A : Me neither. It's boring. -1
+B : But practice makes perfect. 1
+
+1 1

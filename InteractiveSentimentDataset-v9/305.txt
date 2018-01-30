@@ -1,0 +1,14 @@
+A : I have to move. -1
+B : You have not fulfilled your lease agreement yet. -1
+A : I can't stay here anymore. -1
+B : There's a problem with that. -1
+A : What is the problem? 0
+B : I won't be able to give you back your deposit. -1
+A : Why not? -1
+B : This was stated in our agreement. 0
+A : But I need it back. -1
+B : I can't do it. -1
+A : It will be impossible for me to stay here. -1
+B : That's not my fault. -1
+
+-1 -1

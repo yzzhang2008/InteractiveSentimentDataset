@@ -1,0 +1,13 @@
+A : Why are you always late? -1
+B : I'm sorry. -1
+A : You are always sorry. -1
+B : What can I say? 0
+A : What is your excuse this time? -1
+B : I didn't hear my alarm clock. -1
+A : We are meeting for lunch not breakfast. -1
+B : I went to sleep very late. -1
+A : Were you studying for a test? 0
+B : No. I was at a party last night. 0
+A : You have terrible excuses for being late. -1
+
+-1 -1

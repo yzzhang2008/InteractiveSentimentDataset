@@ -1,0 +1,17 @@
+A : Something is wrong with my refrigerator. -1
+B : What's wrong with it? 0
+A : It's not staying cold. 0
+B : That could be a big problem. 0
+A : I know. I'm worried that my food is going to spoil. I just went grocery shopping yesterday. -1
+B : I have room in my second refrigerator if you need to store some things. 0
+A : You have two refrigerators? 0
+B : Yeah. We needed two refrigerators because I cook a lot. There was a big sale at the appliance store, so we bought another one last week. 0
+A : Is the sale still going on? I may need to buy a new one. 0
+B : Today is the last day of the sale. 0
+A : Then I better tell my husband. We need to go today. 0
+B : Isn't your husband a great repairman. Maybe he can fix your refrigerator. 1
+A : It's getting old. I'd rather buy a new one. 0
+B : If your husband can fix your broken one, you can have two refrigerators like me. 0
+A : I don't cook that much. 0
+
+0 0

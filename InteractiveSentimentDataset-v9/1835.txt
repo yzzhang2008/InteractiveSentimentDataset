@@ -1,0 +1,12 @@
+A : Where do you work? 0
+B : I work for a law firm. 0
+A : What do you do there? 0
+B : I answer phones, file papers, and create spreadsheets. 0
+A : What are spreadsheets? 0
+B : Spreadsheets are documents created on a computer that contain all kinds of data in rows and columns. 0
+A : It sounds complicated. 0
+B : Not really. It's pretty easy. The computer does all the calculations for you. 1
+A : Do you like your job? 0
+B : The job is ok. But, my bosses are great. 1
+
+0 1

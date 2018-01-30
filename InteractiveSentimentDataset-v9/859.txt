@@ -1,0 +1,14 @@
+A : How may I help you? 0
+B : I would like you to be my lawyer. 0
+A : What can I do for you? 0
+B : I'm going on trial. 0
+A : What is your trial about? 0
+B : It's a felony charge. 0
+A : I'd be glad to help. 1
+B : How much do you charge? 0
+A : My rate is $150 an hour. 0
+B : That's highway robbery. -1
+A : I don't know what to tell you. -1
+B : Okay. You're hired. 1
+
+-1 -1

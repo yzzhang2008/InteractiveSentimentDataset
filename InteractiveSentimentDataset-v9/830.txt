@@ -1,0 +1,14 @@
+A : Did you see the news today? 0
+B : I haven't had a chance to see it. -1
+A : You know about the blackout last night, right? 0
+B : The lights were out everywhere. 0
+A : A bunch of people went looting last night. -1
+B : They what? 0
+A : They took full advantage of the lights being out. -1
+B : That's crazy. -1
+A : The news reported that four stores were broken into. -1
+B : Were the looters found? 0
+A : The police don't know who did it. -1
+B : I hope this doesn't happen again. -1
+
+-1 -1

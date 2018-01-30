@@ -1,0 +1,12 @@
+A : Hello, it's been a long time since I have seen you. 0
+B : It is true that I have not seen you in a while. 0
+A : Exactly how long do you think that it has been? 0
+B : I believe that it has been two years since we last saw each other. 0
+A : So where have you been since I last saw you? 0
+B : I am working on my doctorate at USC. 0
+A : What is your field of emphasis? 0
+B : I decided to pursue international communications. 0
+A : I think that you will be very employable after you finish your degree. 1
+B : I hope that when I finish I will find good work. 1
+
+1 1

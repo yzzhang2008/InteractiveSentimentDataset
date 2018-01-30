@@ -1,0 +1,14 @@
+A : Welcome, what would you like to order? 0
+B : I would like to get a double cheeseburger. 0
+A : Would you like everything on it? 0
+B : I would like everything on it, thank you. 1
+A : Do you want any fries? 0
+B : Let me get some large curly fries. 0
+A : Can I get you anything to drink? 0
+B : Sure, how about a medium Pepsi? 1
+A : Is that everything? 0
+B : That'll be all. Thanks. 1
+A : You're welcome, and your total is $5.48. 1
+B : Thank you. Here you go. 1
+
+1 1

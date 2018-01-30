@@ -1,0 +1,12 @@
+A : When is the bus going to get here? 0
+B : It's obviously late. -1
+A : It was scheduled to be here about thirty minutes ago. 0
+B : I'm sure it'll be here in a little bit. 1
+A : I hope so, because I'm running really late for work. -1
+B : I hate having to take the bus every day. -1
+A : So do I, you can never count on public transportation. -1
+B : Exactly. 1
+A : I really can't stand being at the bus stop in the heat and rain. -1
+B : I know what you mean. 0
+
+-1 -1

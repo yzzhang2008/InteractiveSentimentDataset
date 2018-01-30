@@ -1,0 +1,14 @@
+A : Do you have a girlfriend? 0
+B : No, I don't. Do you? -1
+A : I don't have a girlfriend, either. -1
+B : Why not? -1
+A : I don't know. Maybe I'm not rich enough. -1
+B : Girls like guys with money. -1
+A : They sure do. -1
+B : They like guys with new cars. -1
+A : I don't have money or a new car. -1
+B : Me, neither. -1
+A : But girls like guys who are funny. 1
+B : Maybe we should learn some good jokes. 0
+
+1 1

@@ -1,0 +1,12 @@
+A : This rain sort of blows our chances of going rollerblading! -1
+B : No, I don't think that we will be able to do what we planned to do. What can we do for fun today? -1
+A : There is a large indoor mall just down the street with an incredible ice rink we could check out. 0
+B : We could stay inside and dry, and still get out of this hotel room for a while. 0
+A : I am trying to think of something else that we could do in bad weather. 0
+B : We could sign up for that double-decker bus tour of haunted houses. 0
+A : The rainy day would only add to the haunted house atmosphere. -1
+B : I think that when we are done with our haunted house touring, we should pop into the English pub next door for a beer. 1
+A : I could go for that! 1
+B : I hope that we can get some nice hot food for dinner at the pub. 1
+
+1 1

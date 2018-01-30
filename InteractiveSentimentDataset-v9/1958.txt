@@ -1,0 +1,12 @@
+A : Can you help me figure out how to get a passport? 0
+B : The automobile club can provide you with an application. 0
+A : Where can I turn my application in? 0
+B : You need to go to a passport agency in your town. They will help you process it. 0
+A : How can I find which place to take it to? 0
+B : You can check in your phone book. 0
+A : What else do I need to bring? 0
+B : If you go online, the site will provide a detailed list of what you need to bring. 0
+A : Do I need to do anything special to get a visa? 0
+B : You must contact the consulate of the country that you wish to travel to. 0
+
+0 0

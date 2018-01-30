@@ -1,0 +1,12 @@
+A : How did you find your apartment? 0
+B : You can check on the bulletin boards at school for local housing. 0
+A : What if I need a roommate? 0
+B : There are websites that can hook you up with a roommate. 0
+A : How much do apartments cost around here? 0
+B : It depends on what you want. Do you want a one- or two-bedroom apartment? 0
+A : I just need a one-bedroom apartment. 0
+B : That will probably cost you around twelve hundred dollars a month. 0
+A : Would you come with me to look at apartments? 1
+B : I would be happy to look at apartments with you. 1
+
+1 1

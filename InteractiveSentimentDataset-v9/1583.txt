@@ -1,0 +1,10 @@
+A : Jenny, I know you like Jack a lot, but what do you like about him? -1
+B : Well, I don't know, but there's just something about him. Don't you think so? 0
+A : Really? What's that something? 0
+B : Well, he's gentle, patient, successful, and MATURE. I think He's my Mr. Right! 1
+A : MATURE is a good word, but don't you think he's a little old for you? He's almost twice as old as you are! -1
+B : Well, age shouldn't be something that comes in the way of a person's marriage. As long as we love each other, age is not an issue. 1
+A : But what will others think? 0
+B : I don't care what others will think about us. I just know I love him and he loves me...and that's all that matters. 1
+
+-1 1

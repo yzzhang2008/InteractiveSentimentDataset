@@ -1,0 +1,14 @@
+A : Good morning, Dr. Smith office. How can I help you? 0
+B : Can I make an appointment with him for check up? 0
+A : When did you have last check up? 0
+B : Last June. 0
+A : Can I have your name and phone number, please? 0
+B : My name is Yoshiko Yamaguchi and my phone number is 555-2222. 0
+A : When is your date of your birth? 0
+B : June 25th, 1962. 0
+A : O.K. Would you like to come on June 20th at 10:30 in the morning? 0
+B : O.K. You mean 10:30 in the morning, right? 0
+A : Yes. June 20th 10:30, 3, 0. 0
+B : O.K. I’ll take it. Thank you very much. 1
+
+0 1

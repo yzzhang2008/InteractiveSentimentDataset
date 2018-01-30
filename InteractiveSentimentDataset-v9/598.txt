@@ -1,0 +1,14 @@
+A : Do you know a bus that goes to the Gold Line station? 0
+B : Do you live in Pasadena? 0
+A : My house is up in Altadena. 0
+B : You could always take the 264. 0
+A : It'll really take me to the station? 0
+B : It goes all the way there. 0
+A : Do you know what street it goes on? 0
+B : Catch it on Altadena Drive. 0
+A : I would've never known. -1
+B : Now you know. 1
+A : I appreciate you telling me. 1
+B : No problem. 1
+
+1 1

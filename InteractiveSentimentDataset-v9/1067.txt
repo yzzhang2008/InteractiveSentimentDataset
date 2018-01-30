@@ -1,0 +1,18 @@
+A : Do you know how to draw? 0
+B : Yes. Drawing is one of my hobbies. 1
+A : Really? I didn't know that. 0
+B : I doodle when I'm bored. 0
+A : Can you help my son with his school project? 0
+B : Sure. What does he need to do? 0
+A : He needs to draw a picture of a big castle. 0
+B : That's not hard at all. When is it due? 1
+A : Tomorrow. 0
+B : Oh, that soon? 0
+A : Yeah. He didn't tell me until today. -1
+B : Ok, I can come by after dinner. 0
+A : Why don't you come for dinner? 0
+B : That would be lovely. Thank you. 1
+A : Thank you! I cannot draw at all and I was so worried about this assignment. -1
+B : Don't worry. He will have an awesome castle. 1
+
+-1 1

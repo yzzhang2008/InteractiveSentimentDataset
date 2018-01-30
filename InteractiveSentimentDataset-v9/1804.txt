@@ -1,0 +1,12 @@
+A : Did you hear about the ball player? 0
+B : The home run hitter on drugs? 0
+A : He said a doctor helped him with a personal problem. 0
+B : He said he wasn't using drugs. 0
+A : He apologized to the fans. 0
+B : The league suspended him for 50 games. 0
+A : That will cost him some money. 0
+B : Yes, about $7 million. 0
+A : That will teach him a good lesson. 0
+B : He probably won't use drugs anymore. 0
+
+0 0

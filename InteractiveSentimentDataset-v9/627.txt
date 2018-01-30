@@ -1,0 +1,10 @@
+A : I appreciate you letting me take the car out for a spin. 1
+B : Why don't you come over here and we can work out the details of the purchase? 0
+A : I don't think that this is the car for me at this point in time. -1
+B : Let's talk price. Maybe you'll change your mind. 0
+A : This is only the first car that I've looked at. -1
+B : Is there something in particular that didn't look good to you? -1
+A : It isn't one thing in particular, but I think I can do better for my money. -1
+B : I really think that you should reconsider. -1
+
+-1 -1

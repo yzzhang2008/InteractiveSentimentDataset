@@ -1,0 +1,12 @@
+A : Professor, can you help me add your class? 0
+B : You have to bring me an add sheet to sign. Do you have one? 0
+A : No, I will have to get an add sheet. -1
+B : You must take the signed add slip to the Admissions and Records Office to add the class. Do you know where that is? 0
+A : No, I don't know where that is. -1
+B : The office is in front of you as you cross the quad. The signs in the hallway will tell you where you need to be. 0
+A : I think I can find it. 1
+B : You'll find it easily. Make sure you add the class and then we will look at the roll sheet later to make sure that you were added on. 1
+A : Thank you for letting me add your class. 1
+B : To drop a class, you need to do the same thing with a drop slip. Good luck! 1
+
+1 1

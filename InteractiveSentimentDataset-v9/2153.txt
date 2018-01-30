@@ -1,0 +1,14 @@
+A : Are you leaving? 0
+B : I'm going to work. 0
+A : You have a job? 0
+B : I'm going to work at the polling place. 0
+A : You're working there this year? 0
+B : I work there every year. 0
+A : How are you able to work at the polling place? 0
+B : I applied for the job online. 0
+A : Sounds like fun. 1
+B : It's a fun job. 1
+A : They don't pay a lot, do they? 0
+B : They pay enough. 1
+
+1 1

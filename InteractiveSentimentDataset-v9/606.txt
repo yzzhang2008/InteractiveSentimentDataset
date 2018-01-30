@@ -1,0 +1,14 @@
+A : Did you ever get your bus pass? 0
+B : I don't think I'm going to get one. -1
+A : Why not? -1
+B : It's just a waste of cash. -1
+A : Actually, it'll save you money. 1
+B : Oh, really? 0
+A : Because you can use your bus pass as many times as you want. 0
+B : Really? 0
+A : Yes, and you never have to worry about scraping for change. 1
+B : That sounds like a good deal. 1
+A : So, are you going to buy one? 0
+B : I will. 1
+
+1 1

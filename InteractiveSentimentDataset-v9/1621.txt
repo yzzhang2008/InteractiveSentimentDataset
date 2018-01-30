@@ -1,0 +1,12 @@
+A : I hear the young couple that came by the other day made an offer on our house. 0
+B : Yes, the potential buyers made an offer this morning. 0
+A : Is the offer a good offer? 0
+B : The offer is pretty good. You asked three hundred thousand and they offered two hundred eighty thousand. 1
+A : I would be willing to take two hundred ninety thousand, but no lower. 0
+B : You could make a counteroffer of two hundred ninety thousand dollars. Would you like to do that? 0
+A : Yes, I would like to make the counteroffer. 0
+B : I will make the counteroffer immediately by phone. 0
+A : What if they don't accept the counteroffer? 0
+B : They can make a counteroffer themselves or state that their first offer stands. 0
+
+0 0

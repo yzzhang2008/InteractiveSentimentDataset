@@ -1,0 +1,8 @@
+A : I am nervous about the presentation. -1
+B : Why? 0
+A : My English is not very good. -1
+B : Did you practice your presentation? 0
+A : Yes. I've been practicing every day. 0
+B : You can practice with me too. 0
+
+-1 0

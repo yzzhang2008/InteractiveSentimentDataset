@@ -1,0 +1,12 @@
+A : Our flight was late, and I missed my connecting flight. -1
+B : We can help you find an alternate flight that will get you where you are going. 0
+A : Whom should I call? 0
+B : The arrival gate is where you need to find someone to help you. You are in the right place. 0
+A : I think the flight we missed was the last flight out of here today. 0
+B : We can go on the computer to try to find an alternate flight on another airline if we cannot accommodate you. 0
+A : What if I get stuck here and can't get out of this airport? 0
+B : There is a shuttle that is still running and can take you into town to a hotel. 0
+A : I don't have any money for a hotel room. -1
+B : The flight that you missed is not with our airline, and we would not have suggested booking the flights so close together. We won't pay for your hotel room. -1
+
+-1 -1

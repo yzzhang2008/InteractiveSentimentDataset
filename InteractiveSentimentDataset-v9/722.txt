@@ -1,0 +1,14 @@
+A : Excuse me, I need your assistance. 0
+B : Sure, what's up? 0
+A : I have no idea where my class is. -1
+B : Tell me which building it's in. 0
+A : My class is in the C building. 0
+B : I know where the C building is. 0
+A : Do you mind telling me where it is? 0
+B : Of course, which room number is it? 1
+A : Number 261. 0
+B : I actually have a class right around there. 0
+A : Can you please show me? 0
+B : I can do that. 1
+
+0 1

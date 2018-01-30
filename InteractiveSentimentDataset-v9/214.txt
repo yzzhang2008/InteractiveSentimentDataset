@@ -1,0 +1,12 @@
+A : I was wondering if you allow pets in this building. 0
+B : We do allow some pets, but you must pay an additional five hundred dollar security deposit. 0
+A : What kind of pets do you allow? 0
+B : You may keep either one cat or one dog. 0
+A : Can cats and dogs be outside? 0
+B : Cats can be outside, but we want them collared or tagged so we know who they belong to. Dogs must be on a leash and are not allowed in the flowerbeds. 0
+A : Are there any special places nearby that I can walk my dog? 0
+B : There is a dog park down the block. 0
+A : Do many other tenants in this building have pets? 0
+B : Not too many, but you shouldn't have any trouble finding someone to share walks with. 0
+
+0 0

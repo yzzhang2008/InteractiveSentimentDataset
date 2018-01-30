@@ -1,0 +1,8 @@
+A : If I need help with the computer after I take it home who should I call? 0
+B : Please call us. We offer after sales service. 0
+A : What is that? 0
+B : We are here to help and support you with your new product after you leave the store. 1
+A : Is there an extra charge for this service? 0
+B : No, not at all. If you need help with installation or operation, please call our store any time. 1
+
+0 1

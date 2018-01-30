@@ -1,0 +1,14 @@
+A : Are you lost? 0
+B : I can't find the library. -1
+A : How long have you been looking? 0
+B : I've been trying to find it for a quite while now. -1
+A : Would you like my help? 0
+B : That would be great. 1
+A : Have you seen the movie theater? 0
+B : I know where the movie theater is. 0
+A : The library is on the same block as the movie theater. 0
+B : Really? 0
+A : There's no way you can miss it. 1
+B : I've got it now. 1
+
+1 1

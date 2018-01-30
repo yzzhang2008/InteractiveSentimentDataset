@@ -1,0 +1,12 @@
+A : So how much did the buyers bid on our house? 0
+B : Your asking price was three hundred thousand dollars. The potential buyers offered two hundred ninety thousand dollars. 0
+A : That's a great offer! 1
+B : Yes, it is a good offer. Before you accept, we should look at some details. 1
+A : What else do we need to look at? 0
+B : They want you to pay all closing costs. Of course, they are making the sale contingent on an inspection showing no major defects in the house. 0
+A : I think that that sounds fair. 1
+B : You could put in a counteroffer, but I know that these buyers also have their eye on another house down the street. 0
+A : I definitely want to accept their offer. 1
+B : Excellent decision! I will notify them immediately. 1
+
+1 1

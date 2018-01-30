@@ -1,0 +1,10 @@
+A : John, I was talking to the travel agent about where we might be taking our vacation this year. 0
+B : I am going fishing in Alaska with my friend, Mark. 0
+A : What are you talking about? 0
+B : What's wrong with heading out with Mark for vacation? 0
+A : You and I have been together for a whole year, and our vacation time should be about the two of us! -1
+B : Really? Who made that rule up? -1
+A : With that attitude, I don't really think we have much more to discuss here. -1
+B : That works for me! -1
+
+-1 -1

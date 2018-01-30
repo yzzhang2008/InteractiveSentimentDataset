@@ -1,0 +1,14 @@
+A : It sure is windy today. 0
+B : Paper is flying everywhere. 0
+A : This wind is dangerous for drivers. -1
+B : Especially for drivers of big trucks. -1
+A : The wind blows those trucks over. -1
+B : It blows trees over, too. -1
+A : A tree fell onto my dad's car. -1
+B : Was there much damage? 0
+A : My dad had to buy a new car. -1
+B : Wow! That's terrible. -1
+A : Never park your car under a tree. -1
+B : The wind will get you, or the birds will get you. -1
+
+-1 -1

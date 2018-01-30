@@ -1,0 +1,12 @@
+A : He is my favorite actor. 1
+B : He is a good actor, but he is not very popular. 0
+A : He is so underrated. 1
+B : Why is he underrated? 0
+A : I think it is because he's not very handsome. 0
+B : I don't think that is true. There are many popular actors who are not handsome. 0
+A : Maybe it is because he always plays the bad guy. People like good guys. 0
+B : He is very good at playing an evil guy. 1
+A : That is what makes him a great actor. 1
+B : But he needs to play other types of roles. 0
+
+1 1

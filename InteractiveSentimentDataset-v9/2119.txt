@@ -1,0 +1,8 @@
+A : What is the vacation policy? 0
+B : You earn one week of paid vacation after you've been at the company for one year. 0
+A : I've only been here for nine months, but I would like to take one week off next month. 0
+B : Is it a medical situation? 0
+A : No, my parents live in Italy and it's their 50th wedding anniversary. 0
+B : You can take one week off with your supervisor's approval, but it will not be a paid week. 0
+
+0 0

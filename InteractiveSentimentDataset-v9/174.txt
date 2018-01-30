@@ -1,0 +1,12 @@
+A : When you need an apartment, where do you look for one? 0
+B : Our school has a link on its website for apartments. 0
+A : Can I share an apartment with someone? 0
+B : Some of the ads in the paper are from people looking for roommates. 0
+A : Are apartments expensive in this city? 0
+B : Do you need a single apartment, or is this for two people? 0
+A : I want a two-bedroom apartment. 0
+B : You can get that type of apartment for around fifteen hundred dollars a month. 0
+A : Would you have time to go look at apartments with me? 1
+B : I love apartment hunting. I'll be happy to go with you. 1
+
+1 1

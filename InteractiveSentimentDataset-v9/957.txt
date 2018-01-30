@@ -1,0 +1,14 @@
+A : I am calling about my cable service. -1
+B : What's the problem? -1
+A : For the past week my cable hasn't been working. -1
+B : I apologize, but the cable has been down lately. -1
+A : Do you know when it is going to start working again? 0
+B : Give it a couple days, and it should be back on. 0
+A : Will I still have to pay for the cable while it's not working? -1
+B : Since it's not working, I'm going to give you a credit. -1
+A : So I don't have to pay anything? 0
+B : You won't pay anything until your cable starts working again. 1
+A : Okay, thank you very much for your help. 1
+B : No problem. Thank you for being so understanding. 1
+
+1 1

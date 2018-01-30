@@ -1,0 +1,14 @@
+A : Hello, I was wondering if I could talk with the apartment manager. 0
+B : I am the apartment manager. How can I help you? 0
+A : I was wondering if the apartment on Main Street is still available. 0
+B : Yes, it's still vacant. Are you interested in seeing it? 1
+A : Yes, I would love to see the apartment. 1
+B : I will be at the apartment today at 6:00. Can you make it? 0
+A : Yes, I can be there at 6. 1
+B : Great. I'll see you at 6. Do you know where it is? 1
+A : Yes, I have a friend who lives in that neighborhood. 1
+B : I'll be bringing an application form. 0
+A : OK, should I bring anything with me? 1
+B : No. I might need to see your ID card, but that's about it. 1
+
+1 1

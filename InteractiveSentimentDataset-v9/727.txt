@@ -1,0 +1,14 @@
+A : Would you talk to me about taking one of Dr. Miller's classes? 0
+B : Yes. Have you ever been in one of his classes? 0
+A : I'm thinking about taking his class next semester. 0
+B : He was a very easy teacher. Are you thinking of taking a class with him? 1
+A : I'm not sure because I really need to learn something, but I also worry about grades. -1
+B : Grades are important, but don't you think that gaining the knowledge is important, too? -1
+A : I really need to learn this stuff. 0
+B : He made everything so interesting that the time just flew by. Do you know what I mean? 1
+A : Yes, that sounds right for me. 1
+B : Did you know that he came here last year after 10 years in the military? 0
+A : Yeah, I already knew that. That could be a good thing. 1
+B : I think you know that you have to make the best decision for you. Enjoy your year! 1
+
+1 1

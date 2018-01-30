@@ -1,0 +1,12 @@
+A : I'm worried about this meeting. -1
+B : Why? 0
+A : I'm meeting with a really tough negotiator. -1
+B : Be confident. You can do it. 1
+A : I'm just worried because our company really needs this contract. -1
+B : I know we do, but don't let him know how much we need it. 0
+A : I won't. I'll look tough too. -1
+B : Don't ever let him see you sweat. That will make him think you're nervous. -1
+A : I am nervous! -1
+B : He doesn't need to know that! -1
+
+-1 -1

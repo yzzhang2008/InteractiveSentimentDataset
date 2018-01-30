@@ -1,0 +1,14 @@
+A : You're very lucky. 1
+B : Why do you say that? 0
+A : You speak two languages. 0
+B : Well, my English isn't perfect. -1
+A : No one speaks perfect English. 0
+B : Maybe I will be the first! 1
+A : I've been thinking about learning Spanish. 0
+B : Spanish is easy. I'll be happy to teach you. 1
+A : How long will it take me to learn? 0
+B : I think it will only take you a year or two. 0
+A : How soon can we begin? 0
+B : Ahora! That means right now. 1
+
+0 1

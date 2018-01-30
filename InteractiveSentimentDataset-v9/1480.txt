@@ -1,0 +1,21 @@
+A : Hi. Are you new to the apartment building? 0
+B : Yes. My name is Monica. 0
+A : Nice to meet you, Monica. My name is Paul. I live on the third floor, apartment number 305. 0
+B : I live on the fourth floor in 405. 0
+A : Hey, you live right above me. 1
+B : That's funny. I hope I'm not too noisy. I've been moving furniture around. 1
+A : That's ok. It doesn't bother me. Have you met any of the other neighbors? 1
+B : I met a few people. Everyone seems friendly here. 1
+A : Yeah. Every month, we have a party on the rooftop. It's a potluck, so you can bring a dish to share. 1
+B : That sounds fun! I love parties and potlucks. 1
+A : Our next one is on Saturday at 5 pm. You should come. I'm bringing my famous pasta salad. 1
+B : Sounds delicious. I'll make a chocolate cake. 1
+A : I love chocolate cake. I can't wait to try it. 1
+B : Thanks for letting me know about the party. 1
+A : There should be an invitation in your mailbox. Everyone gets one. 1
+B : I better check the mailbox then. I still have so much unpacking to do. 1
+A : Do you need help moving any more furniture? 1
+B : No. My brother helped me last night. I'm done with the big items. I just need to unpack pots and pans and dishes now. 0
+A : Ok. Let me know if you need help. See you at the party. 1
+
+1 1

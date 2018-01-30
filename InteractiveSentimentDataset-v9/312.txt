@@ -1,0 +1,14 @@
+A : What can I do for you today? 0
+B : I need to buy a new refrigerator today. 1
+A : Were you looking at a particular refrigerator? 0
+B : I like that Kenmore refrigerator. 1
+A : This particular refrigerator is a very good choice. 1
+B : Tell me about it. 0
+A : Not only is it affordable, but it comes with all the appliances. 1
+B : What are the appliances. 0
+A : It has an ice maker, water dispenser, and plenty of room on the inside. 1
+B : I'd like to see it for myself. 1
+A : Go right ahead. 1
+B : I like what I see. 1
+
+1 1

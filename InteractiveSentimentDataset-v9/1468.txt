@@ -1,0 +1,12 @@
+A : Would you like to have dinner with me tonight? 0
+B : Sure. What time? 0
+A : How about 6 PM? 0
+B : That's perfect. I get off work at 5:30. 1
+A : I can pick you up at your apartment. 0
+B : There is a lot of construction going on in my neighborhood. Let's just meet at the restaurant. 0
+A : Ok. What kind of food do you like? 0
+B : I like all kinds of food. 1
+A : There's a great Italian place downtown. 1
+B : Sounds good. Let's go there. 1
+
+1 1

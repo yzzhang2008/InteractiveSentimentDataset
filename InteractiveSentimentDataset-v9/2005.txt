@@ -1,0 +1,12 @@
+A : I paid good money for this tour and would appreciate some help with some problems that have come up. -1
+B : I would like to help you smooth out any difficulties you are having. What can I help you with? 1
+A : This tour company can't seem to coordinate anything. We are always arriving after something is closed or get there when the guides for the site are on a break. -1
+B : We are trying to fix that. Are the accommodations to your liking? 0
+A : Our accommodations are pretty substandard. -1
+B : Is there anything in particular that is wrong with your room? 0
+A : The room smelled of smoke, even though it was supposed to be a nonsmoking room. -1
+B : You should not have to put up with that. Was the hotel restaurant good? -1
+A : Actually a few people from our group got sick, and everyone thinks it was from the bad dinner that we ate. -1
+B : Our tour company takes pride in providing excellent tours. Please let me offer you a free city tour and lunch as an apology. -1
+
+-1 -1

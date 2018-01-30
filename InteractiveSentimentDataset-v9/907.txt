@@ -1,0 +1,14 @@
+A : Mom, I'm hungry. -1
+B : Look in the fridge. 0
+A : I'm looking. There's nothing to eat. -1
+B : Are you sure? 0
+A : It's almost empty. -1
+B : I went to the market yesterday. 0
+A : I don't see anything. -1
+B : I bought lots of oranges and apples. 0
+A : I don't want fruit. I want something tasty. -1
+B : Eat the fruit. 0
+A : Next time you go to the market, let me go with you. 0
+B : No, thank you. All you want to eat are hot dogs and candy bars. 0
+
+-1 0

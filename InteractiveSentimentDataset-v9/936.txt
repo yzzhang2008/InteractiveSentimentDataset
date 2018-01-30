@@ -1,0 +1,14 @@
+A : When can I get high speed internet installed? 1
+B : You're going to have to make an appointment. 0
+A : Can I make one right now? 0
+B : When would you like the installation to be done? 0
+A : I'm off this Friday. 0
+B : The only time we can come on Friday is at 3:00 pm. -1
+A : I'm going to need it installed earlier than that. 0
+B : I'm sorry, but we're booked up on Friday. -1
+A : Is Saturday any better? 0
+B : Saturday is perfect. What time would you like? 1
+A : Is 11:00 fine? 0
+B : That's perfect. See you on Saturday. 1
+
+0 1

@@ -1,0 +1,12 @@
+A : The whole file has been erased. 0
+B : How did that happen? 0
+A : I don't know. Who was the last person working on it? 0
+B : I was the last one to work on it. 0
+A : What did you do to it? 0
+B : Nothing. I saved the file and went home. 0
+A : I knew this would happen. 0
+B : Are you blaming me for this problem? -1
+A : Yes. You always screw up the projects. -1
+B : You are so rude. That's why no one wants to work with you. -1
+
+-1 -1

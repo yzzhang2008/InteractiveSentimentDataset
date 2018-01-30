@@ -1,0 +1,8 @@
+A : Do you have any idea what time it is? 0
+B : My bad. I didn't realize that it was so late. -1
+A : Do you really think that that excuses your tardiness? -1
+B : Of course not. I really did lose track of time. -1
+A : Didn't I tell you to call when you're running late? -1
+B : Yeah, you did. I just forgot to call. -1
+
+-1 -1

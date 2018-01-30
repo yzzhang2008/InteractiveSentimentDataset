@@ -1,0 +1,14 @@
+A : Can I speak to Nicole? This is Jimmy in apartment 309. 0
+B : Hi, Jimmy. This is Nicole. What's happening? 0
+A : You probably never heard this one before. -1
+B : Don't bet on it. I've been an apartment manager for a long time. 0
+A : I've looked everywhere, but I can't find my mailbox key. -1
+B : Well, that's pretty minor. I lost my car keys and house keys once. 0
+A : To make matters worse, I can't find my duplicate either. -1
+B : If you want, come over here and I'll lend you a key. 0
+A : No, there's nothing vital in the mailbox. Just junk and bills. 0
+B : If you can wait until Wednesday, I'll make two more keys for you. 0
+A : Wednesday's fine. 1
+B : Okay, I'll bring them by Wednesday. Have $4 ready for me. 0
+
+1 0

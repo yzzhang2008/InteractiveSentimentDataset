@@ -1,0 +1,14 @@
+A : How are you doing? 0
+B : Everything's fine with me. 1
+A : What can I do for you today? 0
+B : Is it possible for me to view the apartment today? 0
+A : Unfortunately, you will not be able to view it today. -1
+B : Why can't I view it today? -1
+A : You'll need to make an appointment to view the apartment. 0
+B : I understand. May I make an appointment then? 0
+A : How does this Friday sound? 0
+B : Friday at 6:00 pm would be perfect. 1
+A : That will be fine. 1
+B : Thanks for your help. 1
+
+1 1

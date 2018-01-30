@@ -1,0 +1,12 @@
+A : I am considering going for the new job that was posted yesterday. 0
+B : Are you certain that that is what you want to do. 0
+A : It may not be the best choice for me, but I am considering it. 0
+B : Why do you think that this would be a good move? 0
+A : I believe that this job would allow me to move up but might be a little boring for me. 0
+B : Yes, there are always pros and cons to making a career change. 0
+A : Also, the matter of pay is also a consideration. 0
+B : I think the slight pay decrease might be worth it. The benefits are much better. 1
+A : Yes, sometimes giving up a little to move forward is the best choice. 1
+B : I think you definitely should apply for the position. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : What are you going to have for breakfast? 0
+B : I just have some cereal each morning. 0
+A : You're supposed to always have a hearty breakfast. 0
+B : I don't always have time to make breakfast. 0
+A : It's easy to make a quick breakfast. 1
+B : What do you have for breakfast? 0
+A : When I need to make a quick breakfast, I just make some oatmeal, toast, and OJ. 0
+B : That's a good idea. 1
+A : It's not time consuming at all. 1
+B : It doesn't take much time to make? 0
+A : Would you like me to make something? 0
+B : some oatmeal and toast will be great. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Hi, I am your new neighbor and would like to ask you about a few things. 1
+B : Hi, nice to meet you. Sure, ask me anything you need to know. 1
+A : So far, everyone that I've met seems so helpful. 1
+B : We all seem to get along pretty well. 1
+A : Have you lived here a very long time? 0
+B : I first moved here ten years ago. 0
+A : I am having trouble figuring out the best places to shop and such. -1
+B : I am a pretty good source for all of that information. You could go to the local farmer's market with me today if you wish. 1
+A : I would love to go with you! 1
+B : I'll be leaving around ten o'clock. I'll pick you up. 1
+
+1 1

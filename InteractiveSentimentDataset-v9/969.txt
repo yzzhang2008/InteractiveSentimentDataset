@@ -1,0 +1,14 @@
+A : Will you be done doing my hair soon? 0
+B : Give me a little while longer. 0
+A : How much time do you need? 0
+B : There you go. How do you like it? 0
+A : I think it looks gorgeous. 1
+B : You think it looks nice? 1
+A : I honestly think it looks great. 1
+B : Thanks. I'm glad that I did a good job. 1
+A : How much is it for my hair? 0
+B : Just give me $55. 0
+A : Thanks for doing such a good job. 1
+B : No problem. I'll see you next time. 1
+
+1 1

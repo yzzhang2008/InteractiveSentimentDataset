@@ -1,0 +1,14 @@
+A : Hey Joe, did you hear the rumors? -1
+B : No, Jason. What rumors? -1
+A : The company is laying people off? -1
+B : When? 0
+A : I'm not sure. I heard this from Susan in Accounting. -1
+B : Why are they laying people off? 0
+A : The company is not making a profit. -1
+B : Are you worried? -1
+A : Yeah. I'm very worried. I just bought a house. -1
+B : I'm really worried too. My wife and I just had a baby. Also, I haven't been at this company for very long. I would be the first one to get laid off. -1
+A : This is terrible. What should we do? -1
+B : Maybe we should start looking for other jobs. 0
+
+-1 -1

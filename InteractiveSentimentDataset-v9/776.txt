@@ -1,0 +1,6 @@
+A : What's wrong with your phone, B? I tried to call you all night last night. -1
+B : I'm sorry. No one was able to get through yesterday. My telephone was disconnected by the phone company. -1
+A : What happened? Didn't you pay the bill? -1
+B : Well...er...I forgot.  -1
+
+-1 -1

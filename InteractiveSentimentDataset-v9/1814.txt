@@ -1,0 +1,18 @@
+A : Hi Jane. Where are you going? 0
+B : Hi Sandra. I'm heading to the market. 0
+A : Which one? 0
+B : The one down the street. 0
+A : Today is a good day to go. There are a lot of items on sale. 1
+B : That's great to know. I need to buy a lot of stuff. 1
+A : The market is going out of business? 0
+B : Why? 0
+A : Not enough customers. 0
+B : That's not good. I always go to that market. -1
+A : Me too. But more people are going to the bigger market a few blocks away. -1
+B : It's always so crowded there. -1
+A : I know. But it has a bigger selection of things. 0
+B : Yeah, but I still like the smaller store. 1
+A : Well, you better leave soon. There were a lot of people today because of the big sale. 1
+B : Ok. Thanks for letting me know. I'll see you later. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : I want to look at the souvenirs over at the souvenir stand. 0
+B : What do you need to buy? 0
+A : I usually buy myself some jewelry or some clothing. 0
+B : I always buy a lot of things for my family. How about you? 0
+A : Yes, they practically swarm me when I get home! 1
+B : What are some of their favorite gifts? 0
+A : The teenagers like me to bring them tee shirts that you can't get anywhere else. 1
+B : This stuff is pretty expensive, isn't it? 0
+A : Souvenirs cost a lot for what they are, but we can shop around for better prices. 1
+B : Let's go! 1
+
+1 1

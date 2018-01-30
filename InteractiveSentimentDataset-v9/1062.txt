@@ -1,0 +1,13 @@
+A : I have to negotiate a deal with a client. 0
+B : How do you think it will go? 0
+A : Not well. I heard he is very tough. -1
+B : Do you want some advice? 0
+A : Yes! I'm not good at negotiating. -1
+B : Make sure you do your homework. 0
+A : What do you mean? 0
+B : Collect as much information before negotiation starts, so you know your options. 0
+A : That's great advice. 1
+B : The more info you have, the smarter you will look. 0
+A : That is nice. 1
+
+1 0

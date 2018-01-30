@@ -1,0 +1,12 @@
+A : Is there anything I can help? 0
+B : Yes, thank you. I am really far behind on this project. Could you help me with the extra typing or xeroxing? 0
+A : I can do either one. 0
+B : Good. That would be very helpful. Can you start with those pages over there? 1
+A : No problem. 1
+B : Thank you very much! How long have you been working here? 1
+A : I have been working here for 5 years. 0
+B : Well, we have some special projects coming up. Would you be interested in working on any of those? 0
+A : Yes, I would love to work on a special project! 1
+B : Well then, I'll keep you in the loop. Thank you for your help today. 1
+
+1 1

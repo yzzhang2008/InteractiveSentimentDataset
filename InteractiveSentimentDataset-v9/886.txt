@@ -1,0 +1,14 @@
+A : Why are you yawning? 0
+B : I'm sleepy. -1
+A : Why don't you go to bed? 0
+B : I want to watch this TV show. 0
+A : Maybe you should record it. 0
+B : The tape recorder is broken. -1
+A : Then you should watch the rerun. 0
+B : Why? I'm watching the original. -1
+A : But you'll be asleep in about one minute. 0
+B : I'm just yawning because the commercials are on. 0
+A : Okay. I'll tell you how the show ends. 0
+B : Zzz. 0
+
+0 0

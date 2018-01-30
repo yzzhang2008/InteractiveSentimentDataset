@@ -1,0 +1,11 @@
+A : I want to try something different today. 0
+B : What do you mean? 0
+A : I want a different hair style. 0
+B : What style do you want? 0
+A : Can you make my hair short? 0
+B : Exactly how short do you want it? 0
+A : Make it a few inches long. 0
+B : Are you sure you want me to cut it that short? 0
+A : I've been thinking about this for a while now. 0
+
+0 0

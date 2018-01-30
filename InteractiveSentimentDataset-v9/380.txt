@@ -1,0 +1,10 @@
+A : People in modern era are much more lucky than before. Do you think so? 1
+B : Absolutely. Especially when we compare with the technology before and at the moment. 1
+A : Does your mother use washing machine or other machines to do her chores? 0
+B : Yes she does. Almost all of the household is done by machines. 0
+A : Hmm,…technology is really helpful, but do you think that robots will replace human or cause unemployment in the future? Or even make more work? 1
+B : Well depending on the conditions. In some cases, like indutries robots can replace some labours, because by doing so, they can cut the cost. 0
+A : What about teacher machine? 0
+B : Teacher machine will be trully useful, but still I guess the role of real teacher is very much needed. As machine is only an equipment. It has no personal approach in teaching and can not precisely teach a person. -1
+
+1 0

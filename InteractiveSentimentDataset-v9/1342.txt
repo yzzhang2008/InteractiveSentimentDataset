@@ -1,0 +1,7 @@
+A : How are things going with you and your roommate? 0
+B : Not very well. We're supposed to share the groceries, but I end up feeding him three meals a day. My grocery bill is huge, you know. I really can't afford it any longer. -1
+A : I know how you feel. I used to have a roommate like that. He never offered to reimburse me for anything. -1
+B : I'm really fed up with his freeloading, but I just don't know how to tell him that he should come up with half the grocery bill, because sometimes he treats me to a meal in a restaurant. -1
+A : Well, honesty is the best policy. Maybe you just want to have a heart-to-heart, friend-to-friend talk with him. If he refuses to mend his ways, then ask him to move out. You can't let him wear out his welcome. -1
+
+-1 -1

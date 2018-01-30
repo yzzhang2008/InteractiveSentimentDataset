@@ -1,0 +1,12 @@
+A : Mary, how have you been? 0
+B : Josh and I just took a chance on our way home from the beach to see if you were up for visitors. 0
+A : I was just thinking about you yesterday! 1
+B : It's been ages since we had a chance to visit with you! 1
+A : Mary, please let me get the two of you something to drink. 0
+B : Oh, please don't go to any trouble. We just stopped by for a visit. 0
+A : Can I get you a little something to eat? 0
+B : We appreciate the offer, but we already ate. 0
+A : So tell me, how is your family doing? 0
+B : We are all doing well. My dad finally got to retire and is enjoying his leisure time. 1
+
+1 1

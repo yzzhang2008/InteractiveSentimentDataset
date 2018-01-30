@@ -1,0 +1,14 @@
+A : I've got a date for you. 0
+B : Oh, really? 1
+A : Are you interested? 0
+B : Maybe. What is she like? 0
+A : She's got a great personality. 1
+B : Uh-oh. That means that she's fat and ugly. -1
+A : She's cute. 1
+B : Okay, so she's not ugly; she's just fat. -1
+A : She weighs 98 pounds. 0
+B : Okay, she's not fat. So what's the problem with her? -1
+A : Who said there is a problem with her? 0
+B : The problem is she has no problems. she's too good for me! -1
+
+1 -1

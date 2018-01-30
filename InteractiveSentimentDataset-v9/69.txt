@@ -1,0 +1,10 @@
+A : Excuse me. Could you help me with something? 0
+B : I'll certainly try. 1
+A : I'm looking for a nice sweater. 0
+B : What size do you wear in a sweater? 0
+A : Medium is my size for shirts and sweaters. 0
+B : Here's a medium. What do you think? 0
+A : I like it. Where can I try it on? 1
+B : We have a large fitting room in that corner. 0
+
+1 0

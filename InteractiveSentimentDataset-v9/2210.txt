@@ -1,0 +1,12 @@
+A : I have a problem with my online order. -1
+B : What is the problem? 0
+A : I ordered red roses for my wife, but she received daisies. -1
+B : I'm sorry to hear that. -1
+A : It is our anniversary and roses are her favorite flowers. -1
+B : I will have red roses delivered to her as soon as possible. 0
+A : What should I do with the daisies? 0
+B : Please keep them since we made the error. 0
+A : That's very nice of you. 1
+B : I hope your wife enjoys both flower bouquets. 1
+
+1 1

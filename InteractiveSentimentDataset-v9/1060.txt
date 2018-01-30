@@ -1,0 +1,12 @@
+A : We need to have a talk. 0
+B : Is there a problem? 0
+A : I feel like I do all of the cleaning. I clean up your mess too. -1
+B : I'm sorry. I promise to keep the apartment clean. -1
+A : Why don't we divide the housework? 0
+B : Ok. How do you want to divide it? 0
+A : We will clean up our own messes. Then, we will take turns cleaning the common areas. 0
+B : What are the common areas? 0
+A : Places that we use together, like the bathroom, kitchen, and living room. 0
+B : That sounds fair. 0
+
+0 0

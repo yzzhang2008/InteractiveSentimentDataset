@@ -1,0 +1,8 @@
+A : Let's get a pet. 0
+B : How about a cat? 0
+A : I was thinking about a dog. 0
+B : Dogs are too much work. -1
+A : I'm allergic to cats. 0
+B : No, you're not. You just don't like cats. -1
+
+0 -1

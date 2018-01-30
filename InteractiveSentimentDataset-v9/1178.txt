@@ -1,0 +1,12 @@
+A : What can I do to help you? 0
+B : I have some extra help with my project. What would you prefer to help me with, typing or xeroxing? 0
+A : I could do some typing for you. 0
+B : That is very kind of you to offer to do that. Can you start with the pages on the table? 1
+A : That would be a good place to start. 1
+B : I like your positive attitude. How many years have you been employed here? 1
+A : I have worked here long time. 0
+B : We have a really interesting project coming up. Would you want to join us on it? 0
+A : I'm not sure. Let me think about it. 0
+B : OK. I will mention how great you were about helping me today. I appreciate your help. 1
+
+0 1

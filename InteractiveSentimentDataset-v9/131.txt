@@ -1,0 +1,12 @@
+A : My wife's birthday is today. I need some flowers. 0
+B : We have lots of fresh red roses. 1
+A : How much do the roses cost? 0
+B : $20 a dozen. 0
+A : That sounds good. Last year I paid $30. 1
+B : Yes, you came here on the right day. They're on sale today. 1
+A : Give me a dozen. 0
+B : Very good. Would you like anything else? 1
+A : No, I'll just give her the roses and a card. 1
+B : She should be very pleased with these roses. 1
+
+1 1

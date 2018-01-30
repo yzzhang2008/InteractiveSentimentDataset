@@ -1,0 +1,14 @@
+A : Hello, Mrs.Kamiyama. How may I help you today? 0
+B : I don’t feel good. My moods swing a lot. Sometimes I am very stressed then suddenly I cry. I have been tired a lot too. -1
+A : When did you start feeling this way? 0
+B : About 3 months ago. 0
+A : Has there been any big changes in your life? 0
+B : Yes, I got divorced. -1
+A : What is giving you the most anxiety? 0
+B : I have to take care of my children by myself and I used to be a home maker but now I have to work. -1
+A : I can prescribe some medicine for depression and also refer you to a psychologist. Here is the name and phone number. His name is Dr. Wagner. He is a very nice doctor. 0
+B : I will try the medicine first and if it doesn’t work, then I will contact with him. Thank you very much. 1
+A : You’re welcome. I'd like to see you again in 6 weeks to see how things are going. Please make a follow-up appointment with the receptionist on your way out. 0
+B : yes, I will. thank you. 1
+
+1 0

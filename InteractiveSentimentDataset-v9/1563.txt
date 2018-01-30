@@ -1,0 +1,12 @@
+A : I never finished college. -1
+B : Why? 0
+A : My dad got sick and I had to take care of my mom. -1
+B : Why didn't you go back to school later? 0
+A : After my dad died I had to take over the family business. -1
+B : But you're successful without a college degree. 0
+A : I know, but I still wish I had a college education. -1
+B : I understand. 0
+A : It's my biggest regret in life. -1
+B : It's not too late to get your degree. 0
+
+-1 0

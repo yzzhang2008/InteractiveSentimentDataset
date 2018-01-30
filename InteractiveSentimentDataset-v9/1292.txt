@@ -1,0 +1,14 @@
+A : I really feel like eating a salad. 1
+B : What kind are you going to make? 0
+A : I'm really not sure. 0
+B : I really like Caesar salads. 1
+A : Caesar salads are pretty good. 1
+B : What kind of salad do you want to make? 0
+A : I want a salad with some chicken. 1
+B : I love chicken salads. 1
+A : I like my salads to have croutons, almonds, and shredded cheese. 1
+B : That sounds really tasty. 1
+A : You should make a salad like that. 1
+B : I think that I will. 1
+
+1 1

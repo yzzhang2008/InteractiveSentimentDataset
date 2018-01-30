@@ -1,0 +1,8 @@
+A : How much did you pay for it? 0
+B : 200 bucks. 0
+A : 200 bucks for a piece of junk like that? That's a rip-off! -1
+B : What do you mean? 0
+A : It's not worth it. -1
+B : Oh. I guess I really did get ripped off. -1
+
+-1 -1

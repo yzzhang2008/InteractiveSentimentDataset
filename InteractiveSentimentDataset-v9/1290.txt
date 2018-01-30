@@ -1,0 +1,8 @@
+A : What are you going to have along with your sandwich? 0
+B : I may have a piece of fruit. 0
+A : What's your favorite kind of fruit? 0
+B : I really only eat apples and grapes. 1
+A : What is your favorite kind of apples? 0
+B : Green apples are the best! 1
+
+0 1

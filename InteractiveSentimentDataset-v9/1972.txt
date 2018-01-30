@@ -1,0 +1,14 @@
+A : Spring break starts tomorrow. 0
+B : Are you going to go anywhere? 0
+A : I was thinking of driving to Arizona. 0
+B : To the Grand Canyon? 0
+A : Yes. I've never been there. 0
+B : I was there when I was a kid. 0
+A : How did you like it? 0
+B : I loved it. I still remember how amazing it was. 1
+A : I'm sure I'll like it, too. 1
+B : You should try riding a mule on a trail to the bottom. 1
+A : No way! I don't want to fall to my death. -1
+B : Don't worry. Only one person has ever fallen off a mule. 1
+
+1 1

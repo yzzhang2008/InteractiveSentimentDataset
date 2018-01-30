@@ -1,0 +1,12 @@
+A : Is this the workshop to prepare for an interview? 0
+B : This is the interview class. Welcome to our class. 1
+A : I am really excited to be taking this workshop so that I can get ready for my interview next week. 1
+B : We are all learning things that will help us in our interview. What do you think are some important considerations going into your interview? 0
+A : I think that we should dress neatly and appropriately. 0
+B : Yes. Second, as you can imagine, attitude and friendliness go a long way. 1
+A : Yes, and I always feel much better when I am friendly. 1
+B : Believe it or not, the interviewers are as interested in your questions as they are in your answers. 1
+A : Any more hints as to what I should do in an interview? 0
+B : Always be honest with your answers. The interviewers really do want to know if you will be a good fit for them. 1
+
+1 1

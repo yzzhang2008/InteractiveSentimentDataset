@@ -1,0 +1,12 @@
+A : I'm glad these batteries are on sale. 1
+B : I'm sorry. These batteries are not on sale. -1
+A : But that's what the ad says. -1
+B : I'm sorry. If you look at the ad again, you'll see that the other brand is on sale. -1
+A : You're right. I misread the ad. -1
+B : Yes, many people make that mistake. -1
+A : You can't blame them. It's a confusing ad. -1
+B : You're right. Many ads are like that. 1
+A : As long as I'm here. 0
+B : Just one second, and I'll get you the batteries that are on sale. 1
+
+-1 1

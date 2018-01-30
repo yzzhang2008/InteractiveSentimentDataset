@@ -1,0 +1,14 @@
+A : Have you bought your bus pass yet? 0
+B : I didn't get it yet. -1
+A : Why not? -1
+B : I have no idea where to get it from. -1
+A : You should've just asked me. 0
+B : Well then, where do I get it? 0
+A : You can get it from the student business office. 0
+B : I didn't know that. -1
+A : I know you didn't. -1
+B : I appreciate you telling me. 1
+A : No problem. 1
+B : I'll make sure to get it tomorrow. 1
+
+1 1

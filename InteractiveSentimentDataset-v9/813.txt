@@ -1,0 +1,12 @@
+A : We made it! 1
+B : Great! There so much I want to play on. 1
+A : What do you want to do first? 0
+B : Let's go down the slide. 0
+A : Make sure you're careful. 1
+B : This is great! 1
+A : How'd you like the slide? 0
+B : The slide was so much fun. 1
+A : What would you like to do next? 0
+B : I want to swing. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : I just moved into the neighborhood. 0
+B : Do you know where everything is around town? 0
+A : I could use your help with something. 0
+B : Exactly what can I do for you? 0
+A : I'm looking for somewhere to eat. 0
+B : What kind of restaurant do you want to eat at? 0
+A : I want Chinese food. 1
+B : I know of a fabulous Chinese restaurant down the street. 1
+A : How do I get there? 0
+B : It's just a few blocks away. 0
+A : Would you like to go to lunch? 0
+B : That would be great. 1
+
+1 1

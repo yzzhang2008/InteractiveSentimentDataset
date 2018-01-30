@@ -1,0 +1,13 @@
+A : Did you hear about the robbery? 0
+B : No, I didn't hear about it. -1
+A : A man tried to rob our bank today. -1
+B : Are you serious? 0
+A : Yes, he tried to rob the bank at gunpoint. -1
+B : Did anyone get hurt? 0
+A : Nobody got hurt. 1
+B : That's good to hear. 1
+A : He did get away, though. -1
+B : That is horrible. -1
+A : The cops don't know who the guy is. -1
+
+-1 -1

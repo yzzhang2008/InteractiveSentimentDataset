@@ -1,0 +1,14 @@
+A : What are you going to do about your death? 0
+B : Well, mostly I'll try to avoid it. 0
+A : I mean, are you going to get buried or cremated? 0
+B : My wife and I will be cremated. 0
+A : Are you going to be buried next to each other? 0
+B : Oh, no. Our ashes will be shaken into the ocean. 0
+A : You're not going to be buried? 0
+B : A coffin costs too much and takes up too much space. -1
+A : Yes, but it will be in a cemetery where your children can visit you. 0
+B : Children seldom visit their parents in a cemetery. 0
+A : That's true. A cemetery is for dead people, not living people. 0
+B : We figure our kids can visit us whenever they go to the beach. 0
+
+0 0

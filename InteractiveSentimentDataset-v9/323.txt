@@ -1,0 +1,14 @@
+A : I need to go to the market. 0
+B : Do you know what to get? 0
+A : I'm not sure what to get. 0
+B : I'll go check for you. 1
+A : Tell me what we need and I'll write a list. 1
+B : We need the basics. Like, eggs, milk, and bread. 1
+A : What kind of meat do we need? 0
+B : You should buy some steak, some chicken, and ground beef. 1
+A : Do we need anything else? 0
+B : Why don't you get some snacks? 0
+A : Can you think of anything else? 0
+B : Get whatever else that you need. 0
+
+0 0

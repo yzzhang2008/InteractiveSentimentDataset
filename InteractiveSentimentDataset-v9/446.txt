@@ -1,0 +1,8 @@
+A : Are you working late again? 0
+B : Yes. My boss asked me to finish this project one week early. 0
+A : That's a tight deadline. -1
+B : I know. I have other deadlines to meet too. 0
+A : Do you need help with the project? 0
+B : No. I'll just work all weekend. 0
+
+0 0

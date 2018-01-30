@@ -1,0 +1,14 @@
+A : I want to get something nice for my niece. 1
+B : Well, I've never heard of a little girl that didn't love Barbie dolls. 1
+A : I like that suggestion. Show me one, please. 1
+B : Here you go. Digital Barbie. 0
+A : My niece will love her! How much for her? 1
+B : Barbie is our best seller. She's only $29.95. 1
+A : That's great. I'll take her. 1
+B : Your niece will love this. Anything else? 1
+A : Thank you, but no. This will do it for now. 1
+B : With the tax, your total is $32.42. Would you like to charge it? 0
+A : I'll pay cash, thank you. 1
+B : Thank you for shopping here. 1
+
+1 1

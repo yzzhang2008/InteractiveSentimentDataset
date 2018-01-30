@@ -1,0 +1,14 @@
+A : Hello doctor, may I come in? 0
+B : Sure, please. How can I help you? 1
+A : I wonder about my wife. She doesn't have appetite. She has been eating just little food for the last three days. -1
+B : Well, let me check her medical card. She has been hospitalizing for a week, hasn't she? -1
+A : Yes she has, but she's still weak and vomits frequently. -1
+B : I see. I think she should have another medical check up today. -1
+A : Alright, so what time will you check her? 0
+B : Thirty minutes more, I'll call a nurse to help me. 0
+A : Can I give her any meal before the check up? 0
+B : Please don't give her any meal first. You can give her after the examination. Our meal service will deliver her meal. -1
+A : Can she have cake after the examination? 0
+B : I don't think so. -1
+
+-1 -1

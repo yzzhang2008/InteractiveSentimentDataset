@@ -1,0 +1,12 @@
+A : Why am I being arrested? -1
+B : You have a warrant out for your arrest. 0
+A : I don't have a warrant. -1
+B : My computer shows that you have a bench warrant. 0
+A : I don't know what a bench warrant is. -1
+B : You apparently missed a court appearance. -1
+A : I was never told to go to court. -1
+B : There's nothing I can do about that. -1
+A : This isn't fair. -1
+B : That's life. -1
+
+-1 -1

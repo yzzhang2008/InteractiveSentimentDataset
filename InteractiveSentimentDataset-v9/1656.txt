@@ -1,0 +1,14 @@
+A : Parking at school is impossible. -1
+B : I'll say. 0
+A : I drove around for half an hour. -1
+B : Did you find a spot? 0
+A : I found a spot, but someone cut in and took it from me. -1
+B : Did you yell at them? 0
+A : Yes, I did. 0
+B : And? 0
+A : And he yelled back at me. -1
+B : How rude. -1
+A : But I got lucky a few minutes later. 1
+B : You have to be lucky to find a parking space. 1
+
+1 1

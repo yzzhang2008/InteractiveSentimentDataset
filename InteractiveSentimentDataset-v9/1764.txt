@@ -1,0 +1,14 @@
+A : I'll talk to you later. 0
+B : What's the rush? 0
+A : I have to get off the phone now. 0
+B : I'm not ready to get off the phone with you. 0
+A : There are other things I need to take care of. 0
+B : What is it that you need to do? 0
+A : Please don't be nosey. -1
+B : I'm not being nosey, it's just a question. 0
+A : You don't need to worry about that. -1
+B : That was mean to say. -1
+A : I am very sorry, but I must go. -1
+B : I guess. 0
+
+-1 -1

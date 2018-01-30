@@ -1,0 +1,10 @@
+A : I don't want to keep this radio. -1
+B : No problem. Let me see your receipt, please. 1
+A : Of course. I always keep my receipts. 1
+B : Is there a problem with the radio? 0
+A : Something is rattling around inside it. -1
+B : Would you like a different model? 0
+A : No. Just give me a refund, please. -1
+B : Okay, a refund will be no problem. 1
+
+-1 1

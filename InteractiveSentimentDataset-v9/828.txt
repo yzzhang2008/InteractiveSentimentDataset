@@ -1,0 +1,8 @@
+A : Can you cover for me? 0
+B : What's going on? 0
+A : I'm late again and I don't want my boss to know. -1
+B : It's too late. -1
+A : Why? Does he see me? -1
+B : He's standing right behind you. -1
+
+-1 -1

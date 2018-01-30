@@ -1,0 +1,14 @@
+A : Did you need help with something? 0
+B : I'm having a problem with my washing machine. -1
+A : What is wrong with it? 0
+B : The water isn't draining from it. -1
+A : Is that the only problem? 0
+B : Everything else is working fine. 1
+A : I'm available if you'd like me to come fix it. 1
+B : When exactly are you free? 0
+A : I can come at about 2:30, this afternoon. 1
+B : Sounds good to me. 1
+A : I'll see you this afternoon. 1
+B : Yes. Thank you. 1
+
+1 1

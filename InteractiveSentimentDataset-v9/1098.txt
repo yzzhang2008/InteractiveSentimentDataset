@@ -1,0 +1,14 @@
+A : You want to argue your ticket today? 0
+B : Yes. That is why I'm here. 0
+A : Tell me your argument. 0
+B : I was pulled over for allegedly speeding. -1
+A : Are you sure you weren't speeding? 0
+B : To be honest, I really wasn't. 0
+A : What speed were you going? 0
+B : I was under the speed limit. I was going 35, when the speed limit was 40. 0
+A : I'm just going to let you go, since the arresting officer isn't here. 0
+B : What about my ticket? Do I still need to pay? 0
+A : Don't worry about it. 1
+B : I'm so glad for your help. 1
+
+0 1

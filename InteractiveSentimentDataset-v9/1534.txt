@@ -1,0 +1,12 @@
+A : We're going to a party tonight. Do you want to join us? 0
+B : No, I can't. I have to finish my homework. 0
+A : Do you have a lot of homework? 0
+B : Yes. I have a math test tomorrow too. 0
+A : That's too bad. It's supposed to be a big party. -1
+B : I wish I could go, but I'm so behind in my classes. 0
+A : Why are you so behind? 0
+B : I was sick for a few days and missed several classes. 0
+A : Do you need help studying? 0
+B : No. I just need to focus on my school work. 0
+
+0 0

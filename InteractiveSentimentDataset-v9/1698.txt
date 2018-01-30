@@ -1,0 +1,20 @@
+A : I like your sports jersey. 1
+B : Thanks! You must be a fan too. 1
+A : I am. I went to that college. 0
+B : Really? Me too. 0
+A : What year did you graduate? 0
+B : 2000. 0
+A : I graduated in 2004. 0
+B : What was your major? 0
+A : I studied Law. 0
+B : I studied Law, too! 1
+A : I'm Matthew, by the way. 0
+B : I'm Karen. Nice to meet you, Matthew. 1
+A : Are you going to the game tonight? 0
+B : No. I'm going to watch it at home. 0
+A : I have an extra ticket. Would you like to go to the game with me? 0
+B : I'd love to. We can watch our college football team win tonight! 1
+A : Ok! What about dinner first? 1
+B : Sounds great. 1
+
+1 1

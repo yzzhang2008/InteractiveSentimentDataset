@@ -1,0 +1,14 @@
+A : Good afternoon, officer. 0
+B : Your driver's license and registration, please. 0
+A : Here you go. 0
+B : Do you know why I pulled you over? 0
+A : I have no idea. All of a sudden I heard your siren. 0
+B : You rolled through that stop sign back there. -1
+A : But I stopped! -1
+B : No, you didn't. You slowed down, but you didn't come to a full stop. -1
+A : Well, nobody else does, so why should I? -1
+B : That's not the attitude of a good driver. -1
+A : But I am a good driver. I've never had a ticket in my life. -1
+B : Well, you've got one now. Here. -1
+
+-1 -1

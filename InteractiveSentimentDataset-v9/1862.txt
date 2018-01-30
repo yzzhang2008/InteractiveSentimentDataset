@@ -1,0 +1,8 @@
+A : Why are you late again? -1
+B : I'm sorry. There was a lot of traffic. -1
+A : That's always your excuse. -1
+B : I know. I left too late. -1
+A : Then you should leave earlier. 0
+B : I'll try next time. 0
+
+-1 -1

@@ -1,0 +1,11 @@
+A : Is everything all right? 0
+B : Not at all. -1
+A : What's the problem? 0
+B : Someone just robbed me. -1
+A : What do you mean? 0
+B : This guy just robbed me right on the street. -1
+A : He didn't hurt you, did he? -1
+B : I'm okay. He just stole my things. -1
+A : I'm so sorry. -1
+
+-1 -1

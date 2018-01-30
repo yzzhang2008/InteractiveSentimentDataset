@@ -1,0 +1,10 @@
+A : What is your favorite kind of music? 0
+B : I listen to various types of music. 0
+A : What genres? 0
+B : I enjoy listening to both Rock and R&B. 1
+A : What interests you in that type of music? 0
+B : I enjoy the different types of instruments that they use. 1
+A : That is a perfect reason to like a certain kind of music. 1
+B : That's exactly what I think too. 1
+
+1 1

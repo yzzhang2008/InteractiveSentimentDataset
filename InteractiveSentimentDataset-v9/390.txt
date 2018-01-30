@@ -1,0 +1,14 @@
+A : Have you ever fallen in love? 0
+B : I first felt in love when I was in High school. 1
+A : How was your feeling? 0
+B : I was extremely happy whenever she was around me. And I got nervous frequently for no reasons. 1
+A : How did you express feeling of jealousy? 0
+B : I kept silent when I was jealous. But I couldn't stand for long time. 0
+A : Did you experience puppy love? 0
+B : I experienced it when I was in 6th grade of elementary school. 0
+A : What advantages did you get from your lover? 0
+B : I always got support in my study from my lover. 1
+A : Do you still keep in touch with her? 0
+B : No I don't . -1
+
+0 0

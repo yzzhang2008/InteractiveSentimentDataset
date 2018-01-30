@@ -1,0 +1,10 @@
+A : Is my hair done yet? 0
+B : Yeah, I just need to make the final touches. 0
+A : How long until you're finished? 0
+B : I'm finished. What do you think? 0
+A : I like my hair so much. 1
+B : Do you really? 0
+A : It's beautiful. 1
+B : Well, thank you very much. 1
+
+1 1

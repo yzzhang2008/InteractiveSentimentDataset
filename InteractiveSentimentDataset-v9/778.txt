@@ -1,0 +1,11 @@
+A : Hello, may I speak to Mr. Brown? 0
+B : He just left. 0
+A : When do you expect him back? 0
+B : I'm sorry, but he's gone for the day. Would you care to leave a message? -1
+A : Could you tell him that A Smith called and have him call me back tomorrow? 0
+B : Sure. May I have your phone number? 0
+A : I think he has my number. 0
+B : Thank you, Mr. Smith. I'll tell him you called. 1
+A : Thanks! 1
+
+1 1

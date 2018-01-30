@@ -1,0 +1,14 @@
+A : Can you tell that I'm excited? 1
+B : What are you excited about? 0
+A : I voted today. 1
+B : Was this your first time? 0
+A : I just turned 18 a month ago. 0
+B : You're lucky. 1
+A : What do you mean? 0
+B : Because you turned 18 in an election year. 0
+A : I didn't even think of that. 0
+B : You didn't? 0
+A : I really didn't, but I'm still excited. 1
+B : You should be, because you're a part of history. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : I really want to get something to eat. 1
+B : What are you going to get? 0
+A : I don't know what I want to eat. 0
+B : Well, do you want burgers, Chinese food, or Mexican food? 0
+A : Chinese food sounds good. 1
+B : Where are you going to get it from? 0
+A : I haven't the slightest idea. 0
+B : I usually get my Chinese food from Panda Express. 0
+A : You like Panda Express? 0
+B : The food there is actually pretty good. 1
+A : Maybe I'll go there then. 0
+B : You should. I know you'll like it. 1
+
+0 1

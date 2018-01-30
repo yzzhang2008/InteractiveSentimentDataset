@@ -1,0 +1,14 @@
+A : Did you take the written test? 0
+B : I haven't taken it yet. 0
+A : Make sure to study first. 0
+B : I study every night. 0
+A : I'm sure you're ready. 1
+B : Does it cost money? 0
+A : No, it doesn't cost anything. 1
+B : Does the test cover everything in the manual? 0
+A : It skips around. 0
+B : Did you pass the test your first try? 0
+A : I thought it would be easy, but I didn't pass it. -1
+B : Wish me luck. 0
+
+0 0

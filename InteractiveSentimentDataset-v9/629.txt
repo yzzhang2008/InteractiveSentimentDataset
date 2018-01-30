@@ -1,0 +1,14 @@
+A : I was thinking about buying this used car, and was wondering if you would take a look at it for me to see if it has any problems. 0
+B : Sure, pull up over there and we'll take a look. 0
+A : I just wasn't sure what to look for. -1
+B : The first thing you do is look for any signs of wear both inside and out. We will also look at the body for signs of major repair. 0
+A : Someone told me that I could go online and see if the car is listed as having been in a major accident. 0
+B : Yes, that's right. Next, we will turn on the engine and I will check under the hood to look at the hoses and belts. 0
+A : Should we take the car for a drive? 0
+B : Yes, but before we pull away, let's check to make sure that the radio, turn signals, lights, and seats all work properly. 0
+A : As I am driving what should I be checking? 0
+B : You want to make sure that the brakes don't pull to one side and that the car has good alignment and acceleration. 0
+A : Thanks for your help. 1
+B : You are welcome. Enjoy driving your car! 1
+
+1 1

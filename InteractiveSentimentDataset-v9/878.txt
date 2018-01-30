@@ -1,0 +1,14 @@
+A : I'm upset with my mom. -1
+B : Why is that? 0
+A : I warned her about her new boyfriend. She didn't listen to me. -1
+B : What happened? 0
+A : I gave her $1,000 for her birthday. I told her to spend it on herself. 0
+B : That was very nice of you. 1
+A : I found out that she gave it to her new boyfriend. -1
+B : Why did she do that? 0
+A : He said he would buy her a nice ring. 0
+B : What's wrong with that? 0
+A : He went to Las Vegas. He lost it all gambling. -1
+B : I hope your mom broke up with him. -1
+
+-1 -1

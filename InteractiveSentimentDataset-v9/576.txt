@@ -1,0 +1,14 @@
+A : Are we supposed to get off right here? 0
+B : I think so; get off. 0
+A : Where are we? 0
+B : I don't know. -1
+A : You said this was the right stop. 1
+B : I think I was wrong. -1
+A : Did we get off the bus too early? -1
+B : I don't know; it kind of looks like we did. -1
+A : Why did you tell me to get off? -1
+B : I'm sorry. I thought this was our stop. -1
+A : I really don't feel like walking. -1
+B : We could always wait for the next bus to come. 0
+
+-1 -1

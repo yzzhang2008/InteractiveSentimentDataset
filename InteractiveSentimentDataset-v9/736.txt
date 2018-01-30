@@ -1,0 +1,12 @@
+A : Do you mind if I borrow the notes from last week? 0
+B : Were you here last week? 0
+A : I was unable to make it. -1
+B : How come? 0
+A : I was sick that day, and couldn't make it. -1
+B : Well, here are the notes. 0
+A : Are there any more? 0
+B : Sorry, here you go. 0
+A : Thanks a lot. 1
+B : No problem. 1
+
+1 1

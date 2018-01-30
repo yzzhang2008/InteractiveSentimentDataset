@@ -1,0 +1,19 @@
+A : Hey Sue. What are you doing today? 0
+B : Hey Alice. I'm going to the market later. My husband's boss and his wife are coming over for dinner tonight. 0
+A : Wow! What are you making? 0
+B : I don't know. His wife is a vegetarian, so I need to make one dish without meat. 0
+A : My mother-in-law is a vegetarian. I can ask her for some recipes. 0
+B : That would be great. I'm a little nervous about hosting dinner. 1
+A : You shouldn't worry. You're a great cook. 1
+B : I've never cooked for Jeff's boss before. I want to make sure everything is perfect. 1
+A : I understand. I cooked for my boss once. It was a disaster. I burned the roast beef. -1
+B : Oh no! What happened? -1
+A : I was too busy talking and forgot to take it out of the oven. We all laughed, but I was so embarrassed. -1
+B : I'll make sure to use a timer. 0
+A : Great idea! 1
+B : I think I will make lasagna. 0
+A : Your lasagna is delicious. My mother-in-law makes great vegetarian lasagna. I'll call her right now. 1
+B : Thank you so much! I'll go the market after you talk to her. 1
+A : Good luck tonight. 1
+
+1 1

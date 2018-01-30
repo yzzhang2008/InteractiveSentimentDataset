@@ -1,0 +1,14 @@
+A : Something's wrong with my computer. -1
+B : Exactly what? 0
+A : All I get is a black screen. -1
+B : What's the matter? 0
+A : I think I know, because this happened before. 0
+B : What happened before? 0
+A : My hard drive crashed. -1
+B : Oh, no. That's bad news. -1
+A : It sure is, but I'm going to call HP first, just to make sure. 0
+B : Will you lose all your files? 0
+A : No, I always back up my files. 0
+B : You're smart. 1
+
+-1 0

@@ -1,0 +1,12 @@
+A : My assistant called and said that you had received a response to our counteroffer. 0
+B : Yes, the buyers called me just an hour ago. 0
+A : Did they accept the counteroffer? 0
+B : They came back with their own counteroffer of five thousand less than you wanted. 0
+A : What do you think about their offer? 0
+B : I think that this is a good offer. They also would like to have a 90-day escrow to allow them to sell their home. 1
+A : The length of the escrow is not a huge issue with us. 0
+B : They also want the sale contingent on a good building inspection. 0
+A : That is reasonable, and I accept those conditions. 1
+B : I will let them know that you have accepted their counteroffer. They will be very pleased! 1
+
+1 1

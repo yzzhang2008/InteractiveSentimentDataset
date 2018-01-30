@@ -1,0 +1,12 @@
+A : Dad, I need help with my project. 0
+B : What do you need help with? 0
+A : Everything. Nothing is going right. -1
+B : What's wrong? 0
+A : My model keeps falling apart. -1
+B : It looks like your glue is not strong enough. 0
+A : This is the only glue I have. 0
+B : I have stronger glue in the garage. Let me get it. 0
+A : Thanks, Dad! 1
+B : Be very careful with it. This glue is very powerful. 0
+
+0 1

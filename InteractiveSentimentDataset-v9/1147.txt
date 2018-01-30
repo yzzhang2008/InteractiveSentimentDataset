@@ -1,0 +1,12 @@
+A : I am not sure what to do to get ready for my job interview. -1
+B : Make sure that you understand the company. Do you understand what it is that they do? 0
+A : No, I probably need to do some more research. 0
+B : When you've finished your research it will help you figure out whether your company is rigid in philosophy or kind of more relaxed. Does that make sense? 0
+A : I think that their attitude is rather casual. -1
+B : So all of that information will help you to pick out what to wear. Do you have something to wear? 0
+A : I have absolutely nothing so far. -1
+B : I could go shopping with you sometime if you need it, but can we talk about other basics? 0
+A : Yes, where should we go from here? 0
+B : Focus on being relaxed and open, don't forget to smile and shake hands and be genuinely interested in what their company is about. I'm sure you'll do well. 1
+
+-1 1

@@ -1,0 +1,10 @@
+A : Did you get your bus pass? 0
+B : I haven't gone to get it yet. -1
+A : Why haven't you got it? -1
+B : I don't know where to go to get one. -1
+A : I know where to get them from. 0
+B : Where do I get it? 0
+A : They sell them at the business office on campus. 0
+B : I had no idea. -1
+
+-1 -1

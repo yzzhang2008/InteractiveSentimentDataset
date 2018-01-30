@@ -1,0 +1,11 @@
+A : Let's go hang out at the coffee shop. 0
+B : We always hang out at the coffee shop. Let's do something else. 0
+A : I thought you loved hanging out there. 1
+B : I do, but today I want to do something different. 0
+A : Well, I feel like relaxing with a cup of coffee. 1
+B : How about this? We will go to the coffee shop and have a cup of coffee and talk for a while. After that, we will take a stroll around the lake. 0
+A : That sounds like a good compromise. 1
+B : But you are buying the coffee. 0
+A : Haha. That is fair. 1
+
+1 0

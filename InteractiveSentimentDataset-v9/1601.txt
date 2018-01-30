@@ -1,0 +1,12 @@
+A : How much do you think that I should ask for my house? 0
+B : Well, there are a lot of factors involved in setting an asking price. 0
+A : What do you look at when setting an asking price? 0
+B : We need to look at the selling prices for similar homes in the area. These will vary according to the condition of the home, specific location, and lot size. 0
+A : Do I have to use the comparisons as the asking price for my house? 0
+B : No, but a seller is not going to be able to get a loan if the selling price is a lot higher that what an appraiser feels the home is worth. 0
+A : Isn't it better to price my house really high and see what I can get? 1
+B : You shouldn't set the price of the house unrealistically high. Oftentimes buyers are put off by this practice. 0
+A : Can I change my mind and lower my price if the home doesn't sell? 0
+B : Sure, you can always lower your asking price. 0
+
+0 0

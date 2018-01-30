@@ -1,0 +1,14 @@
+A : May I help you? 0
+B : I want to file a complaint. -1
+A : What's the problem? 0
+B : A man robbed me today. -1
+A : When? 0
+B : I was robbed this morning. -1
+A : What did he take? 0
+B : He took my phone and my wallet. 0
+A : Did you see his face? 0
+B : I saw him perfectly. 1
+A : Could you pick him out of a line-up? 0
+B : I could do that. 1
+
+0 1

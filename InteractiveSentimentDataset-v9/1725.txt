@@ -1,0 +1,14 @@
+A : Tell me, what do you enjoy doing in your spare time? 0
+B : I enjoy drawing and painting. 1
+A : You know how to draw and paint? 0
+B : Yes, I do. 0
+A : When did you learn how to do that? 0
+B : I learned back in high school. 0
+A : Oh, so you took an art class? 0
+B : Yeah, I loved that class. 1
+A : I see that you're pretty talented. 1
+B : Thank you very much. 1
+A : I wish I had a talent like that. 1
+B : I'm sure you have a talent. It's just hidden. 1
+
+1 1

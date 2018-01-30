@@ -1,0 +1,12 @@
+A : You promised me the supplies would be in today and now you say they aren't here? -1
+B : They said they had part of the order, but the rest won't be available until later. 0
+A : I guess that's it then, when will you be able to get the rest? 0
+B : I am not sure. -1
+A : I am not convinced that will work for me, what now? -1
+B : I could order them from another supplier as a back-up. 0
+A : That is a good plan. 1
+B : Good! I will call you later this afternoon and let you know when your supplies will arrive. 1
+A : I appreciate you staying on it. 1
+B : We appreciate your business and aim to please. 1
+
+1 0

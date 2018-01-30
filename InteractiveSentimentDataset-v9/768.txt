@@ -1,0 +1,14 @@
+A : Hey, I got this parking ticket; can you help me figure a way out of it? 0
+B : First of all, did you park somewhere too long or in the wrong spot? 0
+A : I was there too long. -1
+B : Was the area clearly labeled with the time limit and all? 0
+A : Yeah, I saw it. 0
+B : You will need to convince the judge that you couldn't see the signs. -1
+A : Yeah, I understand. 1
+B : Whatever you do, you need to be respectful and polite to the judge. 1
+A : Yeah, you're right. 1
+B : Just try to talk to him about how IF you made a mistake that it won't happen again. 1
+A : OK, I will. 1
+B : Good luck! 1
+
+1 1

@@ -1,0 +1,12 @@
+A : I need you to cover for me. 0
+B : Again? Where are you? 0
+A : I'm at home. I overslept. -1
+B : What do you want me to do? 0
+A : Can you do the presentation for me? 0
+B : Are you crazy? I didn't prepare for the presentation. -1
+A : You can do it. You helped me research the stuff. 1
+B : What am I supposed to tell the clients and our boss? 0
+A : Tell them I'm stuck at the airport. -1
+B : This is the last time I'm covering for you! -1
+
+-1 -1

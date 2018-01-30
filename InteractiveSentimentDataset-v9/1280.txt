@@ -1,0 +1,12 @@
+A : Do you know what you want to eat for lunch? 0
+B : What do you feel like having? 0
+A : I want to get some pizza. 1
+B : I had pizza for lunch yesterday. 0
+A : Tell me what you want to eat. 0
+B : Do you want to get a burger? 0
+A : See, I had a burger for lunch yesterday. 0
+B : Think of something. 0
+A : How about I get pizza and you get a burger? 0
+B : Let's do that then. 0
+
+0 0

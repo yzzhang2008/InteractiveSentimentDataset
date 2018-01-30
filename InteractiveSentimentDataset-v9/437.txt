@@ -1,0 +1,9 @@
+A : The new intern is very smart. 1
+B : I know. She works fast too. 1
+A : She seems very ambitious. 1
+B : I think she wants to move up the company quickly. 1
+A : The boss is thinking about hiring her for a permanent position. 0
+B : She's a great worker. 1
+A : She gets along with everyone too. 1
+
+1 1

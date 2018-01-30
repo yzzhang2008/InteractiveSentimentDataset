@@ -1,0 +1,12 @@
+A : Can you help me figure out some inexpensive ways to fix up the exterior of my home? 0
+B : Like the interior, the number one thing you can do is to repaint the outside of your home if it needs it. 0
+A : What do you think of the landscaping? 0
+B : Your lawn looks really good. Perhaps you could get some timers installed for your sprinklers. 1
+A : How about adding some flowers or something? 0
+B : Colorful flowers are always a nice addition to a yard to add curb appeal. 1
+A : What about fixing up the backyard? 0
+B : Make sure the lawn is well trimmed and the bushes are cut back. 0
+A : Can you think of any more overall suggestions for the exterior? 0
+B : Wash all of the windows inside and out. 0
+
+0 0

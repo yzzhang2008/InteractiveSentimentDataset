@@ -1,0 +1,14 @@
+A : Have you figured out where you want to transfer to? 0
+B : I can't think of where to go. 0
+A : Where would you like to go to school? 0
+B : I really don't know. 0
+A : You can't think of anything? 0
+B : I really like where I'm at now. 0
+A : So, why don't you just stay here? 0
+B : That may be what I'm going to do. 0
+A : It's a perfectly good school. 1
+B : You're absolutely right. 1
+A : Do you know what you're going to do now? 0
+B : I'm just going to stay at PCC. 1
+
+1 1

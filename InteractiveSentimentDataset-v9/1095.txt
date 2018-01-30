@@ -1,0 +1,14 @@
+A : Is there a problem, officer? 0
+B : I stopped you for driving through a red light. 0
+A : Did I really? 0
+B : You didn't know? -1
+A : I had no idea that I ran it. -1
+B : Don't you know that yellow means slow down? -1
+A : Yes, sir. 0
+B : Why'd you speed up instead? -1
+A : I really have no excuse, sir. -1
+B : I'll have to write you a ticket. -1
+A : I understand, and I am very sorry. -1
+B : Here's your ticket. 0
+
+-1 -1

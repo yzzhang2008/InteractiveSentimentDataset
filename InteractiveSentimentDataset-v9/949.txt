@@ -1,0 +1,14 @@
+A : How smart are you? 0
+B : I don't know. I think I'm average. 0
+A : Did you ever take an IQ test? 0
+B : No, I never did. All I know is that I got A's and B's in school. 0
+A : I wish I was really smart. -1
+B : Don't be ridiculous. -1
+A : What do you mean? 0
+B : If you're going to make a wish, wish that you were really rich or famous. 0
+A : Don't you ever wonder what it's like to be super-smart? 0
+B : It must be very lonely. -1
+A : Why's that? 0
+B : Because if you're super-smart, no one understands what you're saying. 0
+
+0 -1

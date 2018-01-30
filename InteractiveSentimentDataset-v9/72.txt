@@ -1,0 +1,10 @@
+A : Does it look too small? 0
+B : It fits you to a T. 1
+A : I agree. I'm going to buy it. 1
+B : Cash or charge? 0
+A : I'll charge it. 0
+B : Sign here, please. 0
+A : There you go. 0
+B : Good-bye, and thank you for shopping here. 1
+
+0 1

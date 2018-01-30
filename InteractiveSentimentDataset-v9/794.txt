@@ -1,0 +1,14 @@
+A : I need your help. 0
+B : What's up? 0
+A : I'm lost. -1
+B : Where exactly are you trying to go? 0
+A : I want to go see a movie. 0
+B : You can't find a theater? 0
+A : No, I have absolutely no idea where one is. -1
+B : Do you know where the mall is? 0
+A : Yes, I know where the mall is. 0
+B : Go to the mall; there's a movie theater inside. 0
+A : I did not know that. -1
+B : It's a new theater. Enjoy your movie. 1
+
+-1 1

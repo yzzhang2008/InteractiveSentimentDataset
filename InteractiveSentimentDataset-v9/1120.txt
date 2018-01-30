@@ -1,0 +1,20 @@
+A : Honey, are you ok? 0
+B : Yes, are you ok? 0
+A : Yeah. I've never felt an earthquake before? 0
+B : Me too. That was scary. We've experience hurricanes, but never an earthquake. -1
+A : I'm going to look around and see how bad the damage is. 0
+B : Be careful. There could be aftershocks. -1
+A : I know. Don't go outside. The power is down. There could be power lines on the ground. 0
+B : Ok. Where are the dogs? 0
+A : I found them. They're both under the bed. 0
+B : They must be scared. -1
+A : I wish we could watch the news. I want to know how much damage this earthquake caused. 0
+B : Let me find the radio. We can listen to the news. 0
+A : I think it's in the garage. 0
+B : Do we have any batteries for it? 0
+A : Yeah. Let me get them. 0
+B : I knew the big one was coming one day, but we weren't prepared. -1
+A : Yeah, that was a big mistake. -1
+B : We better pack an emergency kit for next time. -1
+
+-1 -1

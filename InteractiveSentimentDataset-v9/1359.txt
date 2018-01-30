@@ -1,0 +1,12 @@
+A : I need a place to stay in the country. 0
+B : What kind of place? 0
+A : I would like to stay in a small cottage. 0
+B : What do you want to do there? 0
+A : I want to take pictures of the flowers, trees, and meadows. 0
+B : What are meadows? 0
+A : A meadow is an open area of grass. 0
+B : Why do you want to take pictures? 0
+A : I got a camera for my birthday. 0
+B : Happy Birthday, A. 1
+
+0 1

@@ -1,0 +1,12 @@
+A : Could you help me prepare for my presentation on Friday? 0
+B : I would love to help you prepare for your presentation. 1
+A : I hate to ask you to do something like that. -1
+B : This will not interfere with my work. I promise you that. 0
+A : When could we get together? 0
+B : I could easily give you some time tomorrow night. 0
+A : Would you like to meet at the coffee house next door? 0
+B : Yes, and could you write down anything you might be having trouble with? 0
+A : I'll come prepared. 0
+B : Goodbye until then. I promise you that you'll do well after we meet. 1
+
+0 1

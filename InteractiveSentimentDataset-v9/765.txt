@@ -1,0 +1,14 @@
+B : This parking meter is really confusing. Can you help me figure it out? -1
+A : It's just like the old one, but with new stuff added. 0
+B : Yeah, OK. 1
+A : The first step is deciding on debit or credit card payment, so which one is it? 0
+B : I have coins. 0
+A : Perfect. Now, can you see the rate on the sign? 1
+B : I didn't see that, but now I do. 1
+A : Once you know what it will cost, put the payment in. 0
+B : Here it goes! 1
+A : You are doing great! Let's move on to the next step. 1
+B : I am OK. 1
+A : Just make sure that everything registered, and then you are good to go! 1
+
+1 1

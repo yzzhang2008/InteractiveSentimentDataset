@@ -1,0 +1,10 @@
+A : This dress doesn't fit correctly. -1
+B : No problem. Shop around until you find something you like. 1
+A : What's on sale today? 0
+B : If you can wait until next weekend, you can save some money. 1
+A : Do you know what's going to be on sale? 0
+B : You'll be happy to know that everything in the store will be on sale. 1
+A : I won't miss that. I'll wait until next weekend. 1
+B : Great. Bring lots of cash so you can buy lots of things. 1
+
+1 1

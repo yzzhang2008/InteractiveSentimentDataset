@@ -1,0 +1,10 @@
+A : You need a new look. 0
+B : What's wrong with my look? -1
+A : You should cut your hair. It's old-fashioned. -1
+B : I like my long hair. 1
+A : Try something new. 1
+B : I'm afraid to. -1
+A : It's just hair. It will grow back. 1
+B : Maybe I will. It's hard to maintain this long hair. -1
+
+0 -1

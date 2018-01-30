@@ -1,0 +1,14 @@
+A : What did the doctor say? 0
+B : He thinks I have too much stress. -1
+A : Stress causes your stomachaches? 0
+B : Stress causes different problems with different people. 0
+A : So what did he tell you to do? 0
+B : He said I need to think positive. 0
+A : He didn't give you any medication? 0
+B : I hate medication. It makes me feel different. -1
+A : So how do you think positive? 0
+B : I think about nice things. 1
+A : Like what? 0
+B : Like a day at the beach, with my toes in the sand. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : How is your stay here Sir? 0
+B : Well, pretty good! All of the staff here are friendly and very helpful. 1
+A : Thank you, how about the meal Sir? 0
+B : It's great! My wife loves the the food very much. 1
+A : Thank you. Would you like tea time this evening Sir? 1
+B : Oh yes as usual. And,…. can you arrange for a candle light dinner for tomorrow? 1
+A : Certainly Sir. What time could we arrange, Sir? 1
+B : Is it possible at 8 pm? 0
+A : Surely. How about the menu and decoration? How would you like to have? 1
+B : Can you provide a very romantic candle light dinner in the garden with traditional balinese decoration and balinese cuisine? 1
+A : Certainly, we will arrange it Sir. 1
+B : Thank you. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : I just recently moved into the neighborhood. 0
+B : Is that right? How recently? 0
+A : Just last week. 0
+B : What kinds of things have you been doing out here? 0
+A : I haven't been doing much. -1
+B : Why not? 0
+A : I don't know what to do. -1
+B : There's all sorts of things to do. 0
+A : Like what? 0
+B : How about shopping, or seeing a movie, or even going to the beach? 0
+A : That's more than I've been doing. -1
+B : There are plenty of things to do out here. 0
+
+-1 0

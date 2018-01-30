@@ -1,0 +1,14 @@
+A : How are you today? 0
+B : Not too bad. 0
+A : Did you find everything you want? 0
+B : Yes. Thank you. 1
+A : It comes to $118.24 dollars. 0
+B : Can I get a gift receipt for this dress? 0
+A : Yes. Do you need a gift box also? 1
+B : Do you charge for the box? 0
+A : No, it’s free. 0
+B : Is that right? Then I would like one please. 1
+A : This is your original receipt and this is a gift receipt for this dress. 0
+B : Thank you. 1
+
+0 1

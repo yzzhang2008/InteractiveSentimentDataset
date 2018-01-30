@@ -1,0 +1,14 @@
+A : Did you hear the good news? 0
+B : No, I haven't. 0
+A : I got a promotion at my job. 1
+B : Did you really? 0
+A : Seriously, I am so excited. 1
+B : Well, congratulations. 1
+A : Thank you. 1
+B : I'm so happy for you. 1
+A : Really? 0
+B : Yes. You really deserved this. 1
+A : You think so? 0
+B : Yes. Good for you. 1
+
+1 1

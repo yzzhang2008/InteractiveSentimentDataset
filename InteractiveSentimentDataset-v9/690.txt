@@ -1,0 +1,17 @@
+A : Hey Mark. What are you doing today? 0
+B : I'm going to the electronics store with my son. 0
+A : Are you buying a new TV? 0
+B : No. My son has been saving money to buy a tablet. They're so expensive. -1
+A : That's so nice of you. 1
+B : His birthday is next week, so this is his birthday present. 0
+A : Why don't you buy one for yourself? 0
+B : I already have one. My son really likes it. So, he wants one of his own. 1
+A : Oh, I see. They're great. They're like mini computers. I love the touch screen feature. 1
+B : I know. My son keeps taking mine. I'm tired of sharing it with him all the time. -1
+A : Is that why you are helping him buy one? 0
+B : Yes. Do you have one? 0
+A : Yeah. I should get another one too. 0
+B : Why? 0
+A : My daughter keeps taking mine. Let me know if there are any sales. 0
+
+1 0

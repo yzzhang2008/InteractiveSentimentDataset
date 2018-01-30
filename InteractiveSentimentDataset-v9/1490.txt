@@ -1,0 +1,8 @@
+A : Mom, could you drop me off at the mall? 0
+B : Are you going alone? 0
+A : No. I'm meeting Olivia there. 0
+B : Ok. How long do you want to stay there? 0
+A : Just a couple of hours. 0
+B : I'll pick you up at 4 o'clock. We're having dinner with your grandparents at 5. 0
+
+0 0

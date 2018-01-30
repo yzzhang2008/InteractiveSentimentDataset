@@ -1,0 +1,14 @@
+A : I have to do some shopping. 0
+B : What are you going to look for? 0
+A : I'm trying to buy a new bedroom set. 0
+B : What store are you going to? 0
+A : I'm not sure. -1
+B : You don't know? 0
+A : I have no idea where to find one. -1
+B : Would you like me to tell you where I got mine. 1
+A : I would appreciate that. 1
+B : I went to get mine from IKEA. 0
+A : Is the furniture at IKEA cheap? 0
+B : They're not cheap, but neither is their furniture. 1
+
+0 1

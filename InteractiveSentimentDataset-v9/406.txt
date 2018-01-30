@@ -1,0 +1,8 @@
+A : I can't understand why everyone wants to see this movie. -1
+B : It's really funny. 1
+A : It's not funny at all. -1
+B : Have you seen it? 0
+A : Yes. It was boring. -1
+B : You don't have a sense of humor. -1
+
+-1 -1

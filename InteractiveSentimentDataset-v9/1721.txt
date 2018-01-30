@@ -1,0 +1,12 @@
+A : I haven't told you what happened yet, have I? 0
+B : I haven't heard anything. 0
+A : My boss offered me a promotion, and I took it. 1
+B : Are you serious? 0
+A : Yes, I am really excited. 1
+B : That's great. Congratulations. 1
+A : I appreciate that. 1
+B : You have no idea how happy I am for you. 1
+A : For real? 0
+B : I believe you were the best choice for that promotion. I really do. 1
+
+1 1

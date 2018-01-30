@@ -1,0 +1,10 @@
+A : How does it look? 0
+B : It's a perfect fit. 1
+A : Let me pay for it now. 0
+B : Cash, credit card, or debit card? 0
+A : I think I'll use my credit card. 0
+B : Your signature here, please, and we're finished. 0
+A : Here's my John Hancock. 0
+B : Bye-bye. Visit us again soon! 1
+
+0 1

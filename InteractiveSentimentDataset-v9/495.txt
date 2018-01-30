@@ -1,0 +1,14 @@
+A : How are you doing today? 0
+B : Great. Thanks. 1
+A : What can I do for you today? 0
+B : I just have one question. 0
+A : What's your question? 0
+B : How do I order checks? 0
+A : You can order them right now, if you'd like. 0
+B : That would be great. 1
+A : Just fill out this application. 0
+B : Then what? 0
+A : Give it about 5 to 7 business days, and you should receive them in the mail. 0
+B : Here's my application. Thanks for your help. 1
+
+0 1

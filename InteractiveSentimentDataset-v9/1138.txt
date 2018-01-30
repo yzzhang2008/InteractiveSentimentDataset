@@ -1,0 +1,8 @@
+A : You look like you're fuming. What's going on? -1
+B : The boss is being unreasonable! He flared up at me, making a mountain out of molehill! -1
+A : What's the molehill he made a mountain out of? 0
+B : I only made a few more copies, and I didn't think it was any big deal, but he blew up at me! -1
+A : Well, he has been under a lot of pressure recently. The company has been losing money and he's been a little bit depressed. -1
+B : Well, I know he has the blues, but it doesn't mean he can vent his anger on me. -1
+
+-1 -1

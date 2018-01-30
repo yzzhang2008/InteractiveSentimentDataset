@@ -1,0 +1,14 @@
+B : I would appreciate it if you could go to the store for me. 1
+A : No problem. What do you want me to get? 1
+B : Here's a list with a few things that I need you to get. 0
+A : Did you forget to put anything on the list? 0
+B : I don't think I forgot anything. 0
+A : Would you like me to go anywhere else for you? 0
+B : No, that is everything I need. 0
+A : Has your prescription been filled yet? 0
+B : Someone at the pharmacy called and told me it was ready. 0
+A : Sure, I'll go get it for you. 1
+B : Thank you. 1
+A : Anything for you. 1
+
+1 1

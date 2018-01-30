@@ -1,0 +1,8 @@
+A : I've had a bad morning. -1
+B : What happened? 0
+A : I had a very difficult customer. -1
+B : What did the customer do? 0
+A : She was screaming at me and not listening to anything I was saying. -1
+B : Those are the worst customers. -1
+
+-1 -1

@@ -1,0 +1,20 @@
+A : Hi, Tom. This is Hannah from apartment 4C. 0
+B : Oh, hi, Hannah. 1
+A : There is something wrong with my garbage disposal. -1
+B : Exactly what's going on? 0
+A : When I turn on the disposal switch, all I get is silence. -1
+B : When did this happen? 0
+A : Well, about a week ago is when it started sounding strange. 0
+B : Did you accidentally drop something in the disposal? 0
+A : No. I only use it about once a week. I hardly ever put anything into it. -1
+B : Actually, I've heard that too little use is bad for a disposal. -1
+A : Well, no one ever told me that. -1
+B : Did you try to turn it with the disposal key? 0
+A : I don't have a key. -1
+B : Well, I've got a spare key, so I'll come over to show you how to use it. 0
+A : Okay, come on over now, and show me how to use it. 0
+B : If the key doesn't work, I'll have to call the repairman. -1
+A : Well, if it doesn't work, it's no big deal. 0
+B : Yes, but if something's broken, I like to get it fixed ASAP. 0
+
+0 0

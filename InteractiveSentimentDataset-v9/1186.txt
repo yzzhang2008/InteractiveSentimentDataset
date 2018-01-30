@@ -1,0 +1,14 @@
+A : Could I meet with you to discuss the project? 0
+B : Good idea. We could meet on Monday or Tuesday. Which day would you prefer? 0
+A : Tuesday would be good for me. 1
+B : OK. Do you think we should meet in the morning or in the afternoon? 0
+A : I think the afternoon would be best. 1
+B : That will work out. I will e-mail the exact time tomorrow. I need you to bring your plans with you. 0
+A : Yes, I will bring my plans with me to the meeting. 0
+B : Should we invite the whole committee or should we just have the sub-committee there? 0
+A : I feel that the whole committee needs to be there. 0
+B : Yes, I agree. We'll make sure that they get notified. Can you find the meeting place? 0
+A : Yes, I know how to get there on my own. 0
+B : Great! We will send you all the details later. Looking forward to meeting with you! 1
+
+0 1

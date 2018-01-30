@@ -1,0 +1,20 @@
+A : Hi B. Did you get a new car? 0
+B : Hi A. No, this is a rental car. I was in an auto accident yesterday. 0
+A : Are you ok? 0
+B : Yeah. My back hurts a little, but luckily I wasn't seriously injured. 1
+A : Did you go to the hospital? 0
+B : Yeah. I went there this morning. The doctor took some did x-rays. Nothing is serious. I just have some bruises. -1
+A : I'm glad you are ok. Was there another car involved? 1
+B : Yeah, the other driver rear-ended me at a red light. -1
+A : Wow! Is he or she ok? 0
+B : Yeah. He seemed ok at the scene. 1
+A : This could've been a serious accident. -1
+B : I know. We were both lucky. 1
+A : Where is your car? Is it getting fixed? 0
+B : No. It's too damaged to be repaired. It's at the junkyard now. -1
+A : That's terrible. Is your insurance going to pay for a new car? -1
+B : Well, it was the other driver's fault, so his insurance is going to take care of it. 0
+A : That's good. Are you going to buy the same type of car? 1
+B : I think so. I loved that car. It protected me in this accident. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : Are you almost finished with my hair? 0
+B : I'm almost finished. 0
+A : How much longer is it going to be? 0
+B : I'm done now. Do you like it? 0
+A : I absolutely love it. 1
+B : You really like it? 0
+A : Yes, I truly do. 1
+B : I'm glad you like it. 1
+A : How much do I owe you? 0
+B : It's going to be $55. 0
+A : Here you go, thanks for everything. 1
+B : Make sure and come back in a couple of weeks. 0
+
+1 1

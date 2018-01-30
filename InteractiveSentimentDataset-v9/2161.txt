@@ -1,0 +1,14 @@
+A : I'm reporting from Channel 5 News. 0
+B : How are you doing? 0
+A : I want to ask you a couple questions. 0
+B : Go for it. 1
+A : Have you voted yet? 0
+B : I voted this morning. 0
+A : Who was your vote for President? 0
+B : I can't tell you that. 0
+A : Why can't you tell me? 0
+B : That is private information. 0
+A : I see. 0
+B : All I can tell you is our next President got my vote. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : I was looking for the Resume Writing Workshop. 0
+B : You came to the right spot. Come on in and join us! 1
+A : I am not really sure that I remember how to even put a resume together. 0
+B : I am here to show you how to put together the perfect resume. It will turn out great! 1
+A : How do we get started? 0
+B : We need to put our name and contact information across the top. 0
+A : Then what? 0
+B : You can list your education at the top, or choose your job experience to be there if it is more impressive. 0
+A : Could I list my interests and special skills next? 0
+B : I think that that would work out quite well as an ending for your resume. 1
+
+0 1

@@ -1,0 +1,6 @@
+A : How often do you eat out, B? 0
+B : Well, very often.  I eat out almost five times a week. 0
+A : Wow, I really envy you. +1
+B : Don't envy me.  It's for business.  In fact, I'm sick and tired of restaurant food.  Sometimes I just want a home-cooked meal. -1
+
+1 -1

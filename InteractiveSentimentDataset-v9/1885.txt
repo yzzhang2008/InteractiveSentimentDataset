@@ -1,0 +1,14 @@
+A : Were you going to take some classes next semester? 0
+B : Of course! 1
+A : Which ones? 0
+B : I need to take another English and math class. 0
+A : That's it? 0
+B : I think I may also sign up for a psych class. 0
+A : Is the psychology class for your major? 0
+B : That class will count toward my GE and my major. 0
+A : You're just trying to finish your GE? 0
+B : I need to finish these classes for now. 0
+A : I don't understand why you're only working on your GE classes. 0
+B : Because I can't transfer until I finish those classes. 0
+
+0 0

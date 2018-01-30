@@ -1,0 +1,12 @@
+A : I think that I would enjoy living here, but I would like to make improvements. 1
+B : What would make this apartment better for you? 0
+A : I think that it would look better with a better quality carpet. 1
+B : You can have a different carpet, but you have to pay more if it costs more. 0
+A : How much more would it cost to upgrade? 0
+B : It could vary quite a bit, between 2 and 10 dollars per square yard. 0
+A : Do you think that I could have a different paint color in my apartment? 0
+B : I have to see a sample. Bring me one this week, please. 0
+A : How long will it take for my new apartment to be ready? 0
+B : Both the new paint and new carpet will be finished by next week. 0
+
+0 0

@@ -1,0 +1,8 @@
+A : Where is my backpack? 0
+B : I don't know. Where did you leave it? 0
+A : I just put it on the chair a while ago, but now it's gone. -1
+B : Are you sure? 0
+A : Of course, I'm sure! I bet someone stole it. -1
+B : Well, you should've kept an eye on it. 0
+
+-1 0

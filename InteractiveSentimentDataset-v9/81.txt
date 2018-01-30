@@ -1,0 +1,12 @@
+A : I want to return this radio. 0
+B : Okay. Do you have your receipt? 1
+A : I'm sorry, but I lost it. -1
+B : I'm sorry, but store policy requires a receipt. -1
+A : But I bought it yesterday. 0
+B : Maybe you can find the receipt if you look harder. 1
+A : Can I talk to a supervisor? 0
+B : May I suggest customer service, upstairs? 0
+A : That sounds good. I'll take the elevator right now. 1
+B : Good luck. 1
+
+1 1

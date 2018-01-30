@@ -1,0 +1,6 @@
+A : You type fast! 1
+B : Yup. I'm not boasting, but I type 80 words per minute. 1
+A : Really? I wish I could type that fast. I use the hunt and peck method. You know, I look for the key I want and then I hit it with one finger. I just can't seem to get my hands to move any faster than that. 0
+B : Well, there's no trick to typing quickly. You just need to practice. Once you get the hang of it, you'll find that it's really not as difficult as you think. In fact, it just becomes instinct to know what to do at the keyboard. But if you don't practice, it will never come naturally. 0
+
+1 1

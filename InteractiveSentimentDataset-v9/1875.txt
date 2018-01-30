@@ -1,0 +1,14 @@
+A : Are you going to transfer? 0
+B : Yes, I'm going to transfer. Are you? 0
+A : Yes. I want to transfer. 1
+B : What school do you want to transfer to? 0
+A : Either CSULA or UCLA. 0
+B : Either school would be a great choice. 1
+A : Where are you going to transfer to? 0
+B : I don't know. 0
+A : You have plenty of time to think about it. 0
+B : You're right. 0
+A : Good luck figuring it out. 1
+B : I'll figure it out eventually. 1
+
+1 1

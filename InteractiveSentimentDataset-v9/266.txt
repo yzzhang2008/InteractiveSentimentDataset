@@ -1,0 +1,14 @@
+A : Good morning. I had some questions about the fumigation letter we received. -1
+B : I am here to answer your questions. What do you need clarification on? 1
+A : Will I have to find somewhere else to go on that day? 0
+B : You cannot stay in your apartment for 36 hours while it is being fumigated. -1
+A : Are you going to pay us for the hotel room you mentioned in your letter? 0
+B : The rooms have already been reserved and paid for. 1
+A : If I don't like that hotel, can I stay somewhere else? 0
+B : I got a great deal at this hotel, but you can choose a room of equal or less value at another hotel. 1
+A : I have my pets to think of and I'd rather stay with my parents. 0
+B : You will be given fifty dollars for the night. 0
+A : What else do we need to think about? 0
+B : The letter also tells you about storing and removing your food. 0
+
+0 0

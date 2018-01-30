@@ -1,0 +1,8 @@
+A : Pardon me. Is this dress on sale? 0
+B : Actually, the sale ended yesterday. -1
+A : You know, it's only one day later. How about giving me the sale price? 1
+B : I'm sorry, but I can't change the price that's in the computer. -1
+A : Let me think about it. Maybe I'll wait until the next sale. 0
+B : Take a look around. Maybe you'll see something else you like. 0
+
+0 0

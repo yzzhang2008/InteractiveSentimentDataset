@@ -1,0 +1,12 @@
+A : I think I want the blue car instead. 1
+B : I thought we agreed to buy the red one. 0
+A : I like the blue one better. 1
+B : You always change your mind. 0
+A : This is an expensive purchase. 0
+B : What if you change your mind again after we buy it? 0
+A : I promise I won't change my mind. 1
+B : Ok. Let's buy the blue one. 1
+A : Are you sure? What is wrong with the red one? 0
+B : Nothing. You said you wanted blue. 0
+
+1 0

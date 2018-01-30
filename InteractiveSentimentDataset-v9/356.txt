@@ -1,0 +1,16 @@
+A : Do you plan your personal financial? 0
+B : Do you mean saving money? 0
+A : Yes it can be. 1
+B : Hmm¡­I spend all of my money for living cost. But I also set aside for insurance. 0
+A : What insurance do you buy? 0
+B : Personal accident insurance. 0
+A : Is it important to buy a personal accident insurance? 0
+B : I think so for me, since I work as a taxi driver, so I have more risks for an accident. -1
+A : I see. How much is the premium? 0
+B : I must pay Rp. 200.000,- monthly. 0
+A : Do you trust the insurance company? 0
+B : Yes I do. Some of my relatives got their compensation when they got accident. 1
+A : Is it complicated to settle the claim? 0
+B : As long as you complete all of the documents needed, I think the insurance will pay you. 1
+
+0 1

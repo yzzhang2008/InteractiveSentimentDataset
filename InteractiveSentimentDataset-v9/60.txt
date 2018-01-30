@@ -1,0 +1,8 @@
+A : Where can I buy an inexpensive cashmere sweater? 0
+B : Maybe you should look around for an outlet. 0
+A : That is a wonderful idea. 1
+B : Outlets have more reasonable prices. 1
+A : Thank you for your help. 1
+B : No problem. Good luck. 1
+
+1 1

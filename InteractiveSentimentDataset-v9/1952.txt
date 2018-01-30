@@ -1,0 +1,14 @@
+A : I need to fly to New York. 0
+B : When are you going? 0
+A : During the Christmas holidays. 0
+B : You'd better buy your ticket now. 0
+A : You must be kidding. -1
+B : No, I'm not. It's March. Time is running out. Seats are selling out right now. 0
+A : I thought I would wait until October. -1
+B : I'll bet this is the first time you've ever flown during Christmas. 0
+A : You're right. 0
+B : Well, listen to me. You need to buy a ticket now. 0
+A : But maybe prices will be cheaper in October. -1
+B : Cheaper prices won't do you any good if there are no seats. 0
+
+-1 0

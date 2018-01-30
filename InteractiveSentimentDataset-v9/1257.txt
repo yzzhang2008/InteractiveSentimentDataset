@@ -1,0 +1,12 @@
+A : Our deadline is Monday. 0
+B : We still have much more work to do. -1
+A : Let's divide the work this weekend. 0
+B : Great idea. I'll take half of it home. 1
+A : Ok. I'll take the other half home. 1
+B : We can email each other what we finish and review it together. 0
+A : That should make things go faster. 1
+B : Do you think we'll finish by Monday? 0
+A : I think if we divide the work, we will finish by Monday. 0
+B : Ok. Let's get to work. 1
+
+1 1

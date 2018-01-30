@@ -1,0 +1,12 @@
+A : Hello, Betty speaking. 0
+B : Hey, Betty. This is Larry. Tell me how many smoke detectors you have, please. 0
+A : This apartment came with one, and I installed another one. 0
+B : Are there fresh batteries in each of them? 0
+A : Each detector beeps when the battery is low. They're not beeping. 1
+B : Good. I'm calling all the tenants because I have to check all the detectors. 1
+A : Okay, What day were you thinking about dropping by? 1
+B : I'll be at your building at noon on Thursday. If you're not there, I'll let myself in. 0
+A : If you're thirsty, you can grab a beer or soda out of my frig. 1
+B : Thanks, but it'll only take me about two minutes to test them and leave. 1
+
+1 1

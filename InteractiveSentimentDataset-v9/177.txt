@@ -1,0 +1,14 @@
+A : Are you still looking for an apartment? 0
+B : Who said I was? 0
+A : One of our friends let me know. 0
+B : Why'd you want to know? 0
+A : I found an apartment for lease. 0
+B : So what? 0
+A : I wanted to know if you would sublease the apartment with me. 0
+B : That would be great! 1
+A : That's great, because this way we can go halves on the rent. 1
+B : What's rent? 0
+A : It's $1,000 each month, but it'll only cost us $500 a month each. 1
+B : I like the sound of that. 1
+
+1 1

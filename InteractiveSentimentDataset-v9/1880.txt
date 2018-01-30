@@ -1,0 +1,14 @@
+A : What classes have you taken so far? 0
+B : I've been working on my GE classes. 0
+A : Is that all? 0
+B : That's it for right now. 0
+A : What about your other classes? 0
+B : I'm working towards transferring schools. 0
+A : Which classes have you finished already? 0
+B : I've finished all my English and math classes. 0
+A : How many classes do you have left for your GE? 0
+B : Only three. 0
+A : That's amazing. 1
+B : I'm almost ready to transfer. 1
+
+1 1

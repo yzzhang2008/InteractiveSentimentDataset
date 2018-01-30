@@ -1,0 +1,11 @@
+A : Do you know anyone who's had plastic surgery? 0
+B : You mean like a breast enlargement? I don't think that's really necessary. That's not the way a woman should stay attractive. -1
+A : Why not? Why can't we go back to the way things were? 0
+B : Because! I don't know! But, A, you wouldn't do that, would you? -1
+A : Darned right I would! -1
+B : Maybe make-up would be enough? 0
+A : Come on, B. Be open-minded! Look at my eyes! They're puffy. And my eyebags, they're dark and loose and full of lines and circles. I really hope surgery can wipe out the tired feelings. -1
+B : What would other people think? 0
+A : I don't care what other people think. I'm ready for a lift. 0
+
+-1 0

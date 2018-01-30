@@ -1,0 +1,8 @@
+A : Do you know where I can park? 0
+B : Do you need a spot here or off campus? 0
+A : I want a space on campus. 0
+B : There's a parking structure for students. 0
+A : Where can I find it? 0
+B : Go to the western side of the campus, and you'll find it there. 0
+
+0 0

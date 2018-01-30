@@ -1,0 +1,12 @@
+A : I have an emergency. I spilled coffee on my dress and I need it dry cleaned as soon as possible. -1
+B : When do you need it? 0
+A : Tonight. 0
+B : That is very short notice. We have a lot of customers this week. -1
+A : It is my wedding anniversary and I would really like to wear this dress. 1
+B : Wow! That is a big stain. -1
+A : I am desperate. I will pay extra. -1
+B : You have been a good customer for many years. I will do it for no extra charge. 1
+A : Thank you so much! I will tell all of my friends about this place. 1
+B : Thank you, too. It will be ready by 4 PM. 1
+
+1 1

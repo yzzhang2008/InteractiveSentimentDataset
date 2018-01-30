@@ -1,0 +1,12 @@
+A : Hi, I am looking for a woman named Mia. 0
+B : I think I am who you are looking for. You have got to be Rubin, then. 0
+A : That would be me! 1
+B : Rubin! Karen and Mike have spoken about you so often that I feel like I've met you before. 1
+A : I hope that what they had to say was mostly good! 1
+B : They only said wonderful things about you. You did a good job of finding me. 1
+A : Finding the beautiful woman in a red dress next to the fountain wasn't all that hard. 1
+B : Yes, I guess it was a choice of me or the pigeons! 1
+A : I was hoping that we could take a walk down the street to my favorite cafe. 1
+B : Lunch sounds great! Let's head on out! 1
+
+1 1

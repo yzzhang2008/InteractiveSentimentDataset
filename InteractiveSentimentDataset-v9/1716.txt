@@ -1,0 +1,9 @@
+A : I wasn't really feeling well. -1
+B : What was wrong with you? 0
+A : My stomach was upset. -1
+B : Do you feel better now? 0
+A : I don't really feel too well yet. -1
+B : Do you want anything to make you feel better? 0
+A : No, thanks. I already took some medicine. 0
+
+-1 0

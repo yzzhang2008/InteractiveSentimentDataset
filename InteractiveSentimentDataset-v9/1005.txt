@@ -1,0 +1,14 @@
+A : So, what's on the menu for dinner tonight? 0
+B : You tell me. 0
+A : You're not going to make anything to eat? 0
+B : You never cook. I always do. -1
+A : I think you're a better cook than I am. 1
+B : Oh please, you need to cook tonight. -1
+A : So you're telling me that you want me to make dinner? 0
+B : It was a hard day. Can you just do this for me tonight? -1
+A : I'll cook dinner, don't worry. 1
+B : I'm going to go rest for a little bit. 0
+A : I'll come wake you when it's ready, okay? 0
+B : Thanks. 1
+
+1 -1

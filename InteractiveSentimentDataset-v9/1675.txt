@@ -1,0 +1,14 @@
+A : Did you go to the 99 Cents store? 0
+B : Yes, I did. 1
+A : What did you buy? 0
+B : Well, I got a lot of good deals, as usual. 1
+A : Like what? 0
+B : Well, a dozen large eggs were only 99 cents. 0
+A : That's a good deal. 1
+B : And a one-pound tub of soft butter was the same price. 0
+A : Another good deal. 1
+B : But the best deal was five pounds of potatoes for 99 cents. 1
+A : I don't know how that store makes money. -1
+B : Neither do I, but they're doing something right. 1
+
+0 1

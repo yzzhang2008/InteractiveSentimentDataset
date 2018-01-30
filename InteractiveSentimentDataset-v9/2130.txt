@@ -1,0 +1,14 @@
+A : Are you planning on voting? 0
+B : Yes. What about you? 0
+A : Yes, but this will be my first time voting. 0
+B : Really? 0
+A : Yes, and I have no idea how to do it. -1
+B : Voting is simple. 1
+A : I don't know any of the laws they're trying to pass. -1
+B : That's okay. They describe everything on the ballot. 1
+A : I didn't know that. 0
+B : Don't worry. You'll be fine. 1
+A : That's good to know. 1
+B : Congratulations on your first voting day. 1
+
+1 1

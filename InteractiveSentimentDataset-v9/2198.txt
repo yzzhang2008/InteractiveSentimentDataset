@@ -1,0 +1,22 @@
+A : Hey Paul, have you been working out? 0
+B : Hey David. Yeah, I've been going to the gym every day before work. 0
+A : I need to go too, but I'm so lazy now. -1
+B : I needed to lose a few pounds. That's what motivated me. Now, I just like going. 1
+A : I need to lose some weight too. I gained around 20 pounds this year. -1
+B : You did? Why don't you come with me tomorrow morning? 1
+A : What time do you go in the morning? 0
+B : 5 am. I work out for about an hour. 0
+A : 5 am? That's too early. 0
+B : You should try it. It feels great to work out early in the morning. 1
+A : I'm asleep at 5 am. 0
+B : I'll wake you up tomorrow morning. We can start slow by doing just a little running on the treadmill. 0
+A : I hate running. -1
+B : Ok, how about lifting weights? 0
+A : I don't have the strength to lift weights. -1
+B : Ok. How about aerobics? 0
+A : That's too much jumping around? -1
+B : Yoga? 0
+A : Too boring. -1
+B : You're right, David. You're too lazy to work out. -1
+
+-1 -1

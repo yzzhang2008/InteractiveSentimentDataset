@@ -1,0 +1,14 @@
+A : Hi. I wanted to talk to you about the letter we received about fumigating the building. 0
+B : Yes, I would be happy to help you with that. What do you need to know? 1
+A : Do we have to leave our apartment on the day they do it? 0
+B : You will have to vacate your apartment for a 36-hour period. -1
+A : Will you be paying for our hotel room? 0
+B : Yes, I will be paying for all the rooms. 1
+A : What if I want to stay at a different hotel? 0
+B : I received a group rate at this hotel, but I will pay the equivalent price if you bring me a receipt. 1
+A : What if I stay with friends? 0
+B : If you do not stay in a hotel, I will give you fifty dollars for the inconvenience. -1
+A : Is there anything else we have to do? 0
+B : Yes, your letter also mentions what food you need to remove. 0
+
+0 0

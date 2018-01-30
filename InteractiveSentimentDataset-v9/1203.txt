@@ -1,0 +1,12 @@
+A : I was thinking of holding the company retreat in the mountains. 0
+B : I agree, I think that that would be perfect! 1
+A : I was thinking it could take place sometime in January. 0
+B : That might be a little too cold for some people. 0
+A : Yes, you are right. 0
+B : What about April? April has good weather that isn't too cold or too hot. 1
+A : Yes, that would work out better. 1
+B : You know, maybe we could take a survey to see how that works for everyone. 0
+A : Good idea! We'll have to get right on it. 1
+B : Fine! Well, I'll get right on it now! 1
+
+1 1

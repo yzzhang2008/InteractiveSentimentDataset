@@ -1,0 +1,8 @@
+A : We have a lot to do on this presentation. 0
+B : I know. Should we divide the work? 0
+A : That's a good idea. I'll outline what needs to be done. 1
+B : Ok. I'll work on the presentation style. 1
+A : Great! 1
+B : We make a good team. 1
+
+1 1

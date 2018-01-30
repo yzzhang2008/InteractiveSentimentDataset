@@ -1,0 +1,6 @@
+A : I'm looking for the produce section, please. 0
+B : All of the produce is in aisle A. 0
+A : Are bananas on sale today? 0
+B : Here you go. Look in this flyer, or check with the produce person. 1
+
+0 1

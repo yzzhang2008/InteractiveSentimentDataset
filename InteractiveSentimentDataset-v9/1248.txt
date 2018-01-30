@@ -1,0 +1,16 @@
+A : What happened, Mark? 0
+B : A tree fell during the windstorm and hit my house. -1
+A : Wow! Is everyone ok? 0
+B : Yes. Luckily, we weren't home at the time. 0
+A : Yes, you are very lucky! 1
+B : I know. It was the big tree in our yard. 0
+A : I can't believe it! Will insurance cover the repair costs? -1
+B : I hope so. I'm waiting for the insurance guy to come right now. 0
+A : What are you going to do? DO you have a place to stay while your house gets fixed? 0
+B : Yeah, we're going to stay at my parents' house. They don't live far from here. 0
+A : That's good! 1
+B : I really liked that tree. It was so big and beautiful. And, now it's in my living room. 1
+A : You're a strong man if you can joke about it. 1
+B : Well, if I don't laugh, I'll cry. 0
+
+1 0

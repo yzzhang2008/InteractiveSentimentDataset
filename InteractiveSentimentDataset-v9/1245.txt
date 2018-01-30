@@ -1,0 +1,22 @@
+A : Hi Greg. What are you working on? 0
+B : Hi Alan. I'm doing some extra credit to improve my grade in History class. 0
+A : What grade are you getting right now? 0
+B : C. 0
+A : That's not too bad. 0
+B : It's an average grade. I want to get a better grade. 0
+A : I understand. What is the extra credit homework? 0
+B : I have to write a ten-page essay on my favorite president. 0
+A : Wow. 10 pages is long. When is it due? 0
+B : I have two weeks to finish it. 0
+A : I think you can do it. Have you chosen a president? 0
+B : Yeah. I'm going to do it on Abraham Lincoln. 0
+A : That's a great choice. 1
+B : There's a lot of information here at the library. 0
+A : You can search online too. 0
+B : Yeah, I've checked out some books and printed some information from websites. 0
+A : That should be enough information. 0
+B : I have so much to read and write. I hope I have enough time. 0
+A : Well, I guess it's not supposed to be easy since it's extra credit. 0
+B : Yeah, you're right. I better stop talking and start reading. 0
+
+0 0

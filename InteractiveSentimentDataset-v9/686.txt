@@ -1,0 +1,19 @@
+A : I am so excited today! 1
+B : What's going on today? 0
+A : I'm buying my first car. 0
+B : That is exciting! 1
+A : I've been saving money for the last couple of years and now I have enough to put a down payment on a car. 0
+B : Are you going to buy a new or used car? 0
+A : A new one. 0
+B : Do you know which one you want? 0
+A : Yeah, I have a picture of it on my phone. 0
+B : That's nice! 1
+A : But I want it in blue. Blue is my favorite color. 1
+B : Make sure you negotiate a good deal. 1
+A : I know. That's my problem. I'm not good at negotiating. -1
+B : I'm great at it. Do you want me to go with you to the dealership? 1
+A : That would be awesome! 1
+B : Ok. I'll drive since you will be driving your car home today. 1
+A : Let's go! 1
+
+1 1

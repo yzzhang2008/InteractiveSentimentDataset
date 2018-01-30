@@ -1,0 +1,14 @@
+A : Do you have any idea why I pulled you over today? 0
+B : I'm not sure. -1
+A : One of your brake lights is out. -1
+B : Really? I'm sorry. I did not know that. -1
+A : I'm going to give you a ticket. 0
+B : Why can't you just let me off with a warning? -1
+A : It's just a ticket. -1
+B : How much is the fine? 0
+A : The judge will let you know. 0
+B : I have to be at court? 0
+A : Of course. 0
+B : All right. Just give me the ticket. -1
+
+0 -1

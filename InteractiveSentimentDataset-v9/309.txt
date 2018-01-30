@@ -1,0 +1,14 @@
+A : I have to find a living room set. 1
+B : Where are you planning on looking for one? 0
+A : I don't know. -1
+B : I can tell you where I got mine. 0
+A : Where did you go to find yours? 0
+B : IKEA has beautiful furniture. 1
+A : Does the furniture from IKEA cost a lot? 0
+B : The furniture cost a couple thousand dollars. 0
+A : How good of quality is the furniture? 0
+B : It's very sturdy. You get what you pay for. 1
+A : I don't mind paying for quality workmanship. 1
+B : I assure you that you're paying for quality. 1
+
+1 1

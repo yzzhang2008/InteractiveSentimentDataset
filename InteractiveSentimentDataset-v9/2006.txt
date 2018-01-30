@@ -1,0 +1,12 @@
+A : I would like to discuss some problems that I am having with this tour. -1
+B : I am sorry you are having a difficult time. What may I help you with? -1
+A : This tour company doesn't seem to know the town very well. We are always getting lost! -1
+B : I am sorry that that has been the case. How would you rate your accommodations? -1
+A : Our accommodations are not very pleasant. -1
+B : What don't you like about your room? 0
+A : The room was very noisy, and we couldn't get to sleep. -1
+B : That is unacceptable. Did you at least enjoy your dinner in the hotel restaurant? -1
+A : The food was horrible at the hotel restaurant, and a few of us got sick after eating there. -1
+B : I am glad that you told me about the problems. I would like you to be my guest for a free massage at the hotel spa tonight. -1
+
+-1 -1

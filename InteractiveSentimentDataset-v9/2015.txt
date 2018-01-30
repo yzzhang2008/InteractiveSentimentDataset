@@ -1,0 +1,12 @@
+A : We need to stop so I can shop for some souvenirs at the souvenir stand. 0
+B : Do you have anything in particular that you are looking for? 0
+A : I love to go clothes-shopping when I travel or buy a new piece of jewelry. 1
+B : The kids in my family love getting souvenirs. How about the children in your family? 1
+A : Everyone in my family enjoys getting treats from my travels! 1
+B : What do they like you to bring home? 0
+A : My nieces love to get little jewelry boxes like those on the top shelf. 1
+B : Things seem to cost a lot at this stand. 0
+A : You really need to shop around with souvenirs because they can vary a lot in price. 0
+B : We could walk a few more blocks away from the beach and see what the prices are like there. 1
+
+1 1

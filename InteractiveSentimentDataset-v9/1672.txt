@@ -1,0 +1,14 @@
+A : What do we need to buy? 0
+B : Let me look at our list. 0
+A : I know that we need milk. 0
+B : Nonfat. 0
+A : Of course. What else? 1
+B : We need cheese, bread, and ham. 0
+A : What kind of cheese? 0
+B : Swiss. 0
+A : Of course, the cheese with holes in it. 0
+B : I never used to buy Swiss cheese. -1
+A : Why not? 0
+B : I didn't want to pay for the holes. -1
+
+0 -1

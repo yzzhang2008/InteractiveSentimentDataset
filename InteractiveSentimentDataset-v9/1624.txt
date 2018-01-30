@@ -1,0 +1,12 @@
+A : I had a message on my phone that the buyers had responded to our counteroffer. 0
+B : Yes, the response just came through on the fax machine. 0
+A : Was the counteroffer acceptable to them? 0
+B : They made their own counteroffer of five thousand less than you proposed. 0
+A : Do you feel that their counteroffer is reasonable? 0
+B : Their offer is a good one. They also want to have a short escrow as they have already sold their home and are ready to move in. 1
+A : We can accommodate the buyer's desire for an escrow length of their choosing. 0
+B : They want their building inspector to approve the quality of the house. 0
+A : I would expect that to be the case and accept their counteroffer. 1
+B : I will contact the buyers immediately and let them know of your acceptance of their counteroffer. I am sure they will be excited! 1
+
+1 1

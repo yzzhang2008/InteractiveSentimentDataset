@@ -1,0 +1,14 @@
+A : I would like to open an account today. 0
+B : What kind? 0
+A : I want to open a checking account. 0
+B : You need to keep a minimum balance. 0
+A : How much is it? 0
+B : You need at least $100 in your account. 0
+A : Is that all? 0
+B : Yes. That's the minimum. 0
+A : What happens if I don't meet that requirement? -1
+B : You will get a fine. -1
+A : How much? 0
+B : It's going to be $25. 0
+
+-1 0

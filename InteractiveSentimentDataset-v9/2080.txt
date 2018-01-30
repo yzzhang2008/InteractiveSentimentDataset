@@ -1,0 +1,8 @@
+A : What's on the news? 0
+B : A typhoon hit China this morning. 0
+A : That's scary. Don't you have family there? -1
+B : Yes. I've been trying to call my grandmother. 0
+A : Have you talked to her? 0
+B : No. All the phone lines are down. -1
+
+-1 -1

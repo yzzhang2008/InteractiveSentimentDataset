@@ -1,0 +1,14 @@
+A : Are you going to vote? 0
+B : I am so excited to be voting. 1
+A : Do you know who you're going to vote for? 0
+B : I am so impressed with the candidate I'm going to vote for. 1
+A : What's so great about him? 0
+B : I feel that he is very intelligent. 1
+A : Oh, really? 0
+B : Yes, and I agree with all his policies. 1
+A : That's good to hear. 1
+B : I think this man is going to be the next President. 1
+A : I hope so. 1
+B : I'm going to make sure and get my vote in. 1
+
+1 1

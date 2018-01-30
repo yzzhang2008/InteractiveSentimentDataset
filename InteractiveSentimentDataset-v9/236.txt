@@ -1,0 +1,12 @@
+A : What are the rules about where I should park? 0
+B : Your assigned space is in the back where I marked it on the map. 0
+A : Can I park anywhere else in the parking lot? 0
+B : There are a few spots back there for visitors. They are unassigned. 0
+A : Where can my guests park if all of those spots are gone? 0
+B : You can park on the street, but you can get ticketed for failing to follow the rules. 0
+A : How will I know what the rules are? 0
+B : Just pay attention to street cleaning days and limits on the hours you can park out there. 0
+A : Are parking citations costly? 0
+B : Yes, parking tickets can be extremely expensive. -1
+
+0 0

@@ -1,0 +1,14 @@
+A : I called HP about my computer. 0
+B : What did they say? 0
+A : They said I need a new hard drive. 0
+B : That's too bad. How much is a new one? -1
+A : It's not too much, only about $85. 1
+B : Plus installation? 0
+A : No, my hard drive is easy to remove and replace. 1
+B : Really? 0
+A : Yes, it's just a couple of screws. 1
+B : That's nice. 1
+A : It's a lot better than paying someone $60. 1
+B : If my hard drive crashes, I'll just call you. 0
+
+1 1

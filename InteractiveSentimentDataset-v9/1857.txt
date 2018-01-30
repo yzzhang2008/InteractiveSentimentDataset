@@ -1,0 +1,10 @@
+A : Sorry, I overslept. My clock didn't go off this morning. -1
+B : Again? -1
+A : That's right, even though I did set the alarm last night. -1
+B : Your clock never works. Perhaps you should buy a new one. -1
+A : Well, if it breaks down again tomorrow, I'll definitely buy a new one. 0
+B : Maybe by then it'll be too late. -1
+A : What do you mean too late? -1
+B : By that time you'll be fired. -1
+
+-1 -1

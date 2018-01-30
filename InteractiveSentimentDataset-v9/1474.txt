@@ -1,0 +1,22 @@
+A : Hello? 0
+B : Hi Jeff. This is Carl. Have you finished the math assignment? 0
+A : No, not yet. I'm still working on it. 0
+B : It's really difficult. Are you having a hard time with it? 0
+A : I am. I've been stuck on a problem for an hour. -1
+B : Is it number 4? 0
+A : Yes! I cannot figure it out! Have you? -1
+B : No. That's why I'm calling. 0
+A : Do you want to work on it together? 0
+B : I can't come over. I'm babysitting my younger brother. -1
+A : Do you want me to go there? 0
+B : No, my parents said I cannot have any friends over when I'm babysitting. -1
+A : I see. Do you want to discuss it over the phone? 0
+B : Ok. What have you done so far? 0
+A : Nothing. I didn't know where to begin. -1
+B : Me too. I wrote some things, and then I erased it. It didn't make any sense. -1
+A : What are we going to do? 0
+B : Can you ask your parents? 0
+A : No. They're not home either. -1
+B : Let's call Lucy. She's really good in math. She'll have the answer. 0
+
+-1 -1

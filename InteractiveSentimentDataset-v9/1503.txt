@@ -1,0 +1,12 @@
+A : Have you seen the latest smartwatch? 0
+B : Yes. It's really cool. 1
+A : Do you have one? 0
+B : No. I'm thinking about getting one soon. 0
+A : How much are they? 0
+B : They are pretty expensive. -1
+A : I wish I could get one. 0
+B : Why? You never answer your calls or texts. 0
+A : If it's on my wrist, then maybe I will use it. 0
+B : You're just going to waste your money. -1
+
+0 -1

@@ -1,0 +1,12 @@
+A : This apartment is everything that I am looking for! 1
+B : Thank you. Is there any other information that you need? 1
+A : Could you tell me a little about safety features? 0
+B : Yes, we have thought of safety. What, specifically, are you interested in? 0
+A : Are your fire alarms up to code? 0
+B : In case of a fire, we have a whole building sprinkler system. In addition, every apartment has its own alarm system. 0
+A : Do you have fire extinguishers available? 0
+B : Yes, there are fire extinguishers outside your door. You might want to buy a personal one for your kitchen. 1
+A : Are the escape routes clearly posted somewhere? 0
+B : There are fire exit signs in the hallway. 0
+
+1 0

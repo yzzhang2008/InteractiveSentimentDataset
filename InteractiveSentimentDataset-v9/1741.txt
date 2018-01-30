@@ -1,0 +1,8 @@
+A : Have you gone to school today? 0
+B : I went to school today. Did you go to school? 0
+A : I couldn't go to school today, I was sick. -1
+B : That's horrible. I'd be happy to give you the assignments from English class. 1
+A : Thank you very much, that's kind of you. 1
+B : Don't mention it. 1
+
+1 1

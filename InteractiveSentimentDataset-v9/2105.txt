@@ -1,0 +1,12 @@
+A : How are things going with you? 0
+B : I am doing well. What's up with you? 1
+A : Believe it or not, the company I worked for closed down, so I'm out of a job. -1
+B : The same with me. Have you given much thought to what you want to do next? 0
+A : I am not being all that particular right now because I just need to keep a roof over my head. -1
+B : How about interviews? Have you been on any of those yet? 0
+A : I wish that I could get the opportunity to be interviewed. 0
+B : How about the electrician program that they have listed over there? 0
+A : I read about that, and the position sounded great! 1
+B : Let's go see how we can apply for those positions. 1
+
+1 1

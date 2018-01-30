@@ -1,0 +1,10 @@
+A : Do you have a second? 0
+B : Sure. What do you need? 0
+A : I'm here to buy a sweater. 0
+B : What size do you wear? 0
+A : I usually wear medium. 0
+B : What do you think about this one? 0
+A : It's nice. Where is your fitting room? 1
+B : The dressing room is in that corner. 0
+
+1 0

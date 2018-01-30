@@ -1,0 +1,19 @@
+A : Carl. Are you going to watch television all day? 0
+B : No. Is there something you want to do? 0
+A : It's a beautiful day. The sun is shining. We should do something outdoors. 1
+B : Ok. What should we do? 0
+A : Let's go to the beach. 0
+B : OK. I'll grab the beach chairs and towels. 0
+A : Great! I'll pack some snacks and drinks. Don't forget the sunscreen. 1
+B : Where is it? 0
+A : It's in the bathroom cabinet. 0
+B : Is there anything else we need to bring? 0
+A : I'll bring the camera. I want to take pictures of the sunset. 1
+B : Good idea! The sunset is beautiful at the beach. 1
+A : Do you remember the last time we went to the beach? 0
+B : No. It's been a long time. Why don't we go more often? 0
+A : Because you're always watching TV. 0
+B : Ok. Let's go to the beach when the weather is nice and watch TV when it rains. 1
+A : That's a deal! 1
+
+1 1

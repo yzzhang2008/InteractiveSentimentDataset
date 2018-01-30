@@ -1,0 +1,12 @@
+A : May I help the next person? 0
+B : Yes, I want 2kg of this sirloin (pointing through the glass). I would like it sliced thin for Chinese Fondue. Do you know how to cut it? 1
+A : (The butcher shows the large piece of meat to the customer). This piece weighs 1.85 kg. Is that close enough? 0
+B : Yes, that will be fine. Can you cut it thin please? 1
+A : (the butcher slices a piece and shows it). How is this? 0
+B : If it is possible, can you make it a little bit thinner? 0
+A : Yes, of course. 1
+B : Thank you. 1
+A : Here you are. Enjoy your dinner. 1
+B : Thank you. 1
+
+1 1

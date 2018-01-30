@@ -1,0 +1,18 @@
+A : Hey Nancy, why do you look so worried? -1
+B : Oh, hi Betty. Christine and I had a big argument and she has decided to move out. -1
+A : What did you argue about? 0
+B : I told her that she needs to help clean up around the apartment. 0
+A : What happened after you told her that? 0
+B : She got upset and said she is moving out. But it's the truth. She never helps around house. -1
+A : Yeah, that could be a problem. -1
+B : I had to say something since we're roommates and I'm tired of cleaning her mess. -1
+A : I totally understand. I like things neat and organized too. 1
+B : But the bigger problem is that she never pays her rent on time. She is late every month. -1
+A : What are you going to do? 0
+B : I need to find a roommate soon. I can't afford the rent by myself. Do you know anyone looking for a roommate? -1
+A : Yes, I do. 1
+B : Who? 0
+A : Me. 0
+B : That would be awesome! 1
+
+1 1

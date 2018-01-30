@@ -1,0 +1,8 @@
+A : B, can I have another cookie? 0
+B : How many have you had? 0
+A : Four. 0
+B : Four? That's a lot of cookies. 0
+A : They are so good. 1
+B : I know. Your mother makes the best cookies. 1
+
+1 1

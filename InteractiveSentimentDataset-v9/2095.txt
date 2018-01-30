@@ -1,0 +1,12 @@
+A : I am calling to find out why I didn't receive an unemployment check this week. 0
+B : Did you send in your Continued Claim Form for the last period? 0
+A : I think I forgot to send it in! -1
+B : You need to be very careful to send that form in every two weeks if you want to get paid. 0
+A : Can I send it in now? 0
+B : You should look at your claim form and see if it has been more than fourteen days since it was due. If it hasn't been, we will still accept it. 0
+A : Can I mail it in early next time so it isn't late? 0
+B : Actually, you cannot mail it in early, as it needs to reflect all of the information up to the due date. 0
+A : Will my paycheck come right away now? 0
+B : Your check will arrive a little late. 0
+
+0 0

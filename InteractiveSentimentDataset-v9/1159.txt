@@ -1,0 +1,14 @@
+A : What is the annual salary for this job? 0
+B : The annual salary is sixty-five thousand dollars per year. 0
+A : What does the benefits package include? 0
+B : This job pays for half of your medical, dental, and disability. 0
+A : Do we get paid time off? 0
+B : Yes. You will have three weeks each year. 0
+A : How about retirement? 0
+B : We still offer a traditional retirement plan that pays out if you stay with the company for 5 years or more. 0
+A : Can I get company provided specialized training? 0
+B : We offer full tuition reimbursement for job related classes. 0
+A : Where is the benefits office? 0
+B : It's on the second floor in Suite 201. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : So what do you think I should do to fix up the interior of my house? 0
+B : A fresh coat of paint is the number one improvement that you can make to your home. 0
+A : What colors do you think would be best? 1
+B : You need to go with fairly neutral tones. You want fairly contemporary colors that will go with a variety of furnishings. 0
+A : After paint, what is the next most important improvement that I can make? 0
+B : Remove any extra furnishings and personal items. Make your home look as uncluttered as possible. 0
+A : Should I get a new carpet? 0
+B : Your carpet is in really good shape. New owners typically want to pick out their own carpeting. 1
+A : How about improvements to the bathroom? 1
+B : New faucets are not that expensive and can quickly add a clean and more up-to-date look. 0
+
+1 1

@@ -1,0 +1,12 @@
+A : What is this eviction notice for? 0
+B : The notice you received is a 30-day notice to vacate. -1
+A : Are you kidding me? -1
+B : I mentioned to you before that you need to keep up with your rent. This notice to evict is letting you know that I mean business. -1
+A : You can't just throw me out on the street! -1
+B : You have 30 days to catch up on your rent, or a sheriff will evict you. -1
+A : Will you still throw me out if I make the rent payment? 0
+B : You can stay, but you might think about looking for a less expensive living arrangement if you are having trouble making the payments. -1
+A : I am going to take care of the rent payment right now. 1
+B : Thank you. The payment needs to be in the form of cash or a cashier's check. 1
+
+1 0

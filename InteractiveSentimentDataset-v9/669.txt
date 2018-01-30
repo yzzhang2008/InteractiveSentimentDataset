@@ -1,0 +1,12 @@
+A : I was anxious to find out what the sellers had to say about my counter-offer. -1
+B : I was able to contact them so, if you'll step into my office, we'll talk. 0
+A : Did they go with the proposed counter-offer? 0
+B : They want you to pick up the cost of the home inspection, but they accepted your offer. 0
+A : Is a home inspection very expensive? 0
+B : It can cost between five hundred and one thousand dollars. 0
+A : Do I get to choose who inspects the home? 0
+B : Yes, you get to choose. I would spend a little more to get a really thorough inspection. 0
+A : Can you call the owners with my acceptance right away? 0
+B : I am going to contact the sellers immediately. 0
+
+-1 0

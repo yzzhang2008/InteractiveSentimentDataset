@@ -1,0 +1,20 @@
+A : Are you going to Bill's retirement party? 0
+B : No. Are you? 0
+A : I don't know. I don't think many people are going. 0
+B : He isn't a very nice person and he's a mean boss. -1
+A : I know. I remember when he yelled at me for being 10 minutes late to a presentation. -1
+B : Weren't you in a car accident that morning. 0
+A : Yeah. I was pretty angry. -1
+B : He would yell at people for unnecessary reasons. -1
+A : Why is the company throwing him a retirement party? -1
+B : I don't know. I think his secretary, Mary, is planning it. 0
+A : She must be crazy. -1
+B : Maybe she is happy he is leaving, so she wants to have a party. 1
+A : That's funny. Then we should all go. 1
+B : Maybe we should. 0
+A : That's a sad way to retire. 1
+B : What is a sad way to retire? 0
+A : To retire with no one liking you. 1
+B : You're right. Maybe we should go to the party and say goodbye. 1
+
+1 1

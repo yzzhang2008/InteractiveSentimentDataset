@@ -1,0 +1,14 @@
+A : Hi, Good afternoon. My name is Ichiro Yamaguchi. This is my wife, Yoshiko. 1
+B : Nice to meet to you. My name is Ben. What can I help you with today? 1
+A : Today we would like to open an account. 1
+B : No problem, do you want to open a joint account or are you each opening a personal account? 0
+A : We want to open a joint account. 0
+B : O.K, Have you done any banking with our bank before? Do you already have an account or investments with us? 0
+A : No, We are new immigrants to Canada. 0
+B : Welcome to Canada. When did you arrive? 1
+A : Last week.　We have been very busy setting up everything. 0
+B : I hope everything is going well. Did you bring your Record of Landing and passport with you today? 1
+A : Yes, I did. 1
+B : Good. You will need to fill out this form. 1
+
+1 1

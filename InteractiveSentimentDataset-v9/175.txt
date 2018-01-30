@@ -1,0 +1,12 @@
+A : Can you tell me the best way to look for an apartment? 0
+B : The local newspaper has ads for housing. 0
+A : Is there any way to find a roommate to share an apartment with? 0
+B : Sometimes you can post an advertisement saying that you need a roommate. 0
+A : What do landlords charge for rent? 0
+B : Would you like an apartment for just yourself, or do you need it for two people? 0
+A : There are two of us, but we only need a one-bedroom apartment. 0
+B : You should be able to easily find that for twelve hundred dollars a month. 1
+A : I really would appreciate it if you could come look at apartments with me. 1
+B : Sure, I'll go look at apartments with you anytime you want. 1
+
+1 1

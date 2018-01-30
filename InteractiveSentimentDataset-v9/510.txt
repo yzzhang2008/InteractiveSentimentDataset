@@ -1,0 +1,14 @@
+A : Can I help you with something? 1
+B : I need to cancel one of my accounts. 0
+A : Is there a problem with it? 0
+B : I don't need it anymore. -1
+A : What would you like to do with all the money in this account? 0
+B : Just transfer it over to my remaining account. 0
+A : I can do that. 1
+B : That would be great. 1
+A : Do you want to take any money out? 1
+B : Not today. 0
+A : It's going to take a moment for me to cancel your account. 1
+B : That's fine. Take your time. 1
+
+1 1

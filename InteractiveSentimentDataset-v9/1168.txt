@@ -1,0 +1,13 @@
+A : I need help in ordering my office supplies. 0
+B : You can print out a copy of the Order Supply Form from our company web site and turn it into me. What will you be needing? 0
+A : I need ink cartridges, staples, and Post-its. 0
+B : Will you need all of them right away or can some wait? 0
+A : Some of these can wait but there are a few things that I need right away. 0
+B : You can only buy supplies that you have a budget for. Do you know what your budget is? 0
+A : We have plenty of money for office supplies. 0
+B : You can pick these supplies up or they can be delivered to your building. Which would you prefer? 0
+A : I want to pick them up. 0
+B : Well, just finish the request and we will contact you when the supplies come in. 0
+A : OK. 0
+
+0 0

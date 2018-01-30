@@ -1,0 +1,14 @@
+A : I'm really happy that you came to visit me. 1
+B : I really missed you a lot. 1
+A : I've been missing you like crazy. 1
+B : I don't understand why you haven't come to visit me. 0
+A : Lately, I've been quite busy. -1
+B : Tell me what you've been up to. 0
+A : I've really been working a lot lately. 0
+B : I've been pretty busy myself. -1
+A : So what have you been up to? 0
+B : I've just been working a lot. 0
+A : Whatever the reason may be, I'm glad you visited me. 1
+B : I'm glad I did too. 1
+
+1 1

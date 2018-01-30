@@ -1,0 +1,14 @@
+A : My laptop is so slow. -1
+B : Buy a new one. 0
+A : I would if I had the money. -1
+B : Why is it so slow? 0
+A : That's a good question. 0
+B : Did you take it to a computer shop? 0
+A : I would if I had the money. -1
+B : Well, I guess you have to live with it. 0
+A : Sometimes I want to throw it out the window. -1
+B : You don't want to do that. -1
+A : Why not? -1
+B : You might hit someone in the head. -1
+
+-1 -1

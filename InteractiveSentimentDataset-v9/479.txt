@@ -1,0 +1,16 @@
+A : Hi. How can I help you? 0
+B : I need to mail this package to Italy. 0
+A : What is in the package? 0
+B : Some toys and baby clothes. 0
+A : Are there any breakables? Is it fragile? 0
+B : No. -1
+A : What is the address? 0
+B : I have it here. 0
+A : Please fill out this form. Print clearly. 0
+B : Ok. When will my package arrive? 0
+A : It depends on your shipping choice. 0
+B : I would like your fastest shipping. 1
+A : It will be there in one week. 0
+B : Great! That's perfect. 1
+
+0 1

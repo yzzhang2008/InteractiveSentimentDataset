@@ -1,0 +1,10 @@
+A : Have you attended school today? 0
+B : I attended school today. Did you? 0
+A : I wasn't able to attend school because I was feeling ill. -1
+B : I'm sorry to hear that. Would you like the assignments from English class? -1
+A : I would really appreciate that, thanks. 1
+B : It's no trouble at all. 1
+A : If you get sick, I'll return the favor. 1
+B : Thanks. See you at school tomorrow if you feel better. 1
+
+1 1

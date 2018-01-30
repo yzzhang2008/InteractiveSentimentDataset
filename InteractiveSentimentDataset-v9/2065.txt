@@ -1,0 +1,12 @@
+A : Come on in. 0
+B : Hello, Kate. I’m Takeshi’s mother. 0
+A : How are you? 0
+B : I’m fine, and you? 1
+A : Great, thanks. Takeshi is getting along well with other children and he seems happy here. 1
+B : That’s nice to hear, he has really enjoyed coming to this school, thank you for all your hard work. Unfortunatley, my husband was transferred to Toronto and we have to move there in 1 month. 1
+A : Oh, that's too bad, but I imagine you are excited about the move and the new opportunity for your husband. What will be the last day at nursery school for takeshi? 0
+B : It’ll be on May 29. Here is the letter for withdrawing from school. 0
+A : We will miss him. He is so adorable and well behaved. I hope everything will go well in Toronto. Take care of yourself. 1
+B : Takeshi had a great time here. Thank you very much, Kate. 1
+
+1 1

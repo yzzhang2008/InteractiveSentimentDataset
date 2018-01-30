@@ -1,0 +1,12 @@
+A : I haven't traveled much and need to know what I can carry in my luggage. 0
+B : There are different considerations. You have to consider airline rules and rules for customs. 0
+A : How do I find out about each country's Customs regulations? 0
+B : You can go to a website for the particular country you are interested in. 0
+A : Is there anything that I should keep in mind for all countries? 0
+B : Do not ever lie about what you are carrying in your luggage. If you get caught, there is a major fine just for lying. 0
+A : How about regulations for what you can carry on an airline? 0
+B : The Internet is a good source for special regulations for particular airports and airlines. 1
+A : I heard that I can't bring my own bottled water on the plane. 0
+B : You can buy water at the airport once you pass luggage inspection. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : I got a message on my machine that you received an offer on my house. 0
+B : Yes, the offer came in late last night. It was too late to call you. 0
+A : Is the offer as high as we were hoping for? 0
+B : They offered two hundred eighty thousand dollars, and you were asking three hundred thousand dollars. They are definitely in the ballpark. 0
+A : I was prepared to go a little lower, but more like two hundred ninety thousand dollars. 0
+B : Would you like to make a counteroffer of two hundred ninety thousand dollars? 0
+A : I definitely would like to make a counteroffer. 1
+B : I will FAX them the counteroffer right away. 0
+A : What if my counteroffer gets turned down? 0
+B : They have an option of making a counteroffer, or they can just reject your counteroffer. 0
+
+0 0

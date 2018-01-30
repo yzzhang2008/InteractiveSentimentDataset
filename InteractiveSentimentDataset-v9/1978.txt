@@ -1,0 +1,12 @@
+A : I have never arrived at this airport before and need to know where to go next. 0
+B : Go to the end of the walkway, down the stairs, and to the right. 0
+A : Do we need to clear Customs before we go get our bags? 0
+B : You will clear Customs and Immigration when you have picked up your luggage. 0
+A : What do I need to have out when I pass through Customs? 0
+B : Make sure that your passport is out and that your Declarations form is complete. 0
+A : My seatmate here is traveling through to Canada, and I told her that she probably doesn't have to clear Customs. 0
+B : People who are not entering the United States should go to the left and follow the directions given to them. Their bags are already routed through to their final destination. 0
+A : Can we use the restrooms before we clear Customs? 0
+B : Yes, there is one right over there especially for this area. 0
+
+0 0

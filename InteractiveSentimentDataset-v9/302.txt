@@ -1,0 +1,10 @@
+A : I opened my mail, found this eviction notice, and don't know what to do with it. -1
+B : Actually, it is a 30-day notice to vacate the premises. 0
+A : Just for being a few days late? -1
+B : This isn't the first time you have been considerably late with the rent. I need to start the procedure to evict you. -1
+A : Are you taking my apartment away? -1
+B : This is a notice to inform you that the sheriff will evict you in 30 days if you do not pay up on your rent. -1
+A : Can I keep the apartment if I pay my rent in full? 0
+B : You can keep the apartment if you stay caught up on your rent. Otherwise, I need to find someone who can make the payments. 0
+
+-1 -1

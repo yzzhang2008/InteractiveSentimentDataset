@@ -1,0 +1,16 @@
+A : Sally, what's wrong? Why do you look so sad? -1
+B : Mom, Candace is moving away. -1
+A : Oh, I'm sorry to hear that. Why is she moving? -1
+B : Her dad got a job in another state. 0
+A : Where is she moving? 0
+B : To California. That's across the country. 0
+A : There are many ways you can still keep in touch. You can e-mail, text, and call each other on the phone. 0
+B : But it won't be the same as seeing each other every day. She is my best friend. I'm going to miss her. -1
+A : I know you will. When are they moving? 0
+B : At the end of June when the school year ends. In two months. 0
+A : Would you like to invite her over this weekend? You can have a sleepover. 0
+B : Yes, please. That would be great. We're going to try to hang out as much as possible before she moves. 1
+A : That sounds like a good plan. 1
+B : Yes, it is a good plan! 1
+
+1 1

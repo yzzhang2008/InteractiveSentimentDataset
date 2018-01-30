@@ -1,0 +1,11 @@
+A : I never see your sister. Where is she? 0
+B : She got a job last week and moved to city. 0
+A : Good then, will you stay with her sometime? 1
+B : Maybe just to visit her sometime is okay, but not for a living. -1
+A : Why don't you enjoy city living? -1
+B : I don't like pollutions. In the city, there are many pollutions. And there is a very mixed community there. People are rather selfish. -1
+A : If you live in the city you will get accustomed to living there. And sooner later, it will be okay living in the city. 1
+B : Do you prefer living in the city? 0
+A : Yes I do. We can get more job opportunities there, moreover there are various entertainments and facilities there. 1
+
+1 -1

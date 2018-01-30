@@ -1,0 +1,12 @@
+A : I need to get some business cards printed up. 0
+B : Do you know how many you need? 0
+A : I think I can get by with 2,000. 0
+B : We can get started as soon as you fill out this form. 1
+A : I hope you can make the new cards just like my old cards. 0
+B : You won't be able to tell the difference with a magnifying glass. 1
+A : I'm through. Here's the form and my old card. 1
+B : Very good. You can pick up your order in one week. 1
+A : Now that I think of it, three days is better than seven. 1
+B : We can do that, but you'll have to pay a little extra. 1
+
+1 1

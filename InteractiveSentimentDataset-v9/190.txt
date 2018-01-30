@@ -1,0 +1,14 @@
+A : May I ask you a couple of questions? 0
+B : What are these questions pertaining to? 0
+A : Just a few questions about the neighborhood. 0
+B : Okay. Ask away. 1
+A : Tell me about the neighborhood. 0
+B : The neighborhood does have its problems. -1
+A : How is that? 0
+B : What I mean is that the streets aren't all that clean. -1
+A : Are there any other problems? -1
+B : Other than it not being so clean, it's actually a nice neighborhood. 1
+A : I'm sure that the problem will eventually be fixed. 1
+B : I hope that you're right. 1
+
+1 1

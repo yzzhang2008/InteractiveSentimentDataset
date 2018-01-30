@@ -1,0 +1,17 @@
+A : Hey Jane. Did you eat lunch? 0
+B : No, I don't have time. I have a big test today at 1 pm. 0
+A : You still need to eat or you won't have energy for the test. 0
+B : I know. I'll grab something on the way to class. 0
+A : Fast food? 0
+B : Yeah, I'll grab a burger. 0
+A : That's not healthy for you. Let me make you something to eat. 0
+B : Thanks. But I don't have time. -1
+A : You never have the time to eat a proper meal anymore. 0
+B : I like fast food meals anyway. They're quick and easy. 1
+A : Let me pack you some fruits. 0
+B : Mom, please. I'm in college now. I can cut my own fruits. 0
+A : But you won't do it. 0
+B : I'll take this banana. It's quick and easy. See you later, Mom. -1
+A : Eat something nutritious! 1
+
+1 -1

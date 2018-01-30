@@ -1,0 +1,12 @@
+A : I want to go house shopping, and I want to know what I can afford to buy. 0
+B : There is a formula that can help us figure that out. What is your annual salary? 0
+A : I earn sixty-five thousand dollars per year. 0
+B : What is the length of time that you have worked at the job you have now? 0
+A : I have been at the job I now have for 2 years, and I have been with the company for 6 years total. 0
+B : Do you receive any other income? 0
+A : I own a small rental unit with a partner, and I receive five hundred dollars a month from that unit. 0
+B : Do you know what your credit score is? 0
+A : I don't know, but the last time I checked, it was very good! 1
+B : You are in good shape. Figuring in your other expenses, you can easily afford a house costing seven hundred thousand or maybe even a little more! 1
+
+1 1

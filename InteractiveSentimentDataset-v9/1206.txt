@@ -1,0 +1,12 @@
+A : I was thinking about applying for the new position. 0
+B : Do you think that is a good idea? 0
+A : It seems like a good idea but I am not really sure. 0
+B : What are your main concerns? 0
+A : It would give me a chance to grow, but I am wondering if I would like the job. 0
+B : I know what you mean, I've thought about that myself. 0
+A : I also am thinking about the pay. 0
+B : Could you take a slight pay decrease for a chance to move forward? 0
+A : Yes, it might be worth it. But I am not certain. 0
+B : I think I'm convinced that trying for this position is the best choice for you. 1
+
+0 1

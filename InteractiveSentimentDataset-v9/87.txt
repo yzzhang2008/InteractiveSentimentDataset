@@ -1,0 +1,10 @@
+A : I want to exchange this DVD player. 0
+B : No problem. Do you have your receipt? 1
+A : That's one thing I never forget. 1
+B : Now, what seems to be the problem? 0
+A : This DVD player won't play DVDs. -1
+B : Well, at least you kept your receipt. One moment, please. 0
+A : I spent almost an hour trying to make it work. -1
+B : If this one doesn't work, just bring it back. 0
+
+-1 0

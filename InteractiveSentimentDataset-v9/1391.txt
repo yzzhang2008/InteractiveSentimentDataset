@@ -1,0 +1,17 @@
+A : Hi Joan. What is Amanda going to be for Halloween? 0
+B : Hi Cathy. She wants to be a ballerina. What about Sally? 0
+A : She can't decide between a bear and a lion. 0
+B : That's cute. Are you going to make her costume? 1
+A : No, not this year. It's too much work. How about you? -1
+B : I'm lucky. Amanda took ballet lessons last month, so she can wear her ballet outfit. 1
+A : That's smart. 1
+B : Yeah. Costumes can be so expensive. -1
+A : I know. That's why I made Sally's costume last year. 0
+B : What was she last year? I can't remember. 0
+A : A butterfly. 0
+B : That's right. She was so cute. 1
+A : Thanks. This year, she wants to be an animal. 1
+B : That's not a bad idea. It's going to be cold outside. Her costume will keep her warm. 1
+A : True! 1
+
+1 1

@@ -1,0 +1,14 @@
+A : Why'd you pull me over? 0
+B : Are you aware that you drove through a red light? -1
+A : I ran a red light? 0
+B : Yes, you did. 0
+A : I apologize, but I didn't realize that I did that. -1
+B : Weren't you taught that yellow means slow down, not speed up? -1
+A : I did learn that. 0
+B : So, then why did you speed up? -1
+A : I don't know what to tell you. -1
+B : I'm going to have to write you a ticket. -1
+A : I understand. 0
+B : Here you go. Don't do that again. -1
+
+-1 -1

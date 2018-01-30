@@ -1,0 +1,8 @@
+A : Do you know where they sell old music boxes? 0
+B : How about a flea market? 0
+A : A flea market? What's that? 0
+B : A flea market is a big outdoor place where you can buy all sorts of second-hand things. 0
+A : I like the sound of that. Tell me where one is. 1
+B : I myself don't know of any, but maybe they're listed in the Yellow Pages. 0
+
+1 0

@@ -1,0 +1,13 @@
+A : I am so hungry. -1
+B : Didn't you eat lunch? 0
+A : Carol has put me on a strict diet. -1
+B : Why? Are trying to lose weight? 0
+A : No. She says we need to live healthy at our age. 0
+B : She is right. 1
+A : I know, but I miss my meat and potatoes. -1
+B : What did you have for lunch? 0
+A : A salad. 0
+B : What else did you have for lunch? 0
+A : That's it! I had a small salad. I'm starving. -1
+
+-1 0

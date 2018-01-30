@@ -1,0 +1,14 @@
+A : Can you help me with my timesheet? 0
+B : Sure! I can help you. Do you know where the timesheets are kept? 1
+A : No, I don't know where to find one. -1
+B : Well, once you get one off the shelf over there, you first put your name on it. OK? 0
+A : Yes, I can do that. 1
+B : Now you have to fill in the hours in the blanks and total the hours for the week. Do you know how to use military time? 0
+A : No, I don't know what that is. -1
+B : OK, so we just start counting hours at midnight and record it. Show all minutes as a dot and then write how many minutes. OK? 0
+A : Yes, I understand how to do this. 0
+B : After you total your hours, make sure you sign it and turn it in to your supervisor. 0
+A : That was easy! 1
+B : Good luck and let me know if you need any help later on. 0
+
+1 0

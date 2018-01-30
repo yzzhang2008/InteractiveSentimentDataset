@@ -1,0 +1,14 @@
+A : Can I ask you something? 0
+B : Sure you can. What's going on? 0
+A : Would you go out with me on Friday? 0
+B : Are you for real? 0
+A : I thought that we could go to dinner and a movie. 0
+B : That actually sounds like it would be a lot of fun. 1
+A : Unless there's something else you would prefer to do. 0
+B : Actually, I would really like to go to dinner and a movie. 0
+A : What time do you want me to come by and pick you up? 0
+B : Is 7:30 cool with you? 0
+A : That's perfect, so I'll see you then. 1
+B : Perfect. I will see you on Friday. 1
+
+1 1

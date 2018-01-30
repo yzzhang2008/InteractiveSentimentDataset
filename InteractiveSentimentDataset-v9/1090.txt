@@ -1,0 +1,14 @@
+A : Did you ever get a parking ticket? 0
+B : No, have you? 0
+A : Yes, I just got one the other day. 0
+B : How'd you get a ticket? 0
+A : The ticket was for parking in the red zone. 0
+B : I don't understand why you would do that. -1
+A : There was nowhere to park, and I needed to run in and get something. -1
+B : Where'd you get the ticket at? 0
+A : I parked in front of my apartment building. 0
+B : What about your parking spot? 0
+A : But I really needed to be quick. -1
+B : I bet that you wish you hadn't done that. 0
+
+-1 0

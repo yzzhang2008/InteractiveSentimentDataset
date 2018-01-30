@@ -1,0 +1,10 @@
+A : I've brought this dress back to exchange it. 0
+B : That's not a problem. Leave it with me, and find something that you like. 1
+A : I was hoping you'd have something on sale today. 1
+B : We have nothing on sale today. But we're having a big sale next weekend. 1
+A : Is the sale going to include dresses? 0
+B : Everything you can see will be on sale. 1
+A : I like the sound of that. I'll just come back next weekend. 1
+B : The savings will be worth the short wait. See you next weekend. 1
+
+1 1

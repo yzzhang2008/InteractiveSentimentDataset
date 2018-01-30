@@ -1,0 +1,12 @@
+A : Our new client is having a party at his house. 0
+B : Are you going? 0
+A : No. I don't like him. -1
+B : Why? 0
+A : He makes inappropriate comments. -1
+B : What kind of comments? 0
+A : Rude comments about people. -1
+B : Why is our company working with him then? 0
+A : He's our boss's friend. 0
+B : Our boss is wimp. -1
+
+-1 -1

@@ -1,0 +1,12 @@
+A : I'm returning this radio. 0
+B : Certainly. Can I see your receipt, please? 1
+A : I looked everywhere, but I couldn't find it anywhere. -1
+B : I'm sorry, but you can't return the radio without your receipt. -1
+A : Even though I just bought it yesterday? -1
+B : Are you sure that you looked everywhere for the receipt? 0
+A : I looked everywhere, twice! 0
+B : Well, customer service is right upstairs. Maybe they can help. 1
+A : Great! I'll take the escalator. 1
+B : If they can't help you, nobody can. -1
+
+1 -1

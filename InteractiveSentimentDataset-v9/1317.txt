@@ -1,0 +1,14 @@
+A : I think I'm going to go get some food. 0
+B : What do you want? 0
+A : I can't decide what to get. 0
+B : What kind of food do you want to get? 0
+A : I think I might like some Chinese food. 1
+B : Do you know where you're going to get it? 0
+A : I honestly don't know. 0
+B : I go to Panda Express for my Chinese food. 0
+A : You like the food there? 0
+B : I really like the food. 1
+A : Nice, I will go there. 1
+B : I think you'll enjoy the food. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : The economy is stronger. I think this is a good time to look for another job. 1
+B : Do you have places to send your resume? 0
+A : No, I don't. Companies in our industry only hire people that have connections. 0
+B : Do you have any connections? 0
+A : No. How do I meet people in the industry? 0
+B : You have to get involved and attend events. 0
+A : Isn't there a charity golf tournament coming up? 0
+B : Yes. It's a big tournament with many companies participating. 0
+A : Do you have any advice? 0
+B : Talk to a lot of people and don't forget to take your business cards. 0
+
+0 0

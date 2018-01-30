@@ -1,0 +1,13 @@
+A : I'd like to speak with the apartment manager, please. 0
+B : This is he. What can I do for you? 0
+A : I'm interested in the apartment on Main Street. 1
+B : It's still available. Do you want to see it? 1
+A : Yes, I would very much like to see it. 1
+B : Does today at 6 p.m. sound okay to you? 0
+A : I have no problem with 6 p.m. 1
+B : Okay, I'll see you at 6 o'clock. Do you need any directions? 1
+A : No, thanks. I already drove by to see what the neighborhood looks like. 1
+B : Should I bring anything with me? 1
+A : No. I only need to check your driver's license. 1
+
+1 1

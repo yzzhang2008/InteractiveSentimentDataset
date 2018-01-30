@@ -1,0 +1,18 @@
+A : Hey Joe. Where are you heading? 0
+B : Hey Charlie. I'm meeting some friends at the park. We're going to play basketball. 0
+A : It's a great day for it. Nice and sunny. 1
+B : Yeah. Perfect day to be outside. Do you play basketball? 1
+A : I used to play in high school. I was on the school basketball team. 0
+B : Do you want to join us? 0
+A : I can't today. I have to dentist appointment. -1
+B : A dentist appointment on a nice day? 0
+A : Yeah. It was the only day available. 0
+B : What about next weekend? We get together every Saturday at the basketball court in the park. 0
+A : Sure. Sounds like fun. What time? 1
+B : Same time every Saturday. 10 am. 0
+A : Do you think your friends will be ok with a new guy joining? 0
+B : Yeah. We could use another player. One guy hurt his knee and won't be able to play for a while. -1
+A : Ok. Then I'll see you next Saturday. 0
+B : Cool! 1
+
+1 1

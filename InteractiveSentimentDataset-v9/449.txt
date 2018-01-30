@@ -1,0 +1,14 @@
+A : Do you want to go to the concert tonight? 0
+B : Do you have tickets? 0
+A : Yes! I got two tickets from my boss. 0
+B : I would love to go, but what about Cindy? 1
+A : I only have two tickets. 0
+B : What if she finds out? She'll be so sad. -1
+A : I can't give up these tickets. They're front row seats! -1
+B : Front row! 0
+A : Don't you want to buy a concert T-shirt? -1
+B : Then she'll know we went to the concert. 0
+A : We'll get her one and tell her that my boss got them for us. 0
+B : Ok. That's a good lie. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Can I help you? 0
+B : Is the price on this television flexible? 0
+A : Yes. 0
+B : Your competition is selling this TV for $300 cheaper. 0
+A : Do you have a flier showing a cheaper price? 0
+B : I can show you their website on my phone. 0
+A : If you can show me a lower price for the exact model, I can match that price. 0
+B : Here is the exact television with a cheaper price. 1
+A : I see. I will match that price. 0
+B : Great! Thank you! 1
+
+0 1

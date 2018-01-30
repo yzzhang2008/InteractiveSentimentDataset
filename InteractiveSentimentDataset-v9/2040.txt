@@ -1,0 +1,7 @@
+A : I heard you took a trip to Mexico. 0
+B : Yes, I did. 0
+A : How did you like it? 0
+B : Oh, I got sick and tired of hotels and hotel food. -1
+A : I can imagine. East or west, home is the best. 0
+
+0 -1

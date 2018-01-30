@@ -1,0 +1,8 @@
+A : I want my son to go to an Ivy League college. 0
+B : You have high expectations. 1
+A : Of course I do. He's smart. 1
+B : That's a lot of pressure for him. -1
+A : He can handle it. 1
+B : I hope he meets your expectations. 0
+
+1 0

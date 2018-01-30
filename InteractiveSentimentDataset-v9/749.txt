@@ -1,0 +1,12 @@
+A : I am unsure how to add a class and need help. -1
+B : I have an opening. Do you have an add sheet for me to sign? 0
+A : Yes, I have an add sheet. 0
+B : After I sign it, you must take it to the Admissions and Records Office to add the class. Do you know where that is? 0
+A : No, I'm not sure. -1
+B : When you cross the quad, the office is right in front of you. Go inside and follow the signs to the correct line. 0
+A : Thanks. I understand what to do now. 1
+B : It should be easy to find. After you add the class, check with me in a few weeks to make sure that you are on my roll sheet. 1
+A : That sounds good. 1
+B : Good, just make sure that you do the same thing if you ever need to drop a class. Good luck! 1
+
+1 1

@@ -1,0 +1,14 @@
+A : What's the point? 0
+B : The point of what? 0
+A : Of living. 0
+B : Who knows? You live, and then you die. 0
+A : We must be here for some reason. 0
+B : Maybe we're here to have fun. 0
+A : Then why aren't I having fun? -1
+B : Because you're always thinking too much. -1
+A : So I should stop thinking? -1
+B : Stop thinking about what the point is. 0
+A : Okay. I'll start thinking about having some fun. 0
+B : Just be patient. Fun doesn't come along every five minutes. 0
+
+-1 0

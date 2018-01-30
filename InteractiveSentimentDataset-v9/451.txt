@@ -1,0 +1,13 @@
+A : Hey B, do you want to join us for lunch? 0
+B : No. I have to work. -1
+A : What about drinks after work? 0
+B : No. I'm staying late tonight. -1
+A : Don't you stay late every night? 0
+B : Yeah. I need to get some things done. 0
+A : You work too much. -1
+B : That's what my wife says. 0
+A : Don't you think that's a problem? -1
+B : Yeah. Tonight's our wedding anniversary too. 0
+A : You'd better go home! -1
+
+-1 -1

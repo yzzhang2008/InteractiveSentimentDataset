@@ -1,0 +1,21 @@
+A : I'm taking a pottery class. 0
+B : Cool! What have you made so far? 1
+A : A bowl, a vase, and a mug. 0
+B : Do you like the class? 0
+A : Yes, it's a lot of fun. I'm going to make each member of my family a cup. 1
+B : That's nice. 1
+A : It's going to be their Christmas gifts. 0
+B : Is it hard to do? 0
+A : It was hard at first, but then I got used to the pottery wheel. 0
+B : What made you decide to take a pottery class? 0
+A : I like taking lots of different classes. I get bored. 0
+B : I wish I could take a class. I'm so busy with work and school. 0
+A : Maybe one day after you retire, you'll have some time. 0
+B : Retirement sounds great. 1
+A : It is, but it can be boring. I always have to find something to do. 0
+B : You must have a lot of hobbies. 1
+A : I do. My hobbies are sewing, quilting, scrapbooking, and now pottery-making. 1
+B : Wow, you must have a lot of great homemade items. 0
+A : I do. My closet is full of them. 0
+
+1 1

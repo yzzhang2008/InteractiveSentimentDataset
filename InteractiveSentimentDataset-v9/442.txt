@@ -1,0 +1,8 @@
+A : You gave a great presentation. 1
+B : Thanks. I worked really hard on it. 1
+A : I could tell. It was very detailed with lots of information. 0
+B : I hope the CEO was impressed. 1
+A : I think she was. I saw her smile a few times. 1
+B : That's good to hear. 1
+
+1 1

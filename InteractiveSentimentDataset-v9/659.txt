@@ -1,0 +1,12 @@
+A : This looks like a very nice house. 1
+B : You know, I fell in love with this house the first moment I laid eyes on it. 1
+A : The style of the exterior is just what I've been looking for! 1
+B : The exterior is only half of the story. The interior is incredible. 1
+A : This home is gorgeous on the inside! 1
+B : Everything that you see on the walls, floors, and windows is brand new. 1
+A : The wall colors totally suit the style of this house. 1
+B : Straight ahead is the gourmet kitchen. 0
+A : I love the bamboo flooring and granite countertops. 1
+B : The master suite is the best. Let's go look at that next. 1
+
+1 1

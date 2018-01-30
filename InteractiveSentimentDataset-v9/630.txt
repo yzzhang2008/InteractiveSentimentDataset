@@ -1,0 +1,14 @@
+A : Could you take a few minutes and see if there are any problems with this used car that I am thinking of buying? 0
+B : I am happy to help. Just pull up and we'll give it a good look. 1
+A : I don't know much about cars. -1
+B : We need to look inside and outside for signs of an accident or major damage. Also, we need to look for wear on the tires. 0
+A : If I go online I can also check to see if the car has been involved in a major accident. 0
+B : Yes, you can check the history of the car online. Next, we need to turn on the engine and take a look at the belts and hoses. 0
+A : Will you take a drive with me to check handling? 0
+B : A test drive would be good. But first let's make sure that the turn signals, radio, lights, and seats work properly. 0
+A : On a test drive, what should I look for? 0
+B : We are checking for solid braking and good overall handling. 0
+A : I appreciate you helping me figure out what to look for. 1
+B : My pleasure. This seems to be a solid car and a good choice for you. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : I am starving. -1
+B : Let's go get something to eat. 0
+A : Is there somewhere you wanted to go eat at? 0
+B : We can always go to the cafeteria and eat. 0
+A : I haven't eaten there before. -1
+B : The food there is pretty good. 1
+A : What kind of food do they serve? 0
+B : You can get whatever you want at the cafeteria. 1
+A : I have a taste for Chinese food. 1
+B : They have really good chow mein. 1
+A : Wow, I like chow mein. 1
+B : It'll be fine. 1
+
+1 1

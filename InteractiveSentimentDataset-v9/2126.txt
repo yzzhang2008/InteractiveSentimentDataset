@@ -1,0 +1,21 @@
+A : Hi John. What's wrong? 0
+B : Sarah and I had an argument. -1
+A : Why? 0
+B : It's our anniversary today. 0
+A : Why did you argue on your anniversary? 0
+B : She didn't like the gift I got her. -1
+A : What was it? 0
+B : A vacuum cleaner. 0
+A : A vacuum cleaner? That's not a very romantic gift. -1
+B : That's what she said. Now she's mad at me. -1
+A : Well, I can understand her. 0
+B : It's a practical gift. Something she can use all the time. 1
+A : What did she get you? 0
+B : A watch. 0
+A : That's a very nice gift. 1
+B : It's a practical gift. Something I can use all the time. 1
+A : That's really the same thing, John. 1
+B : What should I do? 0
+A : Return the vacuum and buy her jewelry. 0
+
+0 1

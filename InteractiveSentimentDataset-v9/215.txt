@@ -1,0 +1,12 @@
+A : What is your policy towards tenants keeping pets? 0
+B : You may have a pet, but you have to pay an extra two hundred dollar cleaning deposit. 0
+A : How many pets can we have? 0
+B : You may have only one pet. You can have either a small dog or a cat. 0
+A : What is the policy as to where the pets can be outside? 0
+B : We ask that you keep your cats indoors or on your balcony. Dogs need to be walked to the street or park. 0
+A : Where can I walk my dog? 0
+B : There is a park down the street, but you must keep your dog on a leash. 0
+A : How many other people have pets around here? 0
+B : We have quite a few pet owners here, so if you need help finding a veterinarian, just ask around. 0
+
+0 0

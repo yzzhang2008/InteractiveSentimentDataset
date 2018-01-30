@@ -1,0 +1,20 @@
+A : Hey Dave. Did you get your report card? 0
+B : Hey Jack. Yeah. 0
+A : How did you do in Math? 0
+B : I did well. How about you? 1
+A : I didn't do too well. I failed the class. -1
+B : How? What happened? 0
+A : I think I failed the final exam. -1
+B : I'm sorry to hear that. What are you going to do? -1
+A : I have to take the class again during the summer or I can't graduate. -1
+B : Are you serious? That's terrible. -1
+A : I was supposed to go on a vacation with my older brother. We were going to go to Europe, but now I won't be able to. -1
+B : I don't have any plans for the summer. I can help you if you need it. 1
+A : Thanks. That would be nice. 1
+B : Do you know when summer school starts? 0
+A : I think it starts at the end of June. 0
+B : That's right after regular school ends. 0
+A : I know. I won't have much time to enjoy my summer, but I need to graduate. -1
+B : Don't worry. I'll help you. 1
+
+-1 1

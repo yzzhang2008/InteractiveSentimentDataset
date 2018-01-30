@@ -1,0 +1,8 @@
+A : Excuse me, but is this dress on sale? 0
+B : The dress was on sale yesterday. 0
+A : Are you sure? I'd be happy to pay the sale price today. 1
+B : I'm so sorry, but rules are rules. -1
+A : I'll just check out a few other stores. -1
+B : I'm sorry I couldn't help you. -1
+
+-1 -1

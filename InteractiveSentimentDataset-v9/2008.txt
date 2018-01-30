@@ -1,0 +1,12 @@
+A : It's so hard to choose where to go first on our sightseeing trip! 0
+B : We could think of what would make a good morning activity versus an evening activity. 1
+A : I really wanted to make sure that I got a chance to go to the local beach. 1
+B : I think that that would be a fun beginning to our day. We could walk around there. 1
+A : I heard that the Natural History Museum is pretty close to the beach. 1
+B : I heard the same thing. We might as well go there since we are just down the street. 0
+A : What would be a good place to go to in the afternoon? 1
+B : The local amusement park is supposed to be wonderful. 1
+A : The restaurant on the edge of the park would be a great place to watch the sun go down. 1
+B : That sounds like a perfect sightseeing day to me. 1
+
+1 1

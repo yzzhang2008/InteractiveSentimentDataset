@@ -1,0 +1,14 @@
+A : What are you doing? 0
+B : Nothing much. What's up with you? 0
+A : Actually, I was wondering if you could help me with something. -1
+B : What would you like me to help you with? 0
+A : You know I'm going to be moving in soon? 0
+B : You told me already. 0
+A : I was just wondering if you could help me move in. 0
+B : I can help you with that. 1
+A : Do you have plans on Saturday? 0
+B : No, I don't think so. 1
+A : How does 10 am sound to you? 0
+B : Saturday at 10:00? I can do that. 1
+
+1 1

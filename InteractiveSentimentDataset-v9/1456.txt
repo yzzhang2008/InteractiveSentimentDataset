@@ -1,0 +1,12 @@
+A : Hi, Martha. You look great! 1
+B : Thanks. I lost 30 pounds. 1
+A : Wow! How did you lose weight? 1
+B : I don't eat any junk food and I work out every day. 0
+A : I need to lose some weight too. 0
+B : Do you want to go to the gym with me? 0
+A : When are you going? 0
+B : I go every morning at 5 AM. 0
+A : That's too early for me. 0
+B : Once you get started, you'll really enjoy it. 1
+
+0 1

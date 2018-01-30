@@ -1,0 +1,12 @@
+A : I'm not sure, is this our stop? -1
+B : Yeah, get off the bus. 0
+A : Do you have any idea where we are? 0
+B : I'm really not sure. -1
+A : This can't be the right stop. -1
+B : I don't think this is right. -1
+A : We got off too early, didn't we? -1
+B : Yeah, we did get off too early. -1
+A : I should've just stayed on the bus. 0
+B : I messed up. -1
+
+-1 -1

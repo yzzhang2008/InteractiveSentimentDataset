@@ -1,0 +1,14 @@
+A : What's your favorite movie? 0
+B : My favorite movie is Superbad. 1
+A : Oh, why is that? 0
+B : It's the funniest movie that I've ever seen. 1
+A : That's true. It is a very funny movie. 1
+B : You've seen it before? 0
+A : Yes, I saw that movie the first day it came out in theaters. 0
+B : Didn't you laugh through the whole movie? I did. 1
+A : Me too. That movie brought tears to my eyes. 1
+B : Mine too. 1
+A : I have it on DVD at my house if you want to come over and watch it. 1
+B : Sure, let's go. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Hello, I need to register for a class. 0
+B : What class are you trying to take? 0
+A : I want to take a Psychology class. 0
+B : Well, there are only two classes open. 0
+A : Can you tell me what days the classes are on? 0
+B : One class is on Tuesday and Thursday from 2:00 p.m. - 4:00 p.m. 0
+A : And the other class? 0
+B : That class is from ten to twelve on Monday and Wednesday. 0
+A : Are you sure these are the only open classes? 0
+B : Yes, I am sure. 0
+
+0 0

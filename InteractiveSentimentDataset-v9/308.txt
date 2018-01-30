@@ -1,0 +1,14 @@
+A : I'm going to buy a new living room set. 1
+B : Where are you going to buy one? 0
+A : I'm really not sure. -1
+B : You like my living room set, don't you? 1
+A : Where did you buy it? 0
+B : I found mine at IKEA. 1
+A : Are they expensive? 0
+B : Everything I got from IKEA cost me a couple thousand. -1
+A : Is the furniture crafted well? 0
+B : The furniture isn't built cheap. 1
+A : I'll pay the money, as long as I'm getting what I pay for. 1
+B : You will feel comfortable paying the money. 1
+
+1 1

@@ -1,0 +1,13 @@
+A : I need your assistance. 0
+B : What's the problem? 0
+A : I can't find the place I'm looking for. -1
+B : What are you looking for? 0
+A : I am trying to go see a movie. 0
+B : You don't know where the theater is? 0
+A : I'm completely lost. -1
+B : Do you have any idea where the mall is? 0
+A : Yes, I do. 1
+B : The mall has its own movie theater. 0
+A : I didn't know the mall had a movie theater. -1
+
+-1 0

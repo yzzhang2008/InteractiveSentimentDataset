@@ -1,0 +1,8 @@
+A : I'm quitting my job. 0
+B : Why? Are you unhappy here? -1
+A : No. I received a new business opportunity. 1
+B : Wow! That's great. Can you tell me about it? 1
+A : I'll tell you all about it over lunch. 0
+B : Ok. I'm free at noon. 1
+
+0 1

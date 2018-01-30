@@ -1,0 +1,8 @@
+A : So, how was your interview? 0
+B : I haven't gone to the interview yet. It's tomorrow. I'm so nervous. -1
+A : Don't worry. You should do fine. You have the experience. 1
+B : I hope so. 1
+A : Remember, they want someone who works well with people. You've got to show them how easy-going and personable you are! 1
+B : Thanks. I'll keep that in mind. 1
+
+1 1

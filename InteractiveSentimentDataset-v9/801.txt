@@ -1,0 +1,14 @@
+A : Are you looking for something? 0
+B : I'm trying to find the library. 0
+A : How long have you been trying to find it? 0
+B : I've been looking for it for a quite while now. -1
+A : I can help you find it if you want help. 1
+B : I would like that. 1
+A : Do you know where the movie theater is? 0
+B : Yeah, I know where that is. 0
+A : You'll find the library right around the corner. 0
+B : Are you serious? 0
+A : Yes, you can't miss it. 1
+B : I know exactly where it is now. 1
+
+1 1

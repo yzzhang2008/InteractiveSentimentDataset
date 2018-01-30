@@ -1,0 +1,19 @@
+A : Hi Bill. 0
+B : Hi Ted. 0
+A : Bill, would you like to come to a backyard barbeque? 0
+B : Sure. When? 0
+A : Tomorrow at 5 o'clock PM. 0
+B : Who else is coming? 0
+A : I invited a few other neighbors. 0
+B : What's the occasion? 0
+A : I got a new outdoor grill and I want to test it out. 1
+B : It sounds like fun. What can I bring? 1
+A : Would you like to bring some beverages? 0
+B : I can do that. 1
+A : Great! I'm going to grill some hamburgers and hot dogs. 1
+B : That sounds delicious! 1
+A : Our neighbor, Peter, is going to bring some apple pies. 0
+B : This is going to be a great party. 1
+A : I hope so. I hope my grill works well. 1
+
+1 1

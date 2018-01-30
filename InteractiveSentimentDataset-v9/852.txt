@@ -1,0 +1,14 @@
+A : Order in the court! -1
+B : I would like to make my plea. 0
+A : What is it? 0
+B : I would like to plead not guilty. -1
+A : You do realize that all the evidence points to you? -1
+B : I know. But I did not do it. -1
+A : How do you figure that? 0
+B : I didn't commit the crime. -1
+A : Do you know who did? 0
+B : If I tell you who did, will you release me? 0
+A : I'm sure we can work out some kind of deal. 1
+B : I'll tell you all you need to know. 0
+
+-1 -1

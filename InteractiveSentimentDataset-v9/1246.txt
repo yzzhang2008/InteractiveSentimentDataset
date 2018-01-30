@@ -1,0 +1,9 @@
+A : I'm failing my English class. -1
+B : Why? 0
+A : I don't understand what is going on. -1
+B : Did you talk to your teacher about it? 0
+A : She's the problem. -1
+B : What's the problem? 0
+A : She speaks too fast. I don't understand what she's saying. -1
+
+-1 0

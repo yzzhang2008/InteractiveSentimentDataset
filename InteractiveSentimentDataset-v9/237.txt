@@ -1,0 +1,12 @@
+A : Where can I park my car? 0
+B : You have one assigned place right beside your own apartment. 0
+A : Are there any other open spots available in the parking lot? 0
+B : Your guests can park in a visitor or unmarked spot if one is available. 0
+A : Is there any place else to park if the spots are all gone? 0
+B : There is always street parking, but you must obey the laws about parking out there. 0
+A : Do they post the rules anywhere? 0
+B : The rules for parking are all clearly posted. Just follow them and you'll be OK. 1
+A : Do you have to pay a large fine for a parking ticket? 0
+B : You don't want to get a parking ticket. You have better things to spend your money on! -1
+
+0 0

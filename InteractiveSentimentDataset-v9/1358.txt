@@ -1,0 +1,12 @@
+A : Are you on the phone? 0
+B : Yeah, but I'm on hold. 0
+A : Do you have time for lunch? 0
+B : Not right now. I'm trying to get a upgrade on my rental car. 0
+A : Are you having any luck? 0
+B : The rental car agent is talking to her supervisor right now. 0
+A : How are you negotiating? 0
+B : I told the agent that our company does a lot of business with this rental company. 0
+A : You're right. We do. 0
+B : A, hold on. The agent is back on the phone. 0
+
+0 0

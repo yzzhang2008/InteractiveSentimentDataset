@@ -1,0 +1,14 @@
+A : Let's go to a movie. 0
+B : I'd rather not. 0
+A : Why not? 0
+B : You know I don't like crowds. -1
+A : Let's go to an early movie. 0
+B : Okay, that won't be very crowded. 0
+A : What would you like to see? 0
+B : Oh, I don't care. You're the one who wants to go out. 0
+A : Well, I want to see The Pursuit of Happyness. 1
+B : What have you heard about it? 0
+A : It's based on a true story about a divorced man and his young son. 0
+B : Well, I hope it has a happy ending. 0
+
+0 0

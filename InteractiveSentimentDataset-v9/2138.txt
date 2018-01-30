@@ -1,0 +1,14 @@
+A : Do you plan on voting this Tuesday? 0
+B : Yes. What about you? 0
+A : I already voted. 0
+B : What do you mean you already voted? 0
+A : I had to mail in an absentee ballot. -1
+B : Why'd you have to do that? 0
+A : I'm not going to be able to vote this Tuesday. -1
+B : Why is that? 0
+A : I have to work this Tuesday. -1
+B : You can always go to work late. 0
+A : That same morning I have some business to take care of. 0
+B : Oh, I understand. 0
+
+-1 0

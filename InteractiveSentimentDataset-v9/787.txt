@@ -1,0 +1,14 @@
+A : I haven't seen you around, so you must be new here. 0
+B : As a matter of fact, I am. 0
+A : It's nice meeting you. 1
+B : Nice to meet you too. 1
+A : When did you move out here? 0
+B : I moved here about a month ago. 0
+A : What do you think of it so far? 0
+B : It's great. 1
+A : Don't you think that it's beautiful here? 1
+B : It really is gorgeous. 1
+A : Welcome to the neighborhood. 1
+B : Thank you for making me feel welcome. 1
+
+1 1

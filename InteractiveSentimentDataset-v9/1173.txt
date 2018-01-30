@@ -1,0 +1,12 @@
+A : Can you help me plan the office party? 0
+B : Sure. What do you need the most help with, the food or entertainment? 0
+A : I need help with food. 0
+B : OK, well, let's coordinate our efforts. Should this party be formal or casual? 0
+A : I think it should be casual. 0
+B : I agree. Next, we have to decide on food. We have a choice of Chinese or Continental Cuisine. Which one should we have? 0
+A : I would prefer Chinese food for this party. 0
+B : Perfect choice. For music, should we have a live band or a DJ? 1
+A : I think we should hire a live band. 0
+B : OK then. Well, I will work on my part and get back to you with my progress on Friday. 0
+
+0 0

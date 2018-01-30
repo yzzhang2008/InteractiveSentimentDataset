@@ -1,0 +1,12 @@
+A : Excuse me. Can you help me? 0
+B : Certainly. What can I do for you? 1
+A : May I exchanged an opened DVD? 0
+B : Certainly, as long as you have your receipt. 1
+A : Here you are. 0
+B : I'm sorry, but you're only allowed to return items within 30 days. -1
+A : Is there any way I can exchange it? 0
+B : I'm afraid not. -1
+A : I am not coming here anymore. -1
+B : I'm sorry, but please don't blame me. -1
+
+-1 -1

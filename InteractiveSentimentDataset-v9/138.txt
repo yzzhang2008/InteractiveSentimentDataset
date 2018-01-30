@@ -1,0 +1,14 @@
+A : I want to purchase an old music box. 0
+B : We have a good variety. What decade would you like? 1
+A : I was hoping I could find something made in the 20s. 1
+B : There are six on this table. 0
+A : I hope at least one of them has dancing figures. 1
+B : Many people like the dancing figures. Two of our boxes have the figures. 1
+A : It's so hard to choose. I think I'll take this one. 1
+B : That one will bring you many hours of pleasure. 1
+A : Does a warranty come with this music box? 0
+B : I'm sorry, but if it breaks down, you're on your own. -1
+A : I just thought I would ask. 0
+B : When you buy a Model T, you can't expect a warranty. 0
+
+0 1

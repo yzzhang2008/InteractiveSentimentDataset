@@ -1,0 +1,16 @@
+A : Can you help me pick out a gift for my daughter? 0
+B : She might like a laptop computer. 1
+A : That sounds like a good idea. 1
+B : Might I suggest a Mac? 0
+A : How much? 0
+B : Well, a 15-inch Pro is $2,100. 0
+A : That sounds great. I'll take it. 1
+B : Great. How would you like to pay for it? 1
+A : Here's my VISA. 0
+B : Let me ring you up. Okay, sign here, please. 1
+A : Everything I need is in this box? 0
+B : It'll take her only a few minutes to get online. 1
+A : Thank you for your help. 1
+B : So long. Thank you for shopping here. 1
+
+1 1

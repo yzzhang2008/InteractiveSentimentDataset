@@ -1,0 +1,12 @@
+A : Sharon is really mad at you. -1
+B : Why? 0
+A : You were late for work and she needed a report. -1
+B : I called this morning and left a message with the receptionist. 0
+A : You did? I don't think the receptionist told Sharon. -1
+B : Are you serious? -1
+A : Yeah. Sharon is really angry. She needed that report for her meeting with the president. -1
+B : I asked the receptionist to print my report and give it to Sharon. 0
+A : You had better tell Sharon. 0
+B : I'm going to talk to the receptionist first. 0
+
+-1 -1

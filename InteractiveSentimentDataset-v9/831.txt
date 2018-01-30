@@ -1,0 +1,14 @@
+A : Have you watched today's news? 0
+B : No, I haven't. What's going on? -1
+A : Did you hear about last night's blackout? 0
+B : Yes. The lights were out all night. 0
+A : Some people went looting because of the blackout. -1
+B : What do you mean? 0
+A : People decided to use the blackout to their advantage. -1
+B : People went out and looted? -1
+A : I guess they broke into about four stores. -1
+B : Did the police find who did it? 0
+A : There's no evidence of who it was. -1
+B : I hope we don't have any more blackouts. -1
+
+-1 -1

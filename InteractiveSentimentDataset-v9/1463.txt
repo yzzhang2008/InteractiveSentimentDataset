@@ -1,0 +1,8 @@
+A : I'm a little nervous about this business trip. -1
+B : Why? 0
+A : I'm meeting with the vice-president of the company. I heard he is a drinker. -1
+B : So what? 0
+A : I don't drink at all. I'm afraid he's going to think I'm boring. -1
+B : Then tell jokes. I heard he likes funny people. 0
+
+-1 0

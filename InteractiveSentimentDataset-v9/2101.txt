@@ -1,0 +1,12 @@
+A : I was wondering if you could go over the services available at EDD to help me get a job. 0
+B : The best opportunity is called CalJOBS, which is an Internet-based job placement service that you can make use of. 1
+A : Do I have to have a computer at home? 0
+B : There are computers at our EDD offices for you to use in your job search. 0
+A : Do you have any other services available? 0
+B : We have information available about the job market as well as workshops. 0
+A : What kinds of workshops are available at the EDD? 0
+B : We have workshops in Resume Writing and Interviewing, to name a few. 0
+A : Are there other places, outside of EDD, that I may look for work? 0
+B : College job placement services can help. 0
+
+0 0

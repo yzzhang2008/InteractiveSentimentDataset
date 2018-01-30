@@ -1,0 +1,10 @@
+A : Pardon me. Could you help me? 0
+B : Of course. How can I help you? 1
+A : I am looking for a sweater. 0
+B : What size do you wear? 0
+A : Medium, I think. 0
+B : Here. How do you like this one? 0
+A : It's pretty. Can I try it on? 1
+B : You can try it on in the fitting room over there. 0
+
+1 0

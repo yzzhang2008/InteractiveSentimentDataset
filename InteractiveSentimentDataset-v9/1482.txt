@@ -1,0 +1,20 @@
+A : I'm so glad there is no school on Monday. 1
+B : Me too! But, why do we have that day off? 1
+A : You don't know? 0
+B : No. Why, Sam? 0
+A : It's Memorial Day. This is the day we remember the people who died serving in the United States military. 0
+B : Wow! I didn't know that. 0
+A : It's an important day. It's not just a day off from school and work. 1
+B : I see. Is it always in May? 0
+A : Yeah. It's always observed on the last Monday in May. 0
+B : I just thought it was another day off from school. I'm glad to know what this day means now. 1
+A : It's really important in our family. My grandfather and great grandfather both served in the United States army. They both died serving this country. 0
+B : Do you do anything special on this day? 0
+A : Each year my family and I go to the cemetery and place flowers on their graves. 0
+B : I've never been to a cemetery before. Is it scary? 0
+A : No. We go every year, so it's not scary anymore. 0
+B : Do all schools close on this day. 0
+A : I think so. But only in the United States. It's an American holiday. Some businesses like post offices and banks close too. 0
+B : Thanks for telling me what Memorial Day means. I'm going to go home and ask my brother if he knows. 1
+
+0 1

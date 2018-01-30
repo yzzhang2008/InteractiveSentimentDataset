@@ -1,0 +1,14 @@
+A : Don't you ever cheat on me. -1
+B : Why would I do that? 0
+A : Because men like to cheat. -1
+B : Some men do, but not me. 0
+A : I'm watching you. 0
+B : I'm an open book. Watch me all you want. 0
+A : If I catch you, you'll be sorry. -1
+B : You won't catch me, because I love you. I'm not a cheater. 1
+A : I will poke your eyes out. -1
+B : I don't want any other woman. 0
+A : I will chop your toes off, one by one. -1
+B : Honey, please. You're the only woman for me, forever. I swear it. 1
+
+-1 1

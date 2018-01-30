@@ -1,0 +1,14 @@
+A : I may go grocery shopping later. 0
+B : We need to get food? 0
+A : I think so. 0
+B : What are you going to buy? 0
+A : What food are we out of? 0
+B : Go and look in the kitchen. 0
+A : Could you look for me? 0
+B : You should just get the basics. 0
+A : What would that be? 0
+B : Get some eggs, milk, and bread. 0
+A : Would you please make a list for me? 0
+B : Okay, I'll write it down for you. 1
+
+0 1

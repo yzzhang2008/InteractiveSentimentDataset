@@ -1,0 +1,12 @@
+A : I really love the look of this car. 1
+B : Would you like to test drive this car? 0
+A : Yes, I would love to take it for a drive. 1
+B : I'll go get the keys, and you can get out your Driver's License and Proof of Insurance. 0
+A : Here's my Driver's License and Proof of Insurance. 0
+B : Well, just sign this card, and we'll be on our way. Don't forget to buckle your seatbelt! 1
+A : Can I take it on the freeway to check for acceleration? 0
+B : That would be fine; just don't exceed the speed limit! 1
+A : This car handles great, and I love it! 1
+B : I am glad that you like this car. 1
+
+1 1

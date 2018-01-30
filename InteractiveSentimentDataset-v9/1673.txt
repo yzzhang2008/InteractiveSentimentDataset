@@ -1,0 +1,14 @@
+A : I need some pants. 0
+B : I thought you just bought a pair. 0
+A : I did. 1
+B : What's wrong with them so soon? 0
+A : The pants are fine, but the pocket has a huge hole in it. -1
+B : You shouldn't carry your keys and pens in your pocket. -1
+A : But that's what pockets are for. 0
+B : You should carry them in a purse. 0
+A : I'm a man, and men don't carry purses! 0
+B : Well, you should buy pants with stronger pockets. 0
+A : I would if I could find someone who makes strong pockets. 1
+B : Try a Google search online. 0
+
+0 0

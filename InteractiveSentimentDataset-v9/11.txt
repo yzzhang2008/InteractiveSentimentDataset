@@ -1,0 +1,11 @@
+A : Would you be interested in seeing the apartment? 1
+B : I would love to see it. 1
+A : Are you free today at around 6 p.m.? 0
+B : Yes, I will be able to make it then. 1
+A : Well, I'll see you at 6 p.m. Do you know how to get there? 1
+B : I used to live in that area. 0
+A : I'll give you an application form when I see you. 0
+B : That sounds good. Do I need to bring anything? 1
+A : No. Just bring yourself. 1
+
+1 1

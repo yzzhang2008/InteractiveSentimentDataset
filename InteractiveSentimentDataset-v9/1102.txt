@@ -1,0 +1,14 @@
+A : Could I pay for my parking ticket? 0
+B : I need to see your ticket. Do you have it? 0
+A : Here's my ticket right here. 0
+B : I'm going to need to see your ID. 0
+A : I don't have it. 0
+B : You can't pay your fine without your ID. -1
+A : I don't understand why I can't just pay you. -1
+B : We have to make sure that the person issued the ticket is the one paying it. 0
+A : I get it now. 0
+B : Just come back when you have your ID with you. 0
+A : Will my record be cleared after I pay the fine? 0
+B : Only if you pay your fine. 0
+
+0 0

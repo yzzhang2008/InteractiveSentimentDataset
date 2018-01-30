@@ -1,0 +1,14 @@
+A : Have you seen the news today? 0
+B : Not yet. What happened? -1
+A : Did you know there was a blackout last night? -1
+B : Yes, I heard the lights were out all night. 0
+A : Some people decided to loot last night. -1
+B : I don't understand. -1
+A : They took advantage of the blackout. -1
+B : They really started looting? 0
+A : Yes, apparently four stores were broken into. -1
+B : Did the looters get caught? 0
+A : There was no evidence of who did it. -1
+B : Hopefully we won't have any more blackouts. -1
+
+-1 -1

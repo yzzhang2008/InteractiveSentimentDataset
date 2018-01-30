@@ -1,0 +1,14 @@
+A : Could you tell me how to use the washer and dryer? 0
+B : What do you need help with? 0
+A : Do you know how to turn them on? 0
+B : Do you have any change? 0
+A : I need change for the machines? 0
+B : You need to put 50 cents into the washer machine and a dollar into the dryer. 0
+A : So what do I need to do? 0
+B : The machines will turn on once you put the quarters into the slot. 0
+A : That's really all I have to do? 0
+B : That's everything. 1
+A : Thanks for all your help. 1
+B : I'm here if you need any more help. 1
+
+1 1

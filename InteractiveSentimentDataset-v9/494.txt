@@ -1,0 +1,14 @@
+A : How are things with you? 0
+B : I'm fine. Thank you. 1
+A : May I help you with something? 0
+B : I want to open a bank account. 0
+A : Do you know what kind of account you want to open? 0
+B : I want to open a checking account. 0
+A : You should also open a savings account. 0
+B : That would be great. 1
+A : To open these accounts, you will need to make a deposit of at least $50. 0
+B : I would actually like to deposit $300 today. 1
+A : Let me do that for you now. 0
+B : Please put $150 in each account for me. 1
+
+0 1

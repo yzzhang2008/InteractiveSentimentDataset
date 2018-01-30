@@ -1,0 +1,12 @@
+A : Could you help direct me to the proper window? 0
+B : There are different windows for different things. Did you make an appointment on the Internet? 0
+A : I made my appointment over the Internet. 0
+B : Different windows will be able to help you with different problems. What do you need help with? 0
+A : I need help transferring the ownership of a new car from my friend to myself. 0
+B : The signed forms go in the box, and I will call your name in a few minutes. 0
+A : Thank you for making it seem less confusing. 1
+B : If you would give me your current Driver's License, I will be able to complete the transfer process. 1
+A : Here is my license, I never really liked that picture! -1
+B : That is a great picture! Take the forms over to the last window to pay your fees and you're finished! 1
+
+0 1

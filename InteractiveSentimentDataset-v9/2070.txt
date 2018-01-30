@@ -1,0 +1,10 @@
+A : Hi, How are you? 0
+B : I’m doing fine, how about you? 1
+A : I’m O.K. I have been so busy with my children’s homework and activities. My son is in football and he is very busy with practice three times a week and games on Saturdays. -1
+B : My girls are busy too. They are both in ballet class. They are having a fall recital in October and are having daily rehearsals. -1
+A : I guess that’s why I haven't see you recently. Anyway, when you have some time, call me. We should get together for tea. 0
+B : That’ll be very nice. 1
+A : Well, I better get back to making a snack before football. Good luck with all the activities! 1
+B : Thank you. Bye. 1
+
+1 1

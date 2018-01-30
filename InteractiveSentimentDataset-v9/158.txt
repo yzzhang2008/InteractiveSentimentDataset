@@ -1,0 +1,12 @@
+A : I need to order new business cards. 0
+B : Do you have any idea how many you'd like? 0
+A : I think 2,000 would be enough. 1
+B : Would you fill out this form, please? 0
+A : I don't want to make any changes to my old card. -1
+B : If you detect any difference, I'll take you out to dinner. 1
+A : That's it. Here's the form, and here's my old card to use as a model. 1
+B : Thank you. Your order will be ready seven days from now. 1
+A : I need it sooner. Let me have it in three days, okay? 0
+B : We can certainly give you faster turnaround, but it will cost you extra. 1
+
+1 1

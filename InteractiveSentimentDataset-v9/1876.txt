@@ -1,0 +1,14 @@
+A : Do you plan on transferring schools? 0
+B : I want to. Do you? 0
+A : I'm thinking about it. 0
+B : Where do you want to transfer to? 0
+A : I want to go to CSULA or UCLA. 0
+B : Those are pretty good schools. 1
+A : Where are you planning on transferring to? 0
+B : I haven't thought about it yet. 0
+A : At least you still have time to think about it. 0
+B : I know. 0
+A : I hope that you figure it out. 1
+B : I'll think of something. 0
+
+1 0

@@ -1,0 +1,14 @@
+A : I really want to switch things up. 1
+B : What were you thinking? 0
+A : I think I want to try a new style. 0
+B : What would you like me to do? 0
+A : I want you to cut my hair shorter. 0
+B : How short? 0
+A : I want my hair to be only a few inches long. 0
+B : Do you really want it that short? 0
+A : Yes, I've been wanting it short for a while now. 0
+B : If you really want me to, then I'll do it. 0
+A : I'm absolutely sure that this is what I want. 1
+B : Let's do it. 1
+
+1 1

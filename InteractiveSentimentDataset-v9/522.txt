@@ -1,0 +1,14 @@
+A : Your total comes to $36.78. 0
+B : Put it on my VISA. 0
+A : There's a problem with your card. -1
+B : What's wrong with it? -1
+A : I believe it was declined. -1
+B : You're kidding me! -1
+A : Do you have another card I could try? 0
+B : I only have one card. 0
+A : Do you have cash, perhaps? 0
+B : I don't have any cash on me. -1
+A : You're not going to be able to take these items today. -1
+B : I'll be back tomorrow. 0
+
+-1 -1

@@ -1,0 +1,14 @@
+A : Are you sure that this bus will take us to Santa Anita mall? 0
+B : Yes, it will. 1
+A : You know that for a fact? 0
+B : Yeah, I catch this bus all the time. 0
+A : Is it a very long bus ride? 0
+B : It's about thirty minutes long. 0
+A : Do you know where we get off at? 0
+B : There's a bus stop right behind Macy's. 0
+A : Really, there's a bus stop right by the mall? 0
+B : There's a bus stop in the mall parking lot. 0
+A : That's convenient. 1
+B : Absolutely. 1
+
+1 1

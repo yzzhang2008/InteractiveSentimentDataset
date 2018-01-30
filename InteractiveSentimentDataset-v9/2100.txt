@@ -1,0 +1,12 @@
+A : I was wondering if someone in your office could help me with a question I have about my payment. 0
+B : I would be happy to answer any questions you might have. 1
+A : My paycheck seems to be smaller than the one I received last week. -1
+B : What about income? Did you make any money during that period? 0
+A : My old employer gave us a couple days of work during that period. 0
+B : When you filled out your Continued Claim Form, did you show that income? -1
+A : Of course I wrote down the work that I had done on the Continued Claim Form. 1
+B : What happens is, when you make money, we take part of your benefits away. -1
+A : I am not going to show any income from now on then. -1
+B : I wouldn't do that if I were you. There is a severe penalty if you get caught making false statements. -1
+
+-1 -1

@@ -1,0 +1,12 @@
+A : I see that the interest rates are rising. 0
+B : Yes, the rates have gone up. 0
+A : What does that mean for my loan? 0
+B : Your loan payments will be higher. 0
+A : I can't afford higher payments. -1
+B : I'm sorry. There's nothing I can do. -1
+A : I will have to wait for the rates to go back down. -1
+B : That's probably a good idea. 1
+A : Will you contact me when the rates are lower? 0
+B : Yes, I will keep your loan application on file. 0
+
+-1 0

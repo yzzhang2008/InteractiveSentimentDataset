@@ -1,0 +1,14 @@
+A : I think I'm going to go to the market today. 0
+B : Do we need food? 0
+A : Yes, I think so. 0
+B : What are you going to get? 0
+A : I'm not sure what we need. 0
+B : Maybe you should go and look in the refrigerator. 0
+A : Could you do it for me, and write out a list of things that we need? 0
+B : Just get the basics. 0
+A : Like what? 0
+B : You know. Get some eggs, milk, and bread. 0
+A : Just go and make a list for me, please. 0
+B : Fine, I'll go do that for you. 0
+
+0 0

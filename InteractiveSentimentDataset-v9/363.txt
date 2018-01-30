@@ -1,0 +1,13 @@
+A : What do you plan for the next holiday? 0
+B : I plan to visit Egypt, and I've booked the accommodation. 0
+A : Sounds perfect! Why do you decide to go on vacation there? 1
+B : I heard that there are many historical places there, and I really enjoy learning history. 1
+A : And you know what? I got room number 13, with a mountain-view for quite cheap price! 1
+B : Don't you know about number 13? It's unlucky number. -1
+A : So?! It's a cock and bull story! I don't believe such a superstition! Do you believe in superstition? 1
+B : I experienced bad things when I neglected a myth. I didn't pass the test because my registration number was 13. -1
+A : It doesn't make sense at all for me. You didn't pass just because you didn't study hard. 1
+B : But it happened to me. -1
+A : Life is what you make it! If you believe something, it will happen! 1
+
+1 -1

@@ -1,0 +1,14 @@
+A : Are you new to this school? 0
+B : Yes, I'm new. 0
+A : Is this your first year in college? 0
+B : I transferred from another school. 0
+A : Where did you transfer from? 0
+B : I was at PCC before. 0
+A : Why did you transfer? 0
+B : I was going to go here first, but my grades weren't good enough. -1
+A : Did you like it at PCC? 0
+B : PCC is an incredible school. 1
+A : Well, I wish you luck here. 1
+B : I'm sure I'll like it here. 1
+
+1 1

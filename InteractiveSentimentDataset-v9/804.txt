@@ -1,0 +1,14 @@
+A : Could you help me with something? 0
+B : What can I help you with? 0
+A : I need help finding a book. 0
+B : What book are you looking for? 0
+A : A book on reptiles. 0
+B : Most of our animal books would be found in the children's section. 0
+A : Where would I find the rest of them? 0
+B : You'd find them in the science section. 0
+A : Could you show me which direction they're in? 0
+B : Which direction for what? 0
+A : The science section, please. 0
+B : Right this way. 0
+
+0 0

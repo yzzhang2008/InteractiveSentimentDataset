@@ -1,0 +1,14 @@
+A : Some guy rowed across the Atlantic Ocean. 0
+B : Good for him. 1
+A : Why would he do that? 0
+B : Did he set a new record? 0
+A : Yes, I think he did. 0
+B : Well, I guess that's why he did it. 0
+A : What's the point? 0
+B : Now he has the world record! 1
+A : But someone's going to break it, so what good is it? 0
+B : Well, he can enjoy it while it lasts. 1
+A : I don't think he even got paid for it. 0
+B : Some people do it just to do it. 1
+
+0 1

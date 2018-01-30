@@ -1,0 +1,12 @@
+A : I was wondering if you could help me book a few tours. 0
+B : You have come to the right place. How many days will you be visiting here? 0
+A : I will be here for a week. 0
+B : Have you ever visited our city before? 0
+A : This is my first time visiting this city. 0
+B : What are you interested in? Do you enjoy museums and buildings, or would you rather hit some outdoor hotspots and venues? 0
+A : I really enjoy visiting museums and art galleries. 1
+B : We have tours for all interests. 1
+A : Do you have a city tour? 0
+B : Yes, in fact, I usually suggest that to visitors. 1
+
+1 1

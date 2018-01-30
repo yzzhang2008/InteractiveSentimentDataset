@@ -1,0 +1,8 @@
+A : I don't know why this restaurant is so busy. -1
+B : They are always busy. 0
+A : The food isn't very good and the prices are too high. -1
+B : Many celebrities come here, so everyone wants to come too. 0
+A : I would rather have good food and low prices. -1
+B : I agree. This place is very overrated. -1
+
+-1 -1

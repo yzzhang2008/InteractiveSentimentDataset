@@ -1,0 +1,12 @@
+A : Hi, B, what happened to your face? It looks swollen. -1
+B : I had to go get a cavity filled today. -1
+A : Did it hurt? 0
+B : I don't even wanna talk about it. It killed me! -1
+A : How long were you in the chair? 0
+B : It took quite a while. But the worst part was getting numbed. They had to give me three shot! -1
+A : Well, I guess you've learned a good lesson, huh! You have to take good care of your teeth! -1
+B : No kidding! Not only can't I stand the pain, but man! Dentists are expensive! The bill is going to be humungus! -1
+A : Don't you have a dental insurance? 0
+B : I do, but it still doesn't cover everything. -1
+
+-1 -1

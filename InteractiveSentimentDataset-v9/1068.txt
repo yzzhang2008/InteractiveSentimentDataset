@@ -1,0 +1,12 @@
+A : I would like to apply for a permit. 0
+B : Can I see your ID? 0
+A : No, I left it in the car. -1
+B : I'm going to need to see your ID and $27 for your permit. 0
+A : One moment while I go and get my ID. 0
+B : Make it quick. 0
+A : Here's my ID and the $27. 0
+B : Now fill this out. 0
+A : Do you have a pen that I can use? 0
+B : Use this one. 0
+
+0 0

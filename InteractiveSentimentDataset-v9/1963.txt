@@ -1,0 +1,12 @@
+A : I heard that the airlines are changing the luggage restrictions, and I need to find out what they are. 0
+B : There are online sites that list the general restrictions of the airlines. 0
+A : Because I fly a lot, I need to pack in a way that will be suitable for most airlines. 0
+B : Except for the discount carriers, you almost always have to pay a fee for checked baggage if you fly economy within the U.S. 0
+A : Do they charge a fee for baggage on an international flight? 0
+B : Almost all international carriers charge for excessive luggage. You are limited in weight and size. 0
+A : Is carry-on luggage allowed? 0
+B : You are restricted in what you may carry on. You almost always can bring one small piece for free. 0
+A : What do you think is the most important thing to remember when packing for a trip? 0
+B : You don't want to haul around or pay fees on things that aren't essential. 0
+
+0 0

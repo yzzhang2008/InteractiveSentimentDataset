@@ -1,0 +1,11 @@
+A : Sarah. You look terrible. What's wrong? -1
+B : My grandmother just passed away. -1
+A : I'm so sorry to hear that. When did this happen? -1
+B : A couple of days ago. I just got back from the funeral. -1
+A : Is there anything I can do? 0
+B : No... not really. The sad thing is that I wasn't there when she died. I really wanted to be there one last time. -1
+A : I'm sure she knew you loved her. Did she pass away in the hospital? 0
+B : Yeah. She died in her sleep. -1
+A : I'm sorry she's gone. -1
+
+-1 -1

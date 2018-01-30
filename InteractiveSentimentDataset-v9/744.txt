@@ -1,0 +1,7 @@
+A : I have to miss school next week. -1
+B : Isn't there some way you could work your schedule out to be here? 0
+A : Unfortunately, this is what I have to do. -1
+B : How are you going to catch up? 0
+A : I've got it all covered 0.
+
+-1 0

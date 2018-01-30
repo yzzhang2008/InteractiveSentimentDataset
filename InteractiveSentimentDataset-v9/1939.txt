@@ -1,0 +1,12 @@
+A : I was wondering if you would be able to help me with vacation plans. 0
+B : Have you chosen your destination? 0
+A : I don't know where I want to go yet. 0
+B : Do you enjoy warm weather, or are you looking forward to a cooler vacation? 0
+A : A nice temperate climate would be best for me. 1
+B : Why don't you take a look at these brochures that might help you make up your mind? 0
+A : This place looks nice. 1
+B : Have you thought about what you would like to spend on this vacation? 0
+A : I just got a bonus and can spend about three thousand dollars total. 0
+B : I'll be happy to help you make a reservation whenever you decide upon a destination. 1
+
+1 1

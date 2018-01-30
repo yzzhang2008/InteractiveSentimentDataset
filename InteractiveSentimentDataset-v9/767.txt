@@ -1,0 +1,14 @@
+A : Where should I park? 0
+B : Do you have a car or motorbike? 0
+A : I drive a scooter. 0
+B : In that case, you can park either in a student lot or on the street. Are you aware of the marked handicapped spots? 0
+A : No, I haven't seen those spots. -1
+B : The handicapped logo with blue means that you are not to park there unless you have a handicapped permit. Will you mostly be parking during the day or night? 0
+A : I park in the daytime. 0
+B : Make sure you pay special attention to the street signs with time limits. Have you noticed those signs? 0
+A : No, I have not seen the signs. -1
+B : Pay attention to what the signs tell you in terms of time limits and what days you can park there. Do you know what the curb colors mean? 0
+A : No, I don't know what the curb colors mean. -1
+B : Just remember that red means absolutely no parking and white means loading and unloading only. I think you'll be good to go! 1
+
+-1 1

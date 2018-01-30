@@ -1,0 +1,12 @@
+A : Kevin,…let’s join to the beach! 0
+B : The beach?! I’m too lazy to go there. Why don’t we go to somewhere else Kevin? -1
+A : There is a community work. We will clean the beach. We will collect plastic garbage too. 0
+B : What for! It’s government’s responsibility. Moreover, why should we collect all of the plastic garbage? What will you do with it? -1
+A : Kevin, you don’t know the harm of the plastic to the ocean? Plastic is non biodegradable. It can pollute the ocean and in turn, it can harm the water and also the fish, the ocean environment. We should care about what happens to the ocean. -1
+B : But what will you do with the garbage? -1
+A : We will take all af the plastic to the company that can re-use the plastic to be recycling products. 1
+B : Who will bring all of the garbage to the company? 0
+A : We can give it to the scavenger. The scavenger do this job all the time. They sell plastic, glass, metal to the company to be recycled. 1
+B : Oh I see, alright I’ll join you. 1
+
+1 1

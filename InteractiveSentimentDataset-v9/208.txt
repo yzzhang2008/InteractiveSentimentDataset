@@ -1,0 +1,14 @@
+A : I would love to rent this apartment. 1
+B : I'm happy to hear you say that. 1
+A : How much are you asking for every month? 0
+B : I'm renting this apartment out for $1050 a month. 0
+A : That is quite a lot of money for just one month. -1
+B : That is a fair price. 1
+A : What do you say to $850 a month? 0
+B : That's no good. -1
+A : It's either $850 or nothing at all. -1
+B : I won't go any lower than $1050. -1
+A : Could you please go lower? 0
+B : That's the best I can do. 1
+
+-1 -1

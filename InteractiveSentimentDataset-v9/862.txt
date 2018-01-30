@@ -1,0 +1,12 @@
+A : We eat out too much. We need to save money. -1
+B : Ok. Let's eat in from now on. 0
+A : I can cook our favorite meals. 1
+B : I can try to cook too. 0
+A : Your cooking isn't very good. -1
+B : That's why we eat out all the time. 0
+A : I will make spaghetti and meatballs tonight. 0
+B : Do you know how to make meatballs? 0
+A : No. -1
+B : It might be easier to eat out. -1
+
+-1 -1

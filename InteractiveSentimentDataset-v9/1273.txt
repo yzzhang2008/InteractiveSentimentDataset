@@ -1,0 +1,14 @@
+A : I love salads. 1
+B : Me too. 1
+A : I usually eat a simple salad. 1
+B : What do you put in it? 0
+A : Just lettuce, tomato, and celery. 0
+B : That's it? 0
+A : I add some pepper and salt. 0
+B : I always put cheese in my salads. 0
+A : Yes, cheese is nice. 1
+B : What kind of dressing do you use? 0
+A : I pour lots of French dressing on top. 0
+B : Me too. French dressing is so delicious! Who cares about calories? 1
+
+1 1

@@ -1,0 +1,12 @@
+A : I need help planning my vacation. 0
+B : Sure, where would you like to go? 0
+A : I haven't decided where to go yet. 0
+B : Do you enjoy warm or cold climates? 0
+A : I am thinking that I might enjoy a tropical climate. 1
+B : I have some brochures here that you might like to look at. 0
+A : These look great! 1
+B : Do you know how much you want to spend on this vacation? 0
+A : I have about a thousand dollars to spend on this trip. 0
+B : Well, take these brochures, and get back to me when you want to make your reservations. 0
+
+1 0

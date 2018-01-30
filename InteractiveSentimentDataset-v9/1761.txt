@@ -1,0 +1,14 @@
+A : What's going on? 0
+B : Nothing really. How about you? 0
+A : A lot, like the party I'm having on Friday. 0
+B : Well, that's cool. 1
+A : Will you be able to make it? 0
+B : I'm busy this Friday. I'm sorry. -1
+A : What do you have to do? 0
+B : I'm having dinner with my family. 0
+A : Maybe you can come next time. 0
+B : I'll make sure and come to your next party. 1
+A : I'll look for you at my next party. 1
+B : I'll be there. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : Where do you need to go? 0
+B : To PCC. 0
+A : I can take you there. 1
+B : How long is the ride? 0
+A : It's going to take me about 25 minutes to get there. 0
+B : Can you get me there faster? 0
+A : That's as fast as I can get there. -1
+B : Fine. How much will this ride be? 0
+A : It may cost you more because of the traffic. -1
+B : Are you serious? -1
+A : Yes, but I'll take you there for $30. 1
+B : That's fine. Thank you very much. 1
+
+1 1

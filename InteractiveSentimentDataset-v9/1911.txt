@@ -1,0 +1,14 @@
+A : You must be new. 0
+B : As a matter of fact, I am. 0
+A : Have you just started college? 0
+B : No. I transferred here from a different school. 0
+A : What school? 0
+B : I transferred here from PCC. 0
+A : Do you like it here? 0
+B : I really like it here so far. 1
+A : Do you like it better here or at PCC? 0
+B : I like PCC better. 1
+A : If that's the case, then why did you leave? 0
+B : I graduated, and am working towards my next degree. 0
+
+0 1

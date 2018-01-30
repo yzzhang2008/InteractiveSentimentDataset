@@ -1,0 +1,14 @@
+A : We really need to talk. 0
+B : What do we need to talk about? 0
+A : Was there a party going on in your apartment on Friday? 0
+B : I did throw a party on Friday. 0
+A : You were quite loud. -1
+B : I really didn't mean to be loud. -1
+A : I don't mind if you have company, of course, but the noise made it difficult for me to sleep. -1
+B : I am sorry if my party kept you up. -1
+A : It's all right, but next time could you try to keep it down? 0
+B : I will try to. 1
+A : Thank you, because that would be great. 1
+B : You're welcome, and I apologize for the inconvenience. -1
+
+-1 0

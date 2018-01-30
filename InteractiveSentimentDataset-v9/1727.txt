@@ -1,0 +1,14 @@
+A : Are there any hobbies you do? 0
+B : When I have time, I sometimes draw and paint. 0
+A : Oh, you actually do that? 0
+B : Every so often, I do. 0
+A : Did you always know how to draw and paint? 0
+B : I was taught in high school how to draw and paint. 0
+A : You had an art class? 0
+B : Exactly, it was my favorite class. 1
+A : Well, it's good that you're so talented. 1
+B : I appreciate that. 1
+A : Talent is a great thing, I wish I had one. 1
+B : Everyone has a talent. They just need to find it. 1
+
+1 1

@@ -1,0 +1,8 @@
+A : I would like to return this jacket. 0
+B : Is there something wrong with it? 0
+A : It does not fit. -1
+B : Would you like to exchange it for another size? 0
+A : No. I would just like a refund please. -1
+B : Ok. The full amount will go back on your credit card. 0
+
+-1 0

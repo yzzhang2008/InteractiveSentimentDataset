@@ -1,0 +1,11 @@
+A : I heard you're moving to New York. 0
+B : Yes. I've got an offer in upstate New York. 0
+A : Oh, that's great! But I'm going to miss you. 1
+B : Me, too. Let's keep in touch. 1
+A : Yeah. Don't forget to drop me a line when you settle down. 0
+B : Trust me. I won't. I'll keep you posted. 1
+A : You have my address? 0
+B : Well, I have your e-mail address. 0
+A : All right! I look forward to hearing from you soon. Good luck! 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Excuse me. I am interested in getting a library card. 0
+B : Sure, let me give you an application. You can fill it out right here at the counter. 0
+A : OK, here it is. 0
+B : Let me take a look at this for you. May I have your driver's license, please? 0
+A : Here's my license and form. 0
+B : You seem to have filled the form out all right. Are you familiar with our rules and fines? 0
+A : Yes, I know what to do. 0
+B : The hours and limitations are printed on the card and this handout. 0
+A : OK, I see. 0
+B : Thank you for joining the library; we look forward to serving you. 1
+
+0 1

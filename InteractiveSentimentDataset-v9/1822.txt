@@ -1,0 +1,21 @@
+A : You take such good care of your plants, Joan. 1
+B : I try my best. I love plants. 1
+A : I have killed every plant I have ever owned. -1
+B : How, Alice? 0
+A : I don't know. I water them and make sure they get enough sun, but they still die. -1
+B : That's strange. 0
+A : I know. I don't buy plants anymore. -1
+B : That's sad. Plants are beautiful and they provide oxygen too. 1
+A : Can you teach me how to care for plants? 0
+B : Sure. I'm going on vacation tomorrow. I'll be gone for a couple of weeks. We can start after I get back. 0
+A : Ok! Can we shop for the plants together? 1
+B : Yes. Let's get a couple of plants that require low maintenance. 1
+A : What do you mean by low maintenance? 0
+B : Plants that don't need much attention. 0
+A : That will be perfect for me. 1
+B : I'll make a list of good plants for you. 1
+A : What are you going to do about all of your plants while you're on vacation? 0
+B : Well, I was going to ask you to water them for me, but I think I'll ask my sister instead. 0
+A : Yeah, that's a good idea. 1
+
+1 1

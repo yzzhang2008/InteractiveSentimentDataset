@@ -1,0 +1,13 @@
+A : How do I order the office supplies that I need? 0
+B : Fill out this form with whatever you need. What do you need the most? 0
+A : I need many things. 0
+B : I can get a few of them right away, but might have to order some. 0
+A : I can wait a few days for these items. 0
+B : Make sure that you have money allocated for these supplies. How much do you have for office supplies? 0
+A : I don't think we have very much money for supplies, but we have a little. 0
+B : Would you like them delivered to you or can you come get them here? 0
+A : I am not sure yet. 0
+B : When you finish completing the request form, we will order and let you know when the supplies are here. 0
+A : Good-bye! 0
+
+0 0

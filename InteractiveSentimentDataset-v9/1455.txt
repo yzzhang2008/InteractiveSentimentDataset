@@ -1,0 +1,20 @@
+A : Hey Matt, you're home early today. 0
+B : Oh, hi Bill. I got laid off today. -1
+A : I'm sorry to hear that. Why? -1
+B : The company is downsizing and they eliminated my position. -1
+A : That's terrible. How long did you work there? -1
+B : 15 years. -1
+A : Wow! That's a long time. 0
+B : I know. I worked very hard, but I guess it wasn't enough. -1
+A : Don't say that. Companies usually downsize because they are losing money. 0
+B : I know. I just don't know what to do now. I have a family to take care of. -1
+A : Does your wife know? 0
+B : Not yet. She's at work. I didn't want to give her bad news there. -1
+A : I understand. What kind of work did you do? 0
+B : I'm a graphic designer. 0
+A : Really? My son is a website developer. Do you know anything about web design? 0
+B : That's my specialty. 0
+A : Let me give him a call. Maybe he can help you find a job. 0
+B : That would be great! I really appreciate it. 1
+
+0 -1

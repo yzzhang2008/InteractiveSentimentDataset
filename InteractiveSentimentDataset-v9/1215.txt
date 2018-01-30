@@ -1,0 +1,12 @@
+A : What are you doing after work? 0
+B : I have to take our clients out to dinner. 0
+A : Where are you going to take them? 0
+B : I don't know. Do you have any suggestions? 0
+A : There's a really good sushi place downtown. 1
+B : The new one on Main Street? 0
+A : Yeah, that's the one. 0
+B : I can't take them there. 0
+A : Why? 0
+B : Our clients own it. 0
+
+0 0

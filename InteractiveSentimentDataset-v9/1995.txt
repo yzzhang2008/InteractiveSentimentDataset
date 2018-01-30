@@ -1,0 +1,12 @@
+A : My flight just arrived late, and I need to know what to do. -1
+B : That's okay. The airline computer is keeping track of what is happening with you. 1
+A : Do I have to call anyone? 0
+B : By speaking with us at the arrival gate, we can fix the problem for you and direct you. 0
+A : What if there are no more connecting flights for today on this airline? 0
+B : We will go online to see if there is something available with this airline. If we need to, we can check for a flight with another carrier. 0
+A : What if I can't find another flight out of here tonight? 0
+B : We can help you find transportation to a local hotel. 0
+A : Will the airline pay for my room if I have to spend the night at the airport? 0
+B : Since the flight delay was our fault and you are continuing on with our airline, we will cover the cost of a hotel room. 0
+
+0 0

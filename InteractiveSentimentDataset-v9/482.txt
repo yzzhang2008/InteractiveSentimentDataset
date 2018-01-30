@@ -1,0 +1,8 @@
+A : How's the presentation going? 0
+B : Good. 1
+A : Can you give us some information about it? 0
+B : I don't have time. I need to make a phone call. -1
+A : Ok. You look like you're in a hurry. -1
+B : It's important. It can't wait. -1
+
+-1 -1

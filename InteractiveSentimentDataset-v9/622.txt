@@ -1,0 +1,12 @@
+A : I just bought a used car and need to insure it. 0
+B : We can take care of that right now. Do you have all of your paperwork with you? 1
+A : Yes, I took care of all of that and have the papers with me. 1
+B : Did you bring your car with you? 0
+A : Yes, it is parked on the street. 0
+B : Fine, I need to go out with you to check your car for wear and tear. 0
+A : Fine, how will I know how much I should insure my car for? 0
+B : After looking at your car, I will use the Blue Book price and we will consider the condition of the car. 0
+A : Are there other considerations when I insure my car? 0
+B : We always need to think about property damage, damage to other vehicles, and injury. 0
+
+0 0

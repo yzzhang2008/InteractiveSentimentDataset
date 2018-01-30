@@ -1,0 +1,14 @@
+A : You're free to leave. 1
+B : I'm so excited. 1
+A : What are you planning on doing now? 0
+B : I'm going back to college. 0
+A : What are you going to major in? 0
+B : I haven't thought about it yet. -1
+A : I don't want to see you back here. -1
+B : You won't see me here again. -1
+A : I don't think this place is for you. -1
+B : I know. 0
+A : I wish you luck. 1
+B : Thanks. I know things are going to be better. 1
+
+1 1

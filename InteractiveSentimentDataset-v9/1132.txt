@@ -1,0 +1,7 @@
+A : You're going to miss your sister since she's married, aren't you? 0
+B : I sure am. She made a lovely bride, didn't she? 1
+A : She was beautiful. So when will your turn be? 1
+B : Soon! Very soon! 1
+A : Well, a drink to you and your future wife! 1
+
+1 1

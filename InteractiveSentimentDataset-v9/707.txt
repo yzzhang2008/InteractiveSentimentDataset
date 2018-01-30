@@ -1,0 +1,18 @@
+A : Greg, I think it's time for you to start helping around the house. 0
+B : Ok, Dad. 1
+A : Your mom and I want you to start doing some chores. 0
+B : Will I get an allowance like Susie? 0
+A : Of course you will. First, let's start with cleaning up the playroom when it gets messy. 0
+B : Ok. What else? 0
+A : How about setting and clearing the dinner table. 0
+B : These are easy. 1
+A : And, loading and unloading the dishwasher. 0
+B : Ok. Do I have to do all of these things every day? 0
+A : No. I want you to share these chores with your sister. You can both decide which ones you want to do. 0
+B : That's not fair. -1
+A : Why isn't this fair? -1
+B : She's going to pick the easiest ones for herself and give me the harder chores to do. -1
+A : No, she won't. -1
+B : You don't know Susie. I think I want a raise in my allowance. -1
+
+-1 -1

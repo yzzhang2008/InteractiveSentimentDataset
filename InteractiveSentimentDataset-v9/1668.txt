@@ -1,0 +1,12 @@
+A : Hi B . This is A Martinez. I just reviewed your resume. 0
+B : That was quick. 1
+A : Your resume is very impressive. 1
+B : Thank you. 1
+A : Would you be available to meet with me next week? 0
+B : Yes. That would be great! 1
+A : I would also like you to meet with our Vice-president. 0
+B : Ok. What day is good for you? 0
+A : I will be out of the office Monday and Tuesday. What about Wednesday at noon? 0
+B : Wednesday at noon is perfect for me. 1
+
+0 1

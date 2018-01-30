@@ -1,0 +1,14 @@
+A : I would like to get my driver's license today. 0
+B : You will have to take your driving test. Have you taken it yet? 0
+A : I haven't taken it yet. 0
+B : Could you fill these papers out, please? 0
+A : Can I take my test right now? 0
+B : You need an appointment. 0
+A : I would like to do that right now, if I could. 0
+B : Is Friday good for you? 0
+A : That's perfect. 1
+B : Okay, so Friday at what time? 0
+A : The morning would be nice. 1
+B : All right. Come in on Friday at 11:00. 0
+
+1 0

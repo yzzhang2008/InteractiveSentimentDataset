@@ -1,0 +1,8 @@
+A : B, you look pale. What happened? -1
+B : I didn't sleep a wink last night. -1
+A : Did you have something on your mind? You look so concerned! Maybe I can help you! -1
+B : Well, I'm under a lot of pressure. My boss is very pushy. He assigned me three projects. Now the deadlines are near, and I still haven't finished all of my projects. -1
+A : Is there anything I can do to help you? 0
+B : Well, I guess one one can help me but myself! For the moment, I just need someone to talk to so that I can relieve my stress. -1
+
+-1 -1

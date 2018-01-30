@@ -1,0 +1,11 @@
+A : What can I help you with? 0
+B : May I ask you something? 0
+A : What's your question? 0
+B : How many hours behind the wheel do I need? 0
+A : What do you need to take it for? 0
+B : I'm trying to get my license. 0
+A : You need six hours. 0
+B : Can I do all six hours in one day? 0
+A : You have to do it in three days. 0
+
+0 0

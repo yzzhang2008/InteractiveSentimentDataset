@@ -1,0 +1,8 @@
+A : I'm thinking about getting a smartwatch. 0
+B : Do you know how to use one? 0
+A : No, but I can learn. 0
+B : You don't even know how to use your smartphone. 0
+A : My son has a smartwatch. It looks cool. 1
+B : Maybe you should learn how to use your phone first. 0
+
+1 0

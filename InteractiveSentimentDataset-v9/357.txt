@@ -1,0 +1,16 @@
+A : Good morning, how may I help you? 1
+B : Good morning, I need to cash this money. 1
+A : Certainly Ma'am, Could you please fill in this form? 1
+B : Sure. Where should I give my signature? 0
+A : In this box, please. Do you bring ID card and your saving account book? 0
+B : Yes I do. Would you like to see them? 1
+A : Yes please. Thank you Ma'am. How would you like the bank notes Ma'am? 1
+B : Eight notes of one hundred thousand, please. 0
+A : Alright, would please wait for a moment while I'm processing your cash? 0
+B : Yes, thank you. Does it take long time? 1
+A : No it doesn't. Just a few minutes. 1
+B : Alright then. 1
+A : Here is the money, and your saving book, please. 0
+B : Thank you very much. 1
+
+1 1

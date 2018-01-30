@@ -1,0 +1,14 @@
+A : I don't like riding the bus. -1
+B : Why not? 0
+A : The seats and windows are dirty. -1
+B : Don't they clean the bus every night? 0
+A : I think they do. 0
+B : You should bring some wipes with you. 0
+A : That's a good idea. 1
+B : Then you can wipe your seat and window. 0
+A : People will think I'm strange. -1
+B : Who cares? Everyone is strange. 1
+A : That's for sure. 1
+B : Don't worry about what people think. 1
+
+1 1

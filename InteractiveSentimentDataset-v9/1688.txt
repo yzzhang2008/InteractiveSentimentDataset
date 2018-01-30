@@ -1,0 +1,7 @@
+A : B , Highland Mall is having a big sale this weekend. You wanna go? 0
+B : Don't feel like it. I'm broke. -1
+A : Well, we can still do some window shopping, can't we? 1
+B : Just look around? Nah, that's boring. -1
+A : I'll go myself then. 0
+
+0 -1

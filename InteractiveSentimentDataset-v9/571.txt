@@ -1,0 +1,12 @@
+A : Where is the bus? 0
+B : I think it's running late. -1
+A : It should've been here 30 minutes ago. -1
+B : It should be coming soon. 0
+A : It better, because I'm already late for work. -1
+B : I can't stand riding the bus. -1
+A : Me too, it's so unreliable. -1
+B : That is true. 1
+A : It's also horrible having to be at a bus stop in any kind of weather. -1
+B : Exactly.That's the worst part. -1
+
+-1 -1

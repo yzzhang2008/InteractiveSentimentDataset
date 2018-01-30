@@ -1,0 +1,11 @@
+A : Have you taken the written test yet? 0
+B : No, I haven't. 0
+A : You should study before you take it. 0
+B : I have been studying. 0
+A : Why don't you take the test? -1
+B : Do you know if it costs any money to take it? 0
+A : Since you already paid for your permit, you don't have to pay again. 0
+B : All right. Do you know if the test covers the whole book? 0
+A : No, the test skips a lot of things in the book. 0
+
+0 0

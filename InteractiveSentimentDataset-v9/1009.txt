@@ -1,0 +1,14 @@
+A : It's time for bed. 0
+B : I'm not ready to go to sleep. I'm not tired. 0
+A : It's quite late, and you have an early day tomorrow. 0
+B : I'm not going to be able to fall asleep. -1
+A : Why don't you try counting sheep? 0
+B : I've tried that before. It really doesn't work. -1
+A : That's beside the point, you still need to go to bed. -1
+B : Why can't I just stay up until I fall asleep? -1
+A : If I let you do that, then you're just going to be up all night. -1
+B : I promise I'll go to sleep soon. 0
+A : No, you're going to sleep now, so good night. 0
+B : See you in the morning. 0
+
+-1 0

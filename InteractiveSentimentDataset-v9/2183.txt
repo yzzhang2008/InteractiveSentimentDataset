@@ -1,0 +1,6 @@
+A : Oh, the heat is unbearable! Didn't you turn on the air-conditioner? -1
+B : The heat has blown our air-conditioner on the roof! -1
+A : What the fuck! So, what are we going to do? -1
+B : We've got to have it fixed as soon as possible. I've called someone and they're on the way. -1
+
+-1 -1

@@ -1,0 +1,12 @@
+A : I think that that car drove really well and is a good deal. 1
+B : It seems to be a good choice for you. You might want to have a mechanic take a look at it just to be sure. 1
+A : My friend is a mechanic and he came and looked at it for me this morning. 0
+B : That was smart of you to think ahead. Have you and the seller agreed upon a price? 1
+A : Yes, he is willing to accept the price that I offered him. 1
+B : Have you thought about how to pay for your car? 0
+A : I saved up enough money to pay cash for this car. 0
+B : You've really thought this through. Let me go with you to make the payment and drive your car home for you. 1
+A : That would make it a lot easier for me. 1
+B : Let's go take care of that right now. I really want to see your new car! 1
+
+1 1

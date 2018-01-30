@@ -1,0 +1,13 @@
+A : I'm from Channel 5 News. 0
+B : How's it going? 0
+A : I was wondering if I could ask you a few questions. 0
+B : Ask away. 1
+A : First of all, did you vote today? 0
+B : I already voted. 0
+A : Who did you vote for? 0
+B : I'm not going to tell you. 0
+A : Why not? 0
+B : My vote is personal. 0
+A : I apologize for invading your privacy. -1
+
+0 0

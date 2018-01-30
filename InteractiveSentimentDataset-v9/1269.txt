@@ -1,0 +1,12 @@
+A : I can't get any work done. -1
+B : Why? 0
+A : I've been on the phone all day with angry customers and our Technical Support department. -1
+B : What's going on? 0
+A : Service is down. It's not working in many areas right now. -1
+B : Do you need help? 0
+A : Yeah. Can you grab some of these calls? 0
+B : Sure. Who should I speak with? 0
+A : You pick. 0
+B : I'll take Technical Support. You can have the angry customers. 0
+
+-1 0

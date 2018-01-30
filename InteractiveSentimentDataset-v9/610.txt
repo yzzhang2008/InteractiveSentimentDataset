@@ -1,0 +1,9 @@
+A : Wow, B! You look great! 1
+B : Thanks. I'm going on a business trip today. 1
+A : Where are you going? 0
+B : San Francisco, our corporate headquarters. 0
+A : Meeting any important people? 0
+B : Yeah, all of the top management. 1
+A : Well, you're definitely dressed to impress. 1
+
+1 1

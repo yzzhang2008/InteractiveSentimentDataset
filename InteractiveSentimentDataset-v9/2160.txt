@@ -1,0 +1,14 @@
+A : I am a reporter from Channel 5 News. 0
+B : What's up? 0
+A : Could I ask you some questions? 0
+B : Sure, you can. 1
+A : Did you vote today? 0
+B : I sure did! 1
+A : What candidate did you vote for? 0
+B : I can't disclose that information. 0
+A : Why is that? 0
+B : My vote is my own private business. 0
+A : I understand. 0
+B : I voted for our next President. 0
+
+0 0

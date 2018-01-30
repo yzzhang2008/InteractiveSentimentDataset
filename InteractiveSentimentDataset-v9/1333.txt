@@ -1,0 +1,9 @@
+A : I have two tickets to the concert tonight. 0
+B : How did you get tickets? The concert is sold out. 0
+A : My boss and her husband can't go, so she gave them to me. 0
+B : That's great! Where are the seats? 1
+A : Third row! 1
+B : Wow! Those are awesome seats! 1
+A : I know! 1
+
+1 1

@@ -1,0 +1,14 @@
+A : $140. I can't believe it. -1
+B : What are you talking about? 0
+A : I got a ticket downtown for $140. -1
+B : Were you speeding? 0
+A : No, I was crossing the street. 0
+B : Were you jaywalking? 0
+A : No, I was in the crosswalk. 0
+B : So why did you get a ticket? 0
+A : The officer said the red hand was blinking. -1
+B : Was it blinking when you entered the crosswalk? 0
+A : No, the white WALK sign was blinking. -1
+B : You should fight that ticket. I'll be your witness. 0
+
+-1 0

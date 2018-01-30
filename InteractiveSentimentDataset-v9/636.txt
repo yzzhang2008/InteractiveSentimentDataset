@@ -1,0 +1,12 @@
+A : I really love this car! 1
+B : Great! I was hoping that it would go to a driver who appreciates it. 1
+A : How much are you willing to take for the car? 0
+B : As I am sure you noticed, the price on the window is five thousand dollars. 0
+A : Don't you think you could come down a bit on the price? 0
+B : You seem like a nice person. Maybe I could lower the price a bit. 1
+A : Would you sell it to me for four thousand? 0
+B : I am thinking more in the line of four thousand five hundred. 0
+A : I'll take it then! 1
+B : Perfect! That works for both of us. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : Hello 0
+B : Hello, may I speak to Mary? I’m Akira’s mom. 0
+A : Ah, hi. How are you? 1
+B : I’m fine. And you? 1
+A : I’m good thanks. 1
+B : Akira said he would like to play with Alex today. I’m calling to invite Alex to visit at our house. 1
+A : Actually Alex has a soccer practice at 4 o’clock, but he can play between 1pm and 3pm. 0
+B : Great. Can you drop him off at our house? If you are busy, I can pick him up. 1
+A : I can drop him off, it’s not a problem. 1
+B : We live at 2233 Trembly Avenue near the Esso Station. 0
+A : Yes, I know where it is. See you soon. 1
+B : See you at 1pm. Good bye. 1
+
+1 1

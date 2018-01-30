@@ -1,0 +1,8 @@
+A : Is Richard in his office? 0
+B : No. He's in a meeting. 0
+A : I need to talk to him about my start time. I need to start an hour later. 0
+B : Why? 0
+A : Sheila is going back to work and I need to be home until my son leaves for school. 0
+B : I'm sure Richard will be fine with that. He's a single dad, so he will understand. 1
+
+0 1

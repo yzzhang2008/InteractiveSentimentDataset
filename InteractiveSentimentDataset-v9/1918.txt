@@ -1,0 +1,14 @@
+A : Life isn't fair. -1
+B : It sure isn't. 0
+A : I got a ticket yesterday. -1
+B : What for? 0
+A : I was crossing the street. 0
+B : Were you in a crosswalk? 0
+A : Yes, but the red hand was blinking. -1
+B : So? That's a ticket? 0
+A : Yes, it's a $140 ticket. -1
+B : That's not right! -1
+A : When I started to cross the street, the white walk sign was blinking. 0
+B : You need to walk faster. 0
+
+-1 -1

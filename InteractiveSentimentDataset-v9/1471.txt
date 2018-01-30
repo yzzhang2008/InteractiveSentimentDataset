@@ -1,0 +1,8 @@
+A : Kathy should be here soon. 0
+B : Ok. I'm not in a hurry. 0
+A : Is this your first trip to Seattle? 0
+B : Yes. 0
+A : How do you like Seattle? 0
+B : It's a lovely city. 1
+
+0 1

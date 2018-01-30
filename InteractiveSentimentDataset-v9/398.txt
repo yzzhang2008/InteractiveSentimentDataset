@@ -1,0 +1,11 @@
+A : What's that? 0
+B : It's a wedding invitation. My aunt, Jennifer will marry next Saturday. She will hold a ceremonial wedding and also a big party in her town. 0
+A : Sounds nice. How old is she? 1
+B : She is 28 years old. I believe that would be the best age for a woman to marry. Do you think so? 1
+A : Hm,…could be, if we see from the point of age, 28 years old is considered to be a mature woman. But maturity has nothing to do with the age sometimes. To be mature is a matter of choice I guess. 0
+B : By the way, when will you marry? Have you made a plan for marriage? 0
+A : Well, I still focus on my study at the moment. But If I can make, I will marry at around 30. How about you? 0
+B : I have no idea. Because there are so many people divorce. I don't want to marry soon if I just divorce eventually. -1
+A : You're right. 1
+
+1 -1

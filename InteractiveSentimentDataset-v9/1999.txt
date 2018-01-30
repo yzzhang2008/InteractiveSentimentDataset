@@ -1,0 +1,12 @@
+A : I need help figuring out how to get to my friend's house in the city. 0
+B : You may take a shuttle, a taxi, or a bus to get wherever you need to go. 0
+A : Which form of transportation is preferable? 0
+B : It depends on what you are looking for. If you are looking to travel inexpensively, a bus might be your best bet. 1
+A : Where do the buses pick you up? 0
+B : The ground transportation center is right outside the exit leading to the street. 0
+A : Is there a car rental place around here? 0
+B : You can find a car rental agency just outside of baggage claim. 0
+A : Is there a subway in this city? 0
+B : Our subway station is a mile outside of the airport. I would suggest you take the designated shuttle to get there. 0
+
+0 0

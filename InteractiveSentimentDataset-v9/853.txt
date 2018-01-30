@@ -1,0 +1,14 @@
+A : I need order in the court! -1
+B : I am ready to make my plea. 0
+A : What do you plead? 0
+B : I plead not guilty. 1
+A : All the evidence indicates that you are guilty. -1
+B : I realize that, but I am not guilty. -1
+A : Is that right? 0
+B : I had nothing to do with the crime that was committed. -1
+A : Who is the guilty party? 0
+B : I'll tell you if you let me go. 0
+A : I'd be glad to make a deal with you. 1
+B : I am willing to tell you that information. 1
+
+1 1

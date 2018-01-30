@@ -1,0 +1,8 @@
+A : The sink is leaking again. -1
+B : I'll try to fix it. 0
+A : Let's call a plumber. 0
+B : Why? 0
+A : Because you tried to fix it last time. 0
+B : Ok. Let's call a plumber. 0
+
+-1 0

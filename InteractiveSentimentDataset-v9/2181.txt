@@ -1,0 +1,12 @@
+A : Oh, man! Nobody can stand this kind of scorching heat. -1
+B : Tell me about it! You can't even stay in the sun for five minutes. -1
+A : You'll be scorched like a shrivelled plant. -1
+B : Or like a shrivelled old man! -1
+A : I like your humor, B . Anyway, I guess this afternoon there's nothing we can do but stay home. -1
+B : I guess so. I don't want to be taken to the hospital for heat exhaustion or sunstroke or something. -1
+A : You want my advice? Drink a lot of liquids and spare yourself the worst of the heat! -1
+B : Yeah, you're right. Got to drink a lot of fluids. Do we have any beer? 0
+A : Yes. Do you want Coors Light or Corona? 0
+B : Do you have any Bud or Michelobe? 0
+
+-1 0

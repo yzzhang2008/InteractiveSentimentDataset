@@ -1,0 +1,14 @@
+A : I finally found an apartment that I want to rent. 1
+B : Where did you see it? 0
+A : I saw it in this ad for apartments in today's newspaper. 0
+B : You found an apartment in the ads? 0
+A : I really did, but what's so great about it is that it's really affordable. 1
+B : Tell me about the apartment. 0
+A : Well, most importantly the apartment is beautiful. 1
+B : How much is the rent for the apartment? 0
+A : The rent is $725 each month. 0
+B : That's pretty cheap for out here. 1
+A : That's what I said when I found out how much the rent was. 1
+B : Congratulations on the new apartment. 1
+
+1 1

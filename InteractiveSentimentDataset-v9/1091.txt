@@ -1,0 +1,14 @@
+A : Have you ever gotten a parking ticket? 0
+B : I've gotten a few. 0
+A : How many is a few? 0
+B : I've gotten about six. 0
+A : Have you paid all your tickets off? 0
+B : Yes, I've paid all of them off. 0
+A : How much is the fine? 0
+B : It's like $130 each ticket. 0
+A : That's not cheap at all. -1
+B : I got a parking ticket the other day. 0
+A : Pay it off, and they'll clear your record. 0
+B : I'm going to do that as soon as possible. 0
+
+0 0

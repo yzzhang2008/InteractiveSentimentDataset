@@ -1,0 +1,12 @@
+A : I'd like to talk to you about my grades. 0
+B : Sure! What exactly do you have questions about? 0
+A : I am worried that I messed up on a test. -1
+B : Well, let me take a look at my grade book. How do YOU think you are doing? 0
+A : I think I am doing great, except for that one test! -1
+B : Well, your scores show that you could do a little better. What do you think you could improve on? 0
+A : I think that I could study a little harder for tests. 0
+B : Fine! Please remember that regular attendance is the most important way to begin. 0
+A : Yes, I know. 0
+B : I'm sure you'll do fine. 1
+
+-1 1

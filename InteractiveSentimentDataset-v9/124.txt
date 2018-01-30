@@ -1,0 +1,11 @@
+A : These batteries should be on sale more often. 0
+B : I don't think these batteries are on sale. -1
+A : Look at the ad. It says they're on sale. 1
+B : You're right. Batteries are on sale, but not this brand of batteries. 0
+A : I didn't pay attention to the brand name. -1
+B : Several people have misread that ad already today. -1
+A : People make the mistake because the ad is misleading. -1
+B : I agree with you. Ads can be very tricky. 1
+A : I don't know when I'll ever learn. -1
+
+-1 1

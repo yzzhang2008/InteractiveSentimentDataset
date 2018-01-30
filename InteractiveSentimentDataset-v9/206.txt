@@ -1,0 +1,14 @@
+A : Can we talk? 0
+B : What about? 0
+A : I'm not too clear on some things about my lease. -1
+B : Is there a problem? -1
+A : How many years is my lease for? 0
+B : In three years your lease will be up. 0
+A : Can I move out before those three years? 0
+B : If you do, I will keep your deductible. -1
+A : Why would you keep it? -1
+B : I would keep it because you would be breaking our contract. -1
+A : I get it now. 1
+B : I hope that I cleared things up for you. 1
+
+0 0

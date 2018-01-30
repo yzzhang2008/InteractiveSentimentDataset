@@ -1,0 +1,12 @@
+A : I am trying to see if I can afford to purchase a home that I wish to buy. 0
+B : We can figure that out right now. How much do you earn annually? 0
+A : My wife and I earned one hundred and fifty thousand dollars last year. 0
+B : How many years have you held your current position? 0
+A : I have been at my current job for 10 years. 0
+B : Is there any extra income that you receive other than salary? 0
+A : I collect one thousand dollars a month from a rental property. 0
+B : Have you ever figured out your credit score? 0
+A : About 800, may be. 0
+B : Adding in your expenses, I calculate that you can spend three hundred thousand on a house. 0
+
+0 0

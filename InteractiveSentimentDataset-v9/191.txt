@@ -1,0 +1,12 @@
+A : I really like this beautiful apartment! 1
+B : Thank you. Do you have any further questions? 1
+A : Yes, I was wondering about safety features. 0
+B : Yes, what are your concerns? 0
+A : How about fire alarms and escape routes? 0
+B : Every apartment has its own smoke alarm, and the whole building is on a sprinkler system. 0
+A : What about fire extinguishers? 0
+B : They are in the hallways on all of the floors. It is suggested that you buy an individual one for your own apartment. 0
+A : What about escape routes in a fire? 0
+B : The escape routes are clearly posted in the hallways. 1
+
+1 0

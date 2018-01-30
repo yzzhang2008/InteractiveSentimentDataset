@@ -1,0 +1,9 @@
+A : Hi, Mike. Haven't seen you for a while? How is Cathy? 0
+B : We're not seeing each other any more. -1
+A : What happened? Did you break up? 0
+B : Yeah. I got sick and tired of her nagging all the time. -1
+A : Oh, I'm sorry. Maybe, you were just emotional at that moment. Do you think you guys can get back together? -1
+B : I don't know. There's plenty of fish out there in the sea. 0
+A : Oh, you're such a dog! -1
+
+-1 -1

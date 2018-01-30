@@ -1,0 +1,12 @@
+A : I'm quitting my job today. -1
+B : Why? Can you afford to quit? 0
+A : Did you see the news? 0
+B : No, not yet. 0
+A : The stock market is soaring. 0
+B : What does it mean? 0
+A : It means I made a lot of money! 1
+B : What are you going to do now? 0
+A : Retire early, pay off my home loan, and travel. 1
+B : That's awesome. 1
+
+1 1

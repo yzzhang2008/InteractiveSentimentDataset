@@ -1,0 +1,14 @@
+A : I received your e-mail about the many purchase offers for my house. 0
+B : It has been quite a busy day regarding your home. We just received three offers! 1
+A : Did the potential buyers offer a good price? 0
+B : There were offers above and below your asking price, as well as one exactly for the asking price. 0
+A : The highest bid is always the best bid! 1
+B : We need to look at the big picture in deciding which bid to accept. 0
+A : What things would you like me to look at? 0
+B : Just because a buyer offers the money doesn't mean that they actually have the credit to purchase the home. 0
+A : How do I get the information about a buyer's ability to afford to buy a home? 0
+B : We will check to see if any of these buyers have a large down payment. A large amount of available cash would be a good sign. 0
+A : I will wait for that information and give you my answer. 0
+B : Please let me know when you have made your decision, and I will contact the buyers. 0
+
+0 0

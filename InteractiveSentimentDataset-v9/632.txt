@@ -1,0 +1,12 @@
+A : I am buying a used car and don't know much about financing it. -1
+B : I can help you. Do you have a down payment? 1
+A : Yes, I have saved up three thousand dollars for a down payment. 0
+B : Good, because you will not be able to get a loan without putting some money down on the car. 1
+A : I don't know where exactly to get a loan. -1
+B : Other than friends or family, you can go to a bank, credit union, or use the dealer financing if you bought the car off a car lot. 0
+A : What is the best choice for financing? 0
+B : It depends. The worst financing deal is usually at the dealer. -1
+A : What do I need to have with me when I apply for the loan? 0
+B : You will need a recent pay stub and a copy of the pink slip for the car. Before the loan is complete, you will need to show proof of insurance. 0
+
+-1 0

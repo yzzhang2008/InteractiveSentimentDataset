@@ -1,0 +1,10 @@
+A : Excuse me, sir, didn't you see the red light? -1
+B : Oh, I thought I could make a right turn on red here. -1
+A : No, sir. The sign says No Turn on Red. -1
+B : Oh, I guess I didn't see it. -1
+A : I'm sorry, sir, but may I see your driver's license and insurance policy, please? I have to give you a ticket. -1
+B : Here they are. 0
+A : Sign here, please. You can appeal to the court within 14 days. This slip has all the information you need. Please drive safely, sir. 0
+B : Fine. 0
+
+-1 -1

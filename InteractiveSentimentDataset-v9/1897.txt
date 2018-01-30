@@ -1,0 +1,14 @@
+A : You got a letter in the mail. 0
+B : Give it to me. 0
+A : What is it? 0
+B : It's from NYU. 0
+A : What does it say? 0
+B : I didn't get accepted. -1
+A : You can't be serious! -1
+B : I'm serious. -1
+A : Are you all right? 0
+B : NYU was my first choice. 0
+A : I'm sorry that you didn't get in. -1
+B : I'll just have to wait for UCLA. -1
+
+-1 -1

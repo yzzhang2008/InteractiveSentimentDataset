@@ -1,0 +1,12 @@
+A : I was wondering if you could help me to get a library card. 0
+B : Of course, just fill out this form and let me know when you are finished. 0
+A : I'm finished. 0
+B : I will also need your driver's license; hand me the filled-out form, please. 0
+A : OK, the form is all filled out. 0
+B : Perfect! Do you know the hours and rules for the library? 1
+A : No, I have no idea what they are. -1
+B : Everything you need to know is printed on the card and handout. 0
+A : Yes, right. 1
+B : Great! You are all set to enjoy the library. 1
+
+1 1

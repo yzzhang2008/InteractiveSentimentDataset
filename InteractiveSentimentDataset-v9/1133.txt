@@ -1,0 +1,8 @@
+A : Did you see our last electric bill? 0
+B : No. Was it high? 0
+A : It was very high. -1
+B : I think it's the air conditioner. 0
+A : We need to keep it off. -1
+B : But it's so hot these days. -1
+
+-1 -1

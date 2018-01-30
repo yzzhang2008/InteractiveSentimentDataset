@@ -1,0 +1,12 @@
+A : Hi, this is Betty. 0
+B : Hi, Betty. It's Larry. Can you tell me how many smoke detectors you have? 0
+A : There are two smoke detectors in my apartment. 0
+B : Do you know how new the batteries are? 0
+A : I'm very afraid of fires. I change the batteries every Labor Day. 0
+B : Good. I'm calling all the tenants before I come by to test the detectors. 1
+A : My detectors are ready for you. When will you be visiting? 0
+B : This Thursday at noon. But you don't have to be there. 0
+A : Okay, just pardon the mess when you come in. 0
+B : You'll never even know that I was there. 1
+
+0 1

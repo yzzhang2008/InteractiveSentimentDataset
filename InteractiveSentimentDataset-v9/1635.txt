@@ -1,0 +1,12 @@
+A : Do you have any helpful hints for preparing to move out of my home? 0
+B : The first thing I would do is to make a list of what needs to be done. Then number the items as to what can be done ahead of time. 0
+A : What kinds of things should be on my list? 0
+B : First would probably be to get rid of any extra things that you have by having a garage sale. 0
+A : That is a good idea because I have way too much junk. 1
+B : You also should schedule your moving van in advance. 0
+A : Can I begin packing things ahead of time? 0
+B : Yes, just keep in mind what you won't be using in the near future and pack those items first. 0
+A : Should I schedule my utilities to be shut off? 0
+B : You need to work that out ahead of time with your utility companies and the new owners. 0
+
+0 0

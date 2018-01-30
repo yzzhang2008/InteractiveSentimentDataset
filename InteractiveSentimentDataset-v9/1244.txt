@@ -1,0 +1,11 @@
+A : We are going to extend our brand of shoes. 0
+B : What other kinds of shoes are you going to sell? 0
+A : We'd like to do basketball shoes too. 0
+B : Your soccer shoes are very popular, so basketball shoes should be a hit too. 1
+A : That's what we're hoping. We need a new marketing strategy. 1
+B : I'm in Sales and Marketing. I can help you. 1
+A : I know. I was hoping you could help us with some advertising ideas. 1
+B : I would love to. Let's set up a meeting to discuss the details. 1
+A : Great! I will email my team and get back to you as soon as possible. 1
+
+1 1

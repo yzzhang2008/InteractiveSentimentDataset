@@ -1,0 +1,12 @@
+A : Hello. How can I help you? 0
+B : I bought a laptop last week and I'm not happy with it. -1
+A : What is wrong with it? 0
+B : It is very slow. -1
+A : We can definitely help you with that problem. Can you bring it to the store today? 1
+B : Yes. Can I bring it after work around 6 PM? 0
+A : Absolutely! I will try to find out what the problem is. 1
+B : Thank you! This is great after sales service. 1
+A : We think supporting our customers after the purchase is also very important. 1
+B : I will definitely be back for your other products! 1
+
+1 1

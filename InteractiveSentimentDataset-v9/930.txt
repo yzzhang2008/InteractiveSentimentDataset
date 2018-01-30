@@ -1,0 +1,14 @@
+A : Did you put the blue bin out on the street? 0
+B : Oh, no. I forgot. -1
+A : Well, you'd better take it out front. 0
+B : What time does the recycle truck come by? 0
+A : It usually gets here at noon on Tuesday, which is tomorrow. 0
+B : I'll just take it out to the street tomorrow morning. 0
+A : Oh, no, you don't. -1
+B : What do you mean? 0
+A : Every morning you get up late and rush off to work late. -1
+B : Do you think I'll forget to do it? 0
+A : You'll remember to do it, but you won't have time to do it. -1
+B : Okay, I'll take it out front right now. 0
+
+-1 0

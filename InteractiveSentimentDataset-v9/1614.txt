@@ -1,0 +1,12 @@
+A : What can I do to fix up the exterior of my home? 0
+B : I would say the number one thing that you can do is paint your home, but your home has been painted recently and looks great! 1
+A : What can I do about the landscaping? 0
+B : Your lawn looks a little dried out. I think all it needs is a little fertilizer and water. 0
+A : My front yard looks a little boring. How can I brighten it up? 0
+B : I would definitely put in some new plantings to liven your yard up a bit. 0
+A : Should I be worried about what my backyard looks like? 0
+B : You need to repair that section where your fence is falling down. 0
+A : What else can I do to make the exterior of the house look extra good to buyers? 0
+B : Make sure to keep the sidewalks and driveways swept clean at all times. 0
+
+0 0

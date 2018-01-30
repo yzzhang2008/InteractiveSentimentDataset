@@ -1,0 +1,8 @@
+A : Could you pick up some milk on your way home? 0
+B : Sure. How much? 0
+A : Just a gallon, please. 0
+B : Ok. Is there anything else you need from the market? 0
+A : No, nothing else. 0
+B : Ok. I'll be home in an hour. 0
+
+0 0

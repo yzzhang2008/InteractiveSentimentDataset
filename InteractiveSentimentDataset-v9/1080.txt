@@ -1,0 +1,14 @@
+A : How did I do? 0
+B : Do you really want to know? 0
+A : Yes, I do. 0
+B : You did pretty bad. -1
+A : Exactly how bad? -1
+B : You didn't pass the test. -1
+A : I don't understand how I could've failed it. -1
+B : There are a few reasons why you failed. 0
+A : What are the reasons? 0
+B : The main reason is the fact that you're a horrible driver. -1
+A : Can I take the test again? 0
+B : You'll be able to take the test again in a couple weeks. 0
+
+-1 -1

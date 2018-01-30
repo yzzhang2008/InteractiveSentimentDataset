@@ -1,0 +1,18 @@
+A : Hello, Jim. It's Olivia. 0
+B : Hi, there. What can I do for you today? 0
+A : You should know that I'll be moving out in a while. 0
+B : Gee, that's too bad. What day do you plan to leave? -1
+A : June 30 is my last day. 0
+B : I hope it's not your neighbors or the latest rent increase. -1
+A : No, neither one. I got lucky. I found a new job. 1
+B : Hey, give me five! Good for you! What is it? 1
+A : I'll be teaching ESL at Pasadena City College. 0
+B : Great! Is ESL a class about the Internet? 1
+A : No. ESL is English for students whose native language is not English. 0
+B : I was worried that you were moving because of your neighbors. -1
+A : Whoever my next neighbor is cannot possibly be as loud as those people. -1
+B : I'm going to give them 30 days' notice if they don't turn that TV down. -1
+A : Thanks for everything. I'll give you the keys on the thirtieth. 1
+B : You've been a very good tenant. Good luck with your new SLE job. 1
+
+1 1

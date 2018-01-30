@@ -1,0 +1,8 @@
+A : Do you know where I can find old music boxes? 0
+B : You could try shopping at a flea market. 1
+A : What's that? I never heard of such a thing. -1
+B : A flea market is an outdoor place where people sell all kinds of used stuff. 0
+A : Where can I find one? 0
+B : Well, you can check the local paper or search 'flea market' online. 0
+
+0 0

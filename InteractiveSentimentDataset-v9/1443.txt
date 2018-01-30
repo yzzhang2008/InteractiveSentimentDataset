@@ -1,0 +1,12 @@
+A : I forgot to buy my mom a birthday gift. -1
+B : When is her birthday? 0
+A : Her birthday is today. My family and I are going to take her out to dinner. 0
+B : What time is dinner? 0
+A : 6 PM. 0
+B : You only have two hours to find her a birthday present. 0
+A : I don't get off work until 5:30. 0
+B : There's a gift shop in our lobby. 0
+A : That's a great idea! I'll go there on my break. 1
+B : Remember the gift shop closes at 5 PM. 0
+
+1 0

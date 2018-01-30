@@ -1,0 +1,12 @@
+A : I can't believe I have to finish Tom's work again. -1
+B : Why do you keep doing it for him? 0
+A : If I don't do it, it'll never get done. -1
+B : He's such a slacker. He doesn't do anything at all. -1
+A : I don't know why the boss doesn't fire him. -1
+B : I know why. He's the boss's son. 0
+A : What a loser! -1
+B : Don't let our boss hear you say that. -1
+A : I don't care anymore. -1
+B : Just don't finish his work and see what the boss does. -1
+
+-1 -1

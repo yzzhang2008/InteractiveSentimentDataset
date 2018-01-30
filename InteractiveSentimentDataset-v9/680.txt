@@ -1,0 +1,14 @@
+A : How much is this car? 0
+B : It is $30,000. 0
+A : That's a little high. -1
+B : It's in excellent condition with low miles on it. 1
+A : I'll give you $22,000 for it. 0
+B : That's a bit low. -1
+A : How low can you go? 0
+B : I can sell it to you for $28,000. 0
+A : That's not much of a discount. How about $25,000? -1
+B : Let me talk to my manager. 0
+A : I can pay in cash. 0
+B : Ok. I'll be right back. 0
+
+0 0

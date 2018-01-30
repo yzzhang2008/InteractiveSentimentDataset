@@ -1,0 +1,8 @@
+A : Hey B, can you help me? 0
+B : Sure. What do you need? 1
+A : My printer isn't working. -1
+B : Try to reboot the computer and the printer. 0
+A : I already tried that two times. -1
+B : I see the problem. Your printer is out of ink. -1
+
+-1 -1

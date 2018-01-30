@@ -1,0 +1,14 @@
+A : Have you bought a bus pass yet? 0
+B : I'm not getting one. -1
+A : Why is that? 0
+B : It's cheaper if I don't buy one. -1
+A : Buying a bus pass will save you money. 1
+B : How do you figure that? 0
+A : There's no limit to how often you can use your bus pass. 1
+B : Really? 0
+A : Plus, you don't have to use change for the bus anymore. 1
+B : I like that. 1
+A : You want to buy one now? 0
+B : I'm going to. 1
+
+1 1

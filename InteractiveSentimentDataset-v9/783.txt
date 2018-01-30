@@ -1,0 +1,14 @@
+A : I just moved in recently. 0
+B : When was this? 0
+A : About a week ago. 0
+B : What have you done so far? 0
+A : Nothing really. -1
+B : What? Why haven't you been doing anything? -1
+A : What is there to do? 0
+B : There's a lot that you can do. 1
+A : Name one thing. 0
+B : You can always go to the beach or catch a movie. 0
+A : I haven't done any of that. -1
+B : There's no way for you to be bored here. 1
+
+-1 1

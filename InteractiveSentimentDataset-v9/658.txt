@@ -1,0 +1,13 @@
+A : I have a good feeling about this house. 1
+B : Yes, I liked it the first moment I pulled up to it. 1
+A : I love the paint job! 1
+B : If you like the outside, you are going to really love the inside. 1
+A : What a beautiful home! 1
+B : You'll notice that the window treatments, carpeting, and drapes are all new. 1
+A : I like the way the blinds give you privacy from the street. 1
+B : Follow me into the kitchen. You will love it. 1
+A : I love that they put a wine storage area in the kitchen. 1
+B : The best part is the bedroom and attached bathroom. 1
+A : I love the relaxing colors in the tile and floor covering! 1
+
+1 1

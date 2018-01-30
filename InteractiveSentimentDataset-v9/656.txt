@@ -1,0 +1,12 @@
+A : I would like to pick a time to look at houses with you. 0
+B : Would mornings or afternoons be best for you? 0
+A : It is easier for me to take off work in the afternoon. 1
+B : It is best if we can go during the week; does that work for you? 0
+A : Because of work, I can only go look at houses on the weekend. 0
+B : Would you like to meet at the real estate office, or should I pick you up at home? 0
+A : If you could pick me up at home, that would be great. 1
+B : We could spend most of the day looking at houses to see all that we have to see. 0
+A : That might be a little too much, but we'll see how it goes. 0
+B : I will fax you a schedule as soon as I contact the owners to confirm the times. 0
+
+0 0

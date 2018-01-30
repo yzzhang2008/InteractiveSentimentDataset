@@ -1,0 +1,16 @@
+A : Why do you look upset? -1
+B : I lost my beloved dog. -1
+A : Just go and get a new dog! 1
+B : Oh it isn't as simple as what you think. My dog is just like my brother. He can make me trully happy. -1
+A : Have you tried to look for him? 0
+B : Yes I have. But a man told me that my dog was died from the crash. -1
+A : Oh I'm sorry to hear that. -1
+B : I think I should get a new dog. -1
+A : Do you always have a dog? 0
+B : Yes, I like pet animals to cheer myself up. 1
+A : How do you feel when you see stray animals? 0
+B : If I see stray dogs, I will definitely adopt them and give the best shelter, but for other animals, I probably will contact my friends to help them. 1
+A : You have so much care about animal welfare. 1
+B : To me, it's very important. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Could you tell me how to get my bags? 0
+B : Just go straight ahead, down the escalator, and there will be signs directing you. 0
+A : Where do we clear Customs? 0
+B : You will pick your bags up first. 0
+A : Should we have our passports out? 0
+B : You should have your passport out and your Declarations form totally filled out before you get into line. 0
+A : My friend here is continuing on to Puerto Rico, and we were wondering if she has to go through Customs. 0
+B : Travelers who are continuing on to another country will check in over there and be directed where to go next. Their bags have been checked through. 0
+A : Are there any restrooms in this area? 0
+B : Yes, right over there after you pass through the line. 0
+
+0 0

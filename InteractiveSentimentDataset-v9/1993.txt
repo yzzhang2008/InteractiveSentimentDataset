@@ -1,0 +1,12 @@
+A : I am getting thirsty and was wondering if I may order a drink. 0
+B : Yes, I would be happy to take your drink order. We have coffee, tea, or soda as well as bar drinks. 1
+A : Do you charge for beverages? 0
+B : We offer nonalcoholic beverages for free. Our bar drinks are five dollars each. 0
+A : Are we going to get fed on this flight? 0
+B : You will get a small snack served with your beverage. We will be serving dinner about halfway through the flight. 0
+A : Do we have a choice of what we get for dinner? 0
+B : Tonight we have chicken, fish, or beef to choose from. You will get a chance to look at a menu a little before our mealtime. 0
+A : Do you have vegetarian meals? 0
+B : We serve many different meals for people with religious or dietary restrictions. We do need to know about this at the time you book your flight. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : I'm going to the bank. 0
+B : What do you need to do? 0
+A : I need to withdraw some money. 0
+B : How are you going to do that? 0
+A : I'll just use the ATM. 0
+B : What's that? 0
+A : It's the Automatic Teller Machine. 0
+B : It gives you money? 0
+A : I just insert my debit card into the machine. 0
+B : And it gives you money? 0
+A : Well, it gives me money, but it's my own money. 0
+B : Oh. I thought it gave you free money. 0
+
+0 0

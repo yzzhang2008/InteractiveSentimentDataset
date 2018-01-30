@@ -1,0 +1,8 @@
+A : What was that loud boom? 0
+B : There was a chemical explosion a few blocks away. -1
+A : Did anyone get hurt? 0
+B : Yeah, over 50 people were injured. -1
+A : Do we need to evacuate the building? 0
+B : Yes! Don't take the elevator. -1
+
+0 -1

@@ -1,0 +1,12 @@
+A : I can't help my daughter with her English essay. 0
+B : Why? 0
+A : My English isn't very good. -1
+B : It sounds fine to me. 1
+A : I wish I studied English more as a kid. 0
+B : What are you having trouble with? 0
+A : Spelling and grammar. 0
+B : Many native English speakers have the same problem. 0
+A : You don't have this problem. 0
+B : I was an English major in college. 0
+
+0 0

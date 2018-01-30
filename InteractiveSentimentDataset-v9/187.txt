@@ -1,0 +1,14 @@
+A : How is everything with you today? 0
+B : I'm fine. Thank you for asking. 1
+A : Can I help you with something? 0
+B : I actually have a few questions about the apartment. 0
+A : What questions do you have? 0
+B : Is this apartment in a nice location? 0
+A : It is in a great location. 1
+B : Are there any stores near the apartment? 0
+A : You will find many stores and restaurants near the apartment. 1
+B : Really? 0
+A : I guarantee that the apartment is in a beautiful location. 1
+B : That sounds wonderful. 1
+
+1 1

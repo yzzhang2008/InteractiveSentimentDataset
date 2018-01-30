@@ -1,0 +1,14 @@
+A : All the TV stations are going to go digital. 0
+B : Yes, that will occur next month. 0
+A : Most of them are already broadcasting in digital. 0
+B : The digital signal is very clear. 1
+A : Oh, no, it isn't! -1
+B : What do you mean? 0
+A : I can't get a single channel. -1
+B : Do you have a digital TV? 0
+A : Of course. But I don't have cable. -1
+B : You don't need to have cable, but you do need a good antenna. 0
+A : But I have rabbit ears. 0
+B : Rabbit ears aren't strong enough. Buy a digital antenna. 0
+
+-1 0

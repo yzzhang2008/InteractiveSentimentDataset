@@ -1,0 +1,12 @@
+A : Those noisy neighbors of mine are driving me crazy! -1
+B : Yes, they are very noisy. What do you think they are doing in there? -1
+A : Someone said they are installing some countertops in their kitchen. -1
+B : Is there usually a lot of noise coming from over there? -1
+A : Whenever they play music, I can hear it coming through the walls. -1
+B : Do your neighbors know that you can hear them? 0
+A : I mentioned it to them once. -1
+B : Are you ever disturbed by other sounds? 0
+A : They have a lot of noisy parties that get out of hand. -1
+B : I think that you should talk with the manager to see if he can help you. 0
+
+-1 -1

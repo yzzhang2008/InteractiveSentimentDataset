@@ -1,0 +1,12 @@
+A : I have a question about my payment and need someone to help me. 0
+B : Yes, I would be happy to answer a question about payment. What do you need help with? 1
+A : I can't figure out why my paycheck this week is smaller than last week's. -1
+B : Did you generate any income during that time period? 0
+A : I made a little bit of money, but not much. 0
+B : Did that income show up on your last Continued Claim Form? 0
+A : I claimed the work I did on the last Continued Claim Form. 0
+B : When you are able to find work and get paid, we always take away part of your check. 0
+A : That being the case, I don't think that I am going to show the income next time. -1
+B : Don't do it! If you get caught making false statements, you can have your claim closed. -1
+
+-1 -1

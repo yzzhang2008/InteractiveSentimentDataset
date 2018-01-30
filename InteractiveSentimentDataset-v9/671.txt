@@ -1,0 +1,12 @@
+A : I see an Open House sign over there, and I think we should go check it out. 0
+B : I think that looks like a very nice house. Is it on our Internet listing for Open Houses? 1
+A : Yes, I see it listed on the printout we got off of the Internet. 0
+B : I love the beautiful lawn. What a great front entryway! 1
+A : We need to make sure to put our names in the registry so the realtor knows we were here. 0
+B : That works for me. We can check out the kitchen next. 0
+A : On such a hot day, it is thoughtful to have water out for potential buyers. 1
+B : Check out the flyer with all of the home's information on it. 0
+A : What is the price of this house in the flyer? 0
+B : They have changed the asking price since it first went on the market. It is now two hundred and twenty-five thousand. 0
+
+1 1

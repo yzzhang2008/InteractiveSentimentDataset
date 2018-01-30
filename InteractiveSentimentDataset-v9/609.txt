@@ -1,0 +1,12 @@
+A : What kind of work do you do? 0
+B : I'm an architect. 0
+A : That's interesting. I'm in construction. 1
+B : I studied construction management in college. 0
+A : We're looking for an architect for our firm. 0
+B : I've been interested in working on the construction side. 0
+A : Can I have your business card? Here is mine. 0
+B : Can I send you my resume? 0
+A : Yes, that would be great. My email address is on the card. 1
+B : Thank you! I look forward to meeting with you again. 1
+
+1 1

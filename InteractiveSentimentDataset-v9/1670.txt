@@ -1,0 +1,14 @@
+A : I like that shirt. 1
+B : So do I. 0
+A : How much is it? 0
+B : I don't know. The tag is missing. -1
+A : Ask the clerk. 0
+B : I will. 1
+A : Oh, look. Here's another shirt just like it. 0
+B : Does it have a price tag? 0
+A : Yes, it does. It's only $20. 1
+B : That's a great price. 1
+A : I think I'll buy both of them. 0
+B : You'd better try them on first. 1
+
+0 1

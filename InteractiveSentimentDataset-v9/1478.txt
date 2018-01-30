@@ -1,0 +1,12 @@
+A : I had lunch with Sue today. 0
+B : Your ex-girlfriend? 0
+A : Yes. We bumped into each other at the store. 0
+B : She's back in town? 0
+A : Yeah. She moved back last month. 0
+B : Are you going to see her again? 0
+A : I'm single now, so I asked her on a date. 1
+B : What did she say? 0
+A : Yes! We have more catching up to do. 1
+B : Ask Sue if she keeps in touch with Karen, my ex-girlfriend. 0
+
+1 0

@@ -1,0 +1,14 @@
+A : What's up? 0
+B : I'm filling out these applications. 0
+A : What applications? 0
+B : College applications. 0
+A : You're in college already. 0
+B : I'm planning on transferring to another school. 0
+A : Which school? 0
+B : I won't know until I mail these applications. 0
+A : Which schools are you applying to? 0
+B : I'm going to apply to NYU and UCLA. 0
+A : I hope all goes well with that. 1
+B : Cross your fingers. 1
+
+1 1

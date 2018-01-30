@@ -1,0 +1,14 @@
+A : Do you listen to the radio? 0
+B : I listen day and night. 0
+A : What do you listen to? 0
+B : Mostly talk radio. 0
+A : What's that? 0
+B : People talk about current events. 0
+A : What do they say? 0
+B : They say they want change. 0
+A : What kind of change? 0
+B : They want tax cuts. 0
+A : Why do they want tax cuts? 0
+B : Because tax cuts will save them money. 0
+
+0 0

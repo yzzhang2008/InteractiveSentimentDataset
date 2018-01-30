@@ -1,0 +1,12 @@
+A : Would you help me, please? 0
+B : It would be my pleasure. 1
+A : I want to return this opened DVD. Is that possible? 0
+B : No problem at all. Do you have your receipt? 1
+A : Let me dig it out of my wallet. 0
+B : I'm sorry. You can't return something more than 30 days old. -1
+A : There must be some way around this. -1
+B : I'm sorry, but I have to tell everyone the same thing -- no. -1
+A : That's the dumbest rule I ever heard of. -1
+B : Maybe the rules will change if we lose all our customers. -1
+
+-1 -1

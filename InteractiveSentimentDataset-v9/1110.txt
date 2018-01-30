@@ -1,0 +1,11 @@
+A : Hey man, you hit my car. -1
+B : I really didn't mean to. -1
+A : It doesn't matter, because you damaged my car. -1
+B : It looks okay to me. 0
+A : Look what you did to my rear bumper. -1
+B : What's wrong with it? 0
+A : My bumper is smashed in. -1
+B : I didn't do that. -1
+A : Your front bumper is just as damaged. -1
+
+-1 -1

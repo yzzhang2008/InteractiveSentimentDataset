@@ -1,0 +1,10 @@
+A : Do you join a non-profit organization? 0
+B : Yes I do. 1
+A : What motivates you to join it? 0
+B : Because I see many people still unaware about their own environment, and in fact we face a lot of destructions. -1
+A : What efforts have you done to promote a healthy environment? 0
+B : Personally, I try as much as possible not to use plastic bags. We do some campaigns to change people's mind about a healthy environment. 1
+A : Could you tell me about the campaign? 0
+B : We produce many posters about the harm of bad behaviour toward environment. 0
+
+0 1

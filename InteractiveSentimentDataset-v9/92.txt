@@ -1,0 +1,12 @@
+A : Can you help me, please? 0
+B : No problem. What is your question? 1
+A : Is it possible to return an opened DVD? 0
+B : Sure, as long as you have your receipt. 1
+A : Here you go. 0
+B : I'm sorry. You can't return something you bought more than 30 days ago. -1
+A : Yes, but this is only day 32. Isn't that okay? -1
+B : I'm sorry, but rules are rules. -1
+A : Well, this is ridiculous. I won't shop here anymore. -1
+B : Well, if I was the boss, the rules might be different. -1
+
+-1 -1

@@ -1,0 +1,9 @@
+A : I feel awful! -1
+B : You don't look so good, either. What's wrong? -1
+A : My head's stuffed up. I've got a runny nose, and I'm aching all over. -1
+B : Poor guy! What are you taking? -1
+A : Nothing so far. Do you have anything I can take? 0
+B : Let me go look. In the meantime, drink lots of orange juice.... 0
+A : (Moan.) OK, but hurry back! -1
+
+-1 -1

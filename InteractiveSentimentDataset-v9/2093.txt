@@ -1,0 +1,12 @@
+A : I don't know where the EDD office is. 0
+B : The whole process can be done over the phone or Internet. You don't need to go into the office. 0
+A : What about their job help information? 0
+B : The office has many wonderful workshops to help you find a job. 1
+A : Where can I find my local office? 0
+B : Employment Development Offices are listed in the phone book. 0
+A : Have you ever seen the office that serves our local area? 0
+B : The office is two blocks west of the college on Green Street. 0
+A : If I show up in person, will I get my money any faster? 0
+B : You have to wait one week before you can collect, regardless of how you file. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : Here we are! 1
+B : Hurray! We finally made it to the park. 1
+A : What do you want to play on first? 0
+B : I want to go on the slide. 0
+A : All right, but be careful. 1
+B : I'm having so much fun. 1
+A : Did you like the slide? 0
+B : I slid down it fast. 1
+A : Now what do you want to do? 0
+B : I want to go on the swings. 0
+
+1 1

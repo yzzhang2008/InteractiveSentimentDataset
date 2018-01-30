@@ -1,0 +1,14 @@
+A : Can you tell me where I can park? 0
+B : Are you driving a motorcycle or an automobile? 0
+A : I drive an automobile. 0
+B : Fine. You can either park in the student lot or on the street. Do you know what a handicapped space is? 0
+A : Yes, I have seen those spots. 0
+B : Well, when you see the blue spots with the handicapped logo, do not park there unless you have a special permit. Are you going to be parking in the daytime or evening? 0
+A : I park in the evenings. 0
+B : Then you also need to be aware of the time limits on the street signs. Have you seen those signs? 0
+A : Yes, I have seen those signs. 0
+B : The signs always tell you how long you can park there and on what days. Do you know how to read the curb colors? 0
+A : Yes, I know what the curb colors mean. 0
+B : Well, just as long as you realize that red means no parking and white means loading and unloading, I think you know what you need to know. 0
+
+0 0

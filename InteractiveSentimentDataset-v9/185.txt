@@ -1,0 +1,14 @@
+A : Hello, how are you doing today? 1
+B : I'm great. 1
+A : What can I do for you today? 1
+B : I wanted to ask about the apartment for rent. 1
+A : Ask away. 0
+B : I was wondering if the apartment is located in a nice area. 0
+A : As a matter of fact, the apartment is in a wonderful location. 1
+B : What surrounds the apartment? 0
+A : There are many stores and restaurants surrounding the apartment. 1
+B : Is that right? 0
+A : I promise you that you will love the location. 1
+B : From what you're telling me, it sounds like I will. 1
+
+1 1

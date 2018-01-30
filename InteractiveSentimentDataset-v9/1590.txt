@@ -1,0 +1,12 @@
+A : I am so mad! My kids were playing in our yard and they stepped in dog poop. -1
+B : You don't have a dog. 0
+A : I know. Someone is leaving dog poop in our yard. 0
+B : That's terrible. -1
+A : It has happened twice already. -1
+B : What are you going to do? 0
+A : I'm going to set up a secret video recorder in our yard. 0
+B : What are you going to do when you find out who it is? 0
+A : I'm going to deliver their dog's mess to them and show them the video. -1
+B : They are going to be so embarrassed. 0
+
+-1 0

@@ -1,0 +1,8 @@
+A : I have bad news. -1
+B : What is it? 0
+A : We are laying you off. -1
+B : Why? I thought I was doing a good job. -1
+A : The company is restructuring and we're getting rid of your position. 0
+B : This is terrible. I just bought a home. -1
+
+-1 -1

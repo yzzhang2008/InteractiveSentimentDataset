@@ -1,0 +1,12 @@
+A : Janice ?? She is still very young. I don’t think that she can work here for a long time. -1
+B : Why? By the way, how old is she actually? -1
+A : She is working, right? so she must be mature. She’s already 24 years old. -1
+B : But she is still childish. She is also often sensitive. -1
+A : Age has nothing to do with maturity. She should realise that she works. -1
+B : Perhaps she doesn’t like the job. -1
+A : If she doesn’t like the job, she must find another job. -1
+B : She’s trying to get another job, but mostly they offered small salary. 0
+A : Whatever the job, if she never does the job by heart, it won’t be an enjoyable job. Working is not just about the money, is it? -1
+B : I agree with you. 0
+
+-1 -1

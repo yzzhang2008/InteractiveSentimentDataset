@@ -1,0 +1,12 @@
+A : When you get a chance, could you take my drink order, please? 0
+B : On this flight you may have your choice of bar drinks or coffee, tea, or soft drinks. 0
+A : What is the price of drinks? 0
+B : Our alcoholic beverages are five dollars apiece. All others are two dollars each with free refills. 0
+A : Do we get to eat on this flight? 0
+B : We always pass out a small snack with your beverage. You will be served dinner in a few hours. 0
+A : What are we having for dinner tonight? 0
+B : We are serving a chicken, fish, or beef plate. You may select whatever you choose. 0
+A : Can I order a vegetarian plate? 0
+B : With advance notice, we are able to accommodate a wide variety of special diet needs. Once we are in the air, unfortunately, there isn't much we can do. 0
+
+0 0

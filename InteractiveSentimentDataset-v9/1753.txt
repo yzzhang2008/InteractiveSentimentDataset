@@ -1,0 +1,14 @@
+A : Hey, what's up? 0
+B : Nothing really. 0
+A : I'm throwing a party on Friday. 0
+B : I didn't realize that. 0
+A : You didn't? 0
+B : Nobody has told me anything about your party. 0
+A : Did you want to go? 0
+B : When does it start? 0
+A : At 8:00 p.m. 0
+B : I'll be there. 1
+A : I'd better see you there. 1
+B : Of course. 1
+
+1 1

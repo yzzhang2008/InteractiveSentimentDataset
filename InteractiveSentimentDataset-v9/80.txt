@@ -1,0 +1,12 @@
+A : I'd like to return this radio. 0
+B : Okay. Do you have your receipt? 0
+A : I lost it. -1
+B : I am sorry, but you need a receipt for a refund. -1
+A : But I purchased it yesterday. -1
+B : Perhaps you would like to talk to customer service. 0
+A : That's a start, I guess. 0
+B : They're right upstairs. 1
+A : That sounds good. I'll take the escalator. 1
+B : Good luck. I hope someone can help you. 1
+
+1 1

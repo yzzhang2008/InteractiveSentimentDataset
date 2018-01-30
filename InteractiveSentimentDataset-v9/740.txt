@@ -1,0 +1,12 @@
+A : Could you talk to me for a few minutes about my grades? 0
+B : Step into my office for a moment. What is your concern? 0
+A : Am I failing? 0
+B : Let's go on the computer to see what's up. Do you think you are doing well? 0
+A : I am pretty sure that I am in trouble. -1
+B : I can see that you are trying, but where do you think you could improve? 0
+A : I missed a few classes; I need to make sure I come to school on a regular basis. -1
+B : Having a regular study routine and following it is very important, right? 0
+A : I'll try; it's hard! -1
+B : Thanks for stopping by! 1
+
+-1 1

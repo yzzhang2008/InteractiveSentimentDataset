@@ -1,0 +1,14 @@
+A : Can I apply for a permit today? 0
+B : I need to see your ID. 0
+A : I think I forgot it in the car. -1
+B : You need to give me your ID and $27. 0
+A : I'm going to go and get my ID from the car right now. 0
+B : Go get it. 0
+A : Here you go. 0
+B : All right, I'm going to need you to fill this out. 0
+A : May I borrow your pen? 0
+B : Here's a pen for you. 0
+A : Thanks for your help. 1
+B : You need to turn that in at Window B. 0
+
+1 0

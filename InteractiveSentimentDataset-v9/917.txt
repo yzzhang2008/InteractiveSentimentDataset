@@ -1,0 +1,14 @@
+A : That was a nice funeral. 1
+B : Yes, dad, it was. 1
+A : The son gave a nice speech about his father. 1
+B : It was long, too. 1
+A : I think it was about 45 minutes long. 0
+B : But it went by fast. It was interesting. 1
+A : I liked it. 1
+B : I'll give you a speech like that, too. 1
+A : Do you think anyone will come to my funeral? 0
+B : Of course. 0
+A : I think only the family will be there. 0
+B : You have lots of friends. They will be there, too! 1
+
+1 1

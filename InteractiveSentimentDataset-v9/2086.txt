@@ -1,0 +1,12 @@
+A : What forms should I fill out to collect unemployment? 0
+B : You need to fill out a special form to apply for unemployment benefits. 0
+A : Where do I get the application form for unemployment benefits? 0
+B : You can call the Employment Development Office and request a form. 0
+A : What information will I need to provide to apply for unemployment? 0
+B : Be prepared to provide your employer's name and address and what dates you worked. 0
+A : What else will the Employment Development Office need? 0
+B : You need to be prepared to show that your unemployment is not your fault. If you have a termination notice, that would be great. 0
+A : What will happen next? 0
+B : The Employment Development Office will call you for an interview. 0
+
+0 0

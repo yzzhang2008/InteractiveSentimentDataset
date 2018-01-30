@@ -1,0 +1,18 @@
+A : Can I tell you a secret, Alison? 0
+B : Sure. What is it, Sean? Is something wrong? 0
+A : I'm afraid to graduate. -1
+B : Why? That's silly. 0
+A : College was easy for me. Now we have to go out and find a real job. -1
+B : That's the best part. We are finally adults. 1
+A : Aren't you scared at all? 0
+B : No. I'm excited to work and plan my future. 1
+A : I feel so immature. -1
+B : Well, you are acting a little immature. It's time to grow up, Sean. 1
+A : I know. Studying and taking tests were easy. Now we have to work for the rest of our lives. 0
+B : You sound lazy. You're a really smart guy. You're going to have a great life. 1
+A : Thanks for your encouragement. I feel better. 1
+B : You are being silly. If you are so scared of leaving school, why don't you go to graduate school? 1
+A : That's a great idea! 1
+B : It actually is. You'll get a better job with a graduate degree. 1
+
+1 1

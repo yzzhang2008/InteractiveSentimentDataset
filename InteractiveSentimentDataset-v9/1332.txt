@@ -1,0 +1,15 @@
+A : Hey Bill, what are you doing on the fourth of July? 0
+B : Hi Jeff. My family and I are going to the park to watch the fireworks. 0
+A : The park? 0
+B : We do that every year. It has become our annual family tradition. 0
+A : That's a great tradition. Does it get crowded there? 1
+B : Yes! It gets very crowded, so we leave early and just hang out at the park all day. 0
+A : Is there parking available? 0
+B : Yes, but it is very limited. -1
+A : What time do you get there? 0
+B : We usually go around 4 pm. The fireworks show starts around 6 pm. 0
+A : Do you take your dog? 0
+B : No. He doesn't like loud noises. It scares him. A couple of years ago, he ran away during the fireworks show. -1
+A : That's terrible. Poor dog. -1
+
+0 -1

@@ -1,0 +1,14 @@
+A : Did you hear the news? 0
+B : What happened? 0
+A : Our cousin went into labor and had her baby last week. 0
+B : She did? Why didn't anyone tell me? 0
+A : I would've thought that somebody would have told you. 0
+B : No, I had no idea. 0
+A : Well, she did, her baby was 8 pounds 6 ounces. 0
+B : Oh my God, that's great! 1
+A : Are you going to go and visit her and the baby? 0
+B : I think that I might. 0
+A : Good! I just thought I'd let you know. 1
+B : Thanks for telling me. 1
+
+1 1

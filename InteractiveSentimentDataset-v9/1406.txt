@@ -1,0 +1,12 @@
+A : You don't look so good. -1
+B : I have a major stomachache -1
+A : Did you eat something strange? 0
+B : I had spaghetti with clam sauce for lunch. 0
+A : Maybe you have food poisoning. -1
+B : Are you sure? 0
+A : Are you under a lot of stress? 0
+B : Not really. Things have been going OK. 1
+A : Maybe you have a touch of the flu. 0
+B : I think that I might be getting the flu. -1
+
+0 -1

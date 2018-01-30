@@ -1,0 +1,14 @@
+A : Are you new in town? 0
+B : I've only been in town for about a month. 0
+A : How many kids do you have? 0
+B : Right now I just have one. 0
+A : How old? 0
+B : She is seven. 0
+A : She should be in the second grade. 0
+B : Exactly. 0
+A : We have room for her. 0
+B : I'm glad to hear that. 1
+A : Let's begin filling out the paperwork. 0
+B : That would be great. 1
+
+0 1

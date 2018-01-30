@@ -1,0 +1,14 @@
+A : I really need to find a parking spot. 0
+B : Are you looking for a space on or off campus? 0
+A : Do you know any spaces on campus? 0
+B : You can park in the student parking structure. 0
+A : Where is it located? 0
+B : You'll find the parking structure on the west side of the campus. 0
+A : Do you have any idea if the parking structure has any spaces left? 0
+B : Last time I checked, it was pretty empty. 0
+A : What time was it when you went up there? 0
+B : That was earlier this morning. 0
+A : It wouldn't be full right now, would it? 0
+B : I have no idea. 0
+
+0 0

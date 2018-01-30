@@ -1,0 +1,16 @@
+A : Hi Mary. What's wrong? 0
+B : Oh hi Alice. I just got back from the hospital. -1
+A : Is something wrong? -1
+B : My son was in an auto accident last night. -1
+A : Oh dear. I'm sorry to hear that. Was he seriously injured? -1
+B : Yes. He broke both of his legs and his ribs. -1
+A : That's awful! -1
+B : I know. He just got his driver's license a month ago. 0
+A : How scary for him. -1
+B : It wasn't his fault though. He was hit by a drunk driver. -1
+A : That's terrible! -1
+B : I'm so angry about it! My son could've been killed by an irresponsible driver. -1
+A : You're right! Did they catch the other driver? Was he or she injured? 0
+B : Yeah, he was arrested. He wasn't injured. -1
+
+-1 -1

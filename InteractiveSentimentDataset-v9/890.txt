@@ -1,0 +1,14 @@
+A : Excuse me. 0
+B : Yes? 0
+A : Are you reading this paper? 0
+B : Oh, no. Help yourself. 0
+A : I asked because the paper is sitting next to you. 0
+B : Thank you. That's polite of you to ask. 1
+A : Some people would just pick it up. 0
+B : Yes, I know. 0
+A : I always try to be polite. 1
+B : So do I. 1
+A : The world needs more polite people like us. 1
+B : I agree 100 percent. 1
+
+1 1

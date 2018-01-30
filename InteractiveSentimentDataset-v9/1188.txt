@@ -1,0 +1,10 @@
+A : I had an appointment tomorrow and I need to change it to a different date. 0
+B : Certainly, what day would be best for you? 0
+A : I think that Monday or Tuesday would be good for me. 0
+B : I can give you Monday; I have ten or eleven in the morning. 0
+A : I think ten o'clock is best. 1
+B : Fine, I'll put you down for that. 0
+A : That would be great! 1
+B : Happy I could help you; see you then! 1
+
+1 1

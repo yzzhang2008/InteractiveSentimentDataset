@@ -1,0 +1,17 @@
+A : Hey Steve, what did your mom pack for your lunch today? 0
+B : Hey Bobby. She packs me the same lunch every day. A peanut butter and jelly sandwich, cookies, and milk. 0
+A : I got something new today. It looks like a tuna sandwich. I'm not sure I like it. -1
+B : I love tuna sandwiches. Do you want to trade? 1
+A : Sure! But will your mom get mad? 1
+B : No. She won't know. I won't tell her. 0
+A : Do you ever buy the school lunch? 0
+B : No, it looks gross. -1
+A : It's actually not bad. Some dishes are pretty good. 1
+B : Which ones have you tried? 0
+A : The spaghetti and pizza are good. But the hamburgers and burritos are terrible. They taste like cardboard. -1
+B : That's awful! Maybe I'll buy lunch when the cafeteria serves spaghetti and pizza. Those are my favorite dishes at home. -1
+A : They're pretty good, but not as good as our moms' cooking. 1
+B : Are you done with lunch? Let's go out to recess. 0
+A : Yeah. Let's go! 1
+
+1 1

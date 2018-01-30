@@ -1,0 +1,12 @@
+A : Do you have a plan to continue studying abroad? 0
+B : I wish I could, but I face financial problem to go overseas. I should be very selective to decide where school will be the best for me. -1
+A : Do you think that education in our nation is stiil lagging behind other countries? 0
+B : Yes I do. We tend to adopt system from other countries without considering our own cultures. -1
+A : How can we balance between academic and life skill? 0
+B : Give the students more concern to explore subjects that suit the personal interests of the students. Motivate them to be able to self-learn rather than to follow what to do. 0
+A : What about our curriculum nowadays? 0
+B : We still place too much emphasis on routine-cognitive skills. -1
+A : By the way, how will you choose the best school for you? 0
+B : I will see the curriculum, the fee, the facilities and the teacher's quality. 0
+
+0 -1

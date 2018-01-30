@@ -1,0 +1,18 @@
+A : John speaking. 0
+B : John, my name is Terry Evans. I have good news for you. 1
+A : I'm all ears. What is it? 1
+B : Your rental application has been approved. The owner thinks you'll be an excellent tenant. 1
+A : Oh, that's so good. It makes my day. 1
+B : Now, before you move in, you have to pay some fees. 0
+A : Fees, what are you talking about? 0
+B : You know--first and last month's rent, and the security deposit. 0
+A : Oh, of course. When you said fees, I was thinking of parking fees or something. 1
+B : That will come to $3,500, 2,500 plus $1,000. You can send me the check. 0
+A : I'll do that immediately. Where do I send it? 1
+B : Mail it to 3035 E Foothill Blvd, Pasadena, CA 91107. 0
+A : One more question. When can I move in? 0
+B : You can move in on the first. Stop by here and pick up your keys. 0
+A : Great! What's your phone number? 1
+B : My number is 626-555-3000. 0
+
+1 0

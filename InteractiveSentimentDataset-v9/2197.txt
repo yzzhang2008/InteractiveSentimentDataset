@@ -1,0 +1,12 @@
+A : Were you here yesterday? 0
+B : No. I don't come into the office every day. 0
+A : Do you work from home? 0
+B : Yes. I just make sure I work 40 hours a week. 0
+A : You're so lucky. 1
+B : I know. My boss gave me a flexible schedule because I am a single parent. 1
+A : You have a very understanding boss. 1
+B : I know. I'm very lucky. 1
+A : I would love to work from home. 1
+B : Maybe you should ask your boss about working a flexible schedule too. 1
+
+1 1

@@ -1,0 +1,10 @@
+A : I'd like to exchange this DVD player. 0
+B : Of course. Do you have your receipt? 1
+A : Here it is. 1
+B : Now, could you tell me why you want a different one? 0
+A : It refuses to play my DVDs. -1
+B : That's strange. Let me get you a new one. 1
+A : All my friends tried to get it to work. -1
+B : I hope this one works better for you. 1
+
+-1 1

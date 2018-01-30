@@ -1,0 +1,12 @@
+A : Did you see the game last night? 0
+B : Yeah. It was amazing! 1
+A : I can't believe we won. 1
+B : It's our first championship. 1
+A : We celebrated last night. 1
+B : We set off fireworks. 0
+A : I watched the news to see the highlights of the game. 0
+B : I recorded the game. I'm going to watch it again tonight. 0
+A : Can I join you? 0
+B : Sure! 1
+
+1 1

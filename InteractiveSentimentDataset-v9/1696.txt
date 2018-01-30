@@ -1,0 +1,8 @@
+A : I have been waiting for this elevator for a long time. -1
+B : What's wrong with it? 0
+A : It is so slow. -1
+B : Maybe it's not working. -1
+A : I can hear it stopping on other floors. 0
+B : Be patient. It's a very old building. 0
+
+-1 0

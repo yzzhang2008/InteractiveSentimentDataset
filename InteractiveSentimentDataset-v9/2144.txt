@@ -1,0 +1,14 @@
+A : Are you going to vote this Tuesday? 0
+B : Yes, I am, and I am so excited. 1
+A : Have you figured out who you're going to vote for? 0
+B : I love my candidate. 1
+A : Why is that? 0
+B : My candidate is probably the most intelligent. 1
+A : Is that right? 0
+B : I also agree with all his policies. 1
+A : That's great! 1
+B : I know he's going to be the next President. 1
+A : Hopefully, he will be. 1
+B : I can't wait to vote. 1
+
+1 1

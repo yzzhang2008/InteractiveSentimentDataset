@@ -1,0 +1,13 @@
+A : I have an appointment for 1:30. 0
+B : What can I help you with? 0
+A : Well, I have a problem with my class schedule. -1
+B : What is it? 0
+A : It seems that I've been given two classes scheduled at the same time. -1
+B : I can understand the problem with that. 0
+A : Is there any way that you can fix my schedule? 0
+B : No problem, do you want those classes still? 0
+A : Yes, I do. 0
+B : Let me see if I can find one of these classes on another day. 0
+A : Thank you very much. 1
+
+1 0

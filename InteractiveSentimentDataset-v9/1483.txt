@@ -1,0 +1,12 @@
+A : I need a new job. 0
+B : Why? 0
+A : This job doesn't pay enough. -1
+B : Are you having money problems? 0
+A : Yeah. I don't have enough money for bills and rent. -1
+B : But you drive a nice car and wear expensive things. 1
+A : I need those things. 0
+B : I don't think you need expensive things. You just want them. -1
+A : What do you mean? 0
+B : I think you're spoiled. You need to set some priorities. -1
+
+-1 -1

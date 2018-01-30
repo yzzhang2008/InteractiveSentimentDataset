@@ -1,0 +1,12 @@
+A : What's going on in Karen's office? 0
+B : Karen is having a meeting with Susie. 0
+A : About what? 0
+B : Susie's constant complaining. -1
+A : Finally! 0
+B : I know. Karen is a tough woman. -1
+A : I wonder what Karen is saying. 0
+B : It doesn't look good. -1
+A : How do you know? 0
+B : Susie is crying. -1
+
+0 -1

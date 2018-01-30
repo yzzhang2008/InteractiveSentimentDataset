@@ -1,0 +1,14 @@
+A : What will I earn per year in this job? 0
+B : You can expect to earn sixty-five thousand dollars per year. 0
+A : Are we covered by a good benefits plan? 0
+B : The job has a menu plan where you are given a fixed amount of money and you choose what you most need in terms of benefits. 0
+A : Can we take personal days off? 0
+B : You get 2 weeks paid vacation and an additional 10 days of sick leave. 0
+A : What do you offer in terms of a retirement plan? 0
+B : We do not currently offer any retirement plan. 0
+A : Do you reimburse for education that relates to my job? 0
+B : We allow several weeks release time each year for our employees to attend job-related seminars and conferences. 0
+A : Do you have a benefits brochure? 0
+B : Whoa! Who said you got the job? 0
+
+0 0

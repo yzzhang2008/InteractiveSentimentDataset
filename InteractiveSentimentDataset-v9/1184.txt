@@ -1,0 +1,12 @@
+A : I want to make a phone call. Can you show me how? 0
+B : Of course, pick up the receiver, hit a button and listen for a tone. Are you hearing it? 0
+A : Yes, now what do I do? 0
+B : Well, after you dial 9 on the keypad, you should hear the tone change. 0
+A : No, nothing changed. 0
+B : When you dial 9 and hear the tone change it means you have an outside line. Who are you trying to call? 0
+A : I am trying to call my boss. 0
+B : For an outside call you now just dial the number. For a company number you need to know the extension. Do you have a list of extensions? 0
+A : I know a few extensions but I don't know all of them. 0
+B : You can always look an extension up on the company website. 0
+
+0 0

@@ -1,0 +1,10 @@
+A : Does it look like a good fit? 1
+B : It's definitely your size. 1
+A : Yes, it is very nice. I'll take it. 1
+B : How do you prefer to pay? 0
+A : Let me use my credit card. 0
+B : Now, if you'll just sign here. 0
+A : No problem. 1
+B : I hope you enjoy your purchase. Good-bye. 1
+
+1 1

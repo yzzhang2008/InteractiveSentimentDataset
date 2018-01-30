@@ -1,0 +1,14 @@
+A : I think I may try to eat a little better. 0
+B : I changed my diet recently, and I eat a lot healthier now. 0
+A : What do you eat? 0
+B : My diet consists mainly of fruits, veggies, and chicken. 0
+A : That's it? 0
+B : Just about. 0
+A : How is that the only thing that you'll eat? 0
+B : You know that fruits and vegetables are very healthy foods? 1
+A : So, what about the chicken? 0
+B : I bake chicken because it's a healthy way to eat it. 1
+A : That sounds delicious and nutritious. 1
+B : You should try it. You won't be disappointed. 1
+
+1 1

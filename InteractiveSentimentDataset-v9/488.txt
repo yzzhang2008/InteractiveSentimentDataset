@@ -1,0 +1,18 @@
+A : How was the hotel? 0
+B : It was awful. We had to switch rooms a couple of times. -1
+A : Why? 0
+B : Well, we found bugs in the carpet in one room. We had already unpacked. So, we had to re-pack everything and ask for another room. -1
+A : What was wrong with the second room? 0
+B : We paid for a garden room and it was a view of the parking lot. -1
+A : That's terrible. Did you finally get a good room? -1
+B : They were out of garden view rooms, so they upgraded us to an ocean view room. 0
+A : That's nice! So, why was it so awful? -1
+B : Our next door neighbor snored so loudly. He kept us awake every night. -1
+A : Did you ask for another room? 0
+B : Yes, but they said that there were no more rooms available. -1
+A : I'm sorry you had a terrible time. -1
+B : That's ok. The manager was really nice about it. He offered us a free stay next time. 1
+A : Are you going to go back there? 0
+B : Of course. It'll be free. 1
+
+0 1

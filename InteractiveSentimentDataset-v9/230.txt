@@ -1,0 +1,14 @@
+A : I appreciate all your help with this move. 1
+B : It's the least I could do. Tell me where to put your furniture. 1
+A : That sofa should go in the living room. 0
+B : Was there a certain place you wanted the sofa? 0
+A : I think it would look best up against that wall. 1
+B : What should I do with this table? 0
+A : I want that table in the dining room. 0
+B : Should I just put it down anywhere? 0
+A : I want it in the center of the room. 0
+B : What do you think? How does it look in here so far? 0
+A : I love the way things are looking. 1
+B : That's exactly what I was thinking. 1
+
+1 1

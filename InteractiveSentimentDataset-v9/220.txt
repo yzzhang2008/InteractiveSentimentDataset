@@ -1,0 +1,14 @@
+A : Hey, what's up? 0
+B : Everything's fine with me. How about you? 1
+A : I need your help. 0
+B : What do you need? 0
+A : Remember when I told you I'm going to be moving? 0
+B : Yeah, I remember. 0
+A : Do you think you could help me move? 0
+B : Sure, that shouldn't be a problem. When? 1
+A : Are you busy this Saturday? 0
+B : I don't think I have any plans. 1
+A : Is 10 o'clock okay with you? 0
+B : That'll be fine. I'll see you then. 1
+
+1 1

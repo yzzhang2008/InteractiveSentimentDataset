@@ -1,0 +1,14 @@
+A : I eat the same thing every day. 0
+B : You're kidding. -1
+A : No, I'm serious. -1
+B : Doesn't that get old? -1
+A : No, because I'm eating food that I like. 1
+B : But the same thing day after day gets old. -1
+A : Well, I guess if it ever does get old, I'll change to something different. 1
+B : Do you eat fruits and vegetables every day? 0
+A : No, I hate vegetables. -1
+B : But you eat fruits. 0
+A : I eat two apples, one banana, and one orange every day. 0
+B : Well, there's nothing wrong with that. 0
+
+-1 0

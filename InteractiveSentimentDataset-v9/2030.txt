@@ -1,0 +1,12 @@
+A : Am I in the right place to catch the Super Shuttle? 0
+B : This is the Super Shuttle stop. Where are you trying to get to? 0
+A : My final destination is my home in Pasadena. 0
+B : The destination of each van is always written across the top. I have Glendale written on mine, but your van will be here shortly. 0
+A : What is the price of a shuttle trip to Pasadena? 0
+B : The trip to Pasadena costs sixty dollars. 0
+A : I need to know if this shuttle is going to make a lot of stops or go straight to Pasadena. 0
+B : If you find out the driver will be making too many stops on the way, you may wish to wait for a more direct shuttle. 0
+A : What should I pay the driver with? 0
+B : There is an ATM machine over by that wall. It is best if you have bills close to the amount that you will owe. 0
+
+0 0

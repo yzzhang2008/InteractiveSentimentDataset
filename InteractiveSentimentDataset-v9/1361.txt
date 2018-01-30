@@ -1,0 +1,12 @@
+A : What should we have for dinner? 0
+B : Let's order something for delivery. 0
+A : That's a great idea! 1
+B : There are a lot of choices around our neighborhood. 1
+A : What are the choices? 0
+B : We can order pizza, Chinese food, Indian food, sandwiches, or something else. 0
+A : What sounds good to you? 0
+B : Anything is ok to me. 1
+A : How about Chinese food? We can eat the leftovers tomorrow night. 0
+B : Sounds great. 1
+
+0 1

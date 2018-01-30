@@ -1,0 +1,15 @@
+A : Let's enjoy the movie and eat the chocolate. 1
+B : Ups…..I wish I could eat a lot of chocolate. -1
+A : Why not? Don't think too much, it's free for you! 1
+B : I'm afraid of suffering toothache. -1
+A : I see,….but didn't you tell me for having cavity filled just a couple of days ago? 0
+B : I did, but I always have problems with sweet and stuff like that. Perhaps my teeth are very sensitive. -1
+A : How often do you visit the dentist? 0
+B : I go to the dentist regularly every 6 months and also when I have toothache. 0
+A : What did the dentist say about your teeth? 0
+B : She suggested that I use special toothpaste to avoid painful while I was brushing my teeth. She also asked me to brush teeth at least three times a day. 0
+A : So have you done it? 0
+B : Yes I have. But the problem is I really love drinking sweetened iced tea and coffee. -1
+A : You must think twice before you consume foods and drinks. Choose the best and the right ones, so next time you will be free of toothache. 1
+
+1 -1

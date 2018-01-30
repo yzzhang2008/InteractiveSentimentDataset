@@ -1,0 +1,14 @@
+A : What's up? 0
+B : Nothing, how about you? 0
+A : Next Saturday, I'm going to have a party. 0
+B : Oh, really? 0
+A : You are coming? 0
+B : Probably not. 0
+A : Why is that? 0
+B : I don't feel like going. -1
+A : Why not? 0
+B : I really can't stand going to parties. -1
+A : I understand, I guess. 0
+B : Sorry about that. -1
+
+0 -1

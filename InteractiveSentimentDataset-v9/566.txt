@@ -1,0 +1,12 @@
+A : Does this bus really go to the mall? 0
+B : It goes all the way there. 0
+A : Are you sure? 0
+B : I know it does. I catch this bus a lot. 1
+A : How long does it take for the bus to get there? 0
+B : The bus ride is only thirty minutes or so. 0
+A : Where do we get off the bus? 0
+B : Right behind Macy's is a bus stop. 0
+A : The stop is really at the mall? 0
+B : It's in the middle of the parking lot. 0
+
+0 0

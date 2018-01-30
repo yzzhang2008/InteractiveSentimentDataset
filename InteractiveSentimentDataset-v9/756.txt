@@ -1,0 +1,14 @@
+A : Can you help me figure out how to use this machine? 0
+B : Yes, I would be happy to help. What do you want to buy? 1
+A : I want to buy that candy. 0
+B : OK. So this machine will make change if you need it. Do you have your dollars ready? 0
+A : Yeah, so far, so good. 1
+B : Next, you feed your dollars into the machine in the slot. Make sure they are smooth. 0
+A : Yeah, I already knew that. 0
+B : I'm sure you know that if the dollar gets stuck, you might have to re-feed it. 0
+A : OK, let's move on! 1
+B : Now you just make your selection and pray. If nothing comes out, try again or call the number on the side of the machine. 0
+A : I hope it works! 1
+B : Well, good luck! 1
+
+1 1

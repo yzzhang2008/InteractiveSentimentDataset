@@ -1,0 +1,12 @@
+A : Good morning. How is your feeling today? 1
+B : A little bit tired. I couldn't sleep well last night, and I felt a sharp pain in my back. -1
+A : Oh I'm sorry to hear that. Would you like a shower today? -1
+B : I think I just need a swab. Could you help me? -1
+A : Alright, I will. Let me help you to get undressed carefully. 1
+B : Ouch !! It's painful on my back! -1
+A : Oh sorry, I will be more slowly to move your body. -1
+B : Will you help me to put on some powder on my back? It's itchy when I'm sweating. -1
+A : Really?! Okay. You had better wear cotton materials so it can absorb sweat well. 1
+B : Oh OK, thank you for your suggestion. 1
+
+1 -1

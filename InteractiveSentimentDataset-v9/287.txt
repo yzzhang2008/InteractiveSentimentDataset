@@ -1,0 +1,14 @@
+A : I have an issue. -1
+B : What's going on? 0
+A : There is a leaking pipe in my wall. -1
+B : Is there any water damage? -1
+A : There is mildew. -1
+B : I'll go to your apartment tomorrow to fix the pipe. 1
+A : Why can't I call someone to fix it today? -1
+B : I'll just do it myself. 1
+A : I need it done today. -1
+B : You're right about that. 1
+A : Are you okay with me calling a plumber? 1
+B : That's fine. 1
+
+1 1

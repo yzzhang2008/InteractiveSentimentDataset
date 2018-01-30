@@ -1,0 +1,6 @@
+A : Are dates fun for you? 0
+B : I enjoy dating a lot. 1
+A : Why are they so fun for you? 0
+B : Dates allow me to meet new people. 1
+
+0 1

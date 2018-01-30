@@ -1,0 +1,11 @@
+A : I think a drought has set in. It hasn't rained a drop for months. -1
+B : I think so, too, but didn't it rain last month? 0
+A : It did rain last month, but the rainfall was only half the monthly average. -1
+B : Oh. That bad?! -1
+A : That's right. It's really bad. I'm really concerned though not panicked yet. -1
+B : I don't blame you. The pastures have browned out even before the summer hasn't arrived. -1
+A : Yeah, and the soil has been baked so hard that the plow can't even break the soil. -1
+B : Looks like it's going to be an ongoing thing that would get worse each day. -1
+A : Yeah. If it doesn't rain, it's going to get critical. -1
+
+-1 -1

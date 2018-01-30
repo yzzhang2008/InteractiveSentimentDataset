@@ -1,0 +1,15 @@
+A : I used to work in a deli. 0
+B : How did you like it? 0
+A : I loved it! 1
+B : Did you get free food? 0
+A : I ate free cheese and meat every day. 1
+B : That sounds like a great job. 1
+A : Whatever a customer ordered, I sliced off a little more for me. 0
+B : Did you get fat? 0
+A : No, but I did put on a few pounds. 0
+B : That sounds like a dream job. 1
+A : It was, until one day my manager caught me. -1
+B : No more free cheese for you, huh? -1
+A : Yeah. So sad. -1
+
+-1 0

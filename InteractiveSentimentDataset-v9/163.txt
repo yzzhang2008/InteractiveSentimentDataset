@@ -1,0 +1,8 @@
+A : Do you have any idea where I can buy old music boxes? 0
+B : You can find almost anything at a flea market. 1
+A : What in the world is a flea market? 0
+B : A flea market sells all kinds of used things, some that you've never even heard of. 0
+A : Great. Is there one near here? 1
+B : Actually, our local community college has one on the first Sunday of each month. 1
+
+1 1

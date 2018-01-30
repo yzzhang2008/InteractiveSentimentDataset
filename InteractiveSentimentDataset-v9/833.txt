@@ -1,0 +1,13 @@
+A : Have you heard about the robbery? 0
+B : What robbery? 0
+A : Some guy attempted to rob our bank earlier today. -1
+B : That's insane! -1
+A : He tried to rob the bank at gunpoint. -1
+B : Is everyone okay? 0
+A : He didn't hurt anyone. 1
+B : I'm glad to hear that. 1
+A : I heard he got away. -1
+B : That's not good. -1
+A : The police don't know who the suspect is. -1
+
+-1 -1

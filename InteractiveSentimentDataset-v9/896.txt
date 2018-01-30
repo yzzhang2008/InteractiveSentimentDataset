@@ -1,0 +1,14 @@
+A : There's a problem with my credit card. -1
+B : Tell me what the problem is. 0
+A : A charge came up on my bill that I didn't make. -1
+B : What was the charge for? 0
+A : The charge was for a $350 purse, but I did not buy it. -1
+B : Are you sure that you didn't make that purchase? 0
+A : I would know if I bought something that expensive. 0
+B : What day was this purchase made? 0
+A : It was bought on November 12th at 3:15 pm, while I was at work. 0
+B : All right, we'll do an investigation. 0
+A : Until this investigation is finished, will I have to pay for the charge? 0
+B : We'll take care of it. 0
+
+-1 0

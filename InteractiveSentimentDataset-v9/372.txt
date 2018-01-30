@@ -1,0 +1,12 @@
+A : Have you heard about today's news? 0
+B : Not yet. What news? 0
+A : It's about child trafficking. -1
+B : How was the chronology? 0
+A : At first, some children were promised high-paying jobs for their better future, but eventually they were trapped in prostitution. Some were even physically abused. -1
+B : Really? It's terrible! How could such crime happen? -1
+A : The perpetrators lured them through facebook. -1
+B : Has the suspect been arrested? -1
+A : Luckily that the police have arrested some of them, and I do hope they will get severe punishment. -1
+B : I think the authorities must be more responsive in handling such case. Above all, they must crack down the cyber crime, and educate people about the crime through social networking. -1
+
+-1 -1

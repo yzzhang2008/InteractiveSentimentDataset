@@ -1,0 +1,9 @@
+A : I hate this job. -1
+B : Me too. But I have plans for my future. 0
+A : What kind of plans? 0
+B : I plan to work hard and ask for a promotion. 0
+A : What is your goal? 0
+B : I plan to become a manager in two years and a director in 5 years. 0
+A : My plan is to work for you. 0
+
+-1 0

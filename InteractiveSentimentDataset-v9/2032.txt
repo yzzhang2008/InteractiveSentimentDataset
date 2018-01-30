@@ -1,0 +1,12 @@
+A : I love traveling, but I love coming home, too! 1
+B : Did you enjoy your vacation? 0
+A : It had its ups and downs, but I really enjoyed it. 1
+B : What did you like the best? 0
+A : I absolutely enjoyed the kayak trip we took to an outlying island. 1
+B : Did you enjoy the people there? Did they like you? 0
+A : Most of the people seemed happy that we were there, but some of them really resented visitors. 0
+B : What did you bring back for me? 0
+A : I did get you something, and I will give to you as soon as I unpack. 1
+B : Next time, I am going to save up my money and go with you. 1
+
+1 1

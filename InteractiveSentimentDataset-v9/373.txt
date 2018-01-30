@@ -1,0 +1,11 @@
+A : Do you think that I'm fatter than before? 0
+B : Hmmm a little bit. Are you upset with that? -1
+A : Yes of course. I don't like being fat you know! I must be on diet. -1
+B : As long as you're healthy, I think it's okay with your body. That's not too big for your height. 1
+A : Well you are right. But I still want to be on diet. -1
+B : So, what kind of food do you avoid eating? 0
+A : That's the problem. I love all over on cooking with coconut milk and also fried food. As far as I know, coconut milk contains saturated fatty acid. It might increase my weight. -1
+B : Ha ha …yes! Cooking with coconut milk gives better flavor anda taste! But it can be harmful if you consume it excessively. You had better consume it in moderation. How about boiled or steamed food? -1
+A : Well,….I don't really like them. It will be hard for me. But no pain, no gain. So I must control myself. -1
+
+-1 -1

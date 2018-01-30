@@ -1,0 +1,12 @@
+A : Are you feeling OK? 0
+B : My stomach is bothering me. -1
+A : What have you been eating? 0
+B : I had a ham sandwich with mayonnaise for lunch. 0
+A : Maybe the food had something wrong with it. -1
+B : It could be bad food, but I didn't feel so well yesterday, either. -1
+A : Have you been under a lot of pressure lately? 0
+B : I haven't been under any more stress than usual. 0
+A : Perhaps you have caught that bug that is going around. 0
+B : I feel like maybe I am coming down with the flu. -1
+
+0 -1

@@ -1,0 +1,10 @@
+A : Hi, Jack, long time, no see! 0
+B : Yeah! How's everything going? 0
+A : Not bad! At least I'm still alive. 0
+B : Just alive? I guess you're some lucky guy. I heard you're going out with Jane. 1
+A : Where did you get that idea? 0
+B : Oh, come on. Jane is a very nice girl, someone you meet only once in a lifetime. 1
+A : You're right. I'm not boasting, but she's really as beautiful as she is intelligent. 1
+B : Well, I really envy you for finding such a nice girl. 1
+
+1 1

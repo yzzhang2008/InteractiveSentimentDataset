@@ -1,0 +1,12 @@
+A : Can you take the kids to school today? 0
+B : Sure. 0
+A : The plumber is coming at 8 AM. I need to be home. 0
+B : Ok. Do I drop Kevin off first? 0
+A : Yes. When you drop Katie off, you have to walk her to her classroom. 0
+B : Why? 0
+A : Because she is in kindergarten and the school does not allow them to be dropped off in the parking lot. 0
+B : That's right. I forgot. 1
+A : Looks like you need to drop the kids off at school more often. 0
+B : I think they need to take the bus to school. 0
+
+0 0

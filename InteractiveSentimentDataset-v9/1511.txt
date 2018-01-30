@@ -1,0 +1,11 @@
+A : Are you sick? 0
+B : No. I just ate too much. -1
+A : Why do you always eat so much? 0
+B : I always overeat during the holidays. -1
+A : You need to control yourself. 0
+B : I know, but Mom's cooking is the best. 0
+A : She made pumpkin pie, your favorite dessert. 0
+B : I don't think I have room for dessert. -1
+A : Really? That's the first time I have ever heard you say that. 0
+
+0 -1

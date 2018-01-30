@@ -1,0 +1,14 @@
+A : Hey, what's good with you? 0
+B : Not a lot. What about you? 0
+A : I'm throwing a party on Friday. 0
+B : That sounds like fun. 1
+A : Do you think you can come? 0
+B : I'm sorry. I'm already doing something this Friday. -1
+A : What are you going to be doing? 0
+B : My family and I are going to dinner. 0
+A : I was hoping you would come. 1
+B : I'll definitely try to make it the next time. 1
+A : I'd better see you there. 1
+B : All right. I'll see you next time. 1
+
+1 1

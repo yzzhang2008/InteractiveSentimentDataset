@@ -1,0 +1,8 @@
+A : Should we eat in or eat out tonight? 0
+B : Let's eat out. We haven't eaten out in two months. 0
+A : Ok. Where should we go? 0
+B : Let's go to our favorite restaurant. 0
+A : The Italian place? 0
+B : No, the Chinese place. 0
+
+0 0

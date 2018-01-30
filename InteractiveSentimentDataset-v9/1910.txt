@@ -1,0 +1,14 @@
+A : You're new here, right? 0
+B : Yes, I am new. 0
+A : Is this your first semester? 0
+B : I just transferred from another school. 0
+A : What school did you transfer from? 0
+B : I came here from PCC. 0
+A : Do you like it here so far? 0
+B : I am really enjoying it here so far. 1
+A : Which is better, here or PCC? 0
+B : I think PCC is a lot better than here. 1
+A : Why didn't you just stay at PCC? 0
+B : I graduated, and now want to get a BA. 1
+
+0 1

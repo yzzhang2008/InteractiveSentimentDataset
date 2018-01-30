@@ -1,0 +1,14 @@
+A : Do you want to go fishing? 0
+B : Yes. That's a good idea. 1
+A : Where do you want to go? 0
+B : We can go to the river. 0
+A : Or we can go to the lake. 0
+B : Or we can go to the ocean. 0
+A : Let's go to the lake. 1
+B : Yes. The lake is only 10 miles away. 1
+A : We can be there in 20 minutes. 0
+B : I'll get our fishing rods. 1
+A : I'll get the bait. 1
+B : We'll have fresh fish for dinner! 1
+
+1 1

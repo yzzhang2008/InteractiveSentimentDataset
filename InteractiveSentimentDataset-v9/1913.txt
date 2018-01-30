@@ -1,0 +1,14 @@
+A : Are you new here? 0
+B : This is my first day here. 0
+A : Are you a freshman in college? 0
+B : I started school somewhere else. 0
+A : What school did you transfer from? 0
+B : I started at PCC. 0
+A : What made you transfer? 0
+B : My grades weren't good enough to go here. -1
+A : Did you like PCC? 0
+B : I loved PCC. 1
+A : Good luck here. 1
+B : I'm excited to be here. 1
+
+1 1

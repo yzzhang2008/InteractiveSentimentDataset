@@ -1,0 +1,8 @@
+A : Is Susie ever happy? -1
+B : What happened? 0
+A : She complains about everything. -1
+B : I know. It's annoying. -1
+A : If she's so unhappy, she should find another job. -1
+B : She would complain about her next job too. -1
+
+-1 -1

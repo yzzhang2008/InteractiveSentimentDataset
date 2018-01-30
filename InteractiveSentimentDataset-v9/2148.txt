@@ -1,0 +1,14 @@
+A : May I speak to you for a few minutes? 0
+B : About what? 0
+A : I want to speak to you about this year's election. 0
+B : Oh, really? 0
+A : Yes, I am a volunteer for the campaign. 0
+B : I am very impressed. 1
+A : I feel that history is about to be made, and I want to be a part of it. 1
+B : That is very nice of you. 1
+A : Will you be voting? 0
+B : Yes, I am going to vote. 1
+A : Make sure you make it to your polling place early on Election Day. 0
+B : Thank you and good luck. 1
+
+0 1

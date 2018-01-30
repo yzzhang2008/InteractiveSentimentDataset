@@ -1,0 +1,14 @@
+A : Are you new in town? 0
+B : Yes, I am new in town. 0
+A : It's very nice to meet you. 1
+B : It's nice to meet you too. 1
+A : How long has it been since you moved here? 0
+B : It's been a month. 0
+A : Do you like it here so far? 0
+B : I actually do like it here. 1
+A : Is it beautiful? 0
+B : It is absolutely beautiful here. 1
+A : Let me welcome you to the neighborhood. 1
+B : Thank you. I'm glad to be here. 1
+
+1 1

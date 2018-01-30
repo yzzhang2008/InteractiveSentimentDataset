@@ -1,0 +1,14 @@
+A : Did you wipe your feet? 0
+B : Yes, of course I wiped my feet. 0
+A : Then why is there mud on the carpet? 0
+B : I don't know. It's not my mud. -1
+A : Well, someone brought it into the house. 0
+B : Look at the bottom of my shoes -- they're clean. 1
+A : Of course they're clean. You left all the mud on the carpet. -1
+B : Okay, I'll get the vacuum cleaner. 0
+A : Don't vacuum it now. -1
+B : Don't you want me to clean up the mud? 0
+A : Wait till it dries. It will be easier to vacuum. 0
+B : Next time I will be careful. 0
+
+-1 0

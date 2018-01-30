@@ -1,0 +1,12 @@
+A : Can I collect unemployment benefits? 0
+B : Are you still working? 0
+A : My employer cut back on my hours. -1
+B : If you got laid off or are working a lot fewer hours, you may qualify. 0
+A : Do I definitely get to collect unemployment? 0
+B : Not all jobs pay into unemployment insurance, so their employees cannot collect benefits. 0
+A : How do I check out my status to collect unemployment? 0
+B : You should have noticed unemployment insurance being deducted from your paycheck. Check your pay stubs. 0
+A : How much will my unemployment check be? 0
+B : The more money you made, the more you will earn on unemployment. They have a formula. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : Do you wash clothes here often? 0
+B : I have been coming here for the past few years. 0
+A : Why do you wash here? 0
+B : It's actually a lot cheaper for me to wash my clothes here. 1
+A : I've only washed my clothes here a couple times. 0
+B : Why don't you wash clothes at home? 0
+A : I would, if my washing machine wasn't broken. -1
+B : Why don't you just get it fixed? 0
+A : I can't afford it. -1
+B : So you plan on washing your clothes here from now on? 0
+A : That's my only option right now. -1
+B : Don't worry. Besides, it's a lot cheaper to wash clothes this way. 1
+
+-1 1

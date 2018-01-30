@@ -1,0 +1,14 @@
+A : What can I do for you today? 0
+B : Can I sign up for some classes today? 0
+A : Which classes? 0
+B : I would like to take a driver's course. 0
+A : Would you like to make an appointment? 0
+B : Why do I need an appointment? 0
+A : You need to sign the paperwork. 0
+B : Can I do that right now? 0
+A : When can you come in? 0
+B : How about 9 o'clock tomorrow morning? 0
+A : I'll schedule you for then. 0
+B : Thanks for all your help. 1
+
+0 0

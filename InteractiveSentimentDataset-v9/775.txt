@@ -1,0 +1,8 @@
+A : Is your phone out of order? 0
+B : What do you mean? 0
+A : I tried calling you all night, but I wasn't able to get through. -1
+B : Oh, I was on the phone all night. Sorry about that.  -1
+A : Well, you might wanna add call-waiting to your phone service if you're always on the phone. 0
+B : I guess so. 0
+
+-1 -1

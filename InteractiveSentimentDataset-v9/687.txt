@@ -1,0 +1,20 @@
+A : Hi Sally. What are you doing here? 0
+B : Hey Susie. I need to buy my sister a new necklace. I accidentally lost her necklace and she is really mad at me now. -1
+A : But you said it was an accident. -1
+B : Yeah, but I didn't ask if I could borrow it. -1
+A : Oh, that's not good. -1
+B : She wasn't home and it looked nice with my outfit, so I wore it. -1
+A : That's like stealing. -1
+B : I know. I feel terrible. I was going to put it back when I got home. -1
+A : How did you lose it? 0
+B : I don't know. I was on my way home and I noticed it was gone. -1
+A : Was it an expensive necklace? 0
+B : I don't know. I'm looking for a replacement here. -1
+A : What does it look like? 0
+B : It's a gold butterfly. 0
+A : Like this one? 0
+B : That's it! That's exactly like hers? How much is it? 0
+A : The price tag says $100. 0
+B : Wow! That's expensive. Now I see why she was really mad. -1
+
+-1 -1

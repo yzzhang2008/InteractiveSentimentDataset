@@ -1,0 +1,12 @@
+A : I had a problem last night in the parking lot and would like to speak to the manager. -1
+B : This is the manager speaking. How can I help you? 0
+A : I got out of my car in the parking area, and the area was not lit very well. -1
+B : How long have you noticed this problem? 0
+A : This is the first time that I noticed it. 0
+B : Maybe you were just parking in a shadowy area. 0
+A : Regardless of the cause, the problem needs to be taken care of. -1
+B : I am not sure that having a few shadows here and there is such a problem. -1
+A : It is unsafe because people can't see where they are walking and could have an accident. -1
+B : When it gets dark tonight, I will take a look. I appreciate your concern. 1
+
+-1 1

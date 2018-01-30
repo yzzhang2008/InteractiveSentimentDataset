@@ -1,0 +1,19 @@
+A : My son is taking his driver's license test today. 0
+B : Is he nervous? 0
+A : He's a little nervous. -1
+B : It's normal to be nervous. 0
+A : I told him that. He just wants to pass the test, so he can start driving to school. 0
+B : Does he have a car? 0
+A : No, he has to share with my wife. 0
+B : Are you going to get him a car? 0
+A : No, not yet. First, he has to show us that he is a responsible driver. 0
+B : Did your auto insurance go up a lot? 0
+A : Yes! Our insurance rate doubled. -1
+B : Wow! Are you serious? -1
+A : Yes, that's what makes me nervous. I don't know how we'll be able to afford insurance when my younger son starts to drive. -1
+B : When will that be? 0
+A : In two years. 0
+B : Better start saving or better have your sons get part-time jobs. 0
+A : I think I like the part-time job idea better. 0
+
+-1 0

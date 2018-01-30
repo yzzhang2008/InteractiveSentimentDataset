@@ -1,0 +1,8 @@
+A : Do you want to go to the bookstore? 0
+B : No. I buy all of my books online. -1
+A : Is it cheaper? 0
+B : It is much cheaper than bookstores. 1
+A : How much is shipping? 0
+B : Shipping is free! 1
+
+0 1

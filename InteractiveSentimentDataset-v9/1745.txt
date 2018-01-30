@@ -1,0 +1,14 @@
+A : Did you go to school today? 0
+B : Of course. Did you? 0
+A : I didn't want to, so I didn't. -1
+B : That's sad, but have you gone to the movies recently? -1
+A : That's a switch. 0
+B : I'm serious, have you? 0
+A : No, I haven't. Why? 0
+B : I really want to go to the movies this weekend. 1
+A : So go then. 0
+B : I really don't want to go by myself. -1
+A : Well anyway, do you plan on going to school tomorrow? 0
+B : No, I think I'm going to go to the movies. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : You look really nice today. 1
+B : Thank you. I just got this outfit the other day. 0
+A : Really, where did you get it? 0
+B : I got it from Macy's. 0
+A : It's really nice. 1
+B : Thanks again. You look nice today, too. 1
+A : Thank you. I just got these shoes today. 1
+B : Really? What kind of shoes are they? 0
+A : These are called All Star Chuck Taylors. 0
+B : I really like those. How much did they cost? 1
+A : They were about forty dollars. 0
+B : I think I'm going to go buy myself a pair. 1
+
+1 1

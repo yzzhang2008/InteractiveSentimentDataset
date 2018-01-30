@@ -1,0 +1,12 @@
+A : We go to the mountains every year. 0
+B : Do you want to try something different this year? 0
+A : Let's go somewhere warm. 0
+B : Where should we go? 0
+A : How about the beach? My co-worker owns a condo on the beach. 0
+B : That sounds nice. 1
+A : He said he would give us a discount on the cost. 1
+B : We can celebrate our anniversary there. 1
+A : That's a great idea! 1
+B : We haven't been to the beach in a long time. 0
+
+1 1

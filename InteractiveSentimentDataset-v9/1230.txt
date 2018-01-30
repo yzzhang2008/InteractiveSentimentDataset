@@ -1,0 +1,14 @@
+A : They call him Father Dollar Bill. 0
+B : Yes, he was on the TV news today. 0
+A : Every Easter Sunday he gives away money. 0
+B : Is it his money? 0
+A : No. Movie stars give him money to give to homeless people. 0
+B : How much money does he give away? 0
+A : This year he gave away $15,000. 0
+B : That's a lot of money. 0
+A : He gave $100 to people in wheelchairs. 0
+B : What about the other homeless people? 0
+A : They got $1 each. 0
+B : People stood in line just to get one dollar?! -1
+
+0 -1

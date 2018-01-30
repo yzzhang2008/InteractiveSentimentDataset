@@ -1,0 +1,9 @@
+A : Why are we getting so many wrong phone calls? -1
+B : The newspaper accidentally put the wrong number in someone's ad. 0
+A : What kind of ad is it? 0
+B : An ad for a pizza place. 0
+A : That's why the callers keep asking me if we have any specials this week. 0
+B : Did you tell them we deliver? 0
+A : That's funny. 1
+
+0 0

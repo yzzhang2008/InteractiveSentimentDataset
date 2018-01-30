@@ -1,0 +1,12 @@
+A : The styling of this car really appeals to me. 1
+B : Would you like to take this car for a spin? 0
+A : That would be a great idea. 1
+B : Fine, all I'll need from you is your Driver's License and Proof of Insurance. 0
+A : I've got my Driver's License and Proof of Insurance ready. 0
+B : OK, after you sign this card, we'll take a spin. Make sure you buckle your seatbelt! 1
+A : I would like to go on the freeway to test it for speed. 0
+B : As long as you don't exceed the speed limit, that would be fine. 1
+A : Whoa, this car has wonderful pickup! 1
+B : Yes, this is a very popular car. 1
+
+1 1

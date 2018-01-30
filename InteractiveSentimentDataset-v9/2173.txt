@@ -1,0 +1,14 @@
+A : You heard who won the election, didn't you? 0
+B : Yeah. I am so excited that Obama won. 1
+A : I'm so happy that he did. 1
+B : That man just made history. 1
+A : Did you vote for him? 1
+B : I sure did! What about you? 1
+A : Of course I did! 1
+B : I am still in shock to know that he was elected. 1
+A : I am, too! 1
+B : I pray that he actually makes things better in this country. 1
+A : I'm sure that he will. 1
+B : I know he will, too. 1
+
+1 1

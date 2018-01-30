@@ -1,0 +1,15 @@
+A : I love my computer. 1
+B : Computers are so cool. 1
+A : I love to go online. 1
+B : The Internet is amazing. 1
+A : You can travel all over the world. 1
+B : I know. I went to China yesterday. 0
+A : What did you do? 0
+B : I stood on the Great Wall and looked all around. 0
+A : What was it like? 0
+B : It was like the real thing. 1
+A : It was like being there? 0
+B : Yes, I felt like I was actually there. 1
+A : Oh, that is great! 1
+
+1 1

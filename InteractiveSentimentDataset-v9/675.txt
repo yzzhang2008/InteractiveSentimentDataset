@@ -1,0 +1,12 @@
+A : Your assistant said that it was time to come in and sign my escrow papers. 0
+B : Don't be intimidated. There is a lot to sign, but I will explain everything to you very clearly. 1
+A : Do you need anything from me? 0
+B : All the papers have been drawn up, but I will need to see your picture ID so we can notarize these papers. 0
+A : There are a lot of papers. 0
+B : We are going to go through these bit by bit. You will have plenty of time to read the fine print. 1
+A : My dad is going to be here in a minute to help me go through this with you. 0
+B : We want you to get any outside help that you need. Do not ever sign documents that you don't understand. -1
+A : Can I start moving in after I finish signing these documents? 0
+B : When these papers get processed, the house will be yours! 1
+
+0 1

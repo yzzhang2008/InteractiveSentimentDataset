@@ -1,0 +1,14 @@
+A : How may I help you? 1
+B : I'm making a deposit today. 0
+A : Cash or check? 1
+B : I would like to deposit a check. 1
+A : You need to sign the back. 0
+B : Okay. Here you go. 0
+A : Would you like cash back? 0
+B : Yes, I would. 1
+A : How much? 0
+B : Let me get $150 back. 0
+A : Here you go. 1
+B : Thank you. Have a good one. 1
+
+1 1

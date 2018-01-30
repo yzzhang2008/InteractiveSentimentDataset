@@ -1,0 +1,8 @@
+A : I'm sorry I am so late. -1
+B : What happened? 0
+A : I was stuck in traffic. There was a big accident. -1
+B : I hope no one was injured. -1
+A : I saw a few ambulances. 0
+B : That's terrible. -1
+
+-1 -1

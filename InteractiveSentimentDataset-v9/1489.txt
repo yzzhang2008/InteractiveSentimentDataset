@@ -1,0 +1,12 @@
+A : I want to own my own business one day. 0
+B : What kind of business? 0
+A : I'd like to run my own restaurant. 0
+B : You're a great cook. Your restaurant would do well. 1
+A : You need to have money and a good business mind too. 1
+B : You're smart. You can do this. 1
+A : I have to save a lot of money. It's my long term goal. 1
+B : When do you want to achieve this goal? 0
+A : Hopefully in 7 years. I'll be thirty years old then. 0
+B : Let me know if you need an accountant. I'm great with numbers. 1
+
+1 1

@@ -1,0 +1,8 @@
+A : I have to leave work early today. 0
+B : We're not done with the project. -1
+A : But I have tickets to a game. -1
+B : You haven't done your share of the work. -1
+A : I'll do it tomorrow. 0
+B : The project is due tomorrow. -1
+
+-1 -1

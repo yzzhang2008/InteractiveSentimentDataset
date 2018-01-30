@@ -1,0 +1,14 @@
+A : My computer isn't working. -1
+B : Tell me what the problem is. 0
+A : I'm trying to turn it on, but it won't work. -1
+B : Try checking the connections. 0
+A : Which ones are you referring to? 0
+B : The cords that you see behind your CPU that plug into an outlet. 0
+A : Is that why it won't turn on? 0
+B : If they're not connected right, that will keep it from turning on. -1
+A : I did not know that. -1
+B : You should check the connections. 0
+A : I'm going to do that. 0
+B : Tell me if it's still not working. -1
+
+-1 -1

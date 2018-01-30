@@ -1,0 +1,14 @@
+A : 911. How may I help you? 0
+B : I need to report a break-in. -1
+A : When did this break-in occur? 0
+B : Last night. 0
+A : Where did the break-in happen? 0
+B : It happened at my house. 0
+A : Was anything taken? 0
+B : I'm not sure yet. -1
+A : What makes you think there was a break-in? 0
+B : My front window was busted. -1
+A : I'll send a squad car. 0
+B : Please hurry. -1
+
+0 -1

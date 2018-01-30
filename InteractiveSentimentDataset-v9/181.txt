@@ -1,0 +1,14 @@
+A : Hey, I was wondering about the ad you have. 1
+B : What ad are you referring to? 0
+A : I'm calling about the ad for a new roommate. 0
+B : Oh, yeah. Were you interested in being a roommate of mine? 1
+A : I actually would like to be your new roommate. 1
+B : That's great. Would you like to meet me sometime today? 1
+A : Tell me where, and I'll be there. 0
+B : Let's meet at Starbucks at 5:30. 1
+A : Starbucks at 5:30 will be fine. 1
+B : I'll fill you in on all the details when we get together. 1
+A : All right, that sounds great. 1
+B : I'll see you at Starbucks. 1
+
+1 1

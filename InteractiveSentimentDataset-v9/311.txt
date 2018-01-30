@@ -1,0 +1,14 @@
+A : Do you need help with something? 0
+B : I need help finding a new refrigerator. 0
+A : Do you see anything that you like? 0
+B : That Kenmore looks nice. 1
+A : That is a wonderful choice. 1
+B : What makes is so great? 1
+A : It's very inexpensive, and it has all the appliances. 1
+B : What appliances are you talking about? 0
+A : The fridge and freezer is very spacious, and it also has an ice maker and water dispenser. 1
+B : May I take a look inside? 0
+A : Take a look inside. 1
+B : It's very nice. I'd like to purchase this refrigerator. 1
+
+1 1

@@ -1,0 +1,18 @@
+A : Mom, can we go furniture shopping? 0
+B : Sure. What do you need to buy? 0
+A : Something for my new apartment. 0
+B : How do you like your first apartment? Do you like living alone? 0
+A : Yes, it's great. But my apartment is so empty. I need some furniture to make it feel cozy. 1
+B : What do you need? 0
+A : I already have a bed and a sofa that you and Dad gave me. I need to buy a dining table and chairs. 0
+B : Where do you sit to eat? 0
+A : Right now, I eat on the sofa. But I'd like to invite people over for dinner and be able to dine comfortably. 1
+B : Can you afford to buy a new dining table and chairs? 0
+A : I have some money saved, but not a lot. 0
+B : Why don't we try a yard sale? I always see people selling their dining room furniture at yard sales. 0
+A : That's a great idea! Maybe if the furniture looks really old, I can get a good deal. I can just paint them. 1
+B : Right! We should go today. 1
+A : Yes! I'm excited to see what I can find. 1
+B : Maybe I'll find something too! 1
+
+1 1

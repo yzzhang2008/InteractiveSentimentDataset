@@ -1,0 +1,12 @@
+A : I just arrived and need help getting transportation to my hotel. 0
+B : There are shuttles, taxis, and buses that go all over the city. 0
+A : Which one is the best form of transportation? 0
+B : It depends on where you want to go. If you are going to a well-known hotel, they have their own shuttles that drop you right off at the door. 0
+A : Where can I catch a cab? 0
+B : All ground transportation leaves from the island as you walk out the arrivals gate. 0
+A : Where can I rent a car? 0
+B : The car rental agencies are against the wall as you exit. 0
+A : Are there any subways in this town? 0
+B : We have a subway system, but you need to take a shuttle to get to the station. 0
+
+0 0

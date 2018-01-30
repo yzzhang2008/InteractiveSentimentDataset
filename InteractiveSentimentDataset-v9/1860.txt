@@ -1,0 +1,8 @@
+A : What are you going to order? 0
+B : I'm going to have a burger. 0
+A : I'm not really hungry. I'm just going to have a salad. 0
+B : You might get hungry later. 0
+A : Then I'll order something to go too. 1
+B : That's a good idea. You always get hungry around midnight. 1
+
+1 1

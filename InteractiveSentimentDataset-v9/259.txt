@@ -1,0 +1,12 @@
+A : I would like to speak with the manager about some safety concerns. 0
+B : This is the manager. What can I do for you? 0
+A : I was parking my car last night in the garage area, and it was very dark out there. -1
+B : Is this the first time you noticed this? 0
+A : The lighting has always been bad, but it seems to be getting worse. -1
+B : We are trying to save electricity, so we put in new energy-saving bulbs. Maybe that was the problem. -1
+A : Whatever the problem is, it needs to be fixed. -1
+B : Why do you feel this is so unsafe? 0
+A : It is unsafe because it allows people to hide in there and jump people and rob them. -1
+B : I will go out there after dark and check it out. Thanks for bringing it to my attention. 1
+
+-1 1

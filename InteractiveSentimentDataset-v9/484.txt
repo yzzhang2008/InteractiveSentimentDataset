@@ -1,0 +1,12 @@
+A : I think the company has finally made a profit. 0
+B : That's great news! 1
+A : We're all getting raises and bonuses this year. 1
+B : That makes me very happy. 1
+A : Me too. We haven't had raises in four years. -1
+B : We've never had bonuses. -1
+A : That's right! 1
+B : If the company is doing well financially, we should definitely receive some benefits. 1
+A : I agree. We work really hard. 1
+B : Let's celebrate over drinks after work. 1
+
+1 1

@@ -1,0 +1,8 @@
+A : Did you hear what happened to the CEO? 0
+B : No. What happened? -1
+A : He was arrested for murder. -1
+B : Are you serious? Who did he kill? -1
+A : His business partner. 0
+B : This is a huge scandal. -1
+
+0 -1

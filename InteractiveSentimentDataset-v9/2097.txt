@@ -1,0 +1,12 @@
+A : I didn't receive an unemployment check this week and need to know why. -1
+B : Did you mail us your last Continued Claim Form? 0
+A : I am afraid that I forgot to send it in. -1
+B : We cannot pay you unless you turn that form in every two weeks. 0
+A : Is it too late to mail the Continued Claim Form in now? 0
+B : It can't be more than fourteen days late for us to accept it. 0
+A : I will mail it in a little early next time to avoid this problem. 0
+B : You can't possibly know in advance how much you will be working. If you mail it in too soon, we will reject it! -1
+A : Will my paycheck arrive late because I messed up on my form? 0
+B : Your check will be arriving late, but the next one will come right on time. 0
+
+0 0

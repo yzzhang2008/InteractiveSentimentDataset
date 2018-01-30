@@ -1,0 +1,13 @@
+A : Good evening Sir, have a seat, please! 1
+B : Thank you. I want to have dinner. 1
+A : Yes please. Here is our menu. Would you please choose your menu? 0
+B : I want to taste all of traditional foods here while I'm on holiday. Can you tell me about this dish? 0
+A : It's called Gado-gado. It's Indonesian vegetabled salad served with peanut sauce. 0
+B : What are in there? 0
+A : They are potatoes, bean sprouts, lettuce, cucumber, some tofu, egg and rice cake. 1
+B : Hmmm I never taste it before. What about the sauce? 0
+A : The sauce uses peanut, palm sugar, shrimp paste, chili and some other ingredients with water. 1
+B : Sounds good. I want it! And,…a glass of iced tea, please. 1
+A : please wait for a moment. 0
+
+1 1

@@ -1,0 +1,10 @@
+A : When can I move into my new house? 0
+B : The current owners will be moving out on Tuesday, so technically you could pick up the keys and move in on Wednesday. 0
+A : Will the utilities be turned on? 0
+B : You need to contact the utility company and make arrangements to transfer the utilities to your name. 0
+A : I really want to paint the walls right away and get the carpet cleaned. 1
+B : If I were you, I would take a few days to take care of those things before you move in. 0
+A : I was thinking that I should have my new appliances delivered as we are moving in. 0
+B : That way, someone will be there, but you will have them right away. 0
+
+0 0

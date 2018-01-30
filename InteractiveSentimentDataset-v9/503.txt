@@ -1,0 +1,14 @@
+A : How's it going? 0
+B : I'm fine. Thanks for asking. 1
+A : What did you need? 1
+B : I would like to make a withdrawal. 0
+A : How much money would you like to withdraw? 1
+B : I want to take out $300. 0
+A : Which account are you making this withdrawal from? 1
+B : I want it taken from my checking account. 0
+A : All right, here is your $300. 0
+B : Thanks a lot. 1
+A : Is there anything else that I can do for you today? 1
+B : No. That's everything. Thank you. 1
+
+1 1

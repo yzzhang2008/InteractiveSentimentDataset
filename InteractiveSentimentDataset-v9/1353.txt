@@ -1,0 +1,9 @@
+A : I'm thinking about getting a motorcycle. 0
+B : Are you crazy? Motorcycles are dangerous. -1
+A : I'll be careful. 1
+B : I really wish you would not get one. -1
+A : Why? What's the problem? 0
+B : I would be worried all the time. -1
+A : Fine. I won't get one. I'll find something else to do. 0
+
+0 -1

@@ -1,0 +1,12 @@
+A : Mom, can you drop me off at Jane's house? 0
+B : What time do you want to go? 0
+A : Around 3 PM. 0
+B : What are you going to do there? 0
+A : We have a science project due on Monday. 0
+B : How long are you going to be there? -1
+A : Jane asked if I could sleep over. 0
+B : Did her mom say it was okay? 0
+A : She is asking her mom right now. 0
+B : If her mom says yes, you may sleep over. 0
+
+0 0

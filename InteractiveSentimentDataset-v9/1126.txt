@@ -1,0 +1,10 @@
+A : What would you like to order? 0
+B : I'd like ham and eggs, please. 1
+A : How do you want your eggs? 0
+B : What are my choices? 0
+A : Scrambled, sunny side-up, over-easy, and over-hard. 0
+B : Scrambled, please. Hm, no, I think I want sunny side-up. 0
+A : Is there anything else? 0
+B : One orange juice. Make it small, please. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : Are renters allowed to have pets? 0
+B : We allow a small well-behaved pet, but you need to sign an agreement saying you'll pay for any damages. 0
+A : Do you allow both cats and dogs? 0
+B : We only allow a medium or small dog or a cat. 0
+A : Are there any special areas where animals are allowed or not allowed? 0
+B : Cats are to be kept indoors at all times. Dogs must be on a leash and with the owner when outdoors. 0
+A : Are there places where I can take my dog for a run? 0
+B : There are quite a few hiking trails nearby. 0
+A : Are there a lot of pets in this building? 0
+B : We don't have a lot of pet owners, but there are a few around if you have any questions about local pet supplies and dog parks. 0
+
+0 0

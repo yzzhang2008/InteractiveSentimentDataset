@@ -1,0 +1,12 @@
+A : Hello, this is Betty. 0
+B : Hello, Betty. This is Larry. How many smoke detectors are on your ceiling? 0
+A : I have two smoke detectors. 0
+B : Do you have fresh batteries in both of them? 0
+A : Both batteries are pretty fresh. 1
+B : Very good. I have to come by there and check out all the detectors. 1
+A : Very good, when do you think you'll be coming over? 1
+B : I'll be by on Thursday at noon. You don't have to be there. 0
+A : I won't be home. Just remember to lock my door, okay? 0
+B : You won't even know that I've been there. 1
+
+0 1

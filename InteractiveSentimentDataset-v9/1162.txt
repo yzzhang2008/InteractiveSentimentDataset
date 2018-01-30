@@ -1,0 +1,11 @@
+A : Good morning, may I speak with Mr. Wallace, please? 0
+B : You are speaking to him, may I help you? 0
+A : Mr. Wallace, this is the Xenon Company calling to speak with you. 0
+B : Yes, good to hear from you! 1
+A : We are calling you today to offer you the job you interviewed for last week. 0
+B : That's great! I am looking forward to working for you. 1
+A : Would you be able to begin working for us in two weeks? 0
+B : I could begin working then with no problem. 1
+A : Welcome to our company; we will see you then. 1
+
+1 1

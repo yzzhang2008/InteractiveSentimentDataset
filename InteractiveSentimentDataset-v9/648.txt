@@ -1,0 +1,12 @@
+A : This is my first time at the DMV, and I don't know what window to go to. -1
+B : It depends on what you are doing. Did you make an appointment? 0
+A : I made an appointment last month. 0
+B : All of the windows are for specific services. What do you need to do today? 0
+A : I just bought a used car and need to transfer the ownership. 0
+B : If you just put all of your filled-out forms in the drop box, your name will be called when it comes up. 0
+A : Thank you, that helps me know what to do. 1
+B : My pleasure. The only other thing I need is your current Driver's License. 1
+A : Here is my license. 0
+B : You look good in that picture. Take this over to the last window to pay your fee, and you've finished registering your car. 1
+
+1 1

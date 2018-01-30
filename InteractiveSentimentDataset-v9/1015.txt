@@ -1,0 +1,8 @@
+A : Our company is in trouble. -1
+B : It's all over the news. 0
+A : I can't believe our computers were hacked. -1
+B : All of our customers' personal information was stolen. -1
+A : I heard the Customer Service department is being flooded with calls. -1
+B : Our information was stolen too. -1
+
+-1 -1

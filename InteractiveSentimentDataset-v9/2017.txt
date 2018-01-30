@@ -1,0 +1,12 @@
+A : I haven't felt well since we ate dinner at that restaurant with the fish on the menu. -1
+B : Should I look into finding a doctor for you? 0
+A : I feel bad enough that I am thinking about how we could find a doctor. -1
+B : How does someone find a physician in this country? 0
+A : The front desk should be able to find a doctor on call for us. 0
+B : With my American Express card, we could probably get a good referral for a doctor. 1
+A : Yes, the card should help us find a good doctor. 1
+B : Did you buy supplemental health insurance for travelers? 0
+A : Yes, I am insured by a supplemental policy. 1
+B : I will call American Express right now, and we'll get you some medical advice. 1
+
+1 1

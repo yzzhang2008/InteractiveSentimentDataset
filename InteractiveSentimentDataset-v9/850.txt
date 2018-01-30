@@ -1,0 +1,14 @@
+A : Do you know why I pulled you over? 0
+B : I have no idea. -1
+A : Your left brake light is out. -1
+B : I was not aware of that. -1
+A : I'm going to have to write you a ticket. 0
+B : You can't give me a break? -1
+A : I'm just doing my job. -1
+B : How much is the ticket for? 0
+A : You will get that information in court. 0
+B : I have to go to court? 0
+A : That's right. 0
+B : Fine. Give me the ticket. -1
+
+-1 -1

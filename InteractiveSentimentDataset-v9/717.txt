@@ -1,0 +1,14 @@
+A : I would like to register for a class today. 0
+B : No problem, what class would you like to take? 0
+A : I would very much enjoy taking a Psychology class. 1
+B : There are two classes that are still open. 0
+A : Which days are these classes on? 0
+B : The first class is a Tuesday and Thursday class from two to three. 0
+A : What about the other class? 0
+B : The other class is on Monday and Wednesday from 10:00 a.m. to 12:00 p.m. 0
+A : Are you sure there are no more open classes? 0
+B : I'm positive. 1
+A : Sign me up for Monday and Wednesday. 0
+B : Okay, I'll sign you up. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : What do you think the asking price of my home should be? 0
+B : There are many things to take into consideration when pricing a home. 0
+A : What is involved in figuring out an asking price? 0
+B : We need to combine many factors regarding your home to come up with an accurate value for your home. 0
+A : When you look at comparisons, do I necessarily have to ask that price? -1
+B : You don't have to use the price from the comparisons as your asking price. However, you must be realistic in what you ask. 0
+A : I think that I am going to set the price really high so that I have room to bargain with the buyers. 0
+B : Don't go overboard in trying to get top dollar. More often than not, that strategy backfires. 0
+A : Is it okay to lower the asking price if the first price isn't bringing in any offers? 0
+B : If the market doesn't support your asking price, we can always re-evaluate our pricing and adjust it. 0
+
+1 0

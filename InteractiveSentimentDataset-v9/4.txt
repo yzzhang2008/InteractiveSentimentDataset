@@ -1,0 +1,12 @@
+A : Hi! Love to see you again! 1
+B : Me too,…I need your advice. 0
+A : My advice? Surely. Just tell me what happened. 1
+B : My hair is unhealthy because all of the split ends. It’s also fallen down. -1
+A : Do you often get hairspray? 0
+B : Yes I do, Just a couple of weeks ago, I had many dancing performances, so I had to get much hairspray. -1
+A : You must use conditioner to maintain your hair healthy. Ok, now I’ll wash your hair and put on some conditioner. 1
+B : Is it possible for coloring after this treatment? 0
+A : Why not? You can do it. But you must put on hair vitamin every hair washing. 1
+B : Okay. No problem. 1
+
+1 1

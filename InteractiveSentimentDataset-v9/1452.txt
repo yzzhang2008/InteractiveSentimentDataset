@@ -1,0 +1,8 @@
+A : I'm trying to save money to buy a house. 0
+B : When do you want to buy a house? 0
+A : My long term goal is to save enough to buy one in 10 years. 0
+B : I think you can do it. 0
+A : I've always wanted my own home. 0
+B : I think you have a very realistic goal. 0
+
+0 0

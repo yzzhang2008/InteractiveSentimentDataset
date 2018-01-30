@@ -1,0 +1,10 @@
+A : Did you meet a lot of people yesterday? 0
+B : Yes, but I don't think I made a good first impression. -1
+A : What happened? 0
+B : I was trying to act too cool. I don't think they took me seriously. -1
+A : Did you give them your business card? 0
+B : I forgot them, so I wrote my contact info on napkins. -1
+A : Oh. That's not very professional looking. -1
+B : I know. What am I going to do? 0
+
+-1 -1

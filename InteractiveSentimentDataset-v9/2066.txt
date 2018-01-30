@@ -1,0 +1,11 @@
+A : Good Morning, Enbridge customer service (link is external), how may I help you? 0
+B : Good Morning, my name is Taro Watanabe. I would like to cancel my gas service with Enbridge (link is external). I have sold my house and I am moving out of the country. 0
+A : I can help you with that Mr. Watanabe. May I get your address and account number? 1
+B : 33 Catherine Street, Ottawa, ON. My account number is 123-2345-5678. 0
+A : O.K. got it. When is your moving date? 0
+B : It’s on April 30th. 0
+A : There will be a cancelation fee because you are closing the contract early. There will be an extra charge of $53.24 on your final statement. We will have the gas service switched to the new owners on April 30th and your final statement will be issued May 2nd, 2013. Is there anything else I can help you with? 0
+B : I didn’t know there would be an extra charge. It seems high. What am I being charged for? 0
+A : You signed a contract with us which ends Aug 25th 2013. You are cancelling 4 months early so the standard fee totals $53.24 for breaking the agreement early. 0
+
+0 0

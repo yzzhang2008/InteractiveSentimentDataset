@@ -1,0 +1,14 @@
+A : I'm bored. -1
+B : What's on TV? 0
+A : Nothing. -1
+B : There must be something on TV! 1
+A : Nothing that's interesting. -1
+B : What about that new game show? 0
+A : Which one? 0
+B : Deal or No Deal 0
+A : Tell me you're joking. -1
+B : I love that show. 1
+A : I watched it once. That was enough. 0
+B : It's on right now. Let's watch it together. 1
+
+0 1

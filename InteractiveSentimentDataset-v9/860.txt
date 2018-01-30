@@ -1,0 +1,10 @@
+A : What may I help you with? 0
+B : I need to file a complaint. -1
+A : What is your complaint about? 0
+B : I got robbed. -1
+A : When did this happen? 0
+B : It happened this morning. 0
+A : What was taken? 0
+B : My wallet and cell phone. 0
+
+1 -1

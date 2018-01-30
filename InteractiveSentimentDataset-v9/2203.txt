@@ -1,0 +1,9 @@
+A : What are the chances of getting a raise this year? 0
+B : Chances are slim! -1
+A : Wow! You haven't gotten a raise for how many years now? -1
+B : (Heave a sigh). It's been three years! The company keeps losing money and they can't afford to give anyone a raise. -1
+A : That's too bad. Did you ever think of working somewhere else? -1
+B : Yeah. In fact, I have an interview next Monday. 0
+A : Good luck! 1
+
+0 -1

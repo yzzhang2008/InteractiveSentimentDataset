@@ -1,0 +1,14 @@
+A : Is there a bus in Altadena that'll take me to downtown LA? 0
+B : The 486. 0
+A : The 486 really goes downtown? 0
+B : Yes, it does. 1
+A : How long is the bus ride? 0
+B : It's about forty-five minutes to an hour. 0
+A : Is that right? 0
+B : Yeah, it's not that long of a trip. 1
+A : Is that a crowded bus? 0
+B : It starts getting more crowded the closer you get to LA. -1
+A : Thank you very much. 1
+B : You're very welcome. 1
+
+1 1

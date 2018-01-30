@@ -1,0 +1,12 @@
+A : What about roommates in my apartment? 0
+B : You may have one roommate, but their name must appear on the lease. 0
+A : Can I have someone visit me for a short period of time? 0
+B : We understand that a family member or friend may visit from time to time. Just make sure that they are not moving in with you. 1
+A : How many days could a friend stay without it being a problem? 0
+B : You cannot have an extra tenant for over a week, unless we give you special permission. 0
+A : Will I be charged extra money for having roommates or visitors? 0
+B : A roommate or a short-term guest would not cost you anything extra. 1
+A : Can my family and friends use the facilities when they visit me? 0
+B : Your guests may not use the facilities unless you are with them. 0
+
+0 0

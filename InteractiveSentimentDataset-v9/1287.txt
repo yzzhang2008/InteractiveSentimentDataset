@@ -1,0 +1,14 @@
+A : My throat is really dry. -1
+B : Do you want to go get something to drink? 0
+A : Yes, I'm parched. -1
+B : What did you want to drink? 0
+A : I was thinking about getting a soda. 0
+B : Do you know that soda doesn't quench your thirst? 0
+A : Why not? 0
+B : Soda is really bad for you. -1
+A : I don't know what else to drink. 0
+B : You're supposed to drink water when you're dehydrated. 1
+A : I would like some water. 1
+B : That's what will keep you from being thirsty. 1
+
+1 1

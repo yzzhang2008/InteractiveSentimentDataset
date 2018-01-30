@@ -1,0 +1,14 @@
+A : I have a parking ticket to pay for. 0
+B : Did you bring your ticket? 0
+A : Yes, I remembered to bring my ticket with me today. 0
+B : Did you bring your ID? 0
+A : I didn't bring my ID. 0
+B : You're going to need your ID to pay the ticket. 0
+A : What do you need my ID for? 0
+B : We have to know that this ticket is really yours. 0
+A : All right, I see what you mean. 0
+B : Next time you come back, bring your ID. 0
+A : Will everything be cleared from my record? 0
+B : Yes, everything will be cleared. 0
+
+0 0

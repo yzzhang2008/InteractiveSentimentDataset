@@ -1,0 +1,9 @@
+A : I'd like to return these boots. 0
+B : Is there anything wrong with them? 0
+A : Yes. They are very uncomfortable. -1
+B : I think you have had these for a long time. It looks like you have already worn them a lot. -1
+A : Are you saying I can't return them? -1
+B : We only accept returns on unused items. -1
+A : Where is the manager? I demand a refund now! -1
+
+-1 -1

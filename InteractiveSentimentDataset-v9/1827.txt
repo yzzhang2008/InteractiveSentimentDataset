@@ -1,0 +1,13 @@
+A : Why is this elevator so slow? -1
+B : How long have you been waiting? 0
+A : 10 minutes. 0
+B : This is a very old building. -1
+A : I don't have time to wait. I'm going to take the stairs. -1
+B : We're on the 18th floor! -1
+A : I don't care. I'm going to be late for work. -1
+B : I'll come with you. 0
+A : Ok, but you're wearing high heels. -1
+B : Fine. I'll wait for the elevator. 0
+A : Good luck. 1
+
+-1 -1

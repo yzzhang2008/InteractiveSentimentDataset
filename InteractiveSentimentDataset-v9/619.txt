@@ -1,0 +1,10 @@
+A : What car insurance company did you decide to go with when you bought your new car? 0
+B : State Farm seemed like the best deal for me. 1
+A : How did you make that decision? 0
+B : I compared rates and services available. 0
+A : Where can I get help in figuring out what I need to purchase for coverage? 0
+B : You can pick up a pamphlet at your insurance company that will explain the options to you. 0
+A : What did you decide to cover yourself for? 0
+B : I pretty much carry the average amount in all categories as the agent recommended. 0
+
+0 0

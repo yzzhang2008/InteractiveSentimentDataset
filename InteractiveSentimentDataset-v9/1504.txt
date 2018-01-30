@@ -1,0 +1,8 @@
+A : I just read in the newspaper that coffee prevents cancer. 0
+B : Really? That's great news. 1
+A : I know. We drink so much coffee. 0
+B : Let's have another cup right now. 1
+A : Ok. I'll make a fresh pot. 1
+B : I guess not everything causes cancer. 0
+
+1 1

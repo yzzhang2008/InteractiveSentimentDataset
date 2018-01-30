@@ -1,0 +1,8 @@
+A : You stole money from her purse. -1
+B : No, I did not. -1
+A : I saw you do it. 0
+B : Are you calling me a liar? -1
+A : Yes! You are lying about stealing. -1
+B : You have no proof. -1
+
+-1 -1

@@ -1,0 +1,12 @@
+A : I am sorry I am so late to work. -1
+B : What was the problem? 0
+A : I lost track of time. -1
+B : Things happen; make sure it doesn't become a habit. 0
+A : It won't happen again. 0
+B : All right, please take this message and call this client. 0
+A : No problem. 0
+B : Now does everyone understand the diagram on the board? 0
+A : Yes, I understand the numbers. 0
+B : I will explain it again; especially for those of you who arrived late. 0
+
+0 0

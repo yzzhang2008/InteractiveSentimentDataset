@@ -1,0 +1,12 @@
+A : I can't find my purse! -1
+B : What was in your purse? 0
+A : It contained my wallet and passport. -1
+B : How much money was in your wallet? 0
+A : There was about $200 in my wallet, and I had some traveler's checks in there, too. 0
+B : We can call American Express to deal with the traveler's checks. How about credit cards? 0
+A : I had a MasterCard and a Visa Card. 0
+B : We can look at the back of my cards to get the emergency phone numbers. 0
+A : Where do I report that my passport is missing? 0
+B : We need to take a cab to the embassy to report that right away. They will help us. 0
+
+-1 0

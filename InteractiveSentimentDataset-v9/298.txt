@@ -1,0 +1,14 @@
+A : How are you doing? 0
+B : Great. What's up? 1
+A : I wanted to talk to you about something. 0
+B : What did you want to talk about? 0
+A : I just wanted to let you know that I'm moving out. 0
+B : When? 0
+A : In the next few weeks. 0
+B : I don't understand why you want to move. -1
+A : I'm going to school out of state. 0
+B : I see. That'll be fine. 1
+A : Thanks for understanding. 1
+B : Yes. I'm fine with it. 1
+
+1 1

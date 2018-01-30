@@ -1,0 +1,13 @@
+A : Hey, Jack, is Jenny coming with us? 0
+B : Yes. Why? 0
+A : Nothing. I'm just asking. 0
+B : Just asking? But why is your face burning like mad? Ah-huh, someone has a crush on Jenny, doesn't he? -1
+A : Who has a crush?! 0
+B : Come on, Ted, don't be such a chicken. If you like her, you've got to tell her. Maybe she likes you. 1
+A : Well, I don't have the guts to ask her out. -1
+B : What're you so afraid of? Just tell her what you're feeling about her. -1
+A : I'd totally die if she turned me down. -1
+B : But that's better than keeping everything to yourself. You've got to let her know. Come on! You've got to take a chance! Even though you are rejected, it's not the end of the world! There's nothing to lose, is there? 1
+A : I don't know....Well, maybe, you're right, but how am I going to tell her? -1
+
+-1 1

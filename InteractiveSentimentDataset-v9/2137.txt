@@ -1,0 +1,14 @@
+A : Will you be voting? 0
+B : Yes. Will you? 0
+A : I already have. 0
+B : How did you do that? 0
+A : I mailed in an absentee ballot. 0
+B : Why is that? 0
+A : I can't vote on Tuesday! -1
+B : What's the reason for that? 0
+A : I have to go to work. -1
+B : You can just go to work after you vote. 0
+A : I need to take care of some business that morning. 0
+B : I get it now. 0
+
+-1 0

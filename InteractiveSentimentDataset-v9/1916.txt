@@ -1,0 +1,14 @@
+A : I don't like riding the bus. -1
+B : Why not? 0
+A : Number one, it's too slow. -1
+B : You're right. A car is faster. 1
+A : Number two, it's usually late. -1
+B : You're right. The buses are never on time. -1
+A : Number three, it doesn't run 24 hours. -1
+B : You're right. Buses don't run late at night. -1
+A : Number four, it's too crowded. -1
+B : You're right. You have to stand in the aisle. -1
+A : Number five, it's unsafe. -1
+B : You're right. Bad guys might rob you. -1
+
+-1 -1

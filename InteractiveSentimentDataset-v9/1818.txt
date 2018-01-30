@@ -1,0 +1,11 @@
+A : I need some tips on negotiating. 0
+B : Ok. Don't be in a hurry to end negotiations. 1
+A : Why? I hate negotiating. I want it to be over quickly. -1
+B : If you're in a rush, you're more likely to make mistakes. 0
+A : That's true. I made a bad deal once because I was in a hurry. -1
+B : If you show them patience, they will think you are not under pressure to make a quick deal. They will start to give you what you want because they think you don't need their offer. 0
+A : That's also true. This is great advice. 1
+B : Just take your time. There's a lot of money involved, so you don't want to make any mistakes in your negotiations. 0
+A : Thank you! These are great negotiating tips! 1
+
+1 0

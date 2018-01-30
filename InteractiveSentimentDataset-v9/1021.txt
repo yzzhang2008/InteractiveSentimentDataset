@@ -1,0 +1,14 @@
+A : Can I ask you a question? 0
+B : Sure, what's up? 0
+A : Well, I was just wondering if you'd like to go out this Friday. 0
+B : Really? 0
+A : Yeah, I was thinking we could get a bite to eat and catch a movie. 0
+B : That sounds like fun. 1
+A : Of course, we can do something else if you'd like. 0
+B : No, no, dinner and a movie sounds great. 1
+A : Well, what time would you like me to pick you up? 0
+B : How about 7:30? 0
+A : That sounds good, so I'll see you then. 1
+B : Okay, cool. 1
+
+1 1

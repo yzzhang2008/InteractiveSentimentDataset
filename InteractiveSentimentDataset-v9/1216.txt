@@ -1,0 +1,14 @@
+A : Did you see Titanic? 0
+B : Yes. It is a great movie. 1
+A : I saw it twelve times. 0
+B : I saw it eight times. 0
+A : I have the DVD. 0
+B : So do I. 0
+A : Let's go to your home. 0
+B : We can watch my DVD. 0
+A : And then we can go to my home. 0
+B : And watch your DVD. 0
+A : I always cry at the end. 0
+B : Me too. 0
+
+0 0

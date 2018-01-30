@@ -1,0 +1,12 @@
+A : Hey B, are you still here? 0
+B : Yeah. I have to work overtime tonight. -1
+A : I thought you had dinner plans with your wife. 0
+B : I did. But my boss wants me to finish this report. -1
+A : Isn't it your anniversary today? 0
+B : Yes. My wife is not happy. -1
+A : You should tell your boss you have anniversary plans tonight. 0
+B : He won't care. Business is more important to him. -1
+A : That's terrible. You should find another job. -1
+B : That's what my wife said too. -1
+
+-1 -1

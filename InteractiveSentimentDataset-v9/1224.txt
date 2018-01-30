@@ -1,0 +1,14 @@
+A : Look at the car chase on TV! 0
+B : That driver is crazy. -1
+A : I can't believe he hasn't crashed. -1
+B : How fast is he going? 0
+A : They say he's going 80 miles per hour. 0
+B : He's going to kill someone. -1
+A : Look! He just hit that car. -1
+B : Oh, my goodness. No one is safe on the streets. -1
+A : Now he's slowing down. 0
+B : Maybe he ran out of gas. 0
+A : Look! He just got out of the car and started running. -1
+B : I hope the police catch him. 0
+
+-1 -1

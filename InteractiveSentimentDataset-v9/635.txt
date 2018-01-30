@@ -1,0 +1,12 @@
+A : This car is exactly what I want! 1
+B : I am glad that you like it. I've had good experiences with this car. 1
+A : So, how much do you want for the car? 0
+B : Well, the price in the paper was five thousand dollars. 0
+A : Yes, I know, but I think that might be a little high for this car. -1
+B : I might be able to come down a little on the price. 0
+A : How about selling the car for four thousand? 0
+B : No, that's way less than I could accept. However, I could accept forty-five hundred. -1
+A : That sounds fair to me. 1
+B : It's a deal then. Thank you! 1
+
+1 1

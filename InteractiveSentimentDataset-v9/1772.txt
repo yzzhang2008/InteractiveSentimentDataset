@@ -1,0 +1,12 @@
+A : Ashley, what a great dinner party! 1
+B : Thank you, Joe. What would you like to drink with your meal? I can offer you wine, mango juice, or water. 1
+A : Just water would be fine. 0
+B : Excellent choice. Can I dish you up some chicken? 1
+A : Yes, the chicken looks wonderful! 1
+B : How about some salad to go with your chicken? 0
+A : Sure, I love salad! 1
+B : Would you like to have rice with your chicken? 0
+A : Yes, I think that rice will go perfectly with my chicken! 1
+B : Good! Julie, if you could pass this plate down to Joe, I think we are all set. 1
+
+1 1

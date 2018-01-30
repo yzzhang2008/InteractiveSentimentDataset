@@ -1,0 +1,14 @@
+A : We had a problem at school. -1
+B : What was the problem? 0
+A : Someone cut the tires. -1
+B : What tires? 0
+A : The tires on the cars. 0
+B : Where were the cars? 0
+A : They were in the student parking lot. 0
+B : How many tires were cut? 0
+A : One or two tires were cut on each car. -1
+B : How many cars? 0
+A : Eleven cars. 0
+B : That's terrible. I hope they catch the person. -1
+
+-1 -1

@@ -1,0 +1,14 @@
+A : My pen is out of ink. -1
+B : Shake it a couple of times. 0
+A : I shook it. There is no more ink. -1
+B : You can borrow mine. 0
+A : Thank you. I'll buy a new one tomorrow. 1
+B : What were you doing? 0
+A : I was writing a letter. 0
+B : Who were you writing to? 0
+A : It's to my mom. 0
+B : Tell her I said hello. 1
+A : Okay. I'll return your pen when I'm done. 1
+B : Take your time. 1
+
+1 1

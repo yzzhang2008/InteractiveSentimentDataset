@@ -1,0 +1,14 @@
+A : Do you really love me? 0
+B : Of course. 0
+A : Prove it. 0
+B : How can I prove it? 0
+A : Take me to dinner. 0
+B : That's it? That's all I have to do? 0
+A : Take me to a nice restaurant. 1
+B : But a nice restaurant costs money. -1
+A : Yes, and you have to make a reservation. 0
+B : That's such a hassle. -1
+A : I knew you didn't love me. -1
+B : Okay, okay! I'll make a reservation right now. -1
+
+-1 -1

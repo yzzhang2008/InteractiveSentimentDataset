@@ -1,0 +1,23 @@
+A : Hi Kate. Our daughter is graduating from college this week. 0
+B : That's wonderful, Jane! What did she study? 1
+A : Nursing. 0
+B : That's a great field. My mom was a nurse. 1
+A : My mother was a nurse too. 0
+B : She must be so proud of her. 1
+A : Yeah, she is. We are all proud of her. 1
+B : Does she want to work in a hospital? 0
+A : Yeah. She got a job at the hospital already. 0
+B : That's great! 1
+A : Are you doing anything special to celebrate? 0
+B : We bought her a new car. 1
+A : Wow! That's an awesome gift! 1
+B : I know. Her current car is so old. We want her to have a reliable car since she will be working late hours. 0
+A : That's smart. 1
+B : When does she start working? 0
+A : In a month. 0
+B : What is she going to do for a month? 0
+A : She's going backpacking with a friend in Europe. 0
+B : How fun! She's an adult now. 1
+A : I know. Kids grow up too fast. 0
+
+1 1

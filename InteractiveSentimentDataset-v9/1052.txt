@@ -1,0 +1,8 @@
+A : Hey, B. This is A. My flight has been delayed. I won't be there on time. -1
+B : I guess I'll have to do the presentation alone. 0
+A : Are you prepared to do that? 0
+B : I have no choice. -1
+A : Can we postpone the meeting? 0
+B : No. The clients are catching a flight right after the meeting. -1
+
+-1 -1

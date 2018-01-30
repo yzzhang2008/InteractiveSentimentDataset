@@ -1,0 +1,8 @@
+A : Hey B, could I borrow some money? 0
+B : Sure. How much do you need? 0
+A : $500. 0
+B : $500? That's a lot of money. Why do you need so much? 0
+A : I need to pay the rent. 0
+B : I don't have that much. How about $200? -1
+
+0 -1

@@ -1,0 +1,14 @@
+A : I hope I win the lotto. 1
+B : Your chances are very small. -1
+A : But you can't win if you don't play. 0
+B : Ha! You can't win if you do play. -1
+A : Someone has to win. 0
+B : That's what everyone says. 0
+A : It might as well be me. 0
+B : That's what everyone says. 0
+A : You're trying to tell me something. 0
+B : That didn't take long. 0
+A : You think I should quit playing. 0
+B : Save your money for school. 0
+
+0 0

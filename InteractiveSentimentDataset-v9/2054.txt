@@ -1,0 +1,11 @@
+A : Hello, Dr. Sim’s office. 0
+B : Hello, my name is Yoshiko Yamaguchi. Is your clinic taking new patients? 0
+A : Not right now but if you want we can put your name on our waiting list. 0
+B : Oh, I'm sorry to hear that. I would like to find a doctor now and your office was recommended to me by a friend. I'm not sure who else to contact. -1
+A : I can refer you to another doctor. His name is Dr. Smith. He is here in Toronto and just a few kilometers away. 0
+B : That would be a great help, can I get his office number. 1
+A : His office telephone number is 416-555-2222. 0
+B : Thank you. I will try to reach him. Have a good day. 1
+A : You're very welcome. Goodbye 1
+
+1 1

@@ -1,0 +1,12 @@
+A : I think that someone stole my purse! -1
+B : What did you have in your purse? 0
+A : Both my wallet and my passport were in there. -1
+B : Did you have a lot of money in your wallet? 0
+A : Fortunately there was only a little change and some traveler's checks. 1
+B : Did you have any credit cards in your wallet? We need to report them as well as the traveler's checks. 0
+A : I only had a Visa Card in my wallet. -1
+B : We can call the front desk to get the lost or stolen card phone numbers. 0
+A : I am worried about reporting my passport as missing. -1
+B : The embassy can help us. We should walk over there and they can advise us on what we can do about replacing your passport. 1
+
+-1 1

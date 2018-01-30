@@ -1,0 +1,12 @@
+A : Hi Linda, this is Todd. 0
+B : Todd, good to hear from you! 1
+A : I just wanted to tell you what a great time I had with you at the movies last week. 1
+B : Me too, Todd! Thanks for suggesting that great movie. 1
+A : I also enjoyed it and was wondering if you would like to go for a hike in the mountains with me on Saturday. 1
+B : I would love to join you on a hike. Could I maybe bring a picnic lunch for us to eat on the trail? 1
+A : Sure Linda, that's a great suggestion. 1
+B : Fine then, what time are we going to leave? 0
+A : I was thinking maybe 9:00 or so, so that we could get started before the heat gets too bad. 0
+B : Nine would be perfect. I'll see you then! 1
+
+1 1

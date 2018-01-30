@@ -1,0 +1,8 @@
+A : I am getting tired of taking the stairs. -1
+B : Why are you taking the stairs? 0
+A : My apartment elevator isn't working. -1
+B : How long has it been broken? 0
+A : Two weeks. 0
+B : You live on the 8th floor! -1
+
+-1 -1

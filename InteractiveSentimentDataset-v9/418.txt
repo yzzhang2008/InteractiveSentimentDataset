@@ -1,0 +1,8 @@
+A : I've had a hard day. -1
+B : Do you want to get drinks after work? 0
+A : Sure. I need to relax. -1
+B : Me too. My boss is putting too much pressure on me. -1
+A : I have the same problem. -1
+B : Let's meet at 6 PM at the bar across the street. 0
+
+-1 -1

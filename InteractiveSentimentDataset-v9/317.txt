@@ -1,0 +1,14 @@
+A : What are you trying to do? 0
+B : I'm working on a budget. 0
+A : What kind of budget? 0
+B : I need to budget my shopping so that I don't spend all my money. -1
+A : What's your budget? 0
+B : I can spend about $300 per month. 0
+A : Why so little? -1
+B : The rest of my money needs to be saved. 1
+A : What do you need to save up for? 0
+B : I still need to pay my bills. -1
+A : You're wise for saving your money. 1
+B : I think it's just common sense. 0
+
+1 0

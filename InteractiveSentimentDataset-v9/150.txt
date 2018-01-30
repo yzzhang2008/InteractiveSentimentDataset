@@ -1,0 +1,16 @@
+A : I'm looking for some fresh produce that's on sale. 0
+B : Well, we just got in some mangoes. 0
+A : Mangoes. What are they? 0
+B : Well, it's a fruit with a big nut in it. 0
+A : Can you eat the nut? 0
+B : No, you peel off the skin and throw out the nut. 0
+A : How much are they? 0
+B : Well, the sale price is $1 each. 0
+A : What does a mango taste like? 0
+B : They're like a citrus fruit. 0
+A : How do I know if it's ripe? 0
+B : You can buy them hard. Wait a few days for them to develop a soft feel. 1
+A : Where do they come from? 0
+B : Most of them in this store are from Mexico. 0
+
+0 0

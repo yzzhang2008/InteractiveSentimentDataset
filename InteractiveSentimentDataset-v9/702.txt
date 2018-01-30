@@ -1,0 +1,12 @@
+A : I need to change my flight departure. 0
+B : When do you need to go? 0
+A : I need to leave tomorrow morning. 0
+B : Can it be a non-direct flight? 0
+A : I would prefer a direct flight. 1
+B : There is one direct flight leaving tomorrow morning at 7 AM. It's $100 more expensive. 0
+A : I'll take it. 0
+B : When will you be returning? 0
+A : Don't change the return flight. 0
+B : Ok. 0
+
+0 0

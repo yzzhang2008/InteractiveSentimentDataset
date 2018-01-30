@@ -1,0 +1,14 @@
+A : I'm moving out. -1
+B : Your lease isn't up yet. -1
+A : I won't be able to stay here anymore. -1
+B : That's going to be a problem. -1
+A : I don't know why there's a problem. -1
+B : It's a problem because I can't give you your deposit back. -1
+A : Why can't you give it back to me? -1
+B : You're breaking our contract. -1
+A : I'm going to need my deposit back. -1
+B : That's not going to happen. -1
+A : I can't stay here, though. -1
+B : That's really not my problem. -1
+
+-1 -1

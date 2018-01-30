@@ -1,0 +1,14 @@
+A : I'm looking for a gift for my niece. 1
+B : Well, little girls seem to love Barbie dolls. 1
+A : That's perfect. I want to see one. 1
+B : Here you are. she's called Digital Barbie. 0
+A : I like Digital Barbie! How much does she cost? 1
+B : This Barbie is only $29.95. 0
+A : That's perfect. Let me have her. 1
+B : Very good. Is there anything else you would like? 1
+A : No, that'll do it for now. 1
+B : Including tax, your total will be $32.42. Cash or charge? 0
+A : Let me give you cash, please. 0
+B : Here's your change and receipt. Thank you. 1
+
+1 1

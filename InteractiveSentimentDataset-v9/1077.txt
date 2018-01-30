@@ -1,0 +1,14 @@
+A : Let's go practice your driving. 0
+B : If that's what you want to do, then we can. 0
+A : Did you buckle your seatbelt? 0
+B : I'm buckled up. What's next? 0
+A : You need to start the car now. 0
+B : What do you want me to do? 0
+A : Go left. 0
+B : How far should I go? 0
+A : I'll let you know when I want you to stop. 0
+B : Tell me before you want me to stop. 0
+A : All right, try parking here. 0
+B : Let's go driving again tomorrow. 0
+
+0 0

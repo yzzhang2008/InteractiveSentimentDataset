@@ -1,0 +1,18 @@
+A : I think I need a new computer. 0
+B : Why? 0
+A : Mine is so slow now. It takes a long time to start up and it keeps freezing. -1
+B : That's not good. How old is it? -1
+A : Several years old. It was a high school graduation gift from my parents. 0
+B : Yeah, it's probably time to replace it. 0
+A : I don't know what to buy. There are so many different models these days. 0
+B : You should go to a computer store and ask about the different kinds? 0
+A : That's a good idea. Do you want to go with me? 1
+B : When? I have to work today. Can you wait until tomorrow? 0
+A : Sure. I have to work until 5 pm tomorrow. Can you go around 6 o'clock tomorrow evening? 0
+B : Yeah. Let's meet at your place at 6 pm. 0
+A : Ok. I'll do some research on computers tonight. 1
+B : My brother just bought a brand new computer too. I can ask him if he likes it. 1
+A : That would be great! 1
+B : See you tomorrow around 6 pm. 1
+
+1 1

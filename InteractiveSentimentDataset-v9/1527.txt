@@ -1,0 +1,9 @@
+A : Why did I eat so much? 0
+B : Do you feel sick? 0
+A : Yeah. I think I need to lie down. -1
+B : You shouldn't lie down after eating. 0
+A : I think I need to go to the restroom. 0
+B : Let's skip dessert. 0
+A : No, I have room for dessert. -1
+
+-1 0

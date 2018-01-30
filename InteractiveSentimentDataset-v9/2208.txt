@@ -1,0 +1,12 @@
+A : Why does the CFO look so upset? -1
+B : The stock market crashed. -1
+A : What about the employees' stocks? -1
+B : Our stocks are worth nothing. -1
+A : Are you serious? -1
+B : Yes. The company stocks have no value. -1
+A : What am I going to do? -1
+B : What are we all going to do? -1
+A : That was going to be my retirement fund. -1
+B : I was going to use that to pay my son's college tuition. -1
+
+-1 -1

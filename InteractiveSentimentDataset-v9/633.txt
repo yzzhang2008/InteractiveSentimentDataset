@@ -1,0 +1,12 @@
+A : Can you help me learn about financing options for a used car? 0
+B : I would love to help you with what I know. I am assuming that you have a down payment. 1
+A : Yes, I already borrowed some money from my parents for the down payment. 0
+B : That will work. A bank or finance company will not loan you money without a down payment. 0
+A : I am not sure who will loan money to me. -1
+B : You can apply for a loan at a bank, credit union, or approach the used car dealer who sold you the car. You might also try family and friends. 0
+A : Who offers the best interest rate? 0
+B : A credit union will usually give you the best interest rate, but the dealer will almost always give you some type of loan. 0
+A : Do I need any documents when I apply for a car loan? 0
+B : Be sure that you take a recent pay stub and a copy of the pink slip. You will have a few days to produce proof of insurance. 0
+
+-1 0

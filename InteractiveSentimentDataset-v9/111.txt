@@ -1,0 +1,8 @@
+A : I want to get a store credit card. 1
+B : I have the application form right here. 0
+A : I've filled out the form. Here you go. 1
+B : Thanks. Now all I need to see is a credit card. 1
+A : Here's my MasterCard. 0
+B : Thank you very much. 1
+
+0 1

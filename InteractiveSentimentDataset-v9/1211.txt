@@ -1,0 +1,12 @@
+A : I have never seen so many flavors of ice cream in one place! 1
+B : There certainly are a lot. Can you choose a favorite? 0
+A : Vanilla with toppings is my favorite. 1
+B : Is there anything as good as a hot fudge sundae? 0
+A : No way! -1
+B : I don't like ice cream with too many different flavors in it. -1
+A : I agree with that, it just doesn't work for me. -1
+B : I saw garlic ice cream on the menu once. 0
+A : I think that that would be horrible! -1
+B : I think I'll stick with a more traditional choice today! 1
+
+-1 1

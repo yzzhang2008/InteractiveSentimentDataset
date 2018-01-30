@@ -1,0 +1,12 @@
+A : Hi, I just moved in next door and have a few questions. 0
+B : Hello, and welcome to our building. I would be happy to help you with your questions. 1
+A : You all seem like a very pleasant group of tenants. 1
+B : We all try and help each other out when we can. 1
+A : When did you first move here? 0
+B : I have lived here for quite awhile. Ten years! 0
+A : I am not from around here, and I don't know where basic services are. -1
+B : I could help you find everything you need. Would you be interested in going to the local farmer's market with me? 1
+A : What a great opportunity to get oriented to the neighborhood! 1
+B : It starts around ten. Just meet me in the parking lot around 9:45, and I'll take you there. 1
+
+1 1

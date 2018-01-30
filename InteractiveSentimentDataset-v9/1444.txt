@@ -1,0 +1,18 @@
+A : Hi Janet. Where are you going with those books? 0
+B : To the library. I found these under Joseph's bed. 0
+A : Under his bed? 0
+B : Yeah. They are all overdue. 0
+A : How did you find them? 0
+B : We got a notice from the library that he had several overdue books, so I started searching his room. 0
+A : How late are they? 0
+B : About two months. 0
+A : Didn't you receive notices before? 0
+B : I found the notices in his room too. 0
+A : Why didn't he return them? 0
+B : He said he couldn't find them. -1
+A : Is he in trouble? 0
+B : Of course he's in trouble. He doesn't get to play video games for each book that is late. -1
+A : That's five weeks. 0
+B : Yes. That's his punishment. He needs to learn not to hide letters that come in the mail. He also needs to learn to clean his room, so things don't get lost. -1
+
+0 -1

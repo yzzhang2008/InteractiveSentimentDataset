@@ -1,0 +1,12 @@
+A : Where would you like me to take you? 0
+B : I need you to take me to PCC. 0
+A : I can do that. 1
+B : How long will it take you to get from here to PCC? 0
+A : It'll be about 25 minutes. 0
+B : You can't get there any faster than that? -1
+A : That's as quick as I can do it. -1
+B : How much are you going to charge me? 0
+A : The traffic is going to cause you to pay more. -1
+B : You can't be serious. -1
+
+-1 -1

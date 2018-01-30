@@ -1,0 +1,12 @@
+A : I really like the apartment, but I was wondering if I could change some things. 1
+B : What would you like to change? 0
+A : I would like to have different carpet. 1
+B : I would be willing to put in a different color carpet if you pay the price difference. 1
+A : How much more would it cost? 0
+B : It would cost between 2 and 10 dollars more per square yard. 0
+A : While I am at it, would it be possible to switch paint colors? 0
+B : I would be willing to look at a different color. You need to bring me a sample. 1
+A : When can my apartment be painted and ready to go? 0
+B : You can have the new carpet and paint by next Monday. 1
+
+0 1

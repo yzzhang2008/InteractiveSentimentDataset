@@ -1,0 +1,14 @@
+A : About my driving test, did I do well? 0
+B : You did a fabulous job. 1
+A : Are you telling me that I passed the test? 0
+B : That's what I'm telling you. 0
+A : What did I mess up on? 0
+B : You did mess up a little on one thing. 0
+A : Tell me. 0
+B : You had a little trouble on your parallel parking. -1
+A : I know. 0
+B : That's something that you really need to work on. 0
+A : Am I still going to get my license? 0
+B : You're still going to get it. 0
+
+0 0

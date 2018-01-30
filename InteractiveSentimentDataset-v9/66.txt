@@ -1,0 +1,10 @@
+A : Excuse me. Can you help me? 0
+B : Certainly. What can I do for you? 1
+A : I need to purchase a sweater. 0
+B : What is your size? 0
+A : Medium should be fine. 0
+B : Is this one okay? 0
+A : Can I try it on somewhere? 0
+B : The fitting room is in the left corner. 0
+
+0 0

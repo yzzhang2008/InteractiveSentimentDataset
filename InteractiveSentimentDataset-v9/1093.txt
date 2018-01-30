@@ -1,0 +1,14 @@
+A : Is there a problem, officer? 0
+B : Did you not notice that stop sign that you ran through? 0
+A : I'm sorry, I didn't even notice it. -1
+B : You didn't see it? -1
+A : I honestly couldn't see it because of the bushes growing over it. -1
+B : That's true. Those bushes are a problem. -1
+A : I swear that I didn't mean to run it. -1
+B : I can understand why you didn't stop for it. 0
+A : Are you going to give me a ticket today, sir? 0
+B : Under the circumstances, I think I'm just going to let you go with a warning. 0
+A : Thanks a lot. You are professional! 1
+B : No problem. Next time, just pay closer attention. 0
+
+1 0

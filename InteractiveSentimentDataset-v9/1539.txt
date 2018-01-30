@@ -1,0 +1,12 @@
+A : Where are you going? 0
+B : I'm going to the pet store. 0
+A : Are you going to get a pet? 0
+B : I got a dog this morning. I need to buy some pet supplies. 0
+A : What kind of dog did you get? 0
+B : A Labrador Retriever puppy. 0
+A : Wow! Puppies are a lot of work. 0
+B : I know. We used to have many dogs when I was a child. 0
+A : What kind of supplies do you need? 0
+B : I need a leash, two dog bowls, and some treats. 0
+
+0 0

@@ -1,0 +1,18 @@
+A : We went to the best restaurant in town. 1
+B : How was the food? 0
+A : The food was delicious. It was the best seafood I ever had. 1
+B : How was the service? 0
+A : The service was excellent. The waiter was attentive and very polite. 1
+B : We should go back together. 0
+A : Definitely. I will take you next time. 1
+B : I wish I could've joined you tonight. 0
+A : Me too. Are you feeling any better? 0
+B : A little, but I still feel sick. -1
+A : Are you hungry? 0
+B : Yes. 0
+A : The clam chowder was delicious, so I brought you some. 1
+B : Thank you! I love clam chowder. 1
+A : I hope you feel better soon, so I can take you there. 1
+B : Me too. I love good seafood. 1
+
+1 1

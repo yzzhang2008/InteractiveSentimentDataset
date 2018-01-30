@@ -1,0 +1,12 @@
+A : I need to get a passport. 0
+B : The first thing you need to do is go to the post office and get an application. 0
+A : After I fill it out, where do I take it? 0
+B : You need to take your application to a specially designated post office. They will help you mail it to the proper place. 0
+A : How do I know where these agencies are? 0
+B : They are listed online. All you need to do is put in your ZIP code. 0
+A : Will I need to bring anything else? 0
+B : You also need to bring your original birth certificate and two pictures. Look at the website for details. 0
+A : What if I need a visa? 0
+B : You only need a visa for certain countries. Contact that particular consulate for details. 0
+
+0 0

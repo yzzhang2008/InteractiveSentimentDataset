@@ -1,0 +1,14 @@
+A : How is everything with you? 0
+B : Everything's fine with me. 1
+A : What did you need me for today? 0
+B : I need to find an apartment. 0
+A : I'm sure I can help you find an apartment. 1
+B : I would greatly appreciate your help. 1
+A : What kind of apartment did you have in mind? 0
+B : What's most important is that I get a two bedroom. 1
+A : Would you like anything else special? 0
+B : That's the most important thing. 1
+A : Give me a few days, and I'll call you when I've found something. 1
+B : Thank you so much for all your help. 1
+
+1 1

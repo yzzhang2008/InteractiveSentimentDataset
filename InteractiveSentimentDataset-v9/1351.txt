@@ -1,0 +1,12 @@
+A : Jenny wants a new phone. 0
+B : What's wrong with her current phone? 0
+A : She says it's too old. All of her friends have smart phones now. -1
+B : Why does she want a smart phone? 0
+A : She wants to do social media and check emails. 0
+B : She can't do that with her flip phone? 0
+A : I guess not. 0
+B : Don't you think she's too young for social media and smart phones? -1
+A : I think times are changing and she needs to keep up with her generation. 0
+B : You're more understanding than I am. 0
+
+0 -1

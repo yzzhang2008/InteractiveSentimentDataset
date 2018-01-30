@@ -1,0 +1,21 @@
+A : This is John Smith in unit 23. Is this the apartment manager? 0
+B : Hi. What do you need today? 0
+A : I've got a broken living room window. -1
+B : I'm sorry about that. How did it get broken? -1
+A : I've got a good idea, but I'm not exactly sure. 0
+B : Well, why don't you give me a few details? 0
+A : I would bet a dollar to a dime that it's one of the local kids. 0
+B : Do you have any support for that charge? 0
+A : A baseball was on my living room carpet. I don't own a baseball. 0
+B : Well, it sounds like someone hit a home run. 0
+A : I saw them playing ball in the lot just before I went to the market. 1
+B : Do you know for sure who they were? 0
+A : All I did was glance at them before I left. -1
+B : If you like, I'll call a repairman, but it might take a few days. 0
+A : How about if I call a friend of mine who is a repairman? 0
+B : Sure. Let me come over to see the damage right now, though. -1
+A : Sure, come on over, but tell me, do I have to pay for this? 0
+B : You're not responsible, so you don't pay. Tell him to bill me. -1
+A : Well, lucky me. I was afraid that I was going to get stuck for the bill. 1
+
+1 -1

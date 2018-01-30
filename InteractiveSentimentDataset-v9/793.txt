@@ -1,0 +1,14 @@
+A : Did you need any help? 0
+B : Actually, I was looking for something. 0
+A : What is it? 0
+B : I'm looking for a church. 0
+A : What kind? 0
+B : A Catholic church. 0
+A : On Lake Avenue there is a nice Catholic church. 1
+B : Is there really? 0
+A : Yes, really. 1
+B : Where on Lake is it? 0
+A : You'll find it on the corner of Lake and Woodbury. 0
+B : You've been such a great help. Thank you. 1
+
+1 1

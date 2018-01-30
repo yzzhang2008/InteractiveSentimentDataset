@@ -1,0 +1,8 @@
+A : I need help with negotiating. 0
+B : What do you want to negotiate? 0
+A : I want to change some of the terms in a contract. 0
+B : First of all, don't be afraid to ask for what you want. 1
+A : What else? 0
+B : Be willing to say no if you're not happy. 1
+
+0 1

@@ -1,0 +1,8 @@
+A : B, where are the cookies? Don't tell me you ate them all! Again! -1
+B : Yes, I did. I couldn't help it. They were so good. 1
+A : I thought you didn't like cookies. -1
+B : Well, I don't like cookies flavored with chocolate at all. But vanilla is different. I love them to death. 1
+A : Huh, I didn't know that. 0
+B : Well, tell you what, vanilla cookies taste even better with a glass of cold milk. 1
+
+-1 1

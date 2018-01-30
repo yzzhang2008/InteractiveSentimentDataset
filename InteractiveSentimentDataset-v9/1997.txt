@@ -1,0 +1,12 @@
+A : I had a connecting flight, but our arriving flight was late. -1
+B : We will help you make alternative plans. 0
+A : Can you give me the number of the airline so that I can call? 0
+B : The airlines always have personnel at the arrival gate to help direct you when a flight is late. We can help you right here. 0
+A : I remember that when we booked this flight, our connecting flight was the only one on this day. 0
+B : Our ticketing is tied in with other airlines. If we cannot accommodate you, perhaps another airline has some open seats to your destination. 0
+A : Where will I stay if I can't get another flight tonight? 0
+B : Since I believe there is a flight out of here at 5:45 in the morning, you may want to consider just staying at the airport. 0
+A : I don't think I should have to pay for a hotel room. -1
+B : We will pay 50 percent of the price of your room. 0
+
+-1 0

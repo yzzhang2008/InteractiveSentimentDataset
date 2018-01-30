@@ -1,0 +1,16 @@
+A : I need help finding a gift for my daughter. 0
+B : Would she like a laptop? 0
+A : That sounds like a good idea. 1
+B : A Mac is a very popular brand. 1
+A : She mentioned a Mac. How much is it? 0
+B : A 15-inch Pro model is $2,100 plus tax. 0
+A : That sounds like a great price. I'll take one. 1
+B : This is a gift she'll cherish for years. How do you want to pay? 1
+A : I'll use my VISA. 0
+B : We're almost through. Just sign here, please. 0
+A : Just take it home and plug it in? 0
+B : She'll be online 20 minutes after she opens the box. 1
+A : She's going to be so pleased with this. 1
+B : Remember us for all your computer needs. 1
+
+1 1

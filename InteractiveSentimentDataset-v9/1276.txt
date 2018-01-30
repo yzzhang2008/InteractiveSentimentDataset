@@ -1,0 +1,14 @@
+A : What do you want to eat for breakfast? 0
+B : All I usually have is some cereal for breakfast. 0
+A : You know that breakfast is the most important meal of the day? 0
+B : I sometimes run late in the morning, and can't make breakfast. -1
+A : That's not a good excuse. -1
+B : Tell me what you eat in the morning. 0
+A : I just eat some oatmeal, toast, and orange juice. 0
+B : That sounds like a great breakfast. 1
+A : It's good, and it's easy to make. 1
+B : That sounds like a very quick meal. 1
+A : So, are you still going to have cereal? 0
+B : I think I'm going to make myself some oatmeal and toast. 1
+
+1 1

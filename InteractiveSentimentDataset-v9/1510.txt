@@ -1,0 +1,11 @@
+A : I'm so stressed right now. -1
+B : Why? Is there something wrong? 0
+A : I'm so busy at work. I'm forgetting about my personal life. -1
+B : I understand. That happened to me too. 0
+A : How do you balance it all out? 0
+B : I just set a strict schedule. Work is work and home is home. 0
+A : It's not that easy. -1
+B : I know. But if you don't do that, you're going to get sick. 0
+A : I think that's my problem. I feel sick all the time. -1
+
+-1 0

@@ -1,0 +1,20 @@
+A : Has Bus 47 come yet? 0
+B : No. I think it's late today. 0
+A : Do you ride this bus every day? 0
+B : Yeah. Do you? 0
+A : Not every day. Only a couple of times a week. 0
+B : Well, I think the bus is late today because of the rain. 0
+A : Oh. Does the weather make a difference? 0
+B : Yes. The bus is usually several minutes late when it rains. 0
+A : Because of bad traffic? 0
+B : Yeah and probably because of car accidents. 0
+A : That makes sense. I must have picked the wrong day to ride the bus. 0
+B : Actually, I think riding the bus on rainy days is better. 1
+A : Why? 0
+B : Then you don't have to drive in bad traffic. Someone is driving for you. 0
+A : You are totally right! I'm going to check the weather from now on. I'm going to take the bus when it rains. 1
+B : Then I'll see you here at the bus stop. 1
+A : Great! It was nice talking with you. 1
+B : Yes, it was. I think our bus is coming now. 0
+
+1 1

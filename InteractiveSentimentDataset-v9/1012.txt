@@ -1,0 +1,12 @@
+A : Wake up, it's time for school. 0
+B : I'm so tired. Let me sleep for five more minutes. -1
+A : You have to get up and get ready for school. 0
+B : I know, but just five more minutes. -1
+A : I can't let you go back to sleep, because you won't wake back up. -1
+B : I promise I'll wake up, in five minutes. 0
+A : You still need to eat breakfast, take a shower, and get dressed. 0
+B : I realize that, and I can do all that when I wake up in five minutes. 0
+A : I don't want you to be late for school today. -1
+B : Fine. -1
+
+-1 -1

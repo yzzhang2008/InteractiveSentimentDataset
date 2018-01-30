@@ -1,0 +1,18 @@
+A : Hey Billy. Do you want to come over after school? 0
+B : Hey Mark. No. I have to finish my chores. I didn't do them all week, so now I have to do them all today. -1
+A : What do you have to do? 0
+B : Rake the yard and clean my room. 0
+A : Is that going to take a long time? 0
+B : Have you seen my room? It looks like a tornado went through it. 0
+A : Why didn't you clean it before? 0
+B : I hate cleaning. Do you have chores? -1
+A : Yeah, but I try to finish them as soon as possible. 0
+B : You're smart! Now, I have to spend Friday afternoon doing chores. 1
+A : That's too bad. I got a new video game I wanted to show you. -1
+B : Do you want to help me with my chores? 0
+A : No way! I'm going to enjoy my Friday afternoon. 0
+B : Well, I have to get to work. -1
+A : Finish your chores earlier next time. 0
+B : I know. I say that every week. 0
+
+0 -1

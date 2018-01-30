@@ -1,0 +1,14 @@
+A : I really need you to do something for me. -1
+B : What's the problem? 0
+A : I can't get into my apartment. -1
+B : How'd you manage that? 0
+A : I don't know. -1
+B : Do you know where your key is? 0
+A : It's inside my apartment. -1
+B : I have a spare key. 1
+A : Will you let me use it to get inside? 0
+B : Sure. Remember to give it back when you're finished. 1
+A : I appreciate this. 1
+B : No problem. Try not to lock yourself out again. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Hello, this is Betty. 0
+B : Hi, Betty. Larry here. How many smoke detectors are in your apartment? 0
+A : Actually, I have two. 0
+B : Are the batteries fresh? 0
+A : Both batteries are good. 1
+B : Great. I need to come by and check them myself. 1
+A : No problem, when are you coming by? 1
+B : Thursday at noon. I'll let myself in if you're not there. 0
+A : Okay, remember to lock my door when you leave. 1
+B : I'll be in and out of there in just a few minutes. 1
+
+1 1

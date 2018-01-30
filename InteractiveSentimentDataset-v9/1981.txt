@@ -1,0 +1,12 @@
+A : Can you help me figure out where I should go first to check in at this airport? 0
+B : If you already have your ticket, we can take your bags here at the curbside check-in. 0
+A : How do I know what gate to go to? 0
+B : There are arrivals and departures listed on the screens inside. 0
+A : Is there someplace where I can find out what I can carry in my baggage? 0
+B : There are signs posted near the baggage check area to help you know what the rules are. 0
+A : Can my friend go inside with me? 0
+B : Your friend can go with you to the ticket counter but not past the security check. 0
+A : When I return, will this curbside area be a good place to get picked up? 0
+B : This area is only for departures. The bottom level is for arrivals. 0
+
+0 0

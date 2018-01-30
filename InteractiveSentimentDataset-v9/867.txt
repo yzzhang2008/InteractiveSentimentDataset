@@ -1,0 +1,14 @@
+A : Where are you going? 0
+B : I have to walk the dog. -1
+A : What kind of dog do you have? 0
+B : I have a little poodle. 1
+A : Poodles bark a lot. -1
+B : They sure do. 0
+A : They bark at everything. -1
+B : They never shut up. -1
+A : Why did you get a poodle? 0
+B : It's my mom's dog. 0
+A : So she likes poodles. 0
+B : She says they're good watchdogs. -1
+
+0 -1

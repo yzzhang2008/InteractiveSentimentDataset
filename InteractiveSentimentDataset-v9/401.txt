@@ -1,0 +1,12 @@
+A : Excuse me, I got some troubles in putting my money into ATM machine. Can you give me a favor? -1
+B : Alright Ma'am, may I see it? Well, this machine is okay. 1
+A : Something wrong with my card?! -1
+B : Let me check it first. Your card is also ok, Have you inserted the card correctly? 1
+A : Of course. I put some money in, but this machine doesn't process it. -1
+B : How do you put the money in? 0
+A : I put all of the money in at once. 0
+B : Alright. You may not put mixed banknotes in the machine. You must put your money in order and according to its respective redomination. 0
+A : Oh I see. So I'll try now. Thanks for your help. 1
+B : Likewise Ma'am. 1
+
+1 1

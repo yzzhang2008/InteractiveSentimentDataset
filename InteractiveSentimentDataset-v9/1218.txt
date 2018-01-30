@@ -1,0 +1,14 @@
+A : I'm a good card player. 1
+B : Why is that? 0
+A : Because I watch the other players. 0
+B : What do you mean? 0
+A : People will tell you if they have a good hand. 0
+B : How do they do that? 0
+A : For example, a friend of mine licks his lips. 0
+B : When he licks his lips, you know he has a good hand? 0
+A : I know he has a good hand, so I don't bet. 0
+B : He never wins your money? 0
+A : Nope, and it drives him crazy. -1
+B : He knows you can't read his mind. Maybe he thinks you're cheating. 0
+
+0 0

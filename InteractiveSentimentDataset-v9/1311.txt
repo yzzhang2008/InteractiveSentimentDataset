@@ -1,0 +1,12 @@
+A : I want to get a snack at the cafeteria. 0
+B : What are you going to buy? 0
+A : I may just get some chips. 0
+B : I'm probably going to buy something too. 0
+A : What do you want to get? 0
+B : I want some sort of candy. 1
+A : What kind do you want? 0
+B : I want some chocolate. 1
+A : What kind of chocolate? 0
+B : I'm going to get a Snickers or a Kit Kat. 0
+
+0 1

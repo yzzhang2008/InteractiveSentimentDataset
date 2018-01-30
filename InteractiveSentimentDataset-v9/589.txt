@@ -1,0 +1,14 @@
+A : How's it going? 0
+B : Good. How about you? 1
+A : Not bad, thanks for asking. 1
+B : Have you been on the bus for a while? 0
+A : Only about fifteen minutes. 1
+B : Do you ride this bus often? 0
+A : Not really, I usually drive. -1
+B : You have a car? 0
+A : Yes, I do. 1
+B : So why aren't you driving it? -1
+A : Once our President lowers gas prices, I'll be driving again. 0
+B : That's smart thinking. 1
+
+1 1

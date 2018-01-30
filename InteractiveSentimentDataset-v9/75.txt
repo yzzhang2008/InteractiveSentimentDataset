@@ -1,0 +1,10 @@
+A : I'd like to return this radio. 0
+B : All right. Do you have the receipt? 1
+A : Here it is. 0
+B : May I ask why you're returning the radio? 0
+A : It does not work very well. -1
+B : Would you like to exchange it? 0
+A : No. I'd just like a refund. -1
+B : Certainly. This will take only a few seconds. 1
+
+-1 1

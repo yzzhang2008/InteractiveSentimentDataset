@@ -1,0 +1,12 @@
+A : What did Sam say? 0
+B : I'm getting laid off. -1
+A : What happened? 0
+B : He said the company is restructuring and they don't need my position anymore. -1
+A : Wow! I can't believe it! -1
+B : I know. I just bought a house. -1
+A : That is awful! What are you going to do? -1
+B : They offered me a severance package. -1
+A : Oh no! Sam wants to see me in his office. -1
+B : Good luck, A. 0
+
+-1 -1

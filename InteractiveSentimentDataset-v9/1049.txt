@@ -1,0 +1,9 @@
+A : This job is going nowhere. -1
+B : What do you want to do? 0
+A : I need to expand my contacts and meet new people. 0
+B : I think more companies are hiring now. 0
+A : What's the best way to network? 0
+B : Volunteer at organizations and attend the company events. You'll meet lots of people in the same industry. 0
+A : Good idea! 1
+
+1 0

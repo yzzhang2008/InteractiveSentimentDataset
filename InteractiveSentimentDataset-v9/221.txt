@@ -1,0 +1,14 @@
+B : What's going on? 0
+A : Things are fine with me. What's going on with you? 1
+B : Would you help me? 1
+A : Help you with what? 0
+B : You do know I'm getting ready to move, right? 0
+A : I remember you telling me. 1
+B : Do you mind helping me move in? 0
+A : I can help you with that. 1
+B : Is this Saturday okay for you? 0
+A : I'm free this Saturday. 1
+B : Can you come help me at 10:00? 0
+A : That's perfect. I will see you on Saturday. 1
+
+1 1

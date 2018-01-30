@@ -1,0 +1,12 @@
+A : Did you get a chance to speak with the sellers about my counter-offer? 0
+B : Yes, and I think I have good news for you. 1
+A : Did they accept the counter-offer? 0
+B : Yes, they accepted your counter-offer, but they want you to pay for the home inspection. 1
+A : How much will that cost? 0
+B : It will cost you around five hundred to one thousand dollars for a home inspection. 0
+A : Can I choose the home inspector? 0
+B : Yes, you are paying for it, so you get to choose. I would pick the best one. 1
+A : So, when are you going to inform the owners of my acceptance? 0
+B : I will call the owners right now. They will be happy to hear the good news. 1
+
+0 1

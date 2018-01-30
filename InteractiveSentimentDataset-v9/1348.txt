@@ -1,0 +1,9 @@
+A : I am hungry. 0
+B : I am hungry too. 0
+A : What are you going to order? 0
+B : I am going to have a hamburger and French fries. 0
+A : I think I am going to order a turkey sandwich. 0
+B : The food here is delicious. 1
+A : Yes, I love the food here. 1
+
+1 1

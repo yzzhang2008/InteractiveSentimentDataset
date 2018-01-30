@@ -1,0 +1,14 @@
+A : How may I help you? 0
+B : A double cheeseburger sounds good. 1
+A : Everything on it? 0
+B : Yes, please. 1
+A : Would you like fries with that? 0
+B : I would love large curly fries. 1
+A : Would you like anything to drink? 0
+B : Yes, let me have a medium Pepsi. 0
+A : Will that be all? 0
+B : Yeah, that's it. Thank you. 1
+A : Your total comes to $5.48. 0
+B : Here you go. Thank you very much. 1
+
+1 1

@@ -1,0 +1,22 @@
+A : Hi Janice. Why do you look so nervous? 0
+B : Oh, hi Sandy. Bill and I are going out to dinner without the kids. 0
+A : That sounds fun! So, why do you look nervous? 1
+B : We hired a babysitter. This will be our first time leaving the kids with a babysitter. -1
+A : Really? Who did you hire? 0
+B : Our friend's daughter, Natalie. She is 18 years old. 0
+A : Natalie? Carol's daughter? 0
+B : Yes. Do you know her? 0
+A : Yeah. She used to babysit my children a couple of years ago. 0
+B : Did you like her as a babysitter? 0
+A : Yes. She was a very responsible girl. 1
+B : That's great to hear. 1
+A : You can trust her. She babysits for a few people I know. 1
+B : Yeah, I heard she has a lot of babysitting experience. 1
+A : She loves children. She wants to go to medical school and become a pediatric doctor. 1
+B : Wow! She must be a smart girl. 1
+A : She is. She was a straight A student in high school and she has been accepted to many colleges. 1
+B : That's awesome! 1
+A : She's babysitting a lot to save money for college tuition. 1
+B : Now I feel a lot better about hiring her as a babysitter. 1
+
+1 1

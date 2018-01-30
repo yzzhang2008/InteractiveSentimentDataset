@@ -1,0 +1,12 @@
+A : I need to make a plane reservation. 0
+B : That is what I am here for. What is your destination? 0
+A : I will be traveling to Aspen, Colorado. 0
+B : Would you prefer to leave from Los Angeles or Burbank Airport? 0
+A : Burbank Airport would be best for me. 1
+B : You can leave in the morning of afternoon from that airport. Do you have a preference? 0
+A : I can only take a flight that leaves in the afternoon. 0
+B : I can book that for you right now. When you return, would you prefer morning or afternoon? 0
+A : I think that I would like a morning return flight better. 1
+B : I was able to book your flight, and I will print your tickets right now. Have a great trip! 1
+
+1 1

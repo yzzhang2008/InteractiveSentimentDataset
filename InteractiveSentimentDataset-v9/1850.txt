@@ -1,0 +1,8 @@
+A : Do you remember when we were kids? 0
+B : Yes. You were mean to me. -1
+A : No, I wasn't. -1
+B : Yes, you were. You used to take my toys. -1
+A : I did? I'm sorry. -1
+B : That's ok. You're a great brother now. 1
+
+1 1

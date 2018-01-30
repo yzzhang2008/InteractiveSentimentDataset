@@ -1,0 +1,8 @@
+A : B , do you want to come to the mall with me? 0
+B : I'd love to, but I'm broke. -1
+A : So am I, but I like browsing through the music store there. 1
+B : Are you sure you only want to browse? 0
+A : Yeah. I like to listen to new albums there. I don't have money to buy them, but I can go there and listen. You know you don't have to pay for listening. 1
+B : You're such a dog. -1
+
+1 -1

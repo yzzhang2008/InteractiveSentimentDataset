@@ -1,0 +1,13 @@
+A : Oh, what happened to your face, B? It looks like a heat rash. 0
+B : It's a razor burn. I cut myself when I shaved this morning. The burns and cuts are really irritating. -1
+A : I know how you feel. Maybe you shouldn't have grown a long, long beard. -1
+B : Well, I thought it would be fun and would make me look more mature and sophisticated. 1
+A : Yeah, my Mature man! -1
+B : Come on! Any advice? -1
+A : Maybe you could shave in the shower. The steam really helps soften your beard and moustache. 1
+B : Hm, sounds like a good idea. 1
+A : And you should avoid pressing too hard or tugging on your skin while shaving. 0
+B : A good advice. 1
+A : Hm. I would also suggest you try this cream I have. Use it on the affected area. It really helps moisturize your skin and lessen irritations. 1
+
+1 1

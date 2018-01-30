@@ -1,0 +1,12 @@
+A : I enjoyed talking to you. 1
+B : I enjoyed talking to you too. 1
+A : We should hang out some time. 0
+B : I think that would be nice. 1
+A : Is there anything you would like to do next time? 0
+B : Do you want to go out to eat? 0
+A : I'd like that. 0
+B : So I'll see you next time. 1
+A : I'm going to call you soon. 1
+B : I'll talk to you later. 1
+
+1 1

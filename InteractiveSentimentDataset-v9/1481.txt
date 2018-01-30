@@ -1,0 +1,8 @@
+A : Hi, my name is Bill. You must be Karen, our newest client. 0
+B : Yes, I'm Karen. Nice to meet you, Bill. 0
+A : Nice to meet you too. I'm the head of Marketing. 0
+B : I think we will be working closely together. 1
+A : Yes, that's what I hear. Let me know if you have any questions. 1
+B : I will! My first question is Where is the restroom? 1
+
+1 1

@@ -1,0 +1,8 @@
+A : I should have studied harder in college. -1
+B : It's not too late. 0
+A : I can't go back to school at this age. -1
+B : Why not? Lots of people go back to school. 0
+A : I don't remember anything. -1
+B : That's why you go back to school. You get to learn everything over again. 0
+
+-1 0

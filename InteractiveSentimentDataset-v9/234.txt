@@ -1,0 +1,14 @@
+A : Hey, nice to meet you. 1
+B : It's nice to meet you too. 1
+A : When exactly did you move into the house? 0
+B : I finished moving in this last weekend. 0
+A : I didn't realize that the house was bought. 0
+B : Yeah, I saw the house and just fell in love with it. 1
+A : It was impossible to pass up. 1
+B : So, how long have you been living here? 0
+A : Twenty years and counting. 0
+B : That's great to hear. 1
+A : I sure hope that you stay here for that long. 1
+B : I'd be crazy to ever move out. 1
+
+1 1

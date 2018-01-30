@@ -1,0 +1,14 @@
+A : Did you feed the cat? 0
+B : I'll do that in a minute. 0
+A : The cat is meowing. He's hungry. 0
+B : Okay. I'll feed him right now. 0
+A : You shouldn't make him wait. -1
+B : I was doing my homework. 0
+A : The cat doesn't care about your homework. -1
+B : The cat doesn't care about anything. -1
+A : That's the way cats are. 0
+B : All they think about is themselves. -1
+A : Maybe we should get rid of him. -1
+B : Of course not! He's family. -1
+
+-1 -1

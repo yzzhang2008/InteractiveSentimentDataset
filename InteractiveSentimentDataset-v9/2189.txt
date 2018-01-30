@@ -1,0 +1,20 @@
+A : Hey John, what are you doing? 0
+B : Oh, hi Lee. I'm setting up tables and chairs for a family BBQ. 0
+A : Is it a special occasion? 0
+B : Tomorrow is the fourth of July. 0
+A : I know that tomorrow is July 4, but what is so important about it? 0
+B : You don't know. It's our country's Independence Day. 0
+A : What do you mean Independence Day? 0
+B : On July 4, 1776, our country's founders declared independence from the rulers of Great Britain. 1
+A : How did America declare independence? 0
+B : We went to war against Great Britain called the Revolutionary War and won. 1
+A : Wow! I didn't know that. 0
+B : Yeah. So, now the United States celebrates this day every year. 1
+A : How do you celebrate? 0
+B : We usually have a big BBQ party. Then we light fireworks when it gets dark. 1
+A : Oh, those loud and colorful explosions in the sky? 1
+B : Yeah. Would you like to come over and watch them with our family? 1
+A : Sure. Can I bring my children, too? 1
+B : Of course. They will enjoy them. But it is very dangerous, so we have to watch the kids carefully. 1
+
+1 1

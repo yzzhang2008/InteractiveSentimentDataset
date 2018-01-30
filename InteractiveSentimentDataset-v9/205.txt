@@ -1,0 +1,14 @@
+A : I need to talk to you about something. 0
+B : What did you need to talk about? 0
+A : I have some questions about my lease. 0
+B : Like what? 0
+A : Exactly how long is my lease for? 0
+B : Your lease will be up in three years. 0
+A : What will happen if I move out before then? -1
+B : If you move out before then, you will not get your deductible. -1
+A : I don't understand. -1
+B : Because our contract says that you will live here for three years. 0
+A : Okay, I think that I understand. -1
+B : I'm glad you understand. -1
+
+-1 -1

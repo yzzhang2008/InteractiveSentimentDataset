@@ -1,0 +1,12 @@
+A : Could you help me figure out why I am missing my unemployment check for this week? 0
+B : I hope that you remembered to send in your last Continued Claim Form. 0
+A : I am pretty sure that I didn't send that claim form in. -1
+B : You have to send that form in every two weeks so we that we will know what to pay you. 0
+A : Can I mail it in late? 0
+B : If it is not more than fourteen days past its due date, then you may still mail it in. 0
+A : I think that I will mail it in right away when I get it next time, so I won't be late. 0
+B : You can't mail it in early because you don't know, in advance, how much you will be working. 0
+A : Even though I was late turning in my form, will my paycheck be late? 0
+B : Yes, your check will be a little late in getting to you. 0
+
+0 0

@@ -1,0 +1,11 @@
+A : Where is Carol? 0
+B : She's not coming to work today. She's sick. -1
+A : Again? -1
+B : Yeah. She called in sick a few minutes ago. -1
+A : That's strange. -1
+B : What's strange? 0
+A : I saw her get into a taxi this morning. She was carrying luggage. 0
+B : Do you think she was going on a trip? 0
+A : It looked like it. Doesn't she always call in sick on Fridays? -1
+
+-1 -1

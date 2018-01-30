@@ -1,0 +1,15 @@
+A : How's your diet going? 0
+B : Not well. -1
+A : What's wrong? 0
+B : I can't eat sugar but, I love things with sugar. -1
+A : So, you're on the no-sugar diet? 0
+B : Yeah. It's torture. -1
+A : I tried that once. It was hard. -1
+B : How did you lose weight last year? 0
+A : I did the no-fat diet and exercise. 0
+B : What is a no-fat diet? 0
+A : You can't eat things like fried foods, butter, or ice cream. -1
+B : That sounds worse than the no-sugar diet. -1
+A : It is worse. -1
+
+-1 -1

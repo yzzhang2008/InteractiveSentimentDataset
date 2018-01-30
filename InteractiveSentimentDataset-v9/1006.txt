@@ -1,0 +1,10 @@
+A : Have you washed any clothes yet? 0
+B : No, I've only washed my whites. 0
+A : When you wash your dark clothes, can you put some of mine in? 0
+B : Sure. Is there any extra care that I should take with your clothes? 0
+A : Just make sure you keep it on the gentle cycle. 0
+B : How many clothes of yours do you want me to wash? 0
+A : There isn't a lot, why, do you have a large load to wash? 0
+B : It's really only a small load. 0
+
+0 0

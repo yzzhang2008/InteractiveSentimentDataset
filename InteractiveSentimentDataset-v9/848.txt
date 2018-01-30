@@ -1,0 +1,14 @@
+A : Why are you arresting me? -1
+B : There is a warrant out for your arrest. 0
+A : What kind of warrant? 0
+B : You have a bench warrant. 0
+A : What is that? 0
+B : Have you missed a court date? 0
+A : I never went to court. -1
+B : I can't help you. -1
+A : This is unfair. -1
+B : A lot of things aren't fair. That's life. -1
+A : I have rights, don't I? -1
+B : You have the right to an attorney. -1
+
+-1 -1

@@ -1,0 +1,12 @@
+A : Did you see the robbery? 0
+B : I sure did. 0
+A : Did you see everything? 0
+B : I was in the bank at the time. 0
+A : What exactly did you see? 0
+B : I saw the guy come in with a gun. 0
+A : Did you get a good look at his face? 0
+B : He was wearing a mask. 0
+A : Was anyone else with him? 0
+B : He came in alone. 0
+
+0 0

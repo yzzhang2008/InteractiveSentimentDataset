@@ -1,0 +1,14 @@
+B : Have you already taken the written test? 0
+A : Not yet. 0
+B : You really need to study for it. 0
+A : I already know. I have been studying. 0
+B : You should probably go and take it then. 0
+A : I'm not sure, but does it cost anything to take it? 0
+B : No, because you applied for your permit and you paid already. 0
+A : Will the test be on everything in the manual? 0
+B : It doesn't cover everything. 0
+A : When you took the test, did you pass it the first time? 0
+B : No, I didn't pass it. 0
+A : Hopefully, I won't fail the test. 0
+
+0 0

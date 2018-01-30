@@ -1,0 +1,14 @@
+A : What's the weather like? 0
+B : I don't know. I just woke up. 0
+A : Why don't you look outside? -1
+B : Okay. It looks like rain. 0
+A : Why do you say that? 0
+B : The sky is gray. 0
+A : Is it raining right now? 0
+B : No. 0
+A : How do you know? 0
+B : The street isn't wet. 0
+A : I have to go shopping today. 0
+B : You'd better take an umbrella. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : Let's go for a ride. 0
+B : Where are we going? 0
+A : Into the mountains. 0
+B : That sounds nice. 1
+A : I want to show you my new car. 1
+B : You bought a new car? 0
+A : Yes. I bought a Cadillac. 1
+B : A luxury car. 1
+A : Luxury plus speed. 1
+B : What are we waiting for? 1
+A : Let me get the keys. 1
+B : Let me get my camera. 1
+
+1 1

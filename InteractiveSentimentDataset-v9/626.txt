@@ -1,0 +1,12 @@
+A : Thank you for letting me test drive the car. 1
+B : So do you think that you would like to purchase this car? 0
+A : You know, I am not interested in purchasing the car right now. -1
+B : What's the problem? We can at least sit down and maybe work out a deal. 0
+A : Actually, I have several other cars to look at before I make my decision. 0
+B : What didn't you like about the car? -1
+A : It is a combination of things, but I appreciate your time. 1
+B : I have some other cars you might want to look at. 0
+A : Again, I appreciate your time but I will not be purchasing this car. -1
+B : Give me a call if you change your mind. 0
+
+-1 -1

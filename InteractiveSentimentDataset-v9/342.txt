@@ -1,0 +1,14 @@
+A : I'm going to go try these on in the dressing room. 0
+B : What clothes did you find? 0
+A : I'm just trying on a pair of jeans and a shirt. 1
+B : Go try them on. 1
+A : Alright, how do I look? 0
+B : You look great in that shirt. 1
+A : What do you think of these jeans? 0
+B : I don't like how those look. -1
+A : I really don't think they look good. -1
+B : That shirt looks great though. 1
+A : I guess I'm just going to buy the shirt. 1
+B : That would be wise. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : Did you make it to school today? 0
+B : I always do. Did you go to school today? 0
+A : No, I didn't. 0
+B : You should have, but have you seen any movies lately? 0
+A : That was an odd change of subject. 0
+B : Maybe it was, but answer the question. 0
+A : No, not recently. 0
+B : I want to go to see a movie this weekend. 0
+A : What's stopping you then? 0
+B : I don't want to go alone. -1
+A : So, will you be at school tomorrow? 0
+B : No, I want to go to the movies instead. 0
+
+0 0

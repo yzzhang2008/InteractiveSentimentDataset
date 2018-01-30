@@ -1,0 +1,14 @@
+A : What happened to your car? 0
+B : I got a dent in the parking lot. -1
+A : How did you get it? 0
+B : I don't know. Maybe it was from a shopping cart. -1
+A : Those shopping carts are dangerous. -1
+B : Especially the metal ones. -1
+A : I don't park at a store that uses metal shopping carts. 0
+B : That's a good idea, but there was a good sale at this store. 1
+A : Did you save any money on the sale? 0
+B : Yes, I did. I saved about $50. 1
+A : That's great. 1
+B : Yes, except this dent will cost about $150. -1
+
+0 -1

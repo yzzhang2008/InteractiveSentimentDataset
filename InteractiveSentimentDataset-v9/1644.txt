@@ -1,0 +1,17 @@
+A : Hi B . Did you hear about the spelling bee at school? 0
+B : Hi A . Yes. Actually, my daughter, Sylvia, is in the competition. 1
+A : How exciting! I wish I could go watch it. 1
+B : You should. It's a lot of fun, but also very stressful. 1
+A : I know. I won the school spelling bee when I was in high school. 1
+B : You did? I didn't know that. -1
+A : I was undefeated until I graduated from high school. 1
+B : Wow! That's amazing. Is that why you became an English teacher? 1
+A : Well, that's part of the reason. I like words. I like reading and writing. 1
+B : You should come with us tonight. 0
+A : I would love to. What time does it start? 1
+B : 7 pm. But we will have to leave around 6:30. Sylvia needs to be there early. 0
+A : Ok. I'll be ready at 6:30. I'm so excited. I hope Sylvia wins. 1
+B : We do too. Do you have any advice for her? 1
+A : Just stay focused and concentrate on each word. 0
+
+1 1

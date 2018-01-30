@@ -1,0 +1,14 @@
+A : My girlfriend's mom got mad at me at the dinner table. -1
+B : Why was that? 0
+A : I sprinkled salt and pepper on the food before I tasted it. 0
+B : What's the matter with that? 0
+A : Her mom is a great cook. 0
+B : So, a little salt and pepper never hurt anything. 1
+A : It hurt her feelings. -1
+B : Oh. 0
+A : I apologized to her, but I could tell she was still upset. -1
+B : Maybe you shouldn't eat there again. 0
+A : I'm sure everything will be okay in a day or two. 1
+B : It's your girlfriend's fault. She should have warned you. -1
+
+0 -1

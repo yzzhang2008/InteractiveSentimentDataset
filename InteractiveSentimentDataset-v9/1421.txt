@@ -1,0 +1,8 @@
+A : Have you been working out? 0
+B : Yeah, as a matter of fact, I've been going to the gym for half a year now! 1
+A : I can tell. You look really buff! And no more beer belly! Have you been lifting weights? 1
+B : That and I do an hour of aerobics every other day! I tell you, it's addicting! I feel like a new man! 1
+A : Well, you look like a million bucks! 1
+B : Thanks. 1
+
+1 1

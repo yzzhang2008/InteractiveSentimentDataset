@@ -1,0 +1,8 @@
+A : Honey, close all of the windows and lock the doors. 0
+B : What's going on? 0
+A : Someone escaped from prison. -1
+B : Is he dangerous? 0
+A : The police say he is armed and dangerous. -1
+B : I'm scared. -1
+
+-1 -1

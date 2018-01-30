@@ -1,0 +1,14 @@
+A : I am really interested in buying this television. 1
+B : That's great! 1
+A : How much are you selling it for? 0
+B : This tv is $2500. 0
+A : You can't be serious. 0
+B : That's how much this tv costs. 0
+A : That's too expensive for me. -1
+B : This television is of very high quality. 1
+A : You can't go down on the price. -1
+B : By how much? 0
+A : I'll buy it for $2000. 0
+B : I'm sorry, but the price is final. -1
+
+-1 -1

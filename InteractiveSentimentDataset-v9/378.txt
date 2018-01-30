@@ -1,0 +1,12 @@
+A : Good morning boy! I'm sorry to stop you, but you're in the wrong way. This is one way traffic. -1
+B : Oh I'm sorry Sir, but I'm in a hurry and I don't realize it. -1
+A : Don't you see the traffic sign? Well, can you show me your document, please? -1
+B : I'm really sorry, in fact I haven’t had driving license yet. -1
+A : Well, you made two mistakes then! I should give you the traffic ticket. Please provide your driving license and learn about traffic sign! -1
+B : Sure, I will. Could you tell me how I can get it? 0
+A : How old are you now? 0
+B : I'm 15 years old. 0
+A : Oh my dear! You are still too young to drive on the big road. You can not have driving license until you're 16 years of age. But I wonder why your parents allow you to drive a car? It's really dangerous not only for yourself, but also for other riders. Please wait till 16 years old and don't take any risks! -1
+B : Alright Sir, please I do apologize. -1
+
+-1 -1

@@ -1,0 +1,12 @@
+A : I need to purchase some business cards. 0
+B : No problem. How many are you thinking about? 1
+A : I think 2,000 would be fine. 1
+B : If you'll just fill out this form, please. 0
+A : I want the new cards to be exactly like this card. 1
+B : We can do that very easily. 1
+A : I'm done. Here's the form and my old card. 1
+B : Great. Your order will take only one week. 1
+A : You know, I think it would be better if I could pick it up in three days. 1
+B : We can do that. It'll just cost you extra. 1
+
+1 1

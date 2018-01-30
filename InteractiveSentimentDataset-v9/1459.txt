@@ -1,0 +1,21 @@
+A : Mary, I am so angry! -1
+B : What happened, Susan? 0
+A : Our hotel lost our reservations! -1
+B : How did that happen? 0
+A : I don't know. They didn't have a reasonable explanation. -1
+B : Well, can't you just make another reservation? 0
+A : No. They said there are no more rooms available. -1
+B : Oh no! That's terrible. -1
+A : We are attending my niece's wedding this weekend and everyone is staying at that hotel. -1
+B : What about another hotel in that area. 0
+A : There's going to be a big doctor's conference this weekend. There are no rooms available at any of the nearby hotels. -1
+B : Did the hotel apologize? -1
+A : Yes and they offered us a discount on our next visit. 0
+B : Did you accept it? 0
+A : No. I was so mad. I told them that I would never stay at a place that lost our original reservations. -1
+B : What did they say? 0
+A : They just kept apologizing. -1
+B : What are you going to do? 0
+A : I don't know. My niece is very upset. Our daughter is the photographer. -1
+
+-1 0

@@ -1,0 +1,12 @@
+A : This city is much larger than the one I live in, and I wonder if there is anything special that I need to keep in mind. 0
+B : Crime can happen anywhere, but it is a little worse here because of the poverty. -1
+A : Should I be vigilant about anything in particular? -1
+B : The train stations, airports, and tourist sites are favorite spots for pickpockets. 0
+A : When I see children on the street begging, what amount should I give them? 0
+B : I wouldn't suggest giving money to them. Most of them are put out there by adults who then take their money. -1
+A : Can I eat or drink anything I want to? 0
+B : Do not use tap water at all, not even to brush your teeth. Only eat fruit that has been peeled. -1
+A : Can I walk around and see the sights at night? 0
+B : I would be sure to travel in a group at night. Stay in well-lit areas. 0
+
+-1 -1

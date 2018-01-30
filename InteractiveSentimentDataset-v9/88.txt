@@ -1,0 +1,10 @@
+A : Can I exchange this DVD player? 0
+B : Let me see your receipt, please. 0
+A : I always keep my receipt. 1
+B : Could you tell me what the problem is? 0
+A : When I hit Play, nothing happens. -1
+B : Yours is the first one that's been returned. 0
+A : Nothing I tried would make it work. -1
+B : You might want to try playing this one before you leave. 0
+
+-1 0

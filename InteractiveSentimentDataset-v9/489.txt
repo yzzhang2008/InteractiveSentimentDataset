@@ -1,0 +1,16 @@
+A : Hey Carol, have you seen Tom lately? 0
+B : Didn't you hear the news? 0
+A : No. What happened? 0
+B : He got into a car accident last week. -1
+A : Is he ok? 0
+B : No. He's in the hospital. He broke both of his legs and ribs. He also has a head injury. -1
+A : That's terrible. I had the flu, so I haven't seen or talked to anyone lately. How's Judy? -1
+B : Judy has come home a couple of times to get a change of clothes. 0
+A : She must be devastated. -1
+B : She is a very worried wife. -1
+A : Have you seen him? 0
+B : Bob and I visited him in the hospital a couple of days ago. He is on so much medication. -1
+A : Wow! That's serious. -1
+B : Yeah. -1
+
+-1 -1

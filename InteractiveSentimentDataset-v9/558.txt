@@ -1,0 +1,17 @@
+A : Hello? 0
+B : Mike. This is Dan. Do you have a lantern I can borrow? 0
+A : I think so. I have to check. 0
+B : Our lantern is broken. -1
+A : What do you need a lantern for? 0
+B : We are going camping this weekend. 0
+A : We went camping last month. 0
+B : How was the weather last month? 0
+A : It was great! Sunny all weekend. 1
+B : I think it is going to rain this weekend. 0
+A : That's not good. Why are you going camping if it's going to rain? -1
+B : The kids still want to go. 0
+A : I'm sure you will still have fun. 1
+B : I hope so. We're going to pack some extra clothes. 0
+A : Let me check on that lantern. 0
+
+1 0

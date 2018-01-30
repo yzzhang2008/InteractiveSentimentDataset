@@ -1,0 +1,12 @@
+A : The ocean is so big. 1
+B : You can't see the end of it. 1
+A : It goes on and on forever. 1
+B : And it's deep, too. 1
+A : I think it's five miles deep. 0
+B : Are there fish at the bottom? 0
+A : There are fish at the top and the bottom. 0
+B : Are there more fish or more people? 0
+A : I think there are more fish. 0
+B : I hope so. I love to eat fish. 1
+
+1 1

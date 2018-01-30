@@ -1,0 +1,14 @@
+A : Were you at the scene during the robbery? 0
+B : Yes, I was, Officer. 0
+A : Were you able to see a lot? 0
+B : I was there as it happened. 0
+A : What happened? 0
+B : The robber came in with a gun. 0
+A : Could you see his face? 0
+B : Sorry, I did not see. -1
+A : Was he with someone else? 0
+B : He was alone. 0
+A : Would you be willing to come down to the station for further questioning? 0
+B : I would be happy to. 1
+
+0 1

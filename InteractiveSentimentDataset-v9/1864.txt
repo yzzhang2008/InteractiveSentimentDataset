@@ -1,0 +1,9 @@
+A : My car wouldn't start this morning. -1
+B : I used to have a problem like that. Did you check the battery? 0
+A : Yeah. It was dead again. I had to find someone to jump it for me. It's driving me crazy. -1
+B : Well, maybe you should buy a new battery. 0
+A : But I just bought this one three months ago. It's still new! -1
+B : Maybe they were dishonest and gave you an old one. 0
+A : Well, I don't know. Whatever it is, I'm going to return it. It's ridiculous! -1
+
+-1 0

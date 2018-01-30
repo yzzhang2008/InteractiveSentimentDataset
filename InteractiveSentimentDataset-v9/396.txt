@@ -1,0 +1,15 @@
+A : Good morning Ma'am, how may I help you? 1
+B : I want to open an account. 1
+A : Alright Ma'am, what account would you like to have? 0
+B : Savings account, please? 0
+A : Would you please fill out this application first? 0
+B : Sure. Here it is. 1
+A : May I have your copy of ID, please? 1
+B : Sure. How much is the initial deposit? 0
+A : Rp. 100.000 Ma'am. And you will also get an ATM card. 0
+B : Alright, I will put Rp. 500.000 in my account. 0
+A : Thank you Ma'am, Could you please sign on this line? 1
+B : Sure. Thank you. 1
+A : You're welcome. Thank you for banking with us, Ma'am. 1
+
+1 1

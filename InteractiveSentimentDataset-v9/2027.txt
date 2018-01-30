@@ -1,0 +1,12 @@
+A : This city is certainly very different from what I am used to at home. 1
+B : This is an amazing city. It is quite ancient with a diverse past! 1
+A : What an amazing temple! 1
+B : See how everyone is removing their shoes before entering? We need to do the same. 0
+A : The people in this room are very quiet. 0
+B : This is an area of peace and tranquility. It is expected that people keep their voices down out of respect for those who are meditating. 1
+A : The women's scarves are quite beautiful. 1
+B : Women of this faith must have their heads covered to enter the temple. 1
+A : Last night at dinner, I noticed that everyone was using bread to eat with instead of silverware. 0
+B : Yes, eating your curry or vegetables with your bread is a custom in this country. 0
+
+1 1

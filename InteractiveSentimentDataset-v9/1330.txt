@@ -1,0 +1,12 @@
+A : I forgot my wallet. Could I borrow some money? 0
+B : You always forget your wallet. -1
+A : I have a bad memory. -1
+B : How much do you need? 0
+A : $20. 0
+B : Now, you owe me $40. 0
+A : Did I borrow $20 before? 0
+B : Yes. You haven't paid me back yet. -1
+A : I told you that I have a bad memory. -1
+B : I hope you don't forget to pay me back. -1
+
+-1 -1

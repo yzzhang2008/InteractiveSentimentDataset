@@ -1,0 +1,14 @@
+A : Hello? This is Jimmy in 309. 0
+B : Hi, Jimmy. This is Nicole. What's going on? 0
+A : Maybe you can get me out of a small jam. 0
+B : Well, I can certainly try. 1
+A : Somehow, I managed to lose my mailbox key. -1
+B : Believe me, losing a mailbox key is a lot better than losing your car keys. 0
+A : I've got a duplicate somewhere, but I haven't been able to find it either. -1
+B : If you absolutely can't wait, come over here and borrow a key. 0
+A : No, I doubt that there's anything important in my mailbox, if there's anything at all. 0
+B : Well, if there's no emergency, I can make you two more keys on Wednesday. 0
+A : Not a problem. All my fan mail can wait till then. 1
+B : Okay, see you Wednesday. Have $4 for me, and I'll give you a receipt. 0
+
+1 0

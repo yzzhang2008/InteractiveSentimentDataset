@@ -1,0 +1,9 @@
+A : I had fun talking to you. 1
+B : It was really nice talking to you also. 1
+A : I think we should really do something sometime. 0
+B : That should be loads of fun. 1
+A : What do you want to do next time? 0
+B : Would you like to go to dinner or something? 0
+A : Yeah, let's do that. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : I want to go on a cruise ship. 1
+B : That sounds like fun. Where do you want to go? 1
+A : I want to cruise to Hawaii. 1
+B : That should be a nice trip. Lots of fun, and lots of food. 1
+A : I have no idea how much it will cost. 0
+B : I think it depends on the season and on your cabin. 0
+A : Well, of course I want to go when the weather is nice. 1
+B : Yes, you don't want to travel in winter storms. 0
+A : And I want to get a big cabin with a view. 1
+B : Are you going to travel alone? 0
+A : No, my sister and I will travel together. 1
+B : Well, you should go online and try to find a good deal. 1
+
+1 1

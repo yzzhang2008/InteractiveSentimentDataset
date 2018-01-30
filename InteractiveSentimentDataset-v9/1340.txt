@@ -1,0 +1,8 @@
+A : I just received a letter from one of my old high school buddies. 0
+B : That's nice! 1
+A : Well, actually I haven't heard from him in ages. 0
+B : To be frank with you, I've been out of touch with most of my old friends. Only one or two still keep me posted about what they are doing. 0
+A : I know. It's really hard to maintain contact when people move around so much. 0
+B : That's right. People just drift apart! But you're lucky to be back in touch with your buddy again. 1
+
+0 1

@@ -1,0 +1,9 @@
+A : I am so busy! -1
+B : What's going on? 0
+A : I have an important report due tomorrow. 0
+B : Are you almost done? 0
+A : No and I'm starting to feel sick. -1
+B : You better get some rest before you get sicker. 0
+A : I don't have time to rest. -1
+
+-1 0

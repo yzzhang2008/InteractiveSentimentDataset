@@ -1,0 +1,12 @@
+A : I'm new to town. 0
+B : Oh, really? Are you finding everything all right? 0
+A : I need some help. 0
+B : What do you need help with? 0
+A : I would like to find a nice restaurant. 1
+B : What kind of food would you like to eat? 0
+A : Chinese food sounds good to me. 1
+B : You can always go to this Chinese restaurant just a few blocks away. 0
+A : Where exactly is it? 0
+B : If you go three blocks to the east, you can find it. 0
+
+1 0

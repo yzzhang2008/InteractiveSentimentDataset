@@ -1,0 +1,14 @@
+A : How are you? 0
+B : Good, thank you. 1
+A : What can I help you with? 0
+B : Can I ask you a few questions about the apartment? 0
+A : Ask whatever you'd like. 1
+B : I want to know if the location of the apartment is nice. 0
+A : I honestly believe that you will love the location. 1
+B : What kinds of places are around the apartment? 0
+A : Surrounding the apartment are great places to eat and stores to shop at. 1
+B : Oh, really? 0
+A : I'm sure that the location will be to your liking. 1
+B : I hope that you're right. 1
+
+1 1

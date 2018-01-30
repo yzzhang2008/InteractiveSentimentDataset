@@ -1,0 +1,11 @@
+A : Hi ! I would be happy to answer any questions you might have. 1
+B : Everyone here seems very friendly. 1
+A : Yes, many of us have lived here a long time and know each other well. 1
+B : How long have you lived here? 0
+A : I have lived in this building for ten years. 0
+B : When I get settled, would you consider giving me a list of places you use, like cleaners and grocery stores? 1
+A : I can help you with that. Would you like to go to the local farmer's market with me this morning? 1
+B : That would be great! 1
+A : Fine. I'll knock on your door around ten o'clock then. 1
+
+1 1

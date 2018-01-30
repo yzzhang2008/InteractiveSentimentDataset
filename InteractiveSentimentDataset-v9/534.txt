@@ -1,0 +1,14 @@
+A : How may I help you? 0
+B : I'm having a problem. -1
+A : What is it? 0
+B : I apparently owe some fees, but I never got the bank statement. -1
+A : I do apologize for that. -1
+B : My fees went up, but I didn't even know I had fees to pay. -1
+A : I see your problem. 0
+B : What are you going to do about it? 0
+A : I will cancel the fees you owe. 0
+B : I don't have to pay any fees? 0
+A : You'll only have to pay the initial fee. 0
+B : That's fine. I appreciate your help. 1
+
+0 1

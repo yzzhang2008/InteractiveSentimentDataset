@@ -1,0 +1,14 @@
+A : (In the bedroom. B is making the bed for sleep.) B, you know what? Connie's going to get a face lift. 0
+B : Oh? 0
+A : She even said she'd get the rest done, too! -1
+B : The rest? 0
+A : Yeah! B, if my breasts were saggy, would you still love me? 0
+B : What? 0
+A : Answer my question, please! -1
+B : What a silly question! Love has nothing to do with breasts being large or small, or being firm or saggy. -1
+A : I'm just asking. You don't have to be impatient. -1
+B : And Connie. She's crazy! No one can sustain youth forever. -1
+A : Yeah. That's what I told her. (A goes to the bathroom and locks herself in it. She looks into the mirror and starts murmuring to herself.) Oh, I think I'm getting old. The forehead is wrinkled, the eyes are puffy, the sacks under the eyes are dark, and the skin is no longer as resilient as it was. Why! Age has set in! Maybe I also need a lift. Maybe, I need a new life! Oh, I really miss the good old days. At that time, my skin really felt so baby smooth! -1
+B : A. what're you murmuring about? It's getting late. You should've been in bed minutes ago.... 0
+
+-1 -1

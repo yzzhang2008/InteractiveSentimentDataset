@@ -1,0 +1,9 @@
+A : Ouch! This tooth is really bugging me. -1
+B : Have you seen the dentist? 0
+A : No, I haven't. Going to the dentist really unnerves me. I try to avoid it like the plague. -1
+B : Come on. Don't be a chicken! It can't be that bad! -1
+A : I'm not a chicken! But I'll do anything to keep myself from getting in the dentist's chair. -1
+B : Even deal with a tooth that's killing you? -1
+A : You bet! -1
+
+-1 -1

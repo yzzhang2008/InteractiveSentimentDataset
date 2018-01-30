@@ -1,0 +1,14 @@
+A : How may I help you? 0
+B : I need to ask you something about my insurance. 0
+A : What's your question? 0
+B : Did you make any changes to my insurance? 0
+A : What kind of changes are you referring to? 0
+B : My premium isn't the same. -1
+A : Is there a problem with your premium? 0
+B : Did you guys raise my premium? 0
+A : Yes, we did go up on the premiums. 0
+B : Why wasn't I told of this change? -1
+A : I apologize, and next time we will make sure to let you know. -1
+B : Fine. -1
+
+-1 -1

@@ -1,0 +1,12 @@
+A : You got another package today. 0
+B : Great! 1
+A : What did you order this time? 0
+B : Books, clothes, and shoes. 0
+A : Wow! That's a lot of stuff. 0
+B : I love to shop online. Shipping is fast and free. 1
+A : But don't you want to try clothes and shoes on before you buy them? 0
+B : I can just return them if I don't like them or they don't fit. 0
+A : That's seems like a waste of time to me. 0
+B : I love looking for deals without leaving home. 1
+
+0 1

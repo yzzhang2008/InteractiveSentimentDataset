@@ -1,0 +1,12 @@
+A : I need to go to the DMV and don't know how to make an appointment with them. -1
+B : First of all you need to figure out if you really need to be there in person. Sometimes you can take care of your business at the Automobile Club or at the DMV website. 0
+A : If I do need to go in, how can I make an appointment? 0
+B : You can either make an appointment by going online or by calling the phone number listed on their website. 0
+A : What if I just show up there? 0
+B : If you have all day to wait and a good book to read, that might work for you. -1
+A : Is the DMV open on Saturdays? 0
+B : Due to state budget cuts, the DMV is no longer open on Saturdays. -1
+A : I think that you have just convinced me to join the Automobile Club! -1
+B : Yes, the Automobile Club takes all the pain out of DMV transactions! 1
+
+-1 0

@@ -1,0 +1,14 @@
+A : I'm starving! It would be truly appreciated if you bought me a burrito. -1
+B : I'm a little short. I don't have enough for you. -1
+A : I'm starving, as I didn't eat yet today. -1
+B : I really don't have enough money. -1
+A : My stomach feels so empty. -1
+B : Well, why don't you ask Bob for some money? I'm hungry too. -1
+A : I'll be getting money on Friday, and I'll get it back to you then. 0
+B : Okay, so on Friday, you can buy yourself something to eat. 0
+A : That's not nice. -1
+B : You can always go home and make something to eat. 0
+A : I can't go home yet, because I have things to do here. -1
+B : Sorry. That's not my fault. -1
+
+-1 -1

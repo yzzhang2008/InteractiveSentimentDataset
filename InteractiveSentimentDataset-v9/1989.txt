@@ -1,0 +1,14 @@
+A : That rain is really coming down out there! -1
+B : Yes, it's kind of crazy weather outside. -1
+A : I get kind of nervous flying in this kind of weather. -1
+B : I don't think anyone feels all that comfortable flying in a storm. -1
+A : Do you think it will be this bad the whole trip? 0
+B : On the weather channel, this storm looked to be a big one. It will probably be with us for a while. 0
+A : I worry about too much ice on the wings. -1
+B : I have to believe that our pilot knows what he is doing and we'll be okay. -1
+A : When do you think the pilot will turn off the Fasten Your Seatbelt sign? 0
+B : He'll turn it off as soon as he knows that we are through the turbulence. 0
+A : Do you think that we are going to crash? -1
+B : Maybe. You just never know. 0
+
+-1 -1

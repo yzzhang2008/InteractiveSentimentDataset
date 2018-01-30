@@ -1,0 +1,8 @@
+A : This hotel is so old. -1
+B : It's not that bad. 0
+A : What do you mean? This place is awful. -1
+B : I have seen worse hotels. Stop complaining. -1
+A : There is a bug in my bed. -1
+B : Ok. This place is pretty bad. -1
+
+-1 -1

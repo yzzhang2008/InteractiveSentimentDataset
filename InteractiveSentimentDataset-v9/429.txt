@@ -1,0 +1,8 @@
+A : Is that a new bag? 0
+B : Yes. I got it yesterday. 0
+A : It's beautiful. Do you like it? 1
+B : It's pretty, but it hurts my shoulder. -1
+A : That's not good. What are you going to do? -1
+B : I think I'm going to return it. 0
+
+-1 -1

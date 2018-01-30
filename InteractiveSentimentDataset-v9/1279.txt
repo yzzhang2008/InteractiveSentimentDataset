@@ -1,0 +1,14 @@
+A : What are we eating for lunch? 0
+B : I have no idea. What about you? 0
+A : I kind of want pizza. 1
+B : I ate pizza the other day. 0
+A : So, what do you feel like eating then? 0
+B : How about some burgers? 0
+A : I already had a burger yesterday. 0
+B : What are we going to do? 0
+A : We can just each get what we want to get. 0
+B : That sounds like a plan. 1
+A : Do you know a place that sells pizza and burgers? 0
+B : I think they sell both at the cafeteria. 0
+
+0 0

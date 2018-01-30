@@ -1,0 +1,8 @@
+A : B, can you do me a favor? Can you help me cut this chicken? 0
+B : At your service. How do you want me to cut it? 0
+A : I would like half of it cut into slices, and the other half diced. 0
+B : OK. Half sliced and the other half diced. 0
+A : Oh, by the way, I want it to be very, very lean. Not even a shred of fat. 0
+B : Got'cha. Cut off the fat. 0
+
+0 0

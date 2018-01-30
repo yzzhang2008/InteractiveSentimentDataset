@@ -1,0 +1,14 @@
+A : Are you planning on voting? 0
+B : Yes. Are you? 0
+A : I will be voting tomorrow. 0
+B : What's your polling place? 0
+A : My polling place is at the park up the street. 0
+B : Oh, yeah? 0
+A : Yes, where is yours? 0
+B : I don't know. 0
+A : How is it you don't know? 0
+B : The location of my polling place never came in the mail. 0
+A : You can always just check online. 0
+B : Let me go do that. 0
+
+0 0

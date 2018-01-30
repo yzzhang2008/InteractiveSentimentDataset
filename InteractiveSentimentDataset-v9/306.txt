@@ -1,0 +1,14 @@
+A : I'm going to be moving out soon. 0
+B : You still have time on your lease. 0
+A : There's no way that I can stay here. -1
+B : That's not going to be all right. -1
+A : I don't understand why. -1
+B : I'm going to have to keep your deposit. -1
+A : Why can't I have it back? -1
+B : Because you're leaving before your lease is over. -1
+A : You have to give it back to me. -1
+B : You're not going to get it. -1
+A : But I'm not able to live here anymore. -1
+B : I can't help you with that. -1
+
+-1 -1

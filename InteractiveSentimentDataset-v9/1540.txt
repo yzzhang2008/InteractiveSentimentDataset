@@ -1,0 +1,9 @@
+A : Let's see a movie tonight. 0
+B : Ok. What should we see? 0
+A : How about a horror movie? 0
+B : I don't like horror movies. They are scary. -1
+A : Do you want see a comedy or a drama? 0
+B : Let's watch a comedy with my favorite actor. 1
+A : Sounds good. I don't care what we watch. 1
+
+1 1

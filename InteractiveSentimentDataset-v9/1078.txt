@@ -1,0 +1,14 @@
+A : Do you think we can go driving right now? 0
+B : Yeah, sure. Let's go. 0
+A : Buckle up. 0
+B : All right. Now what? 0
+A : Now you put the key in the ignition and start the car. 0
+B : Which direction should I take? 0
+A : Make a left on this next street. 0
+B : Tell me how far to go. 0
+A : Keep going until I tell you to stop. 0
+B : Okay, but let me know ahead of time. 0
+A : That's all for today, so park right there. 0
+B : That was great. Thanks for taking me driving. 1
+
+0 1

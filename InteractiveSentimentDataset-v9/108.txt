@@ -1,0 +1,12 @@
+A : Where are your pots and pans? 0
+B : All our pots and pans are right over there. 0
+A : I walked right past it. 0
+B : Perhaps you'd be interested in a store credit card. 1
+A : Thanks, but no thanks. My wallet is full of credit cards. -1
+B : But only our credit card will save you 10 percent on all purchases. 1
+A : That sounds nice. 1
+B : Just take this form, fill it out, and get your instant discount. 1
+A : Not today, thank you. I'm in a bit of a hurry. -1
+B : If you change your mind, I'm right here. 0
+
+0 0

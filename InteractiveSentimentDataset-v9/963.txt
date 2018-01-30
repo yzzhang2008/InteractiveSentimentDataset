@@ -1,0 +1,14 @@
+A : How's it going? 0
+B : Perfect. What did you need? 1
+A : I would like to schedule an appointment to get a haircut. 0
+B : What day are you free? 0
+A : I'd like to come in on Saturday. 0
+B : I'll just see if we have any openings. 0
+A : All right. 0
+B : The only time we have on Saturday is in the morning. 0
+A : I'd like to schedule it for 10:30. 0
+B : That's perfect. 1
+A : I appreciate that. 1
+B : We'll see you then. 1
+
+1 1

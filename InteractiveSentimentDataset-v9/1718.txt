@@ -1,0 +1,10 @@
+A : Why didn't you go to school yesterday? 0
+B : I stayed home because I wasn't feeling well. -1
+A : What was your problem? 0
+B : My stomach was bothering me. -1
+A : Are you feeling any better? 0
+B : I'm still feeling a little sick. -1
+A : I'm going to the store, would you like any Pepto Bismol? 0
+B : That's okay. 0
+
+0 -1

@@ -1,0 +1,16 @@
+A : I wonder if you could help me find something for my daughter. 0
+B : Do you think she'd like a laptop? 0
+A : I think that would be perfect. 1
+B : A Mac is something most people appreciate. 1
+A : In fact, she prefers Macs. How much is one? 1
+B : Our 15-inch Pro will cost you only $2,100. 0
+A : She's going to be so happy. Let me have one. 1
+B : You've made a good decision. How would you like to pay? 1
+A : I'll pay for it with my VISA. 0
+B : It's all yours after you sign here, please. 1
+A : Are there any extras that she needs? 0
+B : This is good to go. If she wants accessories, just visit us again. 1
+A : You've been so helpful. Thank you. 1
+B : Have a nice day, and thank you for shopping here. 1
+
+1 1

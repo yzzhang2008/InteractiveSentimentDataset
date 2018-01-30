@@ -1,0 +1,14 @@
+A : Their wedding was so beautiful. 1
+B : I agree completely. I hope that I have a wedding like that one day. 1
+A : How much do you reckon it cost to pull that wedding off? 0
+B : I think it cost them a lot of money. 0
+A : Do you hope to have a wedding as big as theirs? 0
+B : I don't think so. I want to have a smaller wedding. 0
+A : Not me. 0
+B : Why do you want a bigger wedding? 0
+A : I want to have a large wedding that everyone will remember. 1
+B : You can have a small wedding, and people will still remember it. 1
+A : Whatever flicks your Bic. 0
+B : That is true. 1
+
+1 1

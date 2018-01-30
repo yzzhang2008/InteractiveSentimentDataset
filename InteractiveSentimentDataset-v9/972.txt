@@ -1,0 +1,14 @@
+A : It's taking you forever to do my hair. -1
+B : Give me a minute. 0
+A : You should've been done already. -1
+B : There you go. 1
+A : I don't think that you're done. -1
+B : What's wrong? 0
+A : My hair looks hideous. -1
+B : What's so bad about it? 0
+A : It doesn't look good at all. -1
+B : Sorry about that. -1
+A : I really hope that you didn't expect me to pay you for this. -1
+B : Well, let me talk to my manager, okay? -1
+
+-1 -1

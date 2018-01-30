@@ -1,0 +1,20 @@
+A : Hello? 0
+B : Hi Helen. This is Cathy. I have great news! 1
+A : What is it? 0
+B : I got the job! 1
+A : Congratulations! I knew you would get it. 1
+B : Thanks! I'm so excited. I beat out 4 other applicants. 1
+A : That's great! When is your first day of work? 1
+B : Next Monday. 0
+A : What are you going to do for the next few days? 0
+B : I'm going to go shopping for some new suits. We have to dress nicely in the office. 1
+A : Have you told anyone else yet? 0
+B : No, I wanted to tell you first. You're my best friend. 1
+A : Well, we should celebrate. 1
+B : Ok! What should we do? 1
+A : I'll buy you dinner. 1
+B : You don't have to do that. 0
+A : I know. But you can buy me dinner after you get your first paycheck. 0
+B : That's a deal! 1
+
+1 1

@@ -1,0 +1,14 @@
+A : What’s the matter? 0
+B : I have a severe painful in my tooth. Could you check it, please? -1
+A : Alright. Please lay down. Please open your mouth. 0
+B : Ouch!! ( the patient signals the dentist that it is painful ) -1
+A : Oh,…your gum is swollen. How long have you had this pain? -1
+B : Since yesterday. 0
+A : Did you eat sugary foods? 0
+B : Yes I did. But just little. And I brushed my teeth afterwards. 0
+A : You have a cavity. Brushing teeth will not help much. Because the germ can come into the cavity and can travel into your other organs. -1
+B : Should I have a filling? 0
+A : I think so. But I can’t do it now. I’m going to prescribe you. Please take these medicines three times daily with the meal, and come back again after the medicine is finished. -1
+B : Alright. 0
+
+-1 -1

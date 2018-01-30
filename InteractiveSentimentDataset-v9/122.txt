@@ -1,0 +1,12 @@
+A : You don't often find these batteries on sale. -1
+B : I'm not sure that these batteries are on sale today. -1
+A : But the ad says they're on sale. 0
+B : Yes, batteries are on sale, but not this brand. -1
+A : What do you know? I picked up the wrong brand. -1
+B : Yes, several customers have made that mistake today. -1
+A : Like many ads, it's deliberately confusing. -1
+B : I couldn't agree more. They write ads just to get you into the store. 1
+A : I should know better by now. -1
+B : If you can wait one minute, I'll bring you the batteries that are on sale. 1
+
+-1 1

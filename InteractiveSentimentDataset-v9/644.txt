@@ -1,0 +1,12 @@
+A : I don't really know all that much about the paperwork involved in buying a used car. -1
+B : If you are a member of the Automobile Club, they can help guide you through the process, or just go to the DMV website. 0
+A : What is the big picture of what I will need to take care of? 0
+B : The car has a pink or rainbow Certificate of Title, which both the buyer and seller need to sign. They also both need to fill out the Change of Ownership form. 0
+A : Who pays the fees to transfer the ownership? 0
+B : The buyer must pay all of the fees. 0
+A : Will it be really expensive to transfer the title? 0
+B : The DMV will calculate the fees for you when you submit the paperwork. 0
+A : Where can I turn in my forms? 0
+B : If you are a member of the Automobile Club, you can turn in your forms to them. 0
+
+0 0

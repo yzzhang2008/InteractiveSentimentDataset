@@ -1,0 +1,17 @@
+A : Pacific Bell. May I help you? 0
+B : I'd like to have my phone disconnected. 0
+A : May I ask why? 0
+B : Well, I'm graduated and am moving to California for a new job there. 0
+A : Congratulations! 1
+B : Thanks. 1
+A : All right. May I have your phone number, please? 0
+B : Sure. My phone number is 377-765-8769. 0
+A : And the name on the account, please? 0
+B : My name is B Schaefer. 0
+A : For security purposes, Mr. Schaefer, may I have your date of birth, please? 0
+B : It's June 5, 1978. 0
+A : Thank you. Now, when would you like it to be disconnected? 1
+B : Tomorrow by 5:00 PM. 0
+A : Sure. The telephone will be disconnected at 5:00 PM tomorrow. 0
+
+1 0

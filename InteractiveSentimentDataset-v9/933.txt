@@ -1,0 +1,14 @@
+A : The police need our help finding a robber. 0
+B : How do you know? 0
+A : The TV news is reporting a bank robbery. 0
+B : Do they know what the robber looks like? 0
+A : Yes, he's 6 feet tall, 200 pounds, black hair, and about 30 years old. 0
+B : What race is he? 0
+A : They didn't say. 0
+B : The TV news doesn't tell us the race anymore. -1
+A : Of course not. That would be racist. -1
+B : But how can we identify someone if we don't know their race? -1
+A : Don't ask me. -1
+B : Then they also shouldn't tell us if the robber is male or female, because that is sexist. -1
+
+-1 -1

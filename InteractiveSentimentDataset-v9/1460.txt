@@ -1,0 +1,16 @@
+A : Hi Carol. You look tired today. 0
+B : I am tired. I didn't get any sleep last night. -1
+A : Why? 0
+B : Our neighbor's dog would not stop barking. He barked all night long. -1
+A : That's awful! Did you complain to your neighbor? -1
+B : I knocked on his door, but he didn't answer. I don't think he was home. -1
+A : What did you do all night? 0
+B : I couldn't sleep, so I tried to read a book. But the dog's barking kept distracting me. So, I just watched TV. -1
+A : I would be so angry. You should've called the police. -1
+B : I didn't want to bother the police with a barking dog. -1
+A : I would have called them. What if there was an emergency at your neighbor's house and the dog was trying to alert someone. -1
+B : That's true. I didn't think about that. But this dog usually barks because he's bored. -1
+A : That's annoying. -1
+B : I know! -1
+
+-1 -1

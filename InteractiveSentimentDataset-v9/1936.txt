@@ -1,0 +1,14 @@
+A : I went to Hawaii on vacation. 0
+B : Did you like it? 0
+A : I loved it. I want to live there. 1
+B : What did you like? 0
+A : The island is so green, and the water is so blue. 1
+B : Did you go swimming? 0
+A : I went to the beach every day. 1
+B : How was the weather? 0
+A : It was hot and sunny every day. 0
+B : What did you do at night? 0
+A : At night I went out to eat. The food was delicious. 1
+B : People who live in Hawaii are lucky. 1
+
+1 1

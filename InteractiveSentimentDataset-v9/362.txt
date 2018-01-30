@@ -1,0 +1,12 @@
+A : I'm very hungry. Are you too? -1
+B : Yes I am too. Let's go get something to eat! 1
+A : Look! It's a fast food restaurant overthere! 1
+B : How about eating at vegetarian restaurant? 0
+A : It will take long time to serve, and moreover the food is not so delicious. -1
+B : I know, but the doctor forbids me to eat fast food. -1
+A : Why do you worry about fast food? -1
+B : The doctor told me that it has some effects on our body. -1
+A : Really? Tell me then. 0
+B : Fast food is a major of heart diseases. It has high cholesterol. You will have lack of concentration after eating it, because it can stale your brain cells temporarily. -1
+
+-1 -1

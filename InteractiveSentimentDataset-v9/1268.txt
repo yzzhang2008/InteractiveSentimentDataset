@@ -1,0 +1,8 @@
+A : I really like my work schedule. 1
+B : Do you work flexible hours? 0
+A : Yes. I can choose my own hours. 0
+B : I wish I could work flexible hours. -1
+A : Why don't you? 0
+B : I can't. I'm in Accounting, so I have to work regular business hours. -1
+
+1 -1

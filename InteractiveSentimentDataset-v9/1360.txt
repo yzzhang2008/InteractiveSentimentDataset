@@ -1,0 +1,22 @@
+A : I think I am finally going to get a cell phone. 0
+B : You don't have a cell phone? 0
+A : No. I didn't think it was necessary, but now I think I should get one. 0
+B : What made you decide to get one now? 0
+A : My car broke down in the middle of the road last night and I had to walk to the nearest pay phone to call a friend. It was scary walking alone at night. -1
+B : Yeah, cell phones are very convenient. Do you know what kind you want to get? 1
+A : Just a basic one. I don't need anything fancy. 0
+B : Do you want a smartphone? 0
+A : What is that? 0
+B : You don't know what a smartphone is? 0
+A : No. Can you explain it to me? 0
+B : A smartphone is a cell phone that also has computer features. You have e-mail and Internet access. 0
+A : I don't need those things. I don't even have an e-mail address. -1
+B : You don't have an e-mail address? 0
+A : No. 0
+B : Then how do you send written communication to other people? 0
+A : I write and mail letters. 0
+B : Wow! That's amazing! People don't mail letters anymore. 1
+A : But I think I will get a cell phone, just in case of an emergency. 0
+B : That's a good idea! Welcome to modern technology, Ruth! 1
+
+0 1

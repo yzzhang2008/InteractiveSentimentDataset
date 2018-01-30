@@ -1,0 +1,8 @@
+A : I'm thinking about investing in stocks. 0
+B : That's a great idea. 1
+A : I need to plan for my future. 0
+B : Do you know what you want to invest in? 0
+A : I don't know anything about stocks. 0
+B : You should talk to my stockbroker. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : I am calling to purchase health insurance. 0
+B : Do you have health insurance now? 0
+A : I was on my parents' policy, but I need to start buying my own. 0
+B : You can purchase an HMO or a PPO. Do you know what you want? 0
+A : I don't know what I want. -1
+B : Let me explain it to you. An HMO is a little cheaper, but you can only choose certain doctors. 0
+A : When I go to the doctor, do I pay the same out-of-pocket expenses for a PPO? 0
+B : The payments are a little lower for an HMO as long as you go to their doctors. 0
+A : How much will a PPO cost me per month? 0
+B : We need to factor in many things. Why don't you come in, and we will have you fill out a questionnaire. 0
+
+0 0

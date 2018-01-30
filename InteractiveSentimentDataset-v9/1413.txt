@@ -1,0 +1,8 @@
+A : Why are you wearing your bathing suit around the house? 0
+B : Yesterday I went swimming at your friend's house, and I forgot to put my suncreen on. 0
+A : What happened. 0
+B : Well, the sun didn't feel hot when I got in, but I guess I was wrong. I got burned to a crisp! -1
+A : So why the suit? 0
+B : I can't stand to wear anything else. -1
+
+0 -1

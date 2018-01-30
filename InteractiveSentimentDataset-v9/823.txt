@@ -1,0 +1,20 @@
+A : Hello? 0
+B : Hi Stacy. This is Stephanie. Guess what I just got. 0
+A : What? 0
+B : Two tickets to the concert tonight! 1
+A : How did you get those? The concert has been sold out for months. 0
+B : My dad works at the arena. He was able to get front row seats. 0
+A : Are you serious? 0
+B : Yes! Do you want to go? 1
+A : Yes! I need to ask my mom, but I'm sure I can go. 1
+B : Ok. My dad can pick you up. We're going to leave at 4 pm. 0
+A : What time does the concert start? 0
+B : 7 pm. 0
+A : Why are we leaving so early? 0
+B : We want to have dinner first. 0
+A : Ok. I'll let my mom know. 1
+B : I'm so excited! 1
+A : Me too! Thank you so much for inviting me. 1
+B : Of course I would invite you. You're my best friend. 1
+
+1 1

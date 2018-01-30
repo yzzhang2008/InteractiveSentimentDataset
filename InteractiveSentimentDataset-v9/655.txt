@@ -1,0 +1,12 @@
+A : I would like to make an appointment to look at houses. 0
+B : Sure, would you prefer looking in the morning or afternoon? 0
+A : I would prefer mornings. 1
+B : Can you go during the week, or can you only go during the weekend? 0
+A : Going to look at houses during the week is best for me. 1
+B : Where would you like me to pick you up? 0
+A : I will meet you at the real estate office. 0
+B : I am thinking of looking at three houses, and it will take about two hours. 0
+A : That sounds good to me. 1
+B : Once I contact the owners and confirm the times, I will e-mail you a schedule. 0
+
+1 0

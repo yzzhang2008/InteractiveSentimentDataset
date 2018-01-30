@@ -1,0 +1,12 @@
+A : How do I know what forms to fill out for unemployment? 0
+B : There is a special form to apply for unemployment benefits. 0
+A : How do I get the form to apply for unemployment benefits? 0
+B : You can go online to begin the application process. 0
+A : What type of information will I have to provide to the Employment Development Office? 0
+B : You need to be able to say whom you worked for and when. 0
+A : Will they need anything else from me? 0
+B : You should be able to provide a layoff notice or proof of severance. 0
+A : What should I do after I turn in the application? 0
+B : You need to be interviewed over the phone. They will set up a time for you. 0
+
+0 0

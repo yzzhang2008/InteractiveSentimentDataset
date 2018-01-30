@@ -1,0 +1,6 @@
+A : Can I have a cookie, B? 0
+B : No. We're going to have dinner soon. 0
+A : But, I'm hungry. -1
+B : I said no, A. -1
+
+-1 -1

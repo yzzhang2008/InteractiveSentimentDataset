@@ -1,0 +1,14 @@
+A : Their wedding was just exquisite. 1
+B : I know. Maybe one day I'll have a wedding like that. 1
+A : What do you think their budget was? 0
+B : It must have cost them a pretty penny. 0
+A : Would you like to have a big wedding like they did? 0
+B : No. I think I would prefer a smaller wedding. 0
+A : I want a big wedding. 1
+B : How come? 0
+A : I want my wedding to be extravagant, and I want everyone to remember it. 1
+B : Your wedding doesn't have to be big to be memorable. 0
+A : Whatever floats your boat. 0
+B : That is correct. 1
+
+1 1

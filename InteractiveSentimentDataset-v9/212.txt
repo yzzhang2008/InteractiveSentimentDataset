@@ -1,0 +1,14 @@
+A : I think I may rent this apartment from you. 1
+B : That would be wonderful. 1
+A : Can you tell me how much I would have to pay for rent? 0
+B : The rent is $1050 every month. 0
+A : That's way too much. -1
+B : What is good for you? 0
+A : I can afford about $800 a month for rent. 0
+B : That's not high enough. -1
+A : How much more are you thinking? 0
+B : I can let it go at $900 a month. 0
+A : That's almost perfect. 1
+B : I can live with that too. 1
+
+1 1

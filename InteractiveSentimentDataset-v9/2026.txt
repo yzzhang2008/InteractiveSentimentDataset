@@ -1,0 +1,12 @@
+A : I have never traveled to a place that was so different from my home. 0
+B : Yes, this city has a fascinating and diverse past. It is thousands of years old! 1
+A : This temple is beautiful! 1
+B : Please make sure that you remove your shoes before you enter the temple. 0
+A : It is very quiet in here even though there are a lot of people in this area. 1
+B : Yes, even the children are expected to be respectful and quiet here. People need quiet to meditate. 1
+A : The women all seem to have beautiful scarves or veils on their heads. 1
+B : Women in this society would not consider setting foot in a temple without their head being covered. 0
+A : I noticed at dinner last night that people in this country like to use their bread to eat with instead of silverware. 0
+B : Yes, that bread is made of a special texture that works well for that. 1
+
+1 1

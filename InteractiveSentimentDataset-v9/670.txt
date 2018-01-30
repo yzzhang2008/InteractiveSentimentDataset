@@ -1,0 +1,12 @@
+A : Let's pull over and look at that house over there. 0
+B : Yes, that looks great! Is it on our Open House list? 1
+A : Yes, it is on our list. 0
+B : Well, it looks great from the curb. Let's go on inside. 1
+A : Let's sign the registry. The realtor looks kind of busy right now. 0
+B : OK, let's go check out the kitchen next. 0
+A : look, they have some refreshments in here. 0
+B : Make sure that you pick up a flyer with the information about the home. 0
+A : Does it say how much they are asking for this house? 0
+B : Yes, it seems to have been discounted from two hundred and thirty-five thousand to two hundred and twenty-five thousand. 0
+
+0 1

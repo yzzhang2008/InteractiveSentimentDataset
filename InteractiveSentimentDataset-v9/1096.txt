@@ -1,0 +1,14 @@
+A : What's wrong, officer? 0
+B : You do realize that you ran a red light, don't you? -1
+A : I did? 0
+B : You didn't see the red light? -1
+A : I'm sorry for running it, but I really didn't know. -1
+B : Didn't you learn that red means stop? -1
+A : I know that. 0
+B : Then tell me why you sped up on the yellow light. -1
+A : I'm not sure. -1
+B : I'm giving you a ticket for this. -1
+A : I'm sorry for the misunderstanding. -1
+B : Maybe you'll think about this before you decide to run another light. -1
+
+-1 -1

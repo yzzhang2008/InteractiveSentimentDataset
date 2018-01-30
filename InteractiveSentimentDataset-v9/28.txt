@@ -1,0 +1,24 @@
+A : Hello, Albert speaking. 0
+B : This is Jack. Are you still interested in renting a room? 0
+A : Oh, yes. 1
+B : Would you mind answering a couple of questions? 0
+A : No problem. 1
+B : Since we might be roommates, I want to make sure there's no friction. 0
+A : You are right. We need to be compatible. 1
+B : Do you go out to clubs or bars a lot? 0
+A : I have been to only one nightclub in my whole life. 0
+B : Good. Now, do you expect others to pick up after you? 1
+A : Occasionally I might slip up, but usually I'm clean and neat. 1
+B : What kind of hours do you keep? 0
+A : The early bird gets the worm. 0
+B : I hope you're not a smoker. 1
+A : I can smell a cigarette from a mile away. It makes me gag. -1
+B : Your answers are great. Now, do you have a question or two for me? 1
+A : Just one question. What's the parking situation? 0
+B : This place allows only one parking space per apartment, so you'll have to park on the street. 0
+A : I don't like it, but I guess I can live with it. 0
+B : Okay, I think we'll be good roommates. Just call me when you're ready to move in. 1
+A : I can move in by tomorrow afternoon. 1
+B : That's fine. I was planning on being home tomorrow anyway. 1
+
+1 1

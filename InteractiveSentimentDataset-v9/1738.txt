@@ -1,0 +1,12 @@
+A : You have any ideas as to what you want to do this weekend? 0
+B : I'm going to the movie theater with my friend. What are you going to do? 0
+A : I'm not quite sure yet. 0
+B : How about you see a movie with me and my friend? 0
+A : What movie are you and your friend planning on watching? 0
+B : Not sure. Is there a movie out that catches your eye? 0
+A : No good movies come to mind. 0
+B : Have you decided whether or not you would like to go? 0
+A : Maybe another time. 0
+B : For sure another day. 0
+
+0 0

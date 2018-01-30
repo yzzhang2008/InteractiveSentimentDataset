@@ -1,0 +1,12 @@
+A : I don't want to keep this radio. -1
+B : No problem. May I have your receipt, please? 1
+A : Sorry. I could not find it. -1
+B : We can't give you a refund without a receipt. -1
+A : You know, I bought it at 3 p.m. yesterday. 0
+B : I wish I could help you, but it's store policy. 0
+A : Every rule has an exception. 0
+B : Perhaps if you try customer service. 0
+A : Yes, they might be able to help me. 1
+B : They're upstairs. Good luck! 1
+
+1 1

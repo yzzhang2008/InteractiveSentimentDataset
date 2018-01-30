@@ -1,0 +1,14 @@
+A : I would like high speed internet installed in my house. 1
+B : You have to make an appointment before we can come out and install it. 1
+A : I'd like to make an appointment right now. 0
+B : What day are you available? 0
+A : I would like to have it done this Friday. 0
+B : Three o'clock is the only time we can come in. 1
+A : Is it possible for someone to come a little earlier? 0
+B : I'm sorry, but that's our only available time. -1
+A : How about Saturday? 1
+B : We're completely open on Saturday. 1
+A : Can you come over at 11:00? 1
+B : That'll be fine. 1
+
+1 1

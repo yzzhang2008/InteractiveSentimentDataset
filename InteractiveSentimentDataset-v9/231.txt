@@ -1,0 +1,14 @@
+A : I really am thankful for you helping me move. 1
+B : It's no problem. Just let me know where you want me to put everything. 1
+A : I would like you to put that sofa in the living room. 1
+B : Is there any particular place you want it? 0
+A : Set it against that far wall. 0
+B : What do you want me to do with this table? 0
+A : That's the dining-room table of course, silly. 1
+B : Where in the room do you want it? 0
+A : It would look best in the center of the room. 1
+B : Do you like where everything is so far? 0
+A : Everything looks great. 1
+B : Yeah, I agree. 1
+
+1 1

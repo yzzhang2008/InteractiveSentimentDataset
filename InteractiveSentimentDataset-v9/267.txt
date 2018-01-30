@@ -1,0 +1,14 @@
+A : Hello. Could you help me understand a few things about the fumigation letter? 0
+B : It would be my pleasure to help you. What is your question? 1
+A : Can I still stay in my apartment while they are doing this? 0
+B : You and your pets will have to leave your apartment for 36 hours. -1
+A : Are you putting us up in the hotel you mentioned, or do we have to pay for it? 0
+B : We will be paying for the rooms. 1
+A : Do I have a choice as to what hotel I stay in? 0
+B : If you want to switch hotels, just bring me the receipt and I will reimburse you for the same amount of money that I would have spent on you. 1
+A : I think I might just go stay with my boyfriend. 0
+B : If you have another place to stay, you will get fifty dollars for the night. 0
+A : What other safety precautions do we need to take? 0
+B : The letter you received includes a checklist that tells you how to store your food. 0
+
+0 0

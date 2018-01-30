@@ -1,0 +1,12 @@
+A : I have a very difficult customer on the phone. -1
+B : What is the problem? 0
+A : The customer wants a full refund on something she purchased over a year ago. 0
+B : We only give a refund within 30 days of purchase. 0
+A : I explained that to her, but she is demanding a refund. -1
+B : Is the product broken? 0
+A : Yes. I told her she needs to contact the manufacturer. 0
+B : What did she say about that? 0
+A : She is refusing to call the manufacturer because she doesn't have a warranty. -1
+B : I will talk to her. Transfer the call to me. 0
+
+-1 0

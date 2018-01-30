@@ -1,0 +1,12 @@
+A : I need to book a room at your hotel. 0
+B : On what day will you be beginning your stay? 0
+A : Our stay will be beginning on May 14th. 0
+B : Can you tell me how many days you need the room for? 0
+A : Please book the room for 3 nights. 0
+B : Would you like a single or double room? 0
+A : I need a room for 3 people. 0
+B : Do you need a nonsmoking room? 0
+A : We must have a nonsmoking room. 0
+B : We have reserved your room. To secure the room, you must pre-pay with a credit card. 0
+
+0 0

@@ -1,0 +1,14 @@
+A : My wife thinks I should get a lawyer to look at the contract. 0
+B : Well, it certainly wouldn't hurt to have a lawyer review it. 0
+A : How much does a lawyer cost? 0
+B : I don't know. A good real estate lawyer might cost $400 an hour. 0
+A : That can't be legal! -1
+B : Just think how much it'll be 10 years from now. 0
+A : Do you know any lawyers that are cheaper than that? 0
+B : You'd have to check the yellow pages or go online. 0
+A : There's no telling how many hours the lawyer will charge me for. 0
+B : Also, it might take a week or two just to get an appointment. 0
+A : I'd rather get this over with, so just show me where to sign. 0
+B : Good man! I've marked all the places for you to sign and date. 1
+
+-1 1

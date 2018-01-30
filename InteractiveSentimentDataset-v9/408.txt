@@ -1,0 +1,8 @@
+A : Are you ready to go? 0
+B : I don't feel like going out tonight. -1
+A : You always change your mind at the last minute. -1
+B : I'm sorry. I'm just really tired today. -1
+A : But I already bought the concert tickets. 0
+B : Can you call one of your friends? 0
+
+-1 -1

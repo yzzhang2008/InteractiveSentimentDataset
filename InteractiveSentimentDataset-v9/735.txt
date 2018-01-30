@@ -1,0 +1,12 @@
+A : Do you have the notes from last week's class? 0
+B : Did you come late? 0
+A : I couldn't make it. -1
+B : Why is that? 0
+A : I was sick. -1
+B : Oh, okay. Well, here you go. 1
+A : Are these all of them? 0
+B : Oh, wait, here are the rest. 0
+A : Thanks a bunch. 1
+B : Don't mention it. 1
+
+1 1

@@ -1,0 +1,8 @@
+A : So is the rumor true? 0
+B : What rumor? 0
+A : That you're leaving the company. 0
+B : Where did you hear that? 0
+A : Everyone is talking about it. 0
+B : Excuse me for minute. I need to go to the restroom. -1
+
+0 -1

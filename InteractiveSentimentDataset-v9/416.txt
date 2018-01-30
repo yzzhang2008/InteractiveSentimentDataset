@@ -1,0 +1,8 @@
+A : You missed a great game tonight. -1
+B : Who won? 0
+A : Your favorite team. 1
+B : I wish I could've seen it. -1
+A : Watch the highlights on the sports news. 0
+B : That's not the same. -1
+
+0 -1

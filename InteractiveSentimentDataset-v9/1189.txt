@@ -1,0 +1,10 @@
+A : I was wondering if I could reschedule my appointment to a later date? 0
+B : OK, just tell me what day would be best for your appointment. 0
+A : Wednesday or Thursday would be perfect. 1
+B : Thursday is available; would ten or eleven be best? 0
+A : I would love to have an eleven o'clock appointment. 1
+B : Great, I'll just add you in, if that works. 1
+A : Perfect, I appreciate that. 1
+B : So happy that we had an opening for you. 1
+
+1 1

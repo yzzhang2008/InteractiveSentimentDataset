@@ -1,0 +1,12 @@
+A : I have heard horror stories about people's things being stolen while their house is being shown. -1
+B : We have a very good track record when it comes to home security. 0
+A : I am not so sure that I like the idea of people showing up whenever they want to pop in! -1
+B : We will always call at least 12 hours in advance if we are bringing someone by to see your home. 0
+A : Are you the only one showing my house? 0
+B : To get maximum exposure and a variety of buyers, your home is listed on the multiple listing. Many different realtors will be showing your home. 0
+A : Do you have to come and let the different realtors in when they come to look at my house? 0
+B : The realtors can get a key to your house by unlocking a lockbox on your front door. They use it while they are there and return it when they leave. 0
+A : The thing I worry about the most is having my valuables stolen during an Open House. -1
+B : Our realtors try to be very aware at all times of who is in the house and what they are doing. 0
+
+-1 0

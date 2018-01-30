@@ -1,0 +1,12 @@
+A : Can you do me a favor? 0
+B : What is it? 0
+A : Could you take me to the store? 0
+B : Sure. Is there something wrong with your car? 0
+A : Yeah. It's in the shop for repairs. 0
+B : Again? You just got it fixed last month. 0
+A : I know. I need a new car. 0
+B : Do you need a ride anywhere else? 0
+A : How about the bank? 0
+B : Ok. I need to go to the store and the bank too. 0
+
+0 0

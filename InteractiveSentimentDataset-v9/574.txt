@@ -1,0 +1,12 @@
+A : Is this our bus stop? 0
+B : I think this is it. Get off. 0
+A : Dude, where are we at? 0
+B : I have no idea. -1
+A : I thought this was the right stop. 1
+B : It doesn't look right to me. -1
+A : Did you make us get off early? 0
+B : I think we did. 1
+A : I should not have listened to you. -1
+B : I really thought this was our stop. 0
+
+-1 -1

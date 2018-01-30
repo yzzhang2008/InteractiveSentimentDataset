@@ -1,0 +1,12 @@
+A : Are you married? 0
+B : No. I'm divorced. -1
+A : When did you get divorced? 0
+B : I got divorced two years ago. -1
+A : Why did you get divorced? 0
+B : My wife left me. -1
+A : Why did she leave you? 0
+B : She said she didn't love me anymore. -1
+A : Wow! That's terrible. -1
+B : Yes, it was. -1
+
+-1 -1

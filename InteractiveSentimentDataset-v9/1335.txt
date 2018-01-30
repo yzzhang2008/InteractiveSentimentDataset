@@ -1,0 +1,18 @@
+A : Why are you so late? -1
+B : There was big accident on the freeway. The police closed all the lanes. We had to take a detour. -1
+A : Was anyone hurt? 0
+B : I think so. I saw two ambulances and a fire truck driving by. -1
+A : That's terrible. -1
+B : I know. I hope no one was seriously injured. -1
+A : That's scary. Do you know what caused the accident? -1
+B : I don't know. I didn't see it happen. -1
+A : You should've called me. We were supposed to meet Cathy and Rick for dinner at 6 pm. -1
+B : After seeing the accident, I didn't want to use my phone while driving. -1
+A : That was smart. 1
+B : We should just eat at home tonight. I think traffic is going to be bad. -1
+A : Oh no! -1
+B : What's wrong? 0
+A : I just got a text from Cathy. She said she and Rick were in an accident on the freeway! They're at the hospital. -1
+B : Oh my goodness. Let's go to the hospital now. -1
+
+-1 -1

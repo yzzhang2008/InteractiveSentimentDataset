@@ -1,0 +1,14 @@
+A : Will you be voting? 0
+B : I won't be voting for the same person as you. -1
+A : Why? 0
+B : I really don't like your candidate. -1
+A : What's your problem with him? -1
+B : I don't find him very smart. -1
+A : He is smart. 1
+B : I also don't agree with his policies. -1
+A : He's a fabulous candidate. 1
+B : That's just your opinion. -1
+A : You shouldn't think poorly of him. -1
+B : I'm entitled to my opinion. 1
+
+-1 -1

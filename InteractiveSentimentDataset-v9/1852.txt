@@ -1,0 +1,12 @@
+A : Did you see Jan's face? 0
+B : Yes. She looked very surprised. 1
+A : She is faking it. -1
+B : What do you mean? 0
+A : She knew about the surprise party. 0
+B : How do you know? 0
+A : Betty accidentally told her about it. 0
+B : Are you sure? She looked really surprised to me. 1
+A : She's a great actress. 1
+B : I guess you can't believe everything you see. 0
+
+0 0

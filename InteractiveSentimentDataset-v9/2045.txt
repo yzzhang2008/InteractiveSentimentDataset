@@ -1,0 +1,8 @@
+A : We're looking for a place to visit in the country. 0
+B : What do you want to do there? 0
+A : I want to smell the flowers and read books under a tree. 0
+B : That sounds boring. -1
+A : It's very relaxing. 1
+B : I like being in the city. 1
+
+1 0

@@ -1,0 +1,14 @@
+A : I have to clean the house. 0
+B : Yes, it's very dirty. -1
+A : You can help me. 1
+B : Why me? -1
+A : Because you helped make it dirty. -1
+B : What do you want me to do? 0
+A : I want you to clean the bathroom. 0
+B : Oh, that's easy. 1
+A : Clean the sink, the tub, the counter, and the toilet. 0
+B : That's a lot of work. -1
+A : Tell me when you finish. 0
+B : I don't think so. You'll just give me more work. -1
+
+0 -1

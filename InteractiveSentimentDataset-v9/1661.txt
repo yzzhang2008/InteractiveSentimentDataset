@@ -1,0 +1,20 @@
+A : Hey B , how did you do on the Science test? 0
+B : Oh, hi A . I did really badly on it. I failed it. -1
+A : How did you fail it? -1
+B : I didn't study for it. I was too busy playing video games. -1
+A : That's too bad. -1
+B : I don't know if I can pass the class now. -1
+A : What are you going to do? 0
+B : I'm afraid to tell my parents. They will be very disappointed. -1
+A : Maybe the teacher will let you take the test again. 1
+B : That would be wonderful. 1
+A : I did poorly on my English test last week and my teacher let me take it again. -1
+B : Wow! That's good to hear. Maybe our science teacher will let me take it again. 1
+A : You better study next time. 1
+B : I know! No more video games for me. -1
+A : What are you going to do now? 0
+B : I'm going to our science teacher's office and talk to him about my test. Then I'm going to go to the library and study for my math test. 0
+A : That's a good idea! I'll meet you at the library later. Good luck with our science teacher. 1
+B : Thanks! I'll need it! 1
+
+0 1

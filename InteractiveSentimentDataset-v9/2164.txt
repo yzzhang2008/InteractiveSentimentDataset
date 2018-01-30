@@ -1,0 +1,14 @@
+A : I am really excited! 1
+B : Why are you so excited? 0
+A : I just got done voting. 1
+B : This was your first time voting, wasn't it? 0
+A : I just turned 18 last month. 0
+B : That is so lucky of you. 1
+A : Why? 0
+B : You turned 18 a month before the election. 0
+A : I didn't think of it that way. 0
+B : Are you serious? 0
+A : Seriously, but I'm excited that I did. 1
+B : Congratulations on being a part of history. 1
+
+1 1

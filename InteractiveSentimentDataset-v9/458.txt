@@ -1,0 +1,8 @@
+A : Have you met the new intern? 0
+B : Yes. She's very enthusiastic. 1
+A : I know. I don't trust her. -1
+B : Why? She is just ambitious. 1
+A : I think she wants my job. -1
+B : I think you're being paranoid. -1
+
+-1 -1

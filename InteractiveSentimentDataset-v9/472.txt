@@ -1,0 +1,12 @@
+A : What was the boss talking about? 0
+B : Weren't you listening? -1
+A : Yes. But, I didn't quite understand what he meant. -1
+B : He said no one is getting a raise this year. -1
+A : That's ridiculous. -1
+B : I know. The managers are all getting bonuses. 1
+A : The company made a profit too. 1
+B : I don't know what's going on. -1
+A : I'm going to ask for a clear explanation. 0
+B : Good luck. You may lose your job. -1
+
+-1 -1

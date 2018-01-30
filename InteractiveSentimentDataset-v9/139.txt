@@ -1,0 +1,14 @@
+A : I'm searching for an old music box. 0
+B : You came to the right place. Any particular decade? 1
+A : If you had a box made in the 20s, that would be nice. 1
+B : We just got one in yesterday, so now we have six. 0
+A : Would any of them have dancing figures? 0
+B : Yes, we still have two boxes left that have dancing figures. 1
+A : They're both so beautiful. Let me have this one, I think. 1
+B : That one truly is a beautiful piece of work, isn't it? 1
+A : One last question: Do you provide a warranty with the box? 0
+B : Oh, no. Everything we sell here is 'as is' . -1
+A : I guess I was asking for too much. -1
+B : If it breaks down, maybe you can find a repairman on the Internet. 0
+
+0 1

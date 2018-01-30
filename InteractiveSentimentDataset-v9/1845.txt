@@ -1,0 +1,8 @@
+A : I think this client is trying to avoid me. -1
+B : Why? 0
+A : I've left him several messages and he is not returning my calls. -1
+B : Why do you need to contact him? 0
+A : He hasn't paid a single bill. -1
+B : That's why he's not returning your calls. 0
+
+-1 0

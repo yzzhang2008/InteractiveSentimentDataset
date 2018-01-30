@@ -1,0 +1,8 @@
+A : Where can I find old music boxes? 0
+B : Have you tried a flea market? 0
+A : What's a flea market? 0
+B : A flea market is like an outdoor thrift shop. 0
+A : That sounds promising. Is there one nearby? 1
+B : Flea markets occur weekly or monthly in various neighborhoods. Check online or in a local paper. 0
+
+1 0

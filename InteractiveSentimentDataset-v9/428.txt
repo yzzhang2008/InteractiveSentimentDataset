@@ -1,0 +1,8 @@
+A : I'm so nervous! -1
+B : Why? 0
+A : I just found out that the CEO is going to be at my presentation. 0
+B : I would be nervous too. -1
+A : What should I do? 0
+B : Be confident. 1
+
+-1 0

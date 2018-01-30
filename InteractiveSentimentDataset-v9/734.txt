@@ -1,0 +1,14 @@
+A : I was looking at my test score and think that it should be higher. 0
+B : Is the math wrong or the way the answer was marked? 0
+A : I think an answer got marked wrong that should have been marked right. 0
+B : These things can happen; let's double-check the answers first to be sure, all right? 0
+A : That would be great! 1
+B : Look at the answer sheet and compare it to your answers. Do you see any place where I made a mistake in grading? 0
+A : This one right here should be right. 0
+B : Yeah, I see the same thing; now we can do the math and check that, right? 0
+A : Yeah, let's do the math. 0
+B : I count all of the correct answers, total them, and divide by the total. Does this look right to you? 0
+A : Looks pretty good. 1
+B : Thank you for caring enough to check on your scores; keep studying! 1
+
+1 1

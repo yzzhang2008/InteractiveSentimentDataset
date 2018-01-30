@@ -1,0 +1,14 @@
+A : What are you getting for your mom? 0
+B : What are you talking about? 0
+A : Sunday is Mother's Day. 0
+B : This Sunday? 0
+A : Of course. It's all over the news. 0
+B : I thought it was next Sunday. 0
+A : Well, you'd better get her something. 0
+B : I'll get her a nice card. 1
+A : Is that it? 0
+B : Yes. That's all I ever give her. 0
+A : She raised you, and all you ever give her is a card? 0
+B : It's okay. She knows that I love her. 1
+
+0 1

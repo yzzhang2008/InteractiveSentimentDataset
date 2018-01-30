@@ -1,0 +1,14 @@
+A : Are you going to make anything to go with dinner? 0
+B : I may make a vegetable. 0
+A : What vegetable are you going to make? 0
+B : What kind do you like? 0
+A : I like corn. 1
+B : How would you like me to make it? 0
+A : Excuse me? 0
+B : How do you want your corn? 0
+A : I'd like it grilled. 1
+B : Are you sure that's how you want me to make it? 0
+A : I'd love that. 1
+B : That's what I'll do. 0
+
+1 0

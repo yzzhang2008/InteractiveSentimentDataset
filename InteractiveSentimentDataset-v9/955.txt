@@ -1,0 +1,14 @@
+A : I had a busy morning. -1
+B : What did you do? 0
+A : I watered all the plants. 0
+B : You have a lot of plants. 0
+A : Then I did my laundry. 0
+B : That takes some time. 0
+A : I took the dog for a walk. 0
+B : I'll bet he enjoyed his walk. 1
+A : I vacuumed the entire house. 0
+B : That's a lot of work. 0
+A : And then I made lunch. 0
+B : I'll bet you were hungry! 0
+
+-1 0

@@ -1,0 +1,14 @@
+A : The cops finally found the husband. 0
+B : What husband? 0
+A : The husband of the driver who ran over two college students at 3 a.m. -1
+B : Oh, yeah. The girl died instantly, and the boy is still in the hospital. -1
+A : The husband said he tried to help the boy. 0
+B : Yes, he pushed him off the hood of the car. -1
+A : No, he said he gently placed the boy on the street. 0
+B : So what? They still drove off. -1
+A : The husband said a fire department was nearby. 0
+B : So what? Did he dial 911? -1
+A : He said he was thinking about it, but he didn't get around to it. -1
+B : He didn't get around to turning himself in, either. -1
+
+-1 -1

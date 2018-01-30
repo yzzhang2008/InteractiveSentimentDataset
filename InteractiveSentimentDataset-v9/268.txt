@@ -1,0 +1,12 @@
+A : I need to speak with the manager, please. 0
+B : Yes, this is the manager. How may I help you this morning? 0
+A : We are having problems getting into our apartment. -1
+B : Is this the first time that you have tried this key since I gave it to you? 0
+A : Yes, this is the first time that we have tried this key. 0
+B : Does the key go into the lock okay? 0
+A : It fits in the lock just fine. 1
+B : Let's try it one more time. Just try to gently slide the key in the deadbolt and turn it to the right. 1
+A : It still doesn't work. -1
+B : I will come up to help you right away. I'll bring another key to try. 1
+
+-1 1

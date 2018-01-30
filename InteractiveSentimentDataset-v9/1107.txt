@@ -1,0 +1,14 @@
+A : What can I do for you today? 0
+B : I have a question. 0
+A : What do you need to know? 0
+B : I need to take the driver's course. How many hours do I need? 0
+A : It depends on what you're trying to do with the completion of the course. 0
+B : I need to get my license. 0
+A : You're going to need to complete six hours. 0
+B : How many hours a day can I do? 0
+A : You can do two hours a day for three days. 0
+B : That's all I need to do to finish? 0
+A : Yes, that's all you need to do. 0
+B : I'll get back to you. 0
+
+0 0

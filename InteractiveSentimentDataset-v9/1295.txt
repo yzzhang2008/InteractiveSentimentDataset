@@ -1,0 +1,14 @@
+A : I want something sweet after dinner. 1
+B : What do you have in mind? 0
+A : A dessert sounds nice. 1
+B : What kind are you thinking of getting? 0
+A : I want to get some pie. 1
+B : What kind of pie do you want? 0
+A : I have no idea. -1
+B : Do you want to know what kind of pie I like? 0
+A : Sure, what kind do you like? 0
+B : I love apple pie. 1
+A : I love apple pie too. 1
+B : There you go. Problem solved. 1
+
+1 1

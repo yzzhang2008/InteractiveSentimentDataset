@@ -1,0 +1,12 @@
+A : I'm going to be out of town for a few days. 0
+B : Where are you going? 0
+A : On a business trip to New York. Can you keep an eye on my house? 0
+B : Sure. There have been a lot of burglaries these days. 0
+A : I know. I'm a little nervous to leave. -1
+B : Do you have an alarm system? 0
+A : No. Do you have one? 0
+B : Yes. I feel safer with it. 1
+A : Maybe I should get one too. 0
+B : That's a good idea. 1
+
+0 1

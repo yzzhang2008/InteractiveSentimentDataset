@@ -1,0 +1,14 @@
+A : Have you finished washing clothes? 0
+B : I've finished my white clothes. I need to wash the rest. 0
+A : When you do your darks, can you wash some of mine too? 0
+B : I can do that. Is there a special way you want them washed? 0
+A : They need to be washed on the gentle cycle. 0
+B : Do you have a lot of clothes that need to be washed? 0
+A : Is your load big? 0
+B : My load isn't that big. -1
+A : If it's a problem, you don't have to do it for me. 0
+B : I can do this for you. Don't worry. 1
+A : I greatly appreciate this. 1
+B : Don't mention it. 1
+
+1 1

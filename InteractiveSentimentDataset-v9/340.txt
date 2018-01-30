@@ -1,0 +1,14 @@
+A : I want to go try on these clothes. 1
+B : What did you find? 0
+A : I found some jeans, and a new blouse. 0
+B : Go and try it on. 1
+A : What do you think? 0
+B : I love that shirt on you. 1
+A : What about the jeans? 0
+B : They don't really fit you right. -1
+A : I don't think so either. -1
+B : That blouse is absolutely wonderful on you. 1
+A : I'll just buy the shirt. 1
+B : That would be a good idea. 1
+
+1 1

@@ -1,0 +1,9 @@
+A : How much does this car cost? 0
+B : Well, come on in and we'll sit down and discuss that right now. How much do you want to pay? 0
+A : I really was just wondering what the price is. 0
+B : Well, figuring in tax, license, dealer prep, and registration, I can let this car go for fifteen thousand dollars. 0
+A : I was thinking a little lower than that. 0
+B : Whoa! Let's keep talking here. I am sure we can work something out. What price are you thinking is fair? 0
+A : I was thinking more like thirteen thousand dollars. 0
+
+0 0

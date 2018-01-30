@@ -1,0 +1,14 @@
+A : My car is dirty. -1
+B : Why don't you wash it? 0
+A : That's what I'm going to do. 0
+B : Are you going to wash it yourself? 0
+A : Of course. It's not a hard job. 1
+B : I'll help you. 1
+A : Okay, I'll get a bucket. 1
+B : I'll rinse the car first. 0
+A : Then we can scrub it with a wet sponge and soap. 0
+B : After that, we can dry it with a towel. 0
+A : Then it will look like new. 1
+B : And you save $10. 1
+
+1 1

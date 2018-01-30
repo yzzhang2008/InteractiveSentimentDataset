@@ -1,0 +1,10 @@
+A : Hi!….You look more beautiful with this dress. It goes with your bag and shoes. Really matching! 1
+B : Thank you. I just got it last week. 1
+A : I think you're cutting the edge with fashion, aren't you? 1
+B : Yes I am. I'm very concern about my fashion. I always spend more money on fashion. 1
+A : Do you have designer to help you look fashionable? 0
+B : No I don't. But I always follow the trend. My hair style, my dress, all about fashion. If you want to be good looking, you must pay attention about your performance. 1
+A : That's true. But do you spend a lot of money on your dress? 1
+B : Not really actually. I prefer making my own dress at the tailor. Because it's cheaper than buying at the boutique, and I can choose whatever model I like. 1
+
+1 1

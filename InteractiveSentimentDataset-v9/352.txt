@@ -1,0 +1,20 @@
+A : Hello good afternoon! 1
+B : Good afternoon, Sir! How may I assist you? 1
+A : Yes, this is my first trip here. I don't want to miss the best moment here. But I have no idea where to go. Can you recommend? -1
+B : Of course, Sir. You may go to Tanah Lot temple. It's one of the major temples here. 1
+A : OK, tell me about it. 1
+B : Certainly, Sir. It is on the Southwest coast of Bali. There is a sacred spring there. You can also meet the holy snakes there. 1
+A : The holy snakes?? I'm afraid of snake! -1
+B : The snakes are believed as the guardians of the temple. You are safe, the snakes never attack people unless they are disturbed. The view there is very amazing. 1
+A : Well, can you arrange a tour guide for me? 0
+B : Sure. When will you go there? 0
+A : Tomorrow, at 9 o'clock. 0
+B : Alright, Sir. So I will arrange a trip including a tour guide for you for tomorrow. 0
+A : How much is it? 0
+B : It is USD 20 per person including a buffet dinner. 0
+A : Where do I have to pay it? 0
+B : You may charge it to your room bill. 0
+A : OK, charge it to my room bill. 1
+B : Thank you, Sir. 1
+
+1 1

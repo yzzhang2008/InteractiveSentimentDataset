@@ -1,0 +1,12 @@
+A : Where are the dumpsters located in this building? 0
+B : Right now they are in the front of the building for pickup. 0
+A : When do the dumpsters get emptied? 0
+B : They usually get emptied Wednesday, unless there is a holiday in there somewhere. 0
+A : Are there separate containers for recyclables? 0
+B : We don't mix our recyclables with regular trash. -1
+A : What does the container for recyclables look like? 0
+B : All of your recyclables go into the blue bin. 0
+A : How about composting materials? 0
+B : We have a great composting program that uses the bin with the green lid. 1
+
+0 0

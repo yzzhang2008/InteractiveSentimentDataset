@@ -1,0 +1,8 @@
+A : The boss was not happy with our presentation. -1
+B : I don't know what happened. -1
+A : You weren't ready. -1
+B : Are you blaming me? -1
+A : Yes! You were not organized during the presentation. -1
+B : I knew you would blame me. -1
+
+-1 -1

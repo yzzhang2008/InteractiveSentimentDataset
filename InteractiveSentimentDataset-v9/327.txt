@@ -1,0 +1,14 @@
+A : I want to purchase this television. 1
+B : I'm glad to hear that. 1
+A : How much does it cost? 0
+B : I'm selling it for $2500. 0
+A : That can't be right. -1
+B : That's the going price for that particular TV. 0
+A : I can't afford that. -1
+B : This is a very high quality television. 1
+A : I would buy it if the price was lowered. 1
+B : How much lower? 0
+A : How about you sell it to me for $2000? 0
+B : $2500 is a low as I'll go. -1
+
+1 -1

@@ -1,0 +1,12 @@
+A : Do you need any help? 0
+B : I need some help catching up. Are you good at typing or could you help me xerox? 0
+A : I like xeroxing. 0
+B : Thank you! There are papers on the table to start with. 1
+A : That would be OK. 1
+B : I really appreciate the help. How many years have you been with the company? 1
+A : I just started working here. 0
+B : I have a special assignment coming up. Would you be interested in helping me on it? 0
+A : I'd like to, but I am very busy. -1
+B : I'll make sure that management keeps you in mind for special projects in the future. Thanks for the help! 1
+
+0 1

@@ -1,0 +1,14 @@
+A : You're ready, right? 1
+B : Ready for what? 0
+A : Are you ready to transfer tomorrow? 0
+B : Yes. I am ready. 1
+A : You're not nervous? 0
+B : Of course I'm nervous. -1
+A : What are you most nervous about? 0
+B : I won't know anybody at that school. -1
+A : You shouldn't be nervous about that. 0
+B : Why not? 0
+A : Meeting new people is a good thing. 1
+B : That's a good way to think about it. 1
+
+1 1

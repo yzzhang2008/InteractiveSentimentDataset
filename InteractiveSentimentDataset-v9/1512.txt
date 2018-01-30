@@ -1,0 +1,12 @@
+A : You have to try this. 0
+B : What is it? 0
+A : Stuffed mushrooms. 0
+B : No, thank you. I don't like mushrooms. -1
+A : What's wrong with them? 0
+B : They taste weird and they have a strange texture. -1
+A : Strange texture? 0
+B : Feels like a sponge in my mouth. -1
+A : This is all I made for dinner. You're going to be hungry. 0
+B : I guess I will get something to eat later. 0
+
+0 -1

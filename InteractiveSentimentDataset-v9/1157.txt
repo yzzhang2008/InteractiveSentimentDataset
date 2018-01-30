@@ -1,0 +1,12 @@
+A : I really appreciate the opportunity to interview for this position. 1
+B : I was wondering if you like team projects, or projects that you work on alone. 0
+A : I like to work on group projects that value and need each individual's contributions. 0
+B : Are you most interested in a good steady job with benefits or one that will allow you to quickly advance? 0
+A : I have children so a steady job is important but I would like a chance to advance. 0
+B : How would you feel about relocating to another state? 0
+A : I could not relocate in the next year, but might be open to it in the future. 0
+B : Do you know how much this job offers per year? 0
+A : A minimum of 75,000 per year. 0
+B : OK, well, that's all I need to know for now. If something comes up, we'll be contacting you. 0
+
+0 0

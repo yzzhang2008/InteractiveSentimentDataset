@@ -1,0 +1,10 @@
+A : I really need to apply for a driving permit. 0
+B : Do you have your ID with you? 0
+A : Here it is. 0
+B : Thank you very much. Please fill out this paperwork. 1
+A : I need to use a pen. 0
+B : Here you go. 0
+A : Thank you very much. 1
+B : Thank you. Now turn in your application at Window B. 1
+
+1 1

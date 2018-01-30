@@ -1,0 +1,14 @@
+A : Old movies are the best. 1
+B : Even though they're in black and white. 0
+A : A good story is more important than color. 1
+B : Actors didn't curse back then. 0
+A : And there was no violence. 0
+B : People today don't like that. -1
+A : No, today people like lots of action. 0
+B : I like a good story. 1
+A : I like to see actors who are like real people. 1
+B : Like real people with real problems. 0
+A : They still make movies like that. 0
+B : Yes, but they never make much money. -1
+
+0 -1

@@ -1,0 +1,8 @@
+A : I have a problem with my online order. -1
+B : What is the problem? 0
+A : I order a black jacket, but I received a white one. -1
+B : I'm very sorry to hear that. We can exchange the jacket for you. -1
+A : How do I return the wrong one? 0
+B : You can return it by mail or return it to one of our stores. 0
+
+-1 0

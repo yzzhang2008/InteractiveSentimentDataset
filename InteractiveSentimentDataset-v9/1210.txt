@@ -1,0 +1,12 @@
+A : There are so many flavors of ice cream to choose from! 1
+B : Yes, there must be about a hundred. Do you have a favorite? 0
+A : I love fruit flavored ices the best. 1
+B : Yes, fresh fruit flavored is the best ever. 1
+A : What is your least favorite ice cream? 0
+B : I don't like peppermint ice cream. -1
+A : Yes, I know what you mean. 0
+B : One time, I tried garlic ice cream. 0
+A : That could be interesting. 1
+B : That doesn't sound like a good choice for today. Let's order! 1
+
+1 1

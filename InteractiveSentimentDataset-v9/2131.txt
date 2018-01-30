@@ -1,0 +1,14 @@
+A : Are you going to vote? 0
+B : I am. Are you? 0
+A : Yes, and for the first time. 0
+B : Is that right? 0
+A : I don't know how to vote. 0
+B : Voting isn't difficult. 1
+A : I'm not sure what laws are being voted on. -1
+B : They tell you everything on the ballot. 0
+A : They do? 0
+B : You'll be okay. 1
+A : Thanks for telling me. 1
+B : You should be excited about your first vote. 1
+
+1 1

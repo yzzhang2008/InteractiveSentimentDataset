@@ -1,0 +1,14 @@
+A : Where do we get off at? 0
+B : I think we have a little ways to go. 0
+A : This bus ride is taking forever. -1
+B : I know. 0
+A : Did we miss our stop? 0
+B : I'm not sure. -1
+A : Didn't you say you knew where to get off the bus? -1
+B : I don't know. We may have missed our stop. -1
+A : Are you serious? -1
+B : Yeah, we did miss it. -1
+A : I can't catch the bus with you anymore. -1
+B : Sorry. -1
+
+-1 -1

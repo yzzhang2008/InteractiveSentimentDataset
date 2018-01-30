@@ -1,0 +1,12 @@
+A : I really like that car and I am thinking of buying it. 1
+B : Yes, I agree. Do you want to take it to a mechanic to have it checked out? 1
+A : I already took care of that yesterday. 1
+B : That's good. Have you discussed the price with the seller? 1
+A : Yes, I think we've agreed upon a fair price. 1
+B : Have you set up your financing to pay for this car? 0
+A : Yes, my parents are going to loan me the money. 0
+B : That's good. Would you like me to go talk to the seller with you and drive your car home? 1
+A : That would be a great help! 1
+B : Glad to be of help. I can't wait to see your new car! 1
+
+1 1

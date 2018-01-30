@@ -1,0 +1,15 @@
+A : What are you doing now? 0
+B : I'm still doing my weekly report. 0
+A : You look exhausted and bored. Let's relax for a while! 1
+B : Yes, I'm bored actually. I've been doing this for the past three days. -1
+A : You shoud do it daily. 0
+B : I do, but there were some mistakes, so I need to revise it. -1
+A : You had better take a break. I'll help you do it. What do you mostly do to get rid of the boredom? 1
+B : I usually hang out and rent a video. 0
+A : It sounds interesting! Let's hang out and watch a film for refreshing. 1
+B : It's a good idea! 1
+A : What movie do you like? 0
+B : I enjoy watching an action movie. 1
+A : OK, let's go then. 1
+
+1 1

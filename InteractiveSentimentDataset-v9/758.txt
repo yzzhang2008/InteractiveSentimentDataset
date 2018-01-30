@@ -1,0 +1,14 @@
+A : I want to know how to buy something from this machine. 0
+B : Yeah, What are you trying to buy? 0
+A : I want to buy one of those snack things. 0
+B : Are you ready to go? 0
+A : I'm clear so far. 1
+B : The money goes in the slot over there. It has to be smooth to go in. 0
+A : It won't go in! -1
+B : Just remember that you might have to feed the money in a couple of times to get it to work. 0
+A : Yes, next step. 0
+B : Make your selection and hope for the best. Vending machines aren't all that reliable. -1
+A : They're totally unreliable. -1
+B : You seem to have it down. Have a good day! 1
+
+-1 1

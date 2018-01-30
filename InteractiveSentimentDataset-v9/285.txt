@@ -1,0 +1,12 @@
+A : You really need to look at some of the problems we are having with the apartment. -1
+B : That apartment never had any problems before. Are you sure the problem isn't you? -1
+A : We spoke with you the first week we moved in about things that you promised to fix. -1
+B : Where do you think you have problems? 0
+A : There is no hot water, the bedroom has a broken window, and there are rats in the kitchen. -1
+B : You know, no one else who has been in that apartment has had a problem before. -1
+A : You are obligated to maintain your building and my apartment. -1
+B : I will fix these problems when I get around to it. 0
+A : I will be withholding my rent check this Friday unless these problems are addressed immediately. -1
+B : You can't do that! It's illegal! -1
+
+-1 -1

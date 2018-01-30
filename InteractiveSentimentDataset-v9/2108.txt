@@ -1,0 +1,12 @@
+A : I was wondering if this is where the Resume Writing Workshop is being held. 0
+B : You are in the right place. Please come on in! 1
+A : It's been a long time since I've had to look for work and put a resume together. -1
+B : It's going to come together just fine. Trust me! 1
+A : Where do we begin? 0
+B : We start at the top with our name and contact information. Make sure the information is current. 0
+A : Then what do we do? 0
+B : Put your job experience first, if that is more impressive than your education. 0
+A : What about listing my interests and affiliations next? 0
+B : Yes, that would make a good ending for your resume. 1
+
+0 1

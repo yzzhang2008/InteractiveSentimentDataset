@@ -1,0 +1,14 @@
+A : I need to find a bus that'll take me to the Gold Line. 0
+B : Where do you live? 0
+A : I live up in Altadena. 0
+B : The 264 will take you there. 0
+A : It goes all the way there? 0
+B : I know for a fact that it goes to the station. 0
+A : What street would I catch it on? 0
+B : If you go to Altadena Drive, you can catch it there. 0
+A : I didn't know that bus went to the Gold Line station. -1
+B : Yup, it does. 1
+A : Thanks for letting me know. 1
+B : It was my pleasure. 1
+
+1 1

@@ -1,0 +1,12 @@
+A : Did you watch the news this morning? 0
+B : No. What happened? 0
+A : There was a chemical explosion at my old office. -1
+B : Did anyone get hurt? -1
+A : I don't know yet. -1
+B : You're lucky you don't work there anymore. 1
+A : I know. The building was so old. -1
+B : Did they evacuate the area? 0
+A : Yeah. The police and fire department are still there. 0
+B : I should call my friend. She lives a couple of blocks from there. 0
+
+-1 0

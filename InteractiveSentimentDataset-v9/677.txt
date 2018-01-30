@@ -1,0 +1,12 @@
+A : What would be a good day to finally move into the house? 0
+B : You can pick up your keys on Tuesday night. When you actually move in is up to you. 0
+A : Will the electricity and water be on, or do we need to do something to get it turned on? 0
+B : Make sure that you transfer the utilities to your name and tell them when you will be moving in. 0
+A : The carpet needs to be cleaned, and I want to paint the walls a different color. 0
+B : An empty house is easier to paint and clean. Take a few days to take care of those things before you start moving your furniture in. 1
+A : I want my appliances to be delivered as we are moving into the house. 0
+B : I think that will work out just fine. It will help when you move your groceries in and need to keep them cold. 1
+A : Would you be willing to help me do a few things on the day I move in? 0
+B : OK, that is ok. 1
+
+0 1

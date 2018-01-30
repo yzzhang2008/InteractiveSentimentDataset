@@ -1,0 +1,18 @@
+A : Hello? 0
+B : Hi A . This is B . Are you free tomorrow night? 0
+A : No, I'm not. Why? -1
+B : I'm inviting a couple of friends to sleep over. 0
+A : I wish I could go, but I have to babysit my younger sister. -1
+B : That's too bad. We were going to rent a movie and order pizza. -1
+A : Now I really wish I could go. That sounds like so much fun. 1
+B : Can your parents find another babysitter? 0
+A : No. Our regular babysitter got sick, so they asked me. -1
+B : I see. What time will your parents be back? 0
+A : 9 o'clock pm. 0
+B : Do you want to come over after you finish babysitting? 0
+A : Will you still be awake? 0
+B : Of course! It's a sleepover party. We're all going to sleep late. 0
+A : Ok! Please save me some pizza. 1
+B : I will. See you tomorrow night. 1
+
+1 1

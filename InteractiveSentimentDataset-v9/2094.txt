@@ -1,0 +1,12 @@
+A : Can you help me find out where the EDD office is? 0
+B : There is very little need to go to the Unemployment Office to apply. It can all be done over the Internet or you can phone in to get an application. 0
+A : I want to make use of their job hotline and the information on the computers. 0
+B : The office has many job listings to help you with your job search. 0
+A : How do I find out where my local office is located? 0
+B : You can dial information, and the operator can give you the phone number and address of the office. 0
+A : What is the office that serves our area? 0
+B : I am not sure, but I think that it is in the building on Green Street just west of the college. 0
+A : I think I might go over there so I will get my money quicker. 0
+B : It doesn't matter if you file online or in person. The wait is still a week for your first check. 0
+
+0 0

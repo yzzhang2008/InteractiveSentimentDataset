@@ -1,0 +1,14 @@
+B : Whoa, I never saw a meter like this before; how do you use it? -1
+A : It's simple, once you do it a few times. Do you know how the old one worked? 1
+B : I never used a parking meter before. -1
+A : So we start out by deciding whether you will use cash or a credit or debit card. 0
+B : Cash. 0
+A : Fine, can you read the rate on the display? 0
+B : Yes, I can. 1
+A : Fine. Now that we know what they are ripping us off for, insert the payment. 0
+B : I'd rather not pay, but I have to. -1
+A : Fine, this machine does not ask you the number of your spot, so we can move on, all right? 0
+B : Perfect, let's do it. 1
+A : Now just check the meter to see how many minutes you have. 0
+
+1 1

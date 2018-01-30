@@ -1,0 +1,13 @@
+A : I just got a call to have a job interview the day after tomorrow. 0
+B : Oh that's good news. What company is it? 1
+A : It's a clothing company. But I haven't prepared my self. -1
+B : You must wear a formal dress and learn some typical question during the interview. 0
+A : I know it. But I'm still confused if my interviewer asks me about my weakness. Should I tell honestly about my bad habit? -1
+B : Don't ever tell about it unless you want to lose your opportunity to get a job there. -1
+A : Well, so should I tell lie about my weakness? Or what should I do dealing with that? 0
+B : You had better change your bad habit, and you can be free from being lie. What bad habit do you normally do? 0
+A : I almost wake up late every morning. -1
+B : Oh that's too bad! You must change it. Don't sleep late at night, and use an alarm to wake you up. -1
+A : I should stop staying up late then. Thank you for the suggestion. 1
+
+0 -1

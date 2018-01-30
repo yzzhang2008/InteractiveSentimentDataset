@@ -1,0 +1,14 @@
+A : How was your interview? 0
+B : It was bad. I failed to get the job. -1
+A : So?! -1
+B : I give up. -1
+A : What! You can't be like that! You must strive to get a job! -1
+B : I think I change my mind. I will try different thing. I don't want to place too much reliance on being an employee. I will try to run a business. -1
+A : What business will you run? 0
+B : Do you think that running a food stall will be prospecting nowadays? 0
+A : It can be. But have you prepared yourself mentally and financially? 0
+B : I can start from what I have and I'm very ready to do it. 1
+A : You should choose a strategic place and the right segment too. You must do a very careful research to make a good result. -1
+B : I know it. It's much easier to start a business than to run it well. 1
+
+-1 1

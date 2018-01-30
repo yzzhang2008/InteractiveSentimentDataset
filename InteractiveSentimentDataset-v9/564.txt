@@ -1,0 +1,8 @@
+A : My vacuum cleaner is not working. -1
+B : Do you have a warranty? 0
+A : Yes, I do. 1
+B : We will repair the vacuum cleaner. 0
+A : When will it be ready? 0
+B : 3-5 business days. 0
+
+0 0

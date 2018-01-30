@@ -1,0 +1,8 @@
+A : Ron is driving me crazy! -1
+B : Why? 0
+A : He has an annoying habit of tapping his fingernails on the desk. -1
+B : Have you told him to stop? 0
+A : No. I don't want to be rude. -1
+B : Well, if it's making you crazy, you need to tell him. 0
+
+-1 0

@@ -1,0 +1,14 @@
+A : Let's go jogging. 0
+B : That's a good idea. 1
+A : I bought some new shoes. 0
+B : Are they comfortable? 0
+A : They're very comfortable. 1
+B : How much were they? 0
+A : They were on sale for $80. 0
+B : Do they help you run faster? 0
+A : No, but my feet don't hurt anymore. 1
+B : Then they're worth every penny. 1
+A : You might want to buy a pair. 1
+B : I'll wait until I wear this pair out. 0
+
+1 0

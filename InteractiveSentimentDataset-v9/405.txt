@@ -1,0 +1,8 @@
+A : Do you think you can get this stain out? 0
+B : I think you should take it to the dry cleaners. 0
+A : That is my favorite shirt. 1
+B : You should be more careful with it. 0
+A : I know. Do you think the dry cleaners can get it out? 0
+B : I don't know. -1
+
+0 -1

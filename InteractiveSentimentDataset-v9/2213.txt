@@ -1,0 +1,12 @@
+A : You stole my project idea. -1
+B : I did not. That was my idea. -1
+A : I came up with that idea during our meeting yesterday. -1
+B : I don't remember that. 1
+A : You are a liar! You said it was a great idea. -1
+B : It's too late. I already presented the idea to the manager. -1
+A : I am going to tell her that you stole my idea. -1
+B : You don't have any proof. -1
+A : Yes, I do. I recorded our meeting. -1
+B : You are very sneaky. -1
+
+-1 -1

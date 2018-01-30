@@ -1,0 +1,14 @@
+A : I would like to speak to you, if you don't mind. 1
+B : What would you like to speak to me about? 0
+A : I would like to talk to you about this year's election. 0
+B : Is that right? 0
+A : I am a volunteer for this year's campaign. 0
+B : That's wonderful. I am impressed at someone so young taking a stand. 1
+A : I know history is about to be made, and I would like to be a part of it. 1
+B : That's fantastic. 1
+A : Are you planning on voting? 0
+B : I'm going to vote. 0
+A : Go to your polling place early on Election Day. 0
+B : I will. Good luck with your volunteering. 1
+
+0 1

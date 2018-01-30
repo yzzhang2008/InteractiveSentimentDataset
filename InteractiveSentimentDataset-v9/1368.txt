@@ -1,0 +1,8 @@
+A : I can't stand talking to Henry. -1
+B : I know. It can be hard. -1
+A : He is so negative. -1
+B : I stopped talking to him. -1
+A : He has such a poor attitude. He is against everything. -1
+B : He can be very annoying. -1
+
+-1 -1

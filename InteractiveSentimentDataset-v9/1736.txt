@@ -1,0 +1,12 @@
+A : What are you doing this weekend? 0
+B : I'm going to the movies with a friend. How about you? 0
+A : I'm not sure yet. 0
+B : Well, did you want to go see a movie with me? 0
+A : What movie are you going to see? 0
+B : I'm not sure yet. Is there something you want to see? 0
+A : There's nothing I can think of. 0
+B : So, did you want to go? 0
+A : No, thanks, maybe another time. 0
+B : Okay. 0
+
+0 0

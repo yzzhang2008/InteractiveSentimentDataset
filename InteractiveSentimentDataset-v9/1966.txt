@@ -1,0 +1,12 @@
+A : What can I carry in my luggage when I travel on an airline trip? 0
+B : When you fly, you need to think about what you can carry onboard and what you can take into a particular country. 0
+A : Where can I go to find out about Customs regulations? 0
+B : Just Google the country you are interested in with these keywords: Customs and restrictions. 0
+A : Are there any general rules for all countries? 0
+B : Always answer all questions accurately. If you get caught omitting anything, you will be fined and possibly detained. 0
+A : What about airline regulations for the contents of your luggage? 0
+B : If you go to a website for a particular airport or airline, you can get specific information. 0
+A : Is it true that I can't even bring my own water with me? 0
+B : You can bring an empty bottle with you if you like and fill it up once you pass inspection. 0
+
+0 0

@@ -1,0 +1,10 @@
+A : I received an eviction notice from you, and I don't understand what it means. -1
+B : Well, you are behind in your rent; it's a 30-day notice to vacate. -1
+A : You can't make me move just for being late with my rent. -1
+B : You have been late with your rent several times now. I am filing suit for back rent to protect myself. -1
+A : Are you throwing me out? -1
+B : This notice is to let you know that you will be evicted by a sheriff if you don't make good on your rent. -1
+A : If I catch up on my rent, can I stay? 0
+B : You can stay if you catch up and stay caught up. Otherwise, I will find another renter. 0
+
+-1 -1

@@ -1,0 +1,20 @@
+A : Hi Anne. 0
+B : Hi Sue. 0
+A : I have a question about Thanksgiving. What does that day mean? 0
+B : It's an American holiday that's celebrated once a year. 1
+A : What is the date? 0
+B : There is no actual date. It is different every year. It is on the fourth Thursday in November. 0
+A : That's interesting. Why do Americans celebrate this day? 1
+B : It first started many years ago after the pilgrims settled in America. They wanted to celebrate the first harvest after settling in America. 0
+A : Oh, I see. Is there anything special Americans do on that day like fireworks on the 4th of July? 0
+B : We typically roast a whole turkey and make lots of other dishes like potatoes and stuffing. 0
+A : Wow! That sounds like a feast. Can your family eat all of that? 1
+B : We invite our relatives and celebrate this day together. 1
+A : It's like a family reunion. 1
+B : It is! And, pumpkin pie is usually the dessert because pumpkins are in season in the Fall. 1
+A : It sounds like a nice tradition. 1
+B : Nowadays, many people celebrate this day to give thanks for all of their blessings like family and good health. 1
+A : I like this tradition. Maybe I will roast a turkey this year. Will you teach me? 1
+B : Sure. I would love to. I have many great recipes I can share with you. 1
+
+1 1

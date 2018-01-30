@@ -1,0 +1,9 @@
+A : Hi look! There are many people over there! What happened?! 0
+B : Oh it seems to be an accident! Let's come closer! -1
+A : Oh my God! It's really terrible accident. The man is bleeding. -1
+B : I bet there was a nose-to-tail accident, because the front car was seriously damaged and the other car was completely damaged at the back. -1
+A : I think so. Let's give them first aid. 1
+B : We must take them to the nearest hospital right away. Can you call the ambulance for a help while I'm handling this man? 0
+A : Yes certainly. Please put his head on the higher position to stop bleeding from his nose. Please help the other passengers overthere. They look shocked. Give them some drinks to ease their minds. -1
+
+-1 -1

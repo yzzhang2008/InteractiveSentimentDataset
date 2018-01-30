@@ -1,0 +1,14 @@
+A : Hey Todd, how are you? 0
+B : I've been doing well. How are things with you, Mary? 1
+A : Things are good with me also. 1
+B : Mary, I was looking in the paper at the new movies coming out. Do you enjoy movies? 0
+A : Yes, I go all the time. 0
+B : I was hoping that you and I could maybe spend a Friday evening together. I was wondering if you would like to go with me this Friday to see a movie and get a bite to eat afterwards. 0
+A : I would love to go out with you on Friday. 1
+B : Do you have a certain movie that you would like to see? 0
+A : I've heard a lot of things about the movie Australia. 0
+B : You know, I was thinking that that would be a good movie to go see together. Would 7:00 be a good time to pick you up? 1
+A : Seven o'clock would be perfect! 1
+B : OK, I'll pick you up at 7:00 then. 1
+
+1 1

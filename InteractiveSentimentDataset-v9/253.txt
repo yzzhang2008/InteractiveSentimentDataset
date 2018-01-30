@@ -1,0 +1,12 @@
+A : Those neighbors of mine are so noisy! -1
+B : Yes, I can hear them. What is that pounding sound? -1
+A : I think that they are hammering nails to hang pictures. -1
+B : How often do you hear them making noise? 0
+A : They play their music really loud, and I can hear it. -1
+B : Have you spoken to them about the noise problem? 0
+A : No, I haven't spoken with them about it. -1
+B : What else do you hear that bothers you? -1
+A : I hear a lot of plumbing sounds, like the toilet flushing and the dishwasher running. -1
+B : If this continues, I would speak to the manager. -1
+
+-1 -1

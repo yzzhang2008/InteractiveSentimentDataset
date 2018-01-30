@@ -1,0 +1,12 @@
+A : I need a little help about where to dump my trash bags. 0
+B : Put them in the parking lot dumpster near the parking spaces. 0
+A : When is trash day? 0
+B : Trash day is Wednesday. 0
+A : Do they sort our recyclables, or do we do it? 0
+B : They expect us to take out our recyclables. 1
+A : Do we put our recyclables in a separate bin? 0
+B : Just take all of your recyclables to the blue bin downstairs. 0
+A : Is there a special bin for yard waste? 0
+B : All material to be composted goes into the bin with the green lid. 0
+
+0 0

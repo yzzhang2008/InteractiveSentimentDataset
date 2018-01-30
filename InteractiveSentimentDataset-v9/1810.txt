@@ -1,0 +1,12 @@
+A : I can't believe people like this show. -1
+B : Stop complaining. It's not that bad. -1
+A : Is there anything else to watch? 0
+B : I like this show. Give it a chance. 1
+A : There is just too much singing. -1
+B : It's a musical. There's supposed to be singing. 0
+A : How can you watch this? 0
+B : I like musicals. Are you going to continue complaining? -1
+A : No. I'll stop, but I get to choose the show next time. -1
+B : Ok. That's a deal. Now, stop complaining. -1
+
+-1 -1

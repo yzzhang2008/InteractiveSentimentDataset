@@ -1,0 +1,13 @@
+A : Did you write a letter to grandma? 0
+B : Yes, I did. 0
+A : Did you tell her about school? 0
+B : I told her that school is fun. 1
+A : Did you put the letter in an envelope? 0
+B : Yes, and I sealed the envelope. 0
+A : Did you put a stamp on the envelope? 0
+B : I couldn't find any stamps. -1
+A : They're in the kitchen drawer. 0
+B : Very nice. I just put a stamp on the envelope. 1
+A : Give me the envelope, and I'll mail it for you. 1
+
+1 1

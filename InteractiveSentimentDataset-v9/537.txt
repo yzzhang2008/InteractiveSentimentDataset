@@ -1,0 +1,14 @@
+A : How may I help you today? 0
+B : I need to open a second account. 0
+A : What kind of account would you like to open? 0
+B : I need another savings account. 0
+A : Do you have another account with us? 0
+B : I sure do. 1
+A : Would you like to transfer money from that account into your new one? 0
+B : That's fine. 1
+A : How much would you like to transfer? 0
+B : Transfer $100. 0
+A : Give me a moment while I complete your transaction. 0
+B : That's fine. Thank you. 1
+
+0 1

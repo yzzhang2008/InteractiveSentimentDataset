@@ -1,0 +1,14 @@
+A : Thank you for shopping here. 1
+B : You're very welcome. 1
+A : Would you like to have your mattress delivered to your home? 0
+B : That would be perfect. Thank you. 1
+A : When would you like it to be delivered? 0
+B : I would like it delivered tomorrow. 1
+A : What time would you like it delivered? 0
+B : I would like it delivered at noon. 1
+A : That's fine. 1
+B : So, that won't be a problem? 0
+A : We'll have it to you at 12pm tomorrow. 1
+B : That's great. I'll see you tomorrow then. 1
+
+1 1

@@ -1,0 +1,14 @@
+A : Are you still working now? 0
+B : Yes, I might work over time again. 0
+A : Why don't you try to be free and enjoy your life? -1
+B : I wish I could. But there is much work at the office. I work under pressure as well. -1
+A : Do you do it by yourself or with your colleagues? 0
+B : All by myself. It's tiring and stressfull. I'm still thinking about how to ease my mind after working hard. How do you cope the stress? -1
+A : According to the book I've read, we should try to enjoy our job. And set time to relax every weekend. Do something fun for ourselves, forget about job for a moment to refresh our mind. 1
+B : How many hours do we need for sleeping a day? 0
+A : Eight hours per day is enough. And live healthily. Do exercise regularly. 1
+B : I hate doing sport. -1
+A : You can walk, or just run to stay healhty. It's good for us. And always think positively, forgive anyone who hurts you. Simple right? 1
+B : Well, thank you for your advice. 1
+
+1 -1

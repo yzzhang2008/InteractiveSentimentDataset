@@ -1,0 +1,12 @@
+A : Can you help me figure out how to transfer the title of the car I wish to buy so it will be registered in my name? 0
+B : You can go to the DMV website for information or, if you are a member of the Automobile Club, they can be very helpful. 1
+A : Can you just fill me in on what needs to be done? 0
+B : When you both fill out and sign a Change of Ownership form and sign the Certificate of Title, the ownership will be transferred. 0
+A : Are there any fees involved? 0
+B : As the buyer, you are responsible for all of the fees. 0
+A : How much money will I have to pay to transfer the title? 0
+B : The only way to calculate the fee is to turn your paperwork in to the DMV, and they will figure it out for you. 0
+A : Whom do I give my forms to when they are completed? 0
+B : Check online for special situations, but usually you can mail your forms in to the DMV. 0
+
+0 0

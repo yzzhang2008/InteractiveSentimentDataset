@@ -1,0 +1,12 @@
+A : Is this the Resume Writing Workshop? 0
+B : Yes, this is the Resume Writing Workshop. Welcome! 1
+A : I really don't know that much about putting together a resume. -1
+B : It's easy. Don't worry about it. 1
+A : What's the most important part? 0
+B : Well, the most important thing we need to do is make sure that our name and contact information are across the top. 0
+A : What comes next? 0
+B : You can either list your job experience next or your education--whichever is the most impressive should be first. 0
+A : Can I list my interests next? 0
+B : Sure, that would be a good place for them. 1
+
+0 1

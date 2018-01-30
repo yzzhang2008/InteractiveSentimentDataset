@@ -1,0 +1,12 @@
+A : Good morning. Could I speak with the manager, please? 0
+B : I am the assistant manager. Is there something I can help you with? 0
+A : The key you gave us to our apartment doesn't seem to be working. -1
+B : Did this key work okay for you before? 0
+A : We were using my roommate's key before and never really tried this one. -1
+B : Does the key seem to belong in that lock? 0
+A : It doesn't really fit at all. -1
+B : Try putting your key in the top lock one more time and turn it to the right. 0
+A : It works now, but it didn't work before. -1
+B : We have been having trouble with that lock. I will call a locksmith right away. 1
+
+-1 0

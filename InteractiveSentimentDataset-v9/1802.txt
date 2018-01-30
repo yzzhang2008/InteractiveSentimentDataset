@@ -1,0 +1,14 @@
+A : I want to go to the ball game. 0
+B : Is there a game tonight? 0
+A : Yes, it starts at 7 p.m. 0
+B : Can we get tickets? 0
+A : Yes, but only the cheap tickets. 0
+B : How much are they? 0
+A : They are only $5 each. 1
+B : That is a good price. 1
+A : Yes, it is cheaper than a hot dog or a beer. 1
+B : Where are the seats? 0
+A : They're behind the outfield. 0
+B : Maybe we can catch a home run ball. 1
+
+1 1

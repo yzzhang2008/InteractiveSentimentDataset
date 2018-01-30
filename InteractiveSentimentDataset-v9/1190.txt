@@ -1,0 +1,10 @@
+A : I can't make my appointment and need to make another one. -1
+B : That's OK, we can reschedule it if you tell me what day works for you. 0
+A : Friday, Saturday, or Sunday would be good for me. 1
+B : I can give you Friday; would you prefer ten or eleven? 0
+A : Ten o'clock is perfect. 1
+B : Well, in that case, I'll just write you in. 0
+A : Thanks. That will work out well. 1
+B : It was my pleasure to have been able to make it work. 1
+
+1 1

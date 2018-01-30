@@ -1,0 +1,14 @@
+A : How may I help you? 1
+B : Something is wrong with my washing machine. -1
+A : Tell me the problem. 0
+B : For some reason, the water won't drain. -1
+A : That's the only problem with it? 0
+B : That's the only problem. -1
+A : Would you like me to come fix it for you? 1
+B : Yes. When can you come fix it? 1
+A : I can be there by 2:30 today. 1
+B : That would be great. 1
+A : I'll see you at 2:30. 1
+B : See you later. Thanks a lot. 1
+
+1 1

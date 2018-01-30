@@ -1,0 +1,14 @@
+A : How much for a bus pass? 0
+B : Well, for a monthly pass, it'll cost you $65. 0
+A : Is there anything else that doesn't cost as much? 0
+B : If you're a student, you can get a student bus pass. 0
+A : How much does a student pass cost? 0
+B : That actual bus pass is free. 1
+A : It doesn't cost anything? 0
+B : The only thing you'll have to pay for is the monthly sticker. 0
+A : Can you tell me how much that'll cost? 0
+B : It's only $24 a month. 1
+A : Sounds good, let me get that. 1
+B : I'll get it for you right now. 1
+
+1 1

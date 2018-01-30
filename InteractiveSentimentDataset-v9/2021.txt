@@ -1,0 +1,12 @@
+A : I left my purse in the taxi! -1
+B : Can you remember what you had in your purse? 0
+A : I had my wallet and my passport in that purse. -1
+B : How much cash was in your wallet? 0
+A : Most of my money was in traveler's checks with just a little amount in cash. 0
+B : Do you know what credit cards you had in your wallet? We can call and report those as well as your traveler's checks. 0
+A : I had an American Express Card and a Visa Card in my wallet. 0
+B : We can call the information number to get the phone numbers for lost or stolen cards. 0
+A : Do you know how to report a missing passport? 0
+B : We need to contact the embassy right away. They will be able to help you replace your passport. 1
+
+-1 1

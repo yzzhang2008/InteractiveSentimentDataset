@@ -1,0 +1,10 @@
+A : Oh, my! It's really hot! I've never seen such scorching weather in my life£¡ -1
+B : Tell me about it. It's like the whole world is broiling. -1
+A : Oh, look at the thermometer! The temperature has hit 98! -1
+B : I hope it's not gonna break into three digits! -1
+A : But it's already awfully close! -1
+B : Well, I just hope it'll level off. -1
+A : I guess we can't do anything until after dark then. -1
+B : I guess so. What else can we do? You can't stay in the heat for long! -1
+
+-1 -1

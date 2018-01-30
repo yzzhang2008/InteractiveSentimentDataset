@@ -1,0 +1,14 @@
+A : Did you get a good look at the suspect? 0
+B : I got a great look at him. 1
+A : Do you think you could pick him out of a line-up? 0
+B : I can do that. 1
+A : Could you please look at the five men in this line-up? 0
+B : All right. 0
+A : Do you recognize the suspect? 0
+B : He's there. 0
+A : What number? 0
+B : He's number four. 0
+A : Thank you very much for your cooperation. 1
+B : I'm glad to help. 1
+
+1 1

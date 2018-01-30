@@ -1,0 +1,12 @@
+A : Do you like my new bag? 0
+B : It's nice. When did you get it? 1
+A : Today. I got it on sale. 0
+B : That's a designer bag. 1
+A : I know. It's a one-day sale. You should check it out. 1
+B : I think I will. I need a new bag. 1
+A : Can I join you? 0
+B : Sure. But you already bought a new bag. 1
+A : I think I'll get one for my mom too. 1
+B : Let's hurry before everything is sold out. 1
+
+1 1

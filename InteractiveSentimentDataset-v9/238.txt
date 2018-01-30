@@ -1,0 +1,12 @@
+A : Can you tell me where we are supposed to take our trash? 0
+B : Put it in the dumpster next to that stairway. 0
+A : What day do they pick the trash up? 0
+B : They empty the trash every Wednesday. 0
+A : Are we supposed to mix our recyclables in, or sort them? 0
+B : We are supposed to sort our recyclables. 0
+A : Is there a special container for recyclables? 0
+B : You should have a blue container in your kitchen. Empty that into the blue bin downstairs. 0
+A : What about plant material? 0
+B : Anything that can be composted goes into the bin with the green lid. 0
+
+0 0

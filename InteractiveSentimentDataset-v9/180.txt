@@ -1,0 +1,14 @@
+A : Hi, I'm calling about your ad. 0
+B : Which ad are you calling about? 0
+A : The ad for a new roommate. 0
+B : Are you interested in being my new roommate? 0
+A : Yes, I'm interested. 1
+B : I would love to meet you, if that's at all possible. 1
+A : That's fine, where would you like to meet? 1
+B : I would like you to meet me at Starbucks at 5:30. 1
+A : I can meet you then. 0
+B : We'll talk about the roommate situation then. 0
+A : Thank you very much. 1
+B : See you later. 1
+
+1 1

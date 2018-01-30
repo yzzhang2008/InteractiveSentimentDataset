@@ -1,0 +1,14 @@
+A : 911 emergency. What is the problem? 0
+B : I would like to report a break-in. 0
+A : When was this break-in? 0
+B : I believe it happened last night. 0
+A : Where was the break-in? 0
+B : It happened at my house. 0
+A : Was anything stolen? 0
+B : I haven't checked yet. -1
+A : Why do you think there was a break-in? 0
+B : My front window was broken. -1
+A : We'll send a squad car shortly. 0
+B : I'd appreciate that. 1
+
+0 -1

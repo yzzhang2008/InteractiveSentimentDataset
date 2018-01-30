@@ -1,0 +1,12 @@
+A : Where is your favorite vacation spot? 0
+B : Joe and I love to go to Hawaii every summer. 1
+A : Ted and I have never been there. -1
+B : It's a beautiful and relaxing place. 1
+A : Ted doesn't like beaches. He likes to sightsee. 0
+B : There are many places to sightsee. 0
+A : I may have to talk him into it. 0
+B : We have a lovely condo you could stay in. 1
+A : How much do you charge? 0
+B : We won't charge you. You're my best friend. 1
+
+0 1

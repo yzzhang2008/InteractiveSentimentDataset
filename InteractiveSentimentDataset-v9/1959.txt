@@ -1,0 +1,12 @@
+A : I've never had a passport before and need to know what to do to get one. 0
+B : You can download an application. 0
+A : What do you do with the application? 0
+B : You need to take your application to a special post office or passport agency. 0
+A : Can you tell me how to find these agencies? 1
+B : Any post office can refer you to the proper place. 0
+A : Is the application the only thing that I will need to bring? 0
+B : The passport website lets you know what types of identification and pictures you must provide. 0
+A : What if I am going to a country that requires a visa? 0
+B : The requirements for a visa vary from country to country. You can go online to find out what the requirements are for the country you are visiting. 0
+
+0 0

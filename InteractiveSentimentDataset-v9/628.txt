@@ -1,0 +1,12 @@
+A : I enjoyed taking the car out for a test drive. 1
+B : Isn't that a great car? Let's work out the details of purchase. 0
+A : I will not be purchasing the car today. -1
+B : Why don't you take a second look at that car? -1
+A : I need to compare this car to others to make an informed choice. 0
+B : You said on the phone that this is the kind of car you wanted. What has changed your mind? 0
+A : I just really need to make sure that I get the best car for my money. -1
+B : You know, you can look around but I just don't think that you are going to get a better deal for your money. -1
+A : I will continue looking around for cars and will get back to you if I change my mind. 0
+B : OK, then. 0
+
+-1 -1

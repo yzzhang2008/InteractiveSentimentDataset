@@ -1,0 +1,8 @@
+A : Would you like to go to the movies with me? 0
+B : I would love to. When? 1
+A : How about this Friday evening? 0
+B : I have work this Friday evening. 0
+A : What about Saturday night? 0
+B : Saturday sounds great! 1
+
+0 1

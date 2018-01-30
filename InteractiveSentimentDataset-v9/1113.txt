@@ -1,0 +1,11 @@
+A : What happened today on the freeway? 0
+B : You don't know what happened? 0
+A : What did happen? 0
+B : There was a truck on the freeway, and it flipped over. -1
+A : Really? -1
+B : I wouldn't lie about something like that. -1
+A : Were there any injuries? 0
+B : I heard that a couple people got hurt. -1
+A : It is terrible. -1
+
+-1 -1

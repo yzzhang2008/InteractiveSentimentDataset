@@ -1,0 +1,8 @@
+A : I'm thinking about getting a pet. 0
+B : What kind of pet? 0
+A : Maybe a dog or a cat. 0
+B : That's a lot of responsibility. 0
+A : I know. But I'm lonely every day. -1
+B : They are great companions. 1
+
+-1 1

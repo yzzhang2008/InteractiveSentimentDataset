@@ -1,0 +1,14 @@
+A : How are things with you? 0
+B : Not too bad. How about yourself? 1
+A : Not bad. 1
+B : I'm glad to hear that. 1
+A : Have you been going to PCC long? 0
+B : I've only been here two years. How about yourself? 0
+A : I just started this year. 0
+B : Do you like it? 0
+A : It's fine for right now. 1
+B : You do not like it, right? -1
+A : Once I'm finished with my GE, it should get better. 1
+B : I felt the same way my first year. 1
+
+1 1

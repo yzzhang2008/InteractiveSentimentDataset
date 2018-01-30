@@ -1,0 +1,8 @@
+A : My client and I are trying to negotiate a new contract. 0
+B : Be a good listener. The best way to negotiate is to listen to what the other side says. 0
+A : You mean just let him talk? 0
+B : No. Ask him questions. You can get a lot of information by asking questions. 0
+A : That's a good tip. 1
+B : Many issues can get resolved if we just learn to listen. 0
+
+1 0

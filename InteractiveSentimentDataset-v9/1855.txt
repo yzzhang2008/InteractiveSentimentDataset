@@ -1,0 +1,12 @@
+A : My watch always gains ten minutes a day. -1
+B : That's funny. My watch always loses ten minutes a day. 0
+A : No kidding. 0
+B : I'm serious. Every morning I set my watch by the radio, but it still loses ten minutes. -1
+A : You know what you can do? 0
+B : Throw it away and buy a new one? 0
+A : No, you don't have to. You only need to put your watch back ten minutes everyday. 0
+B : So you put your watch back ten minutes everyday? 0
+A : Yeah, that's what I'm doing. 0
+B : Why bother? Just buy a new watch. It doesn't cost much. 1
+
+0 1

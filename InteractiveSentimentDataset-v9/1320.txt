@@ -1,0 +1,14 @@
+A : I would like to get some meat today. 1
+B : What kind do you need? 0
+A : I need about a pound of ground beef. 0
+B : The ground beef is $2.48 a pound. 0
+A : That sounds good. 1
+B : What else would you like? 0
+A : I also need three pounds of chicken breasts. 0
+B : The chicken breasts are $4.05 a pound. 0
+A : How much will the three pounds of chicken cost altogether? 0
+B : Altogether, it's going to be $12.15. 0
+A : That will be all for me. 0
+B : All right, let me get your meat for you. 1
+
+0 1

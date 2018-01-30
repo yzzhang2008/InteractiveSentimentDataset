@@ -1,0 +1,12 @@
+A : I need to report lost luggage. -1
+B : agent: I'm very sorry that happened. -1
+A : What do I need to do? 0
+B : agent: Please fill out this lost luggage form. 0
+A : I have very important business papers in my suitcase. -1
+B : agent: I understand. I am very sorry. -1
+A : Will you contact me as soon as you find it? 0
+B : agent: Yes. We will send it to you right away. 0
+A : I am staying in a hotel downtown. 0
+B : agent: We will contact you as soon as we locate your suitcase. -1
+
+-1 -1

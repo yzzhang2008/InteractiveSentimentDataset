@@ -1,0 +1,14 @@
+A : This apartment is wonderful. 1
+B : I'm glad you like it. 1
+A : How much would I have to pay for rent? 0
+B : The rent is $1050 each month. 0
+A : That's way too much money. -1
+B : It isn't too much. -1
+A : How about if I pay $850? 0
+B : I can't take that. -1
+A : I can't go any higher than $850. -1
+B : I honestly don't know what else to tell you. -1
+A : You can't go any lower than that? -1
+B : If you can't afford $1050, then we have no deal. -1
+
+-1 -1

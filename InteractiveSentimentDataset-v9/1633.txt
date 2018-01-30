@@ -1,0 +1,12 @@
+A : I know nothing about transferring the deed of my home. -1
+B : The escrow company will be doing all of the work in transferring your deed. 0
+A : What is the first step in transferring the deed? 0
+B : A deed transfer always includes a title search to make sure that there are no outstanding liens against the property. 0
+A : What if they discover a lien against my property? 0
+B : A title transfer cannot occur until you clear all liens. 0
+A : Will my escrow take long? 0
+B : To move your escrow along, it is important to supply all documents that are requested in a timely fashion. 0
+A : What is the length of the average escrow? 0
+B : The average escrow will last anywhere from thirty to ninety days. 0
+
+0 0

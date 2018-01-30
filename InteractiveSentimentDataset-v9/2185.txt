@@ -1,0 +1,6 @@
+A : Wow, you look like a drowned rat! Didn't you know there's a thunderstorm today? -1
+B : I knew there would be a shower, but I didn't realize it would rain cats and dogs today. -1
+A : Well, you'd better take a hot shower right now, or you'll catch a cold. -1
+B : I know. I don't want to get sick, especially during finals week. -1
+
+-1 -1

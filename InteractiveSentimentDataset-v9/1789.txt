@@ -1,0 +1,20 @@
+A : Hey Steve. Where are you going with all of that baseball gear? 0
+B : Oh, hi Bob. I coach my son's baseball team. We're having our first practice today. 0
+A : How old is your son? 0
+B : 8 years old. He's been playing baseball for a couple of years. 0
+A : Does he like it? 0
+B : He loves it! This is my first year as a coach. I'm pretty excited. 1
+A : It sounds exciting. I used to play baseball in college. 1
+B : What position did you play? 0
+A : Pitcher. But I had to quit because of a shoulder injury. -1
+B : That's too bad. Do you miss it? -1
+A : Not anymore. I'm too old to play now. -1
+B : My son is a pitcher too. Maybe you can give him some tips on how to throw. 0
+A : Sure. I'm always free in the afternoon. 1
+B : We have our first game next Saturday. Would you like to come and watch? 0
+A : That would be fun. What time is the game? 1
+B : 10 am. 0
+A : Ok. Can I bring my wife? 1
+B : Of course. 1
+
+1 1

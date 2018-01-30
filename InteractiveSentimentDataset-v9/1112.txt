@@ -1,0 +1,14 @@
+A : Was there an accident on the freeway today? 0
+B : You haven't heard about it? 0
+A : No, do you know what happened? 0
+B : This truck flipped over on the 210. -1
+A : Are you serious? 0
+B : I'm telling you the truth. 0
+A : Did anyone get hurt? 0
+B : Two people were injured. -1
+A : Are they going to be okay? 0
+B : I think so. 0
+A : That's a miracle that no one was killed. 1
+B : Yes, they were lucky. 1
+
+0 0

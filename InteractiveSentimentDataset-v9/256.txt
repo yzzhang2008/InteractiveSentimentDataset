@@ -1,0 +1,14 @@
+A : I was meaning to talk to you about something. 0
+B : What's going on? 0
+A : Were you having a party in your apartment last Friday? 0
+B : Yes, I had a little party. 1
+A : It was very loud. -1
+B : I didn't intend on being too loud. -1
+A : It's fine if you want to have people over, but I couldn't sleep with the noise. -1
+B : I really do apologize for all the noise. -1
+A : Next time, do you think that you could keep it down? -1
+B : Will do. 1
+A : Thank you very much. 1
+B : Okay, and once again I'm sorry for keeping you up. -1
+
+-1 -1

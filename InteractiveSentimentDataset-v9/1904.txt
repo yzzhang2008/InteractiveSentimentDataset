@@ -1,0 +1,14 @@
+A : Here's a letter for you. 0
+B : Let me see it. 0
+A : Who's the letter from? 0
+B : It's a letter from UCLA about my acceptance. 0
+A : Read it! 1
+B : UCLA accepted me! 1
+A : Really? 0
+B : I'm not joking. I got accepted! 1
+A : I'm so happy for you! 1
+B : UCLA was my second choice, but I'm happy knowing I've been accepted. 1
+A : I am really proud of you. 1
+B : You have no idea how proud I am of myself. 1
+
+1 1

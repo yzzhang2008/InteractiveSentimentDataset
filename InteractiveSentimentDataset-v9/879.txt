@@ -1,0 +1,10 @@
+A : Do animals talk to each other? 0
+B : Of course they talk to each other. 0
+A : What do they talk about? 0
+B : They talk about other animals. 0
+A : What else do they talk about? 0
+B : They talk about food and the weather. 0
+A : Do they talk about us? 0
+B : Of course they talk about us. 0
+
+0 0

@@ -1,0 +1,10 @@
+A : I need to exchange this DVD player, please. 0
+B : That won't be a problem if you have your receipt. 1
+A : Here you go. 0
+B : Now, if you'll just tell me the problem, please. 0
+A : It won't play my DVDs. -1
+B : This is a good product. I wonder what went wrong. 1
+A : I don't know. I trust this brand. This was a fluke, I think. -1
+B : You're right, this is a good brand. This new one should work just fine. 1
+
+-1 1

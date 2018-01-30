@@ -1,0 +1,12 @@
+A : Rainy season is coming soon! 1
+B : Yeah! We should be ready with umbrella and raincoat. 1
+A : Actually rainy season is not really enjoyable for me. -1
+B : Wet season is good for us, isn't it? We can grow many plants easily. 1
+A : Well, you're right, but I'm very sensitive with cold weather, and when I catch the rain, I can beeasily getting flu or cough. -1
+B : So preventive is better than curative. Be ready with medicine. 1
+A : I hate taking medicine. Especially chemical ones. -1
+B : You can prepare remedy by yourself which is natural and easy to get. 1
+A : What home remedy can I take to ease flu? 0
+B : Try making combination of honey, lemon, and little cinnamon, heat them slightly, a few spoons of this will sooth the throat. 1
+
+-1 1

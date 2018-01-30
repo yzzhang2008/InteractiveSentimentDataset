@@ -1,0 +1,14 @@
+A : I love you. 1
+B : I love you, too. 1
+A : I loved you the first day I saw you. 1
+B : It was love at first sight? 0
+A : Yes, it was love at first sight. 1
+B : I didn't love you at first. 0
+A : I know. I had to chase you for a while. 0
+B : Yes, you chased me and then you caught me. 0
+A : Now you're mine forever. 1
+B : And you're mine forever. 1
+A : We'll grow old together. 1
+B : And be happy together. 1
+
+1 1

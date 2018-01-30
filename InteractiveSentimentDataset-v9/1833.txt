@@ -1,0 +1,22 @@
+A : Hello? 0
+B : Hi Kate. This is Anne. Have you completed the class project? 0
+A : Yeah. I finished it last night. How about you? 0
+B : No, not yet. I'm having a hard time with the conclusion of my report. -1
+A : Do you need any help? 0
+B : Maybe just a little. Do you have time tonight? 0
+A : No. I'm sorry. It's my aunt and uncle's anniversary and I promised to babysit my niece. -1
+B : Oh. I understand. 0
+A : I'm free tomorrow night. 0
+B : Tomorrow is good for me too. Can I come over or would you like to come here. 1
+A : It might be quieter at your house. My brother is going to have a friend over and they can be very noisy. -1
+B : Ok. Then let's meet at my house. 1
+A : Sounds good. What time should I come over? 1
+B : How about 5 pm? I can make you dinner. 1
+A : Really? I'd love to come for dinner. 1
+B : What's your favorite dish? 0
+A : Spaghetti and meatballs. But please make anything you like. 1
+B : Spaghetti and meatballs are my specialty. I'll make that. 1
+A : Sounds great! I will be there tomorrow at 5 pm. 1
+B : See you tomorrow night. 1
+
+1 1

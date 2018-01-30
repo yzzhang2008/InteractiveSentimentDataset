@@ -1,0 +1,13 @@
+A : We're 15 minutes early for the meeting. 0
+B : Should we just wait for everyone to arrive? 0
+A : Yeah. Let's find a seat. 0
+B : Ok. So how do you like this weather? 0
+A : I don't like it at all. -1
+B : Me too. It's been raining all week. -1
+A : It's been raining all week? 0
+B : Yes. Have you been out of town? 0
+A : Yes. I just got back from Hawaii last night. 0
+B : I bet you miss the weather there. -1
+A : I do! -1
+
+-1 -1

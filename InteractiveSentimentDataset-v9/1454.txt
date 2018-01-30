@@ -1,0 +1,12 @@
+A : Guess what I heard about Chris. 0
+B : Are you gossiping again? 0
+A : No. I'm just sharing news. 0
+B : No. You're gossiping. -1
+A : Do you have a problem with it? 0
+B : Yes. I think it's rude to talk about other people. -1
+A : What's the big deal? 0
+B : Gossip can hurt people. -1
+A : I guess I never thought about that. 0
+B : Try to put yourself in their shoes. -1
+
+0 -1

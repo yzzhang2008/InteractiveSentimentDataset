@@ -1,0 +1,14 @@
+A : Have you done your yesterday's daily report? 0
+B : No, I haven't. I had to attend the seminar all day long yesterday. I'll do it right now. -1
+A : Why didn't you ask your co-worker to do it yesterday? 0
+B : They were all busy yesterday. -1
+A : Well, can you make it before 11 today? I need it to discuss our new project. 0
+B : Yes sir, I will. What else should I prepare? 1
+A : We are going to hold a general meeting tomorrow morning at 7 am. Can you go home late today? We need to prepare all of the reports. And you must make them in power point. 0
+B : No problem Sir, I will be ready for that. 1
+A : Please inform all of the managers to join the meeting tomorrow. 0
+B : Should I type the agenda for the meeting also? 0
+A : Oh yes, I almost forget. Please type it, then copy it to 15, and distribute them to all department managers. 1
+B : Surely. 1
+
+1 1

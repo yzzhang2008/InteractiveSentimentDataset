@@ -1,0 +1,14 @@
+A : I have to go to the bathroom. 0
+B : You drink too much coffee. -1
+A : But I love coffee. 1
+B : Well, it's your life. 0
+A : You eat too much chocolate. -1
+B : I don't think so. -1
+A : Have you looked in the mirror? 0
+B : Do you think I'm getting fat? -1
+A : I didn't say that. -1
+B : What did you say? 0
+A : I said I have to go to the bathroom. 0
+B : That's what I thought you said. -1
+
+-1 -1

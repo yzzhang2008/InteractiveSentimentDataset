@@ -1,0 +1,12 @@
+A : It's Sunday. 0
+B : So? 0
+A : You know what that means. 0
+B : I forgot. -1
+A : Sunday means we go to church. 0
+B : Oh, yeah. 0
+A : Put on a coat and tie. 0
+B : Why? 0
+A : To show respect to God and others. 0
+B : I'm glad Sunday is only once a week. -1
+
+0 -1

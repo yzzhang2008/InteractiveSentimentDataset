@@ -1,0 +1,12 @@
+A : May I help you? 0
+B : Yes. I would like to exchange this sweater for another size. 0
+A : What size do you need? 0
+B : I need a large. 0
+A : Let me see if we have any more. 0
+B : Ok. Thank you. 1
+A : We only have one more in stock. 0
+B : Great! I will take it. 1
+A : Would you like to look at anything else? 0
+B : No, thank you. I would just like to exchange the sweater, please. 0
+
+0 1

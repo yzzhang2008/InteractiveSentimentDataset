@@ -1,0 +1,14 @@
+A : Thank you for your purchase. 1
+B : No problem. 1
+A : Would you like your mattress delivered? 0
+B : I would like that. 1
+A : When would you like us to deliver it? 0
+B : Can you deliver it tomorrow? 0
+A : At what time? 0
+B : Is 12:00pm okay? 0
+A : We can do that. 1
+B : Are you sure? 0
+A : We will deliver it at that time. 1
+B : Perfect! See you then. 1
+
+1 1

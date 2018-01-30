@@ -1,0 +1,14 @@
+A : Let's play cards. 0
+B : I don't know any card games. 0
+A : I'll teach you one. 0
+B : Okay. What will you teach me? 0
+A : It's called poker. 0
+B : Is it easy to learn? 0
+A : Yes, it will only take about 30 minutes. 0
+B : Okay. Teach me how to play. 0
+A : We each get five cards. 0
+B : Oh, look. I have four tens. 0
+A : That's great, but you're not supposed to tell me. 0
+B : Oh. Okay, I don't have four tens. 0
+
+0 0

@@ -1,0 +1,12 @@
+A : When are we leaving for our field trip? 0
+B : Our science field trip is next Monday at 8:00 in the morning. Can you mark that on your calendar? 0
+A : Yes, I will write that down. 0
+B : That will be Monday, December 2nd. We need to start loading the buses half an hour early, so plan to arrive at 7:30. 0
+A : Yes, I will be there on time. 0
+B : We will return 6 days later on December 8th. Will someone be picking you up? 0
+A : Yes, someone is coming to get me. 0
+B : The return bus will leave the campground at 5:00 p.m. and return to campus 3 hours later at 8:00 p.m. 0
+A : What should we bring with us? 0
+B : I am going to post all of that information on the geology club web page. Check it out when you get a chance. 0
+
+0 0

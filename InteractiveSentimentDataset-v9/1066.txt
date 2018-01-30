@@ -1,0 +1,8 @@
+A : I cannot negotiate with this client! -1
+B : What's the problem? 0
+A : He is so rude! -1
+B : When you negotiate with someone, don't take things personally. 0
+A : I know, but he makes me so angry. -1
+B : Maybe that's his strategy. 0
+
+-1 0

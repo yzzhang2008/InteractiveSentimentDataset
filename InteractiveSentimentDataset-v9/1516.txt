@@ -1,0 +1,18 @@
+A : What's wrong Billy? 0
+B : I just found out that I won't be graduating this year. -1
+A : Why? 0
+B : I'm a few credits short of the graduation requirements. -1
+A : What are you going to do? 0
+B : There's nothing I can do right now. -1
+A : Have you told your parents? 0
+B : No way. They are going to be so mad. -1
+A : Well, you have to tell them. 0
+B : I know. I just don't know how? My last report card was bad. I promised that I would improve my grades. -1
+A : Can you go to summer school? 0
+B : I will have to. They're probably going to take my car away. 0
+A : Good luck, buddy. 1
+B : I'm going to need it. Do you have an extra room at your house? 0
+A : Why? 0
+B : I may need that too. 0
+
+0 -1

@@ -1,0 +1,22 @@
+A : Hey Sam. What was your first job? 0
+B : I worked at a fast food restaurant. 0
+A : Did you like it? 0
+B : It was ok. It was always busy. -1
+A : What did you do there? 0
+B : I took orders at the counter and sometimes at the drive-thru window. 0
+A : Was it fun? 0
+B : It wasn't fun. It was just a job. We had to work fast. -1
+A : I need to find a job. I was thinking about applying at a fast food restaurant. 0
+B : It's a good place to learn how to work quickly. 1
+A : I'm a fast learner and I can move pretty quickly. 1
+B : Also, it's a good place to learn how to handle customers. 1
+A : I don't have any customer service experience. -1
+B : They will train you. You just have to be polite and listen well. 1
+A : I can do that. 1
+B : You should apply then. 0
+A : Did you get to eat a lot of the food? 0
+B : I ate too much fast food working there. I got sick of it. -1
+A : I love fast food. I may eat it every day. 1
+B : That's probably not a good thing. -1
+
+1 -1

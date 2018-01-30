@@ -1,0 +1,12 @@
+A : I am kind of confused about the in-flight instructions and need to ask you a few questions. -1
+B : It would be my pleasure to help you with any questions you might have. 1
+A : Where is that card that shows my nearest exit? 0
+B : That card is in the seat pocket right in front of you. Your nearest exit is directly behind you. 0
+A : Is my oxygen mask up here? 0
+B : Your oxygen mask will drop down if we lose cabin pressure. 0
+A : Do we have any life jackets on this plane if we need them? 0
+B : Your seat cushion can be used as a flotation device and your life jacket is under the seat cushion. 0
+A : It seems really windy outside. 0
+B : The wind won't be a problem. Always make sure that your seatbelt is fastened when you are requested to fasten it. 0
+
+0 0

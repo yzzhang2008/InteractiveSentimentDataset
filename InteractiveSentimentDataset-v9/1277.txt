@@ -1,0 +1,14 @@
+A : I love cheese. 1
+B : Me too. 1
+A : Where does cheese come from? 0
+B : It comes from cows. 0
+A : So we get cheese from cows, and we get milk, too? 0
+B : Yes, we do. 0
+A : What else do we get from cows? 0
+B : We get hamburgers and steak. 0
+A : Oh, that's so delicious. 1
+B : We also get leather. 0
+A : We get a lot of things from cows, don't we? 1
+B : Yes. A cow is man's best friend. 1
+
+1 1

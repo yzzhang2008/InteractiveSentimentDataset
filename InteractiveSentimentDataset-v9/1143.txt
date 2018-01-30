@@ -1,0 +1,12 @@
+A : I was wondering if you could help me use the Student Job Center. 0
+B : There are many ways; what kind of job would you like? 0
+A : I want to work in a restaurant. 0
+B : Fine! Will you need part-time or full-time work? 0
+A : I want to work part-time. 0
+B : Fine, the two best ways are to use our local listings binders over there or you can use the computers with the Internet job listing sites. See them over there? 0
+A : Yes, I know what to do. 0
+B : Well, in addition, you can schedule an appointment with a job counselor on this list. If you would like to do that, sign here, OK? 0
+A : Yes, I think that would be great. 1
+B : Fine, well the job search tools are all here for you to use. Feel free to look around and use what works best for you. 0
+
+1 0

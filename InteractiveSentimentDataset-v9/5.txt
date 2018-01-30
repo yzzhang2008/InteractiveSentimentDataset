@@ -1,0 +1,13 @@
+A : I guess I got new messages from our site foreman. 0
+B : Check them out! Who knows important! 1
+A : Ok, let me see, hhmm ………. 1
+B : What are the messages? Another project? 0
+A : Yes, we are going to build the retaining wall tomorrow morning at 10 AM. 0
+B : So what must we prepare today? 0
+A : Get all stuff ready for tomorrow. 0
+B : Just tell me what are they. 0
+A : Fifteen hundred bricks, 5 reinforcing bars, some trowels, string, and toolbox. 0
+B : What time are we going to do stuffing tomorrow? 0
+A : At 8 o’clock. 0
+
+0 0

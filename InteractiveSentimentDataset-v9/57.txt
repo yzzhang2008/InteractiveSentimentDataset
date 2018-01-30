@@ -1,0 +1,18 @@
+A : Hey, Jim. How are you? Olivia here. 0
+B : Hi, Olivia. What's going on? 0
+A : I just wanted to give you notice that I'm moving. 0
+B : Oh, that's too bad. What's the moving date? -1
+A : I'll be gone on the last day in June. 0
+B : Can I ask you why you're moving? 0
+A : I've been looking for a long time, and I finally found a good job. 0
+B : Very good! What's your new job? 1
+A : I'm going to teach ESL at Pasadena City College. 0
+B : Good for you! What does ESL stand for? 1
+A : ESL is English as a Second Language. 0
+B : Well, I'm glad you don't feel you're being chased out by your neighbors. 1
+A : Their TV is so loud you'd think they were stone deaf. -1
+B : I'll tell them one more time to turn down their TV. Then I'm going to evict them. -1
+A : Thanks for all your help over the past few years. 1
+B : Thanks. Good luck with your new neighbors and your new job. 1
+
+1 1

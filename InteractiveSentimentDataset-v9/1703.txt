@@ -1,0 +1,12 @@
+A : It's an ugly day today. -1
+B : I know. I think it may rain. 0
+A : It's the middle of summer, it shouldn't rain today. 0
+B : That would be weird. -1
+A : Yeah, especially since it's ninety degrees outside. 0
+B : I know, it would be horrible if it rained and it was hot outside. -1
+A : Yes, it would be. -1
+B : I really wish it wasn't so hot every day. -1
+A : Me too. I can't wait until winter. 0
+B : I like winter too, but sometimes it gets too cold. 0
+
+-1 -1

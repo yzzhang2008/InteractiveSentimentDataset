@@ -1,0 +1,8 @@
+A : B, can you come to a meeting on Friday? 0
+B : I'm not sure. Let me check my schedule. What time are you having it? -1
+A : We're planning on having it around noon. 0
+B : Let me get back to you in a few minutes. 0
+A : Sure! If I'm not in, could you leave a message on my answering machine? 1
+B : Sure thing! 1
+
+1 1

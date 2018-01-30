@@ -1,0 +1,12 @@
+A : That car is exactly what I want, so I probably should buy it. 1
+B : From what I see, it's a good deal. Should a mechanic check it out for you? 1
+A : A mechanic looked at it for me on Tuesday when I first looked at it. 0
+B : It's good that you took care of that. Have you agreed upon a price with the seller? 1
+A : Yes, he was willing to lower his price a bit and I'm good with that. 1
+B : Do you know how you are going to pay for this car? 0
+A : Yes, I have already pre-qualified for a loan with my credit union. 0
+B : You are very well prepared! I could go with you to talk to the seller and help you get your car home. 1
+A : I appreciate the offer of help! 1
+B : It will be my pleasure to help you. I am looking forward to riding in your new car. 1
+
+1 1
